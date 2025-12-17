@@ -1,2 +1,2 @@
-# Ghostscript
-Placeholder page.
+# Ghostscript  
+Placeholder page.  

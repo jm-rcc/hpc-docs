@@ -1,2 +1,2 @@
-# InterProScan
-Placeholder page.
+# InterProScan  
+Placeholder page.  

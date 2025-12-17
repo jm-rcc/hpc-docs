@@ -1,2 +1,2 @@
-# Automake
-Placeholder page.
+# Automake  
+Placeholder page.  

@@ -1,2 +1,2 @@
-# QIIME2
-Placeholder page.
+# QIIME2  
+Placeholder page.  

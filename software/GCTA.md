@@ -1,2 +1,2 @@
-# GCTA
-Placeholder page.
+# GCTA  
+Placeholder page.  

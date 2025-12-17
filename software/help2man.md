@@ -1,2 +1,2 @@
-# help2man
-Placeholder page.
+# help2man  
+Placeholder page.  

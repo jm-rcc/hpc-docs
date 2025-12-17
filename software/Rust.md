@@ -1,2 +1,2 @@
-# Rust
-Placeholder page.
+# Rust  
+Placeholder page.  

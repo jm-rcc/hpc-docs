@@ -1,2 +1,2 @@
-# ImageMagick
-Placeholder page.
+# ImageMagick  
+Placeholder page.  

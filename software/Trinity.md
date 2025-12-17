@@ -1,2 +1,2 @@
-# Trinity
-Placeholder page.
+# Trinity  
+Placeholder page.  

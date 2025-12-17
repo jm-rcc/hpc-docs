@@ -1,2 +1,2 @@
-# SpectrA
-Placeholder page.
+# SpectrA  
+Placeholder page.  

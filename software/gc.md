@@ -1,2 +1,2 @@
-# gc
-Placeholder page.
+# gc  
+Placeholder page.  

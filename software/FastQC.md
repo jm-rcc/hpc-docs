@@ -1,2 +1,2 @@
-# FastQC
-Placeholder page.
+# FastQC  
+Placeholder page.  

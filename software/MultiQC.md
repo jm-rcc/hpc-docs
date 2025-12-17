@@ -1,2 +1,2 @@
-# MultiQC
-Placeholder page.
+# MultiQC  
+Placeholder page.  

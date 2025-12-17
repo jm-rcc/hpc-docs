@@ -1,2 +1,2 @@
-# ncurses
-Placeholder page.
+# ncurses  
+Placeholder page.  

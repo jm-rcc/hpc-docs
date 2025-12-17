@@ -1,2 +1,2 @@
-# GCC
-Placeholder page.
+# GCC  
+Placeholder page.  

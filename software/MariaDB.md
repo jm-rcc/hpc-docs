@@ -1,2 +1,2 @@
-# MariaDB
-Placeholder page.
+# MariaDB  
+Placeholder page.  

@@ -1,2 +1,2 @@
-# snakemake
-Placeholder page.
+# snakemake  
+Placeholder page.  

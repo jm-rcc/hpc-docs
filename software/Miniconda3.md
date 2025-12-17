@@ -1,2 +1,2 @@
-# Miniconda3
-Placeholder page.
+# Miniconda3  
+Placeholder page.  

@@ -1,2 +1,2 @@
-# minimap2
-Placeholder page.
+# minimap2  
+Placeholder page.  

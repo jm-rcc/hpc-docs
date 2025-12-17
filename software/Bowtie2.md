@@ -1,2 +1,2 @@
-# Bowtie2
-Placeholder page.
+# Bowtie2  
+Placeholder page.  

@@ -1,2 +1,2 @@
-# GitPython
-Placeholder page.
+# GitPython  
+Placeholder page.  

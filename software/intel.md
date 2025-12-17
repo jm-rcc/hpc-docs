@@ -1,2 +1,2 @@
-# intel
-Placeholder page.
+# intel  
+Placeholder page.  

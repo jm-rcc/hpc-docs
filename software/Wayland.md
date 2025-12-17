@@ -1,2 +1,2 @@
-# Wayland
-Placeholder page.
+# Wayland  
+Placeholder page.  

@@ -1,2 +1,2 @@
-# R
-Placeholder page.
+# R  
+Placeholder page.  

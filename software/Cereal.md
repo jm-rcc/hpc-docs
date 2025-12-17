@@ -1,2 +1,2 @@
-# Cereal
-Placeholder page.
+# Cereal  
+Placeholder page.  

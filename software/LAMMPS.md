@@ -1,2 +1,2 @@
-# LAMMPS
-Placeholder page.
+# LAMMPS  
+Placeholder page.  

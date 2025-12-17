@@ -1,2 +1,2 @@
-# MAFFT
-Placeholder page.
+# MAFFT  
+Placeholder page.  
