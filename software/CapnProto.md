@@ -1,0 +1,2 @@
+# CapnProto
+Placeholder page.

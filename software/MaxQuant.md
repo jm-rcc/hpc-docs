@@ -1,0 +1,2 @@
+# MaxQuant
+Placeholder page.

@@ -1,0 +1,2 @@
+# libpciaccess
+Placeholder page.

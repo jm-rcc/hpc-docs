@@ -1,0 +1,2 @@
+# InterProScan
+Placeholder page.

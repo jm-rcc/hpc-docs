@@ -1,0 +1,2 @@
+# Ghostscript
+Placeholder page.

@@ -1,0 +1,2 @@
+# intltool
+Placeholder page.

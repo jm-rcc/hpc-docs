@@ -1,0 +1,2 @@
+# GObject-Introspection
+Placeholder page.

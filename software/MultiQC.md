@@ -1,0 +1,2 @@
+# MultiQC
+Placeholder page.

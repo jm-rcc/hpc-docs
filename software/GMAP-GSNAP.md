@@ -1,0 +1,2 @@
+# GMAP-GSNAP
+Placeholder page.

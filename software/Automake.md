@@ -1,0 +1,2 @@
+# Automake
+Placeholder page.

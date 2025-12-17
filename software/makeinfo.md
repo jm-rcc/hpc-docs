@@ -1,0 +1,2 @@
+# makeinfo
+Placeholder page.
