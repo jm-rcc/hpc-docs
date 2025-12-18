@@ -1,7 +1,12 @@
 # cppy  
-Installed versions:  
-cppy/1.1.0-gcccore-10.3.0  
-cppy/1.2.1-gcccore-11.3.0  
+|Installed versions:|  
+|cppy/1.1.0-gcccore-10.3.0|  
+|cppy/1.2.1-gcccore-11.3.0|  
   
-[description/whatis]  
-[url]  
+## Description  
+A small C++ header library which makes it easier to write
+Python extension modules. The primary feature is a PyObject smart pointer
+which automatically handles reference counting and provides convenience
+methods for performing common object operations.  
+## Homepage  
+(https://github.com/nucleic/cppy)[https://github.com/nucleic/cppy]  

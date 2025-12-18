@@ -1,7 +1,9 @@
 # AUGUSTUS  
-Installed versions:  
-augustus/3.4.0-foss-2021a  
-augustus/3.5.0-foss-2022a  
+|Installed versions:|  
+|augustus/3.4.0-foss-2021a|  
+|augustus/3.5.0-foss-2022a|  
   
-[description/whatis]  
-[url]  
+## Description  
+AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences  
+## Homepage  
+(https://bioinf.uni-greifswald.de/augustus/)[https://bioinf.uni-greifswald.de/augustus/]  

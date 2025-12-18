@@ -1,8 +1,10 @@
 # Szip  
-Installed versions:  
-szip/.2.1.1-gcccore-10.3.0  
-szip/.2.1.1-gcccore-11.3.0  
-szip/.2.1.1-gcccore-12.3.0  
+|Installed versions:|  
+|szip/.2.1.1-gcccore-10.3.0|  
+|szip/.2.1.1-gcccore-11.3.0|  
+|szip/.2.1.1-gcccore-12.3.0|  
   
-[description/whatis]  
-[url]  
+## Description  
+Szip compression software, providing lossless compression of scientific data  
+## Homepage  
+(https://support.hdfgroup.org/doc_resource/SZIP/)[https://support.hdfgroup.org/doc_resource/SZIP/]  

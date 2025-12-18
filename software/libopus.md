@@ -1,6 +1,11 @@
 # libopus  
-Installed versions:  
-libopus/1.3.1-gcccore-11.3.0  
+|Installed versions:|  
+|libopus/1.3.1-gcccore-11.3.0|  
   
-[description/whatis]  
-[url]  
+## Description  
+Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive
+ speech and music transmission over the Internet, but is also intended for storage and streaming applications. It is
+ standardized by the Internet Engineering Task Force (IETF) as RFC 6716 which incorporated technology from Skype’s
+ SILK codec and Xiph.Org’s CELT codec.  
+## Homepage  
+(https://www.opus-codec.org/)[https://www.opus-codec.org/]  

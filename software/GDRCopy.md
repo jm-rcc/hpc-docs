@@ -1,6 +1,8 @@
 # GDRCopy  
-Installed versions:  
-gdrcopy/2.3.1-gcccore-12.3.0  
+|Installed versions:|  
+|gdrcopy/2.3.1-gcccore-12.3.0|  
   
-[description/whatis]  
-[url]  
+## Description  
+A low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.  
+## Homepage  
+(https://github.com/NVIDIA/gdrcopy)[https://github.com/NVIDIA/gdrcopy]  

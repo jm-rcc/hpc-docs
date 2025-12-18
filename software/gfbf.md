@@ -1,7 +1,10 @@
 # gfbf  
-Installed versions:  
-gfbf/2022a  
-gfbf/2023a  
+|Installed versions:|  
+|gfbf/2022a|  
+|gfbf/2023a|  
   
-[description/whatis]  
-[url]  
+## Description  
+GNU Compiler Collection (GCC) based compiler toolchain, including
+ FlexiBLAS (BLAS and LAPACK support) and (serial) FFTW.  
+## Homepage  
+((none))[(none)]  

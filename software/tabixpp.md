@@ -1,6 +1,8 @@
 # tabixpp  
-Installed versions:  
-tabixpp/1.1.0-gcc-10.3.0  
+|Installed versions:|  
+|tabixpp/1.1.0-gcc-10.3.0|  
   
-[description/whatis]  
-[url]  
+## Description  
+C++ wrapper to tabix indexer  
+## Homepage  
+(https://github.com/ekg/tabixpp)[https://github.com/ekg/tabixpp]  

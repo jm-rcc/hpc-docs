@@ -1,8 +1,10 @@
 # GEOS  
-Installed versions:  
-geos/3.10.3-gcc-11.3.0  
-geos/3.12.0-gcc-12.3.0  
-geos/3.9.1-gcc-10.3.0  
+|Installed versions:|  
+|geos/3.10.3-gcc-11.3.0|  
+|geos/3.12.0-gcc-12.3.0|  
+|geos/3.9.1-gcc-10.3.0|  
   
-[description/whatis]  
-[url]  
+## Description  
+GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS)  
+## Homepage  
+(https://trac.osgeo.org/geos)[https://trac.osgeo.org/geos]  
