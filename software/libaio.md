@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libaio/0.3.112-gcccore-11.3.0 | 0.3.112 | None | None |  
+ | libaio/0.3.112-gcccore-11.3.0 | 0.3.112 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >Asynchronous input/output library that uses the kernels native interface.  
   

@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | plumed/2.9.0-foss-2023a | 2.9.0 | None | None |  
- | plumed/2.7.2-foss-2021a | 2.7.2 | None | None |  
- | plumed/2.8.1-foss-2022a | 2.8.1 | None | None |  
+ | plumed/2.9.0-foss-2023a | 2.9.0 | {'name': 'foss', 'version': '2023a'} | None |  
+ | plumed/2.8.1-foss-2022a | 2.8.1 | {'name': 'foss', 'version': '2022a'} | None |  
+ | plumed/2.7.2-foss-2021a | 2.7.2 | {'name': 'foss', 'version': '2021a'} | None |  
   
 >PLUMED is an open source library for free energy calculations in molecular systems which  
 > works together with some of the most popular molecular dynamics engines. Free energy calculations can be  

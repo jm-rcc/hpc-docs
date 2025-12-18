@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | alsa-lib/.1.2.8-gcccore-11.3.0 | 1.2.8 | None | None |  
+ | alsa-lib/.1.2.8-gcccore-11.3.0 | 1.2.8 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionality  
 > to the Linux operating system.  

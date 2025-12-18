@@ -5,11 +5,11 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libfabric/.1.21.0-gcccore-13.3.0 | 1.21.0 | None | None |  
- | libfabric/.1.18.0-gcccore-12.3.0 | 1.18.0 | None | None |  
- | libfabric/.2.0.0-gcccore-14.2.0 | 2.0.0 | None | None |  
- | libfabric/.1.15.1-gcccore-11.3.0 | 1.15.1 | None | None |  
- | libfabric/.1.12.1-gcccore-10.3.0 | 1.12.1 | None | None |  
+ | libfabric/.2.0.0-gcccore-14.2.0 | 2.0.0 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
+ | libfabric/.1.15.1-gcccore-11.3.0 | 1.15.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | libfabric/.1.18.0-gcccore-12.3.0 | 1.18.0 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | libfabric/.1.21.0-gcccore-13.3.0 | 1.21.0 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | libfabric/.1.12.1-gcccore-10.3.0 | 1.12.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
   
 >Libfabric is a core component of OFI. It is the library that defines and exports  
 >the user-space API of OFI, and is typically the only software that applications  

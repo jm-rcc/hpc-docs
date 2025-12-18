@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gnutls/3.7.8-gcccore-11.3.0 | 3.7.8 | None | None |  
+ | gnutls/3.7.8-gcccore-11.3.0 | 3.7.8 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >GnuTLS is a secure communications library implementing the SSL, TLS  
 > and DTLS protocols and technologies around them. It provides a simple  

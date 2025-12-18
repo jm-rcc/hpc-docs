@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | biopython/1.79-foss-2022a | 1.79 | None | None |  
- | biopython/1.79-foss-2021a | 1.79 | None | None |  
+ | biopython/1.79-foss-2021a | 1.79 | {'name': 'foss', 'version': '2021a'} | None |  
+ | biopython/1.79-foss-2022a | 1.79 | {'name': 'foss', 'version': '2022a'} | None |  
   
 >Biopython is a set of freely available tools for biological  
 > computation written in Python by an international team of developers. It is  

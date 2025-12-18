@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ngtcp2/.0.7.0-gcc-11.3.0 | 0.7.0 | None | None |  
+ | ngtcp2/.0.7.0-gcc-11.3.0 | 0.7.0 | {'name': 'GCC', 'version': '11.3.0'} | None |  
   
 >'Call it TCP/2. One More Time.'    
 >    

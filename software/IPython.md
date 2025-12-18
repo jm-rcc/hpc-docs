@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ipython/.7.25.0-gcccore-10.3.0 | 7.25.0 | None | None |  
- | ipython/.8.5.0-gcccore-11.3.0 | 8.5.0 | None | None |  
+ | ipython/.7.25.0-gcccore-10.3.0 | 7.25.0 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | ipython/.8.5.0-gcccore-11.3.0 | 8.5.0 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >IPython provides a rich architecture for interactive computing with:  
 > Powerful interactive shells (terminal and Qt-based).  

@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | parallel/20220722-gcccore-11.3.0 | 20220722 | None | None |  
- | parallel/20210622-gcccore-10.3.0 | 20210622 | None | None |  
+ | parallel/20220722-gcccore-11.3.0 | 20220722 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | parallel/20210622-gcccore-10.3.0 | 20210622 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
   
 >parallel: Build and execute shell commands in parallel  
   

@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | bowtie2/2.4.5-gcc-11.3.0 | 2.4.5 | None | None |  
- | bowtie2/2.4.4-gcc-10.3.0 | 2.4.4 | None | None |  
+ | bowtie2/2.4.4-gcc-10.3.0 | 2.4.4 | {'name': 'GCC', 'version': '10.3.0'} | None |  
+ | bowtie2/2.4.5-gcc-11.3.0 | 2.4.5 | {'name': 'GCC', 'version': '11.3.0'} | None |  
   
 >Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads  
 > to long reference sequences. It is particularly good at aligning reads of about 50 up to 100s or 1,000s  

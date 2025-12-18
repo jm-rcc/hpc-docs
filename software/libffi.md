@@ -5,11 +5,11 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libffi/.3.4.2-gcccore-11.3.0 | 3.4.2 | None | None |  
- | libffi/.3.4.5-gcccore-14.2.0 | 3.4.5 | None | None |  
- | libffi/.3.4.5-gcccore-13.3.0 | 3.4.5 | None | None |  
- | libffi/.3.3-gcccore-10.3.0 | 3.3 | None | None |  
- | libffi/.3.4.4-gcccore-12.3.0 | 3.4.4 | None | None |  
+ | libffi/.3.4.5-gcccore-14.2.0 | 3.4.5 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
+ | libffi/.3.4.2-gcccore-11.3.0 | 3.4.2 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | libffi/.3.4.5-gcccore-13.3.0 | 3.4.5 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | libffi/.3.3-gcccore-10.3.0 | 3.3 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | libffi/.3.4.4-gcccore-12.3.0 | 3.4.4 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
   
 >The libffi library provides a portable, high level programming interface to  
 > various calling conventions. This allows a programmer to call any function  

@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | p11-kit/.0.24.1-gcccore-11.3.0 | 0.24.1 | None | None |  
+ | p11-kit/.0.24.1-gcccore-11.3.0 | 0.24.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >Provides a way to load and enumerate PKCS#11 modules.  
 > Provides a standard configuration setup for installing  

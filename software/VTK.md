@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | vtk/9.3.0-foss-2023a | 9.3.0 | None | None |  
+ | vtk/9.3.0-foss-2023a | 9.3.0 | {'name': 'foss', 'version': '2023a'} | None |  
   
 >The Visualization Toolkit (VTK) is an open-source, freely available software system for  
 > 3D computer graphics, image processing and visualization. VTK consists of a C++ class library and several  

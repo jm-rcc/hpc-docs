@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | mariadb/10.9.3-gcc-11.3.0 | 10.9.3 | None | None |  
+ | mariadb/10.9.3-gcc-11.3.0 | 10.9.3 | {'name': 'GCC', 'version': '11.3.0'} | None |  
   
 >MariaDB is an enhanced, drop-in replacement for MySQL.  
 >Included engines: myISAM, Aria, InnoDB, RocksDB, TokuDB, OQGraph, Mroonga.  

@@ -5,10 +5,10 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | nasm/.2.15.05-gcccore-10.3.0 | 2.15.05 | None | None |  
- | nasm/.2.15.05-gcccore-11.3.0 | 2.15.05 | None | None |  
- | nasm/.2.16.03-gcccore-13.3.0 | 2.16.03 | None | None |  
- | nasm/.2.16.01-gcccore-12.3.0 | 2.16.01 | None | None |  
+ | nasm/.2.16.03-gcccore-13.3.0 | 2.16.03 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | nasm/.2.15.05-gcccore-10.3.0 | 2.15.05 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | nasm/.2.16.01-gcccore-12.3.0 | 2.16.01 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | nasm/.2.15.05-gcccore-11.3.0 | 2.15.05 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >NASM: General-purpose x86 assembler  
   

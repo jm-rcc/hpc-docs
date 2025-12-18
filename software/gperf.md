@@ -5,10 +5,10 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gperf/.3.1-gcccore-10.3.0 | 3.1 | None | None |  
- | gperf/.3.1-gcccore-13.3.0 | 3.1 | None | None |  
- | gperf/.3.1-gcccore-12.3.0 | 3.1 | None | None |  
- | gperf/.3.1-gcccore-11.3.0 | 3.1 | None | None |  
+ | gperf/.3.1-gcccore-13.3.0 | 3.1 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | gperf/.3.1-gcccore-10.3.0 | 3.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | gperf/.3.1-gcccore-11.3.0 | 3.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | gperf/.3.1-gcccore-12.3.0 | 3.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
   
 >GNU gperf is a perfect hash function generator. For a given list of strings,  
 > it produces a hash function and hash table, in form of C or C++ code, for  

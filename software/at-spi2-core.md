@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | at-spi2-core/.2.44.1-gcccore-11.3.0 | 2.44.1 | None | None |  
- | at-spi2-core/.2.49.91-gcccore-12.3.0 | 2.49.91 | None | None |  
+ | at-spi2-core/.2.49.91-gcccore-12.3.0 | 2.49.91 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | at-spi2-core/.2.44.1-gcccore-11.3.0 | 2.44.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >Assistive Technology Service Provider Interface.  
   

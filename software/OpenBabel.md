@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | openbabel/3.1.1-gompi-2022a | 3.1.1 | None | None |  
- | openbabel/3.1.1-gompi-2021a | 3.1.1 | None | None |  
+ | openbabel/3.1.1-gompi-2021a | 3.1.1 | {'name': 'gompi', 'version': '2021a'} | None |  
+ | openbabel/3.1.1-gompi-2022a | 3.1.1 | {'name': 'gompi', 'version': '2022a'} | None |  
   
 >Open Babel is a chemical toolbox designed to speak the many  
 > languages of chemical data. It's an open, collaborative project allowing anyone  

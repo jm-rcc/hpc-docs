@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | mpi4py/3.1.4-gompi-2023a | 3.1.4 | None | None |  
+ | mpi4py/3.1.4-gompi-2023a | 3.1.4 | {'name': 'gompi', 'version': '2023a'} | None |  
   
 >MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for  
 > the Python programming language, allowing any Python program to exploit multiple processors.  

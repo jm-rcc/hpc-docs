@@ -5,10 +5,10 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | intel-compilers/2021.2.0 | 2021.2.0 | None | None |  
- | intel-compilers/2023.1.0 | 2023.1.0 | None | None |  
- | intel-compilers/2022.1.0 | 2022.1.0 | None | None |  
  | intel-compilers/2024.2.0 | 2024.2.0 | None | None |  
+ | intel-compilers/2022.1.0 | 2022.1.0 | None | None |  
+ | intel-compilers/2023.1.0 | 2023.1.0 | None | None |  
+ | intel-compilers/2021.2.0 | 2021.2.0 | None | None |  
   
 >Intel C, C++ & Fortran compilers (classic and oneAPI)  
   

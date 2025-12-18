@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | jbigkit/2.1-gcccore-12.3.0 | 2.1 | None | None |  
- | jbigkit/2.1-gcccore-11.3.0 | 2.1 | None | None |  
- | jbigkit/2.1-gcccore-10.3.0 | 2.1 | None | None |  
+ | jbigkit/2.1-gcccore-11.3.0 | 2.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | jbigkit/2.1-gcccore-10.3.0 | 2.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | jbigkit/2.1-gcccore-12.3.0 | 2.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
   
 >JBIG-KIT is a software implementation of the JBIG1 data  
 > compression standard (ITU-T T.82), which was designed for bi-level image  

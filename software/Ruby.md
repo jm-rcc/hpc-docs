@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ruby/3.0.5-gcccore-11.3.0 | 3.0.5 | None | None |  
- | ruby/3.0.1-gcccore-10.3.0 | 3.0.1 | None | None |  
+ | ruby/3.0.1-gcccore-10.3.0 | 3.0.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | ruby/3.0.5-gcccore-11.3.0 | 3.0.5 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >Ruby is a dynamic, open source programming language with  
 > a focus on simplicity and productivity. It has an elegant syntax that is  

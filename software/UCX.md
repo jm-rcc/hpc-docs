@@ -5,12 +5,12 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ucx/.1.18.0-gcccore-14.2.0 | 1.18.0 | None | None |  
- | ucx/.1.16.0-gcccore-13.3.0 | 1.16.0 | None | None |  
- | ucx/.1.16.0-gcccore-11.3.0 | 1.16.0 | None | None |  
- | ucx/.1.16.0-gcccore-12.3.0 | 1.16.0 | None | None |  
- | ucx/.1.10.0-gcccore-10.3.0 | 1.10.0 | None | None |  
- | ucx/.1.14.1-gcccore-12.3.0 | 1.14.1 | None | None |  
+ | ucx/.1.16.0-gcccore-12.3.0 | 1.16.0 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | ucx/.1.16.0-gcccore-11.3.0 | 1.16.0 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | ucx/.1.10.0-gcccore-10.3.0 | 1.10.0 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | ucx/.1.16.0-gcccore-13.3.0 | 1.16.0 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | ucx/.1.14.1-gcccore-12.3.0 | 1.14.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | ucx/.1.18.0-gcccore-14.2.0 | 1.18.0 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
   
 >Unified Communication X  
 >An open-source production grade communication framework for data centric  

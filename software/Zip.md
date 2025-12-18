@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | zip/3.0-gcccore-11.3.0 | 3.0 | None | None |  
+ | zip/3.0-gcccore-11.3.0 | 3.0 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >Zip is a compression and file packaging/archive utility.  
 >Although highly compatible both with PKWARE's PKZIP and PKUNZIP  

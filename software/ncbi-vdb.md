@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ncbi-vdb/3.0.2-gompi-2022a | 3.0.2 | None | None |  
- | ncbi-vdb/2.10.9-gompi-2021a | 2.10.9 | None | None |  
+ | ncbi-vdb/3.0.2-gompi-2022a | 3.0.2 | {'name': 'gompi', 'version': '2022a'} | None |  
+ | ncbi-vdb/2.10.9-gompi-2021a | 2.10.9 | {'name': 'gompi', 'version': '2021a'} | None |  
   
 >The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for  
 > using data in the INSDC Sequence Read Archives.  

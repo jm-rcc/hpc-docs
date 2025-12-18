@@ -5,10 +5,10 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libjpeg-turbo/.2.0.6-gcccore-10.3.0 | 2.0.6 | None | None |  
- | libjpeg-turbo/.3.0.1-gcccore-13.3.0 | 3.0.1 | None | None |  
- | libjpeg-turbo/.2.1.3-gcccore-11.3.0 | 2.1.3 | None | None |  
- | libjpeg-turbo/.2.1.5.1-gcccore-12.3.0 | 2.1.5.1 | None | None |  
+ | libjpeg-turbo/.3.0.1-gcccore-13.3.0 | 3.0.1 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | libjpeg-turbo/.2.1.3-gcccore-11.3.0 | 2.1.3 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | libjpeg-turbo/.2.0.6-gcccore-10.3.0 | 2.0.6 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | libjpeg-turbo/.2.1.5.1-gcccore-12.3.0 | 2.1.5.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
   
 >libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to  
 > accelerate baseline JPEG compression and decompression. libjpeg is a library  

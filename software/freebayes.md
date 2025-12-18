@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | freebayes/1.3.6-foss-2021a-r-4.1.0 | 1.3.6 | None | None |  
+ | freebayes/1.3.6-foss-2021a-r-4.1.0 | 1.3.6 | {'name': 'foss', 'version': '2021a'} | None |  
   
 >Bayesian haplotype-based genetic polymorphism discovery and genotyping.  
   

@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | multiqc/1.14-foss-2022a | 1.14 | None | None |  
+ | multiqc/1.14-foss-2022a | 1.14 | {'name': 'foss', 'version': '2022a'} | None |  
   
 >Aggregate results from bioinformatics analyses across many samples into a single report.    
 >    
@@ -16,7 +16,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | multiqc/1.11-foss-2021a | 1.11 | None | None |  
+ | multiqc/1.11-foss-2021a | 1.11 | {'name': 'foss', 'version': '2021a'} | None |  
   
 >Aggregate results from bioinformatics analyses across many samples into a single  
 > report.    

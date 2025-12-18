@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | hipsycl/0.9.1-gcc-10.3.0 | 0.9.1 | None | None |  
+ | hipsycl/0.9.1-gcc-10.3.0 | 0.9.1 | {'name': 'GCC', 'version': '10.3.0'} | None |  
   
 >hipSYCL is a modern SYCL implementation targeting CPUs and  
 >GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP  

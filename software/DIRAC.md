@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | dirac/25.0-intel-2023a-int64 | 25.0 | None | None |  
+ | dirac/25.0-intel-2023a-int64 | 25.0 | {'name': 'intel', 'version': '2023a'} | None |  
   
 >DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations  
   

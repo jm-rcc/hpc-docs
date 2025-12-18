@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | boost/1.82.0-gcc-12.3.0 | 1.82.0 | None | None |  
- | boost/1.76.0-gcc-10.3.0 | 1.76.0 | None | None |  
- | boost/1.79.0-gcc-11.3.0 | 1.79.0 | None | None |  
+ | boost/1.82.0-gcc-12.3.0 | 1.82.0 | {'name': 'GCC', 'version': '12.3.0'} | None |  
+ | boost/1.76.0-gcc-10.3.0 | 1.76.0 | {'name': 'GCC', 'version': '10.3.0'} | None |  
+ | boost/1.79.0-gcc-11.3.0 | 1.79.0 | {'name': 'GCC', 'version': '11.3.0'} | None |  
   
 >Boost provides free peer-reviewed portable C++ source libraries.  
   

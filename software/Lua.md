@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | lua/5.4.4-gcccore-11.3.0 | 5.4.4 | None | None |  
- | lua/5.4.3-gcccore-10.3.0 | 5.4.3 | None | None |  
+ | lua/5.4.3-gcccore-10.3.0 | 5.4.3 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | lua/5.4.4-gcccore-11.3.0 | 5.4.4 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >Lua is a powerful, fast, lightweight, embeddable scripting language.  
 > Lua combines simple procedural syntax with powerful data description constructs based  

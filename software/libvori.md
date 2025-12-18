@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libvori/220621-gcccore-11.3.0 | 220621 | None | None |  
+ | libvori/220621-gcccore-11.3.0 | 220621 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >C++ library implementing the Voronoi integration as well as the compressed bqb  
 >file format. The present version of libvori is a very early development  

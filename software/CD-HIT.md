@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | cd-hit/4.8.1-gcc-11.3.0 | 4.8.1 | None | None |  
- | cd-hit/4.8.1-gcc-10.3.0 | 4.8.1 | None | None |  
+ | cd-hit/4.8.1-gcc-11.3.0 | 4.8.1 | {'name': 'GCC', 'version': '11.3.0'} | None |  
+ | cd-hit/4.8.1-gcc-10.3.0 | 4.8.1 | {'name': 'GCC', 'version': '10.3.0'} | None |  
   
 >CD-HIT is a very widely used program for clustering and  
 > comparing protein or nucleotide sequences.  

@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | plotly.py/5.12.0-gcccore-11.3.0 | 5.12.0 | None | None |  
- | plotly.py/5.1.0-gcccore-10.3.0 | 5.1.0 | None | None |  
+ | plotly.py/5.1.0-gcccore-10.3.0 | 5.1.0 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | plotly.py/5.12.0-gcccore-11.3.0 | 5.12.0 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >An open-source, interactive graphing library for Python  
   

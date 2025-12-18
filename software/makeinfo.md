@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | makeinfo/6.7-gcccore-10.3.0-minimal | 6.7 | None | None |  
+ | makeinfo/6.7-gcccore-10.3.0-minimal | 6.7 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
   
 >makeinfo is part of the Texinfo project, the official documentation format of the GNU project.    
 >    
@@ -15,7 +15,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | makeinfo/6.8-gcccore-11.3.0 | 6.8 | None | None |  
+ | makeinfo/6.8-gcccore-11.3.0 | 6.8 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >makeinfo is part of the Texinfo project, the official documentation format of the GNU project.  
   

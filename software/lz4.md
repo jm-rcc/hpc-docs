@@ -5,10 +5,10 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | lz4/1.9.4-gcccore-13.3.0 | 1.9.4 | None | None |  
- | lz4/1.9.3-gcccore-10.3.0 | 1.9.3 | None | None |  
- | lz4/1.9.4-gcccore-12.3.0 | 1.9.4 | None | None |  
- | lz4/1.9.3-gcccore-11.3.0 | 1.9.3 | None | None |  
+ | lz4/1.9.4-gcccore-12.3.0 | 1.9.4 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | lz4/1.9.3-gcccore-11.3.0 | 1.9.3 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | lz4/1.9.4-gcccore-13.3.0 | 1.9.4 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | lz4/1.9.3-gcccore-10.3.0 | 1.9.3 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
   
 >LZ4 is lossless compression algorithm, providing compression speed at 400 MB/s per core.  
 > It features an extremely fast decoder, with speed in multiple GB/s per core.  

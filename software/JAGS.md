@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | jags/4.3.0-foss-2021a | 4.3.0 | None | None |  
+ | jags/4.3.0-foss-2021a | 4.3.0 | {'name': 'foss', 'version': '2021a'} | None |  
   
 >JAGS is Just Another Gibbs Sampler.  It is a program for analysis  
 > of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation  

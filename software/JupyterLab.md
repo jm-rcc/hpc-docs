@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | jupyterlab/3.5.0-gcccore-11.3.0 | 3.5.0 | None | None |  
+ | jupyterlab/3.5.0-gcccore-11.3.0 | 3.5.0 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
   
 >JupyterLab is the next-generation user interface for Project Jupyter offering all the familiar  
 > building blocks of the classic Jupyter Notebook (notebook, terminal, text editor, file browser, rich outputs,  

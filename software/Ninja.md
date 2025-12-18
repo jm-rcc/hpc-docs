@@ -5,11 +5,11 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ninja/1.10.2-gcccore-10.3.0 | 1.10.2 | None | None |  
- | ninja/1.11.1-gcccore-12.3.0 | 1.11.1 | None | None |  
- | ninja/1.12.1-gcccore-13.3.0 | 1.12.1 | None | None |  
- | ninja/1.10.2-gcccore-11.3.0 | 1.10.2 | None | None |  
- | ninja/1.12.1-gcccore-14.2.0 | 1.12.1 | None | None |  
+ | ninja/1.12.1-gcccore-14.2.0 | 1.12.1 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
+ | ninja/1.10.2-gcccore-11.3.0 | 1.10.2 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | ninja/1.10.2-gcccore-10.3.0 | 1.10.2 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | ninja/1.11.1-gcccore-12.3.0 | 1.11.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | ninja/1.12.1-gcccore-13.3.0 | 1.12.1 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
   
 >Ninja is a small build system with a focus on speed.  
   

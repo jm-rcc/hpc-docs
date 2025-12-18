@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gffread/0.12.7-gcccore-10.3.0 | 0.12.7 | None | None |  
+ | gffread/0.12.7-gcccore-10.3.0 | 0.12.7 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
   
 >GFF/GTF parsing utility providing format conversions,  
 >region filtering, FASTA sequence extraction and more.  

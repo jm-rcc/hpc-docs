@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | intervaltree/0.1-gcccore-10.3.0 | 0.1 | None | None |  
+ | intervaltree/0.1-gcccore-10.3.0 | 0.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
   
 >An interval tree can be used to efficiently find a set of numeric intervals  
 > overlapping or containing another interval. This library provides a basic implementation of an  

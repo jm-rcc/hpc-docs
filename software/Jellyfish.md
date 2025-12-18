@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | jellyfish/2.3.0-gcc-10.3.0 | 2.3.0 | None | None |  
- | jellyfish/2.3.0-gcc-11.3.0 | 2.3.0 | None | None |  
+ | jellyfish/2.3.0-gcc-11.3.0 | 2.3.0 | {'name': 'GCC', 'version': '11.3.0'} | None |  
+ | jellyfish/2.3.0-gcc-10.3.0 | 2.3.0 | {'name': 'GCC', 'version': '10.3.0'} | None |  
   
 >Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.  
   

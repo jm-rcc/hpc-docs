@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | virtualenv/20.23.1-gcccore-12.3.0 | 20.23.1 | None | None |  
+ | virtualenv/20.23.1-gcccore-12.3.0 | 20.23.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
   
 >A tool for creating isolated virtual python environments.  
   

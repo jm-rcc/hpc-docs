@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | interproscan/5.55-88.0-foss-2021a | 5.55-88.0 | None | None |  
+ | interproscan/5.55-88.0-foss-2021a | 5.55-88.0 | {'name': 'foss', 'version': '2021a'} | None |  
   
 >InterProScan is a sequence analysis application (nucleotide and protein sequences) that combines  
 > different protein signature recognition methods into one resource [code only: libraries and external binaries  

@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libxsmm/1.16.2-gcc-10.3.0 | 1.16.2 | None | None |  
- | libxsmm/1.17-gcc-11.3.0 | 1.17 | None | None |  
+ | libxsmm/1.16.2-gcc-10.3.0 | 1.16.2 | {'name': 'GCC', 'version': '10.3.0'} | None |  
+ | libxsmm/1.17-gcc-11.3.0 | 1.17 | {'name': 'GCC', 'version': '11.3.0'} | None |  
   
 >LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications  
 >targeting Intel Architecture (x86).  
