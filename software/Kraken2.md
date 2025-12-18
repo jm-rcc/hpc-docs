@@ -1,8 +1,8 @@
 # Kraken2  
-|Installed versions:|||
-|-------|--------|---------|
-| kraken2/2.1.2-gompi-2021a |||
-| kraken2/2.1.2-gompi-2022a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| kraken2/2.1.2-gompi-2021a | | |  
+| kraken2/2.1.2-gompi-2022a | | |  
   
 ## Description  
 Kraken is a system for assigning taxonomic labels to short DNA sequences,

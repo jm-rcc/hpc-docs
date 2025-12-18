@@ -1,7 +1,7 @@
 # json-c  
-|Installed versions:|||
-|-------|--------|---------|
-| json-c/0.16-gcccore-12.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| json-c/0.16-gcccore-12.3.0 | | |  
   
 ## Description  
 JSON-C implements a reference counting object model that allows you to easily construct JSON objects

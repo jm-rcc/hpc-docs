@@ -1,7 +1,7 @@
 # SRA-Toolkit  
-|Installed versions:|||
-|-------|--------|---------|
-| sra-toolkit/3.0.3-gompi-2022a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| sra-toolkit/3.0.3-gompi-2022a | | |  
   
 ## Description  
 The SRA Toolkit, and the source-code SRA System Development

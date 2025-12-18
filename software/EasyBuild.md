@@ -1,8 +1,8 @@
 # EasyBuild  
-|Installed versions:|||
-|-------|--------|---------|
-| easybuild/5.1.0 |||
-| easybuild/5.1.1 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| easybuild/5.1.0 | | |  
+| easybuild/5.1.1 | | |  
   
 ## Description  
 EasyBuild is a software build and installation framework

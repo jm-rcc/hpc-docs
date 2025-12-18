@@ -1,7 +1,7 @@
 # KronaTools  
-|Installed versions:|||
-|-------|--------|---------|
-| kronatools/2.8.1-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| kronatools/2.8.1-gcccore-11.3.0 | | |  
   
 ## Description  
 Krona Tools is a set of scripts to create Krona charts from

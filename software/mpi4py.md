@@ -1,7 +1,7 @@
 # mpi4py  
-|Installed versions:|||
-|-------|--------|---------|
-| mpi4py/3.1.4-gompi-2023a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| mpi4py/3.1.4-gompi-2023a | | |  
   
 ## Description  
 MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for

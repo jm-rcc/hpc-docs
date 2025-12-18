@@ -1,7 +1,7 @@
 # Guile  
-|Installed versions:|||
-|-------|--------|---------|
-| guile/3.0.8-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| guile/3.0.8-gcccore-11.3.0 | | |  
   
 ## Description  
 Guile is a programming language, designed to help programmers create flexible

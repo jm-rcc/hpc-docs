@@ -1,7 +1,7 @@
 # ABRicate  
-|Installed versions:|||
-|-------|--------|---------|
-| abricate/1.0.0-gompi-2021a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| abricate/1.0.0-gompi-2021a | | |  
   
 ## Description  
 Mass screening of contigs for antimicrobial and virulence genes  

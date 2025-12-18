@@ -1,7 +1,7 @@
 # LZO  
-|Installed versions:|||
-|-------|--------|---------|
-| lzo/2.10-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| lzo/2.10-gcccore-11.3.0 | | |  
   
 ## Description  
 Portable lossless data compression library  

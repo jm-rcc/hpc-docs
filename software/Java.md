@@ -1,9 +1,9 @@
 # Java  
-|Installed versions:|||
-|-------|--------|---------|
-| java/11.0.18 |||
-| java/11.0.27 |||
-| java/21.0.7 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| java/11.0.18 | | |  
+| java/11.0.27 | | |  
+| java/21.0.7 | | |  
   
 ## Description  
 Java Platform, Standard Edition (Java SE) lets you develop and deploy

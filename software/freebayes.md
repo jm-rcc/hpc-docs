@@ -1,7 +1,7 @@
 # freebayes  
-|Installed versions:|||
-|-------|--------|---------|
-| freebayes/1.3.6-foss-2021a-r-4.1.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| freebayes/1.3.6-foss-2021a-r-4.1.0 | | |  
   
 ## Description  
 Bayesian haplotype-based genetic polymorphism discovery and genotyping.  

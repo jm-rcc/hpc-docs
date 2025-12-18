@@ -1,8 +1,8 @@
 # PyYAML  
-|Installed versions:|||
-|-------|--------|---------|
-| pyyaml/.5.4.1-gcccore-10.3.0 |||
-| pyyaml/.6.0-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| pyyaml/.5.4.1-gcccore-10.3.0 | | |  
+| pyyaml/.6.0-gcccore-11.3.0 | | |  
   
 ## Description  
 PyYAML is a YAML parser and emitter for the Python programming language.  

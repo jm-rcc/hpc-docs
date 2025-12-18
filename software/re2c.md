@@ -1,9 +1,9 @@
 # re2c  
-|Installed versions:|||
-|-------|--------|---------|
-| re2c/2.1.1-gcccore-10.3.0 |||
-| re2c/2.2-gcccore-11.3.0 |||
-| re2c/3.1-gcccore-12.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| re2c/2.1.1-gcccore-10.3.0 | | |  
+| re2c/2.2-gcccore-11.3.0 | | |  
+| re2c/3.1-gcccore-12.3.0 | | |  
   
 ## Description  
 re2c is a free and open-source lexer generator for C and C++. Its main goal is generating

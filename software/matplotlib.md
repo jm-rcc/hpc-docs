@@ -1,8 +1,8 @@
 # matplotlib  
-|Installed versions:|||
-|-------|--------|---------|
-| matplotlib/3.4.2-foss-2021a |||
-| matplotlib/3.5.2-foss-2022a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| matplotlib/3.4.2-foss-2021a | | |  
+| matplotlib/3.5.2-foss-2022a | | |  
   
 ## Description  
 matplotlib is a python 2D plotting library which produces publication quality figures in a variety of

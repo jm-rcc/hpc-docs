@@ -1,7 +1,7 @@
 # CellRanger  
-|Installed versions:|||
-|-------|--------|---------|
-| cellranger/7.1.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| cellranger/7.1.0 | | |  
   
 ## Description  
 Cell Ranger is a set of analysis pipelines that process Chromium

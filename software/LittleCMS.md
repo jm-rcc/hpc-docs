@@ -1,8 +1,8 @@
 # LittleCMS  
-|Installed versions:|||
-|-------|--------|---------|
-| littlecms/2.12-gcccore-10.3.0 |||
-| littlecms/2.13.1-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| littlecms/2.12-gcccore-10.3.0 | | |  
+| littlecms/2.13.1-gcccore-11.3.0 | | |  
   
 ## Description  
 Little CMS intends to be an OPEN SOURCE small-footprint color management engine,

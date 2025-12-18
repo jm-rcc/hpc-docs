@@ -1,7 +1,7 @@
 # FastTree  
-|Installed versions:|||
-|-------|--------|---------|
-| fasttree/2.1.11-gcccore-10.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| fasttree/2.1.11-gcccore-10.3.0 | | |  
   
 ## Description  
 FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide

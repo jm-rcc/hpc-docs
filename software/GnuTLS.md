@@ -1,7 +1,7 @@
 # GnuTLS  
-|Installed versions:|||
-|-------|--------|---------|
-| gnutls/3.7.8-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| gnutls/3.7.8-gcccore-11.3.0 | | |  
   
 ## Description  
 GnuTLS is a secure communications library implementing the SSL, TLS

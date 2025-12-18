@@ -1,7 +1,7 @@
 # CUnit  
-|Installed versions:|||
-|-------|--------|---------|
-| cunit/2.1-3-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| cunit/2.1-3-gcccore-11.3.0 | | |  
   
 ## Description  
 Automated testing framework for C.  

@@ -1,7 +1,7 @@
 # libev  
-|Installed versions:|||
-|-------|--------|---------|
-| libev/.4.33-gcc-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| libev/.4.33-gcc-11.3.0 | | |  
   
 ## Description  
 A full-featured and high-performance (see benchmark)

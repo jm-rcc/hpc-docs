@@ -1,7 +1,7 @@
 # NGS  
-|Installed versions:|||
-|-------|--------|---------|
-| ngs/2.10.9-gcccore-10.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| ngs/2.10.9-gcccore-10.3.0 | | |  
   
 ## Description  
 NGS is a new, domain-specific API for accessing reads, alignments and pileups

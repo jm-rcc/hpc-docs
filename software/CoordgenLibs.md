@@ -1,8 +1,8 @@
 # CoordgenLibs  
-|Installed versions:|||
-|-------|--------|---------|
-| coordgenlibs/3.0.1-gompi-2021a |||
-| coordgenlibs/3.0.1-gompi-2022a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| coordgenlibs/3.0.1-gompi-2021a | | |  
+| coordgenlibs/3.0.1-gompi-2022a | | |  
   
 ## Description  
 Schrodinger-developed 2D Coordinate Generation  

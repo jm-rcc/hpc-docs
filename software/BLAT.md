@@ -1,7 +1,7 @@
 # BLAT  
-|Installed versions:|||
-|-------|--------|---------|
-| blat/3.7-gcc-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| blat/3.7-gcc-11.3.0 | | |  
   
 ## Description  
 BLAT on DNA is designed to quickly find sequences of 95% and

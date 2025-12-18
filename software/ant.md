@@ -1,8 +1,8 @@
 # ant  
-|Installed versions:|||
-|-------|--------|---------|
-| ant/1.10.12-java-11 |||
-| ant/1.10.9-java-11 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| ant/1.10.12-java-11 | | |  
+| ant/1.10.9-java-11 | | |  
   
 ## Description  
 Apache Ant is a Java library and command-line tool whose mission is to drive processes described in

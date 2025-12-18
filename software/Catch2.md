@@ -1,7 +1,7 @@
 # Catch2  
-|Installed versions:|||
-|-------|--------|---------|
-| catch2/2.13.9-gcccore-12.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| catch2/2.13.9-gcccore-12.3.0 | | |  
   
 ## Description  
 A modern, C++-native, header-only,

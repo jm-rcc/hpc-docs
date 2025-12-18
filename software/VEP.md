@@ -1,7 +1,7 @@
 # VEP  
-|Installed versions:|||
-|-------|--------|---------|
-| vep/107-gcc-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| vep/107-gcc-11.3.0 | | |  
   
 ## Description  
 Variant Effect Predictor (VEP) determines the effect of your

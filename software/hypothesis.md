@@ -1,9 +1,9 @@
 # hypothesis  
-|Installed versions:|||
-|-------|--------|---------|
-| hypothesis/6.13.1-gcccore-10.3.0 |||
-| hypothesis/6.46.7-gcccore-11.3.0 |||
-| hypothesis/6.82.0-gcccore-12.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| hypothesis/6.13.1-gcccore-10.3.0 | | |  
+| hypothesis/6.46.7-gcccore-11.3.0 | | |  
+| hypothesis/6.82.0-gcccore-12.3.0 | | |  
   
 ## Description  
 Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized

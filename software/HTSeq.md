@@ -1,7 +1,7 @@
 # HTSeq  
-|Installed versions:|||
-|-------|--------|---------|
-| htseq/2.0.2-foss-2022a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| htseq/2.0.2-foss-2022a | | |  
   
 ## Description  
 HTSeq is a Python library to facilitate processing and analysis

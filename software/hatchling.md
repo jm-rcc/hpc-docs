@@ -1,7 +1,7 @@
 # hatchling  
-|Installed versions:|||
-|-------|--------|---------|
-| hatchling/1.18.0-gcccore-12.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| hatchling/1.18.0-gcccore-12.3.0 | | |  
   
 ## Description  
 Extensible, standards compliant build backend used by Hatch,

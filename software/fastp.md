@@ -1,7 +1,7 @@
 # fastp  
-|Installed versions:|||
-|-------|--------|---------|
-| fastp/0.23.2-gcc-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| fastp/0.23.2-gcc-11.3.0 | | |  
   
 ## Description  
 A tool designed to provide fast all-in-one preprocessing for FastQ files.

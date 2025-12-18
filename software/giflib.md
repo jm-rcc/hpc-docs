@@ -1,8 +1,8 @@
 # giflib  
-|Installed versions:|||
-|-------|--------|---------|
-| giflib/.5.2.1-gcccore-11.3.0 |||
-| giflib/.5.2.1-gcccore-12.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| giflib/.5.2.1-gcccore-11.3.0 | | |  
+| giflib/.5.2.1-gcccore-12.3.0 | | |  
   
 ## Description  
 giflib is a library for reading and writing gif images.

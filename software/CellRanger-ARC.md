@@ -1,7 +1,7 @@
 # CellRanger-ARC  
-|Installed versions:|||
-|-------|--------|---------|
-| cellranger-arc/2.0.2 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| cellranger-arc/2.0.2 | | |  
   
 ## Description  
 Cell Ranger ARC is a set of analysis pipelines that process

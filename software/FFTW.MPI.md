@@ -1,10 +1,10 @@
 # FFTW.MPI  
-|Installed versions:|||
-|-------|--------|---------|
-| fftw.mpi/3.3.10-gompi-2022a |||
-| fftw.mpi/3.3.10-gompi-2023a |||
-| fftw.mpi/3.3.10-gompi-2024a |||
-| fftw.mpi/3.3.10-gompi-2025a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| fftw.mpi/3.3.10-gompi-2022a | | |  
+| fftw.mpi/3.3.10-gompi-2023a | | |  
+| fftw.mpi/3.3.10-gompi-2024a | | |  
+| fftw.mpi/3.3.10-gompi-2025a | | |  
   
 ## Description  
 FFTW is a C subroutine library for computing the discrete Fourier transform (DFT)

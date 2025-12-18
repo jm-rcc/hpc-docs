@@ -1,7 +1,7 @@
 # libwebp  
-|Installed versions:|||
-|-------|--------|---------|
-| libwebp/.1.2.4-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| libwebp/.1.2.4-gcccore-11.3.0 | | |  
   
 ## Description  
 WebP is a modern image format that provides superior

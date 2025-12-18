@@ -1,8 +1,8 @@
 # HISAT2  
-|Installed versions:|||
-|-------|--------|---------|
-| hisat2/2.2.1-gompi-2021a |||
-| hisat2/2.2.1-gompi-2022a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| hisat2/2.2.1-gompi-2021a | | |  
+| hisat2/2.2.1-gompi-2022a | | |  
   
 ## Description  
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads

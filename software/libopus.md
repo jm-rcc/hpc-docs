@@ -1,7 +1,7 @@
 # libopus  
-|Installed versions:|||
-|-------|--------|---------|
-| libopus/1.3.1-gcccore-11.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| libopus/1.3.1-gcccore-11.3.0 | | |  
   
 ## Description  
 Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive

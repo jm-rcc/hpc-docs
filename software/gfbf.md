@@ -1,8 +1,8 @@
 # gfbf  
-|Installed versions:|||
-|-------|--------|---------|
-| gfbf/2022a |||
-| gfbf/2023a |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| gfbf/2022a | | |  
+| gfbf/2023a | | |  
   
 ## Description  
 GNU Compiler Collection (GCC) based compiler toolchain, including

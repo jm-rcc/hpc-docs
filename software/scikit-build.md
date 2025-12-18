@@ -1,8 +1,8 @@
 # scikit-build  
-|Installed versions:|||
-|-------|--------|---------|
-| scikit-build/0.11.1-gcccore-10.3.0 |||
-| scikit-build/0.17.6-gcccore-12.3.0 |||
+|Installed versions:|A|B|  
+|-------|--------|---------|  
+| scikit-build/0.11.1-gcccore-10.3.0 | | |  
+| scikit-build/0.17.6-gcccore-12.3.0 | | |  
   
 ## Description  
 Scikit-Build, or skbuild, is an improved build system generator
