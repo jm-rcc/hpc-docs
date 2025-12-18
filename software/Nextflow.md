@@ -2,8 +2,8 @@
 # Nextflow  
 Category: tools  
 ## Homepage  
-[https://www.nextflow.io/](https://www.nextflow.io/)  
 [https://www.%(namelower)s.io/](https://www.%(namelower)s.io/)  
+[https://www.nextflow.io/](https://www.nextflow.io/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

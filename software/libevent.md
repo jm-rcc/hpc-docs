@@ -2,8 +2,8 @@
 # libevent  
 Category: lib  
 ## Homepage  
-[https://libevent.org](https://libevent.org)  
 [https://libevent.org/](https://libevent.org/)  
+[https://libevent.org](https://libevent.org)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
