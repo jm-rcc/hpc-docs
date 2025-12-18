@@ -1,5 +1,9 @@
 # Automake  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | automake/.1.16.3-gcccore-10.3.0 | | |  
 | automake/.1.16.5 | | |  
@@ -7,7 +11,7 @@
 | automake/.1.16.5-gcccore-12.3.0 | | |  
 | automake/.1.16.5-gcccore-13.3.0 | | |  
 | automake/.1.17-gcccore-14.2.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Automake: GNU Standards-compliant Makefile generator  
 ## Homepage  

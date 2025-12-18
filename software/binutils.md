@@ -1,5 +1,9 @@
 # binutils  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | binutils/.2.35 | | |  
 | binutils/.2.36.1 | | |  
@@ -11,7 +15,7 @@
 | binutils/.2.42 | | |  
 | binutils/.2.42-gcccore-13.3.0 | | |  
 | binutils/.2.42-gcccore-14.2.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 binutils: GNU binary utilities  
 ## Homepage  

@@ -1,8 +1,12 @@
 # libev  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | libev/.4.33-gcc-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 A full-featured and high-performance (see benchmark)
 event loop that is loosely modelled after libevent, but without its

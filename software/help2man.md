@@ -1,12 +1,16 @@
 # help2man  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | help2man/.1.48.3-gcccore-10.3.0 | | |  
 | help2man/.1.49.2-gcccore-11.3.0 | | |  
 | help2man/.1.49.3-gcccore-12.3.0 | | |  
 | help2man/.1.49.3-gcccore-13.3.0 | | |  
 | help2man/.1.49.3-gcccore-14.2.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 help2man produces simple manual pages from the '--help' and '--version' output of other commands.  
 ## Homepage  

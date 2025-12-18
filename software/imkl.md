@@ -1,12 +1,16 @@
 # imkl  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | imkl/2021.2.0-iimpi-2021a | | |  
 | imkl/2022.1.0 | | |  
 | imkl/2023.1.0 | | |  
 | imkl/2024.2.0 | | |  
 | imkl/2025.1.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Intel oneAPI Math Kernel Library  
 ## Homepage  

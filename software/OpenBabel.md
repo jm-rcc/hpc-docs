@@ -1,9 +1,13 @@
 # OpenBabel  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | openbabel/3.1.1-gompi-2021a | | |  
 | openbabel/3.1.1-gompi-2022a | | |  
-  
+{: .tablelines}  
 ## Description  
 Open Babel is a chemical toolbox designed to speak the many
  languages of chemical data. It's an open, collaborative project allowing anyone

@@ -1,12 +1,16 @@
 # PMIx  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | pmix/.3.2.3-gcccore-10.3.0 | | |  
 | pmix/.4.1.2-gcccore-11.3.0 | | |  
 | pmix/.4.2.4-gcccore-12.3.0 | | |  
 | pmix/.5.0.2-gcccore-13.3.0 | | |  
 | pmix/.5.0.6-gcccore-14.2.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Process Management for Exascale Environments
 PMI Exascale (PMIx) represents an attempt to

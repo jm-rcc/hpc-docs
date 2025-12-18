@@ -1,8 +1,12 @@
 # nghttp3  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | nghttp3/.0.6.0-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 nghttp3 is an implementation of RFC 9114 HTTP/3
 mapping over QUIC and RFC 9204 QPACK in C.

@@ -1,5 +1,9 @@
 # UCX  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | ucx/.1.10.0-gcccore-10.3.0 | | |  
 | ucx/.1.14.1-gcccore-12.3.0 | | |  
@@ -7,7 +11,7 @@
 | ucx/.1.16.0-gcccore-12.3.0 | | |  
 | ucx/.1.16.0-gcccore-13.3.0 | | |  
 | ucx/.1.18.0-gcccore-14.2.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Unified Communication X
 An open-source production grade communication framework for data centric

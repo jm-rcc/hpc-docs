@@ -1,8 +1,12 @@
 # libwebp  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | libwebp/.1.2.4-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 WebP is a modern image format that provides superior
 lossless and lossy compression for images on the web. Using WebP,

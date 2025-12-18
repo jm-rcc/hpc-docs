@@ -1,8 +1,12 @@
 # json-c  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | json-c/0.16-gcccore-12.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 JSON-C implements a reference counting object model that allows you to easily construct JSON objects
  in C, output them as JSON formatted strings and parse JSON formatted strings back into the C representation of JSON

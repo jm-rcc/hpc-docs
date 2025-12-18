@@ -1,9 +1,13 @@
 # nettle  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | nettle/.3.7.2-gcccore-10.3.0 | | |  
 | nettle/.3.8-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Nettle is a cryptographic library that is designed to fit easily
  in more or less any context: In crypto toolkits for object-oriented

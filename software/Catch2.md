@@ -1,8 +1,12 @@
 # Catch2  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | catch2/2.13.9-gcccore-12.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 A modern, C++-native, header-only,
  test framework for unit-tests, TDD and BDD

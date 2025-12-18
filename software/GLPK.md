@@ -1,9 +1,13 @@
 # GLPK  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | glpk/.5.0-gcccore-10.3.0 | | |  
 | glpk/.5.0-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 The GLPK (GNU Linear Programming Kit) package is intended for
  solving large-scale linear programming (LP),

@@ -1,8 +1,12 @@
 # Zip  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | zip/3.0-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Zip is a compression and file packaging/archive utility.
 Although highly compatible both with PKWARE's PKZIP and PKUNZIP

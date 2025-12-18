@@ -1,10 +1,14 @@
 # Ghostscript  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | ghostscript/10.01.2-gcccore-12.3.0 | | |  
 | ghostscript/9.54.0-gcccore-10.3.0 | | |  
 | ghostscript/9.56.1-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Ghostscript is a versatile processor for PostScript data with the ability to render PostScript to
  different targets. It used to be part of the cups printing stack, but is no longer used for that.  

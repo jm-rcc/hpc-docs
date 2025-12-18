@@ -1,11 +1,15 @@
 # HDF5  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | hdf5/1.10.7-gompi-2021a | | |  
 | hdf5/1.12.2-gompi-2022a | | |  
 | hdf5/1.14.0-gompi-2023a | | |  
 | hdf5/1.14.6-iimpi-2023a | | |  
-  
+{: .tablelines}  
 ## Description  
 HDF5 is a data model, library, and file format for storing and managing data.
  It supports an unlimited variety of datatypes, and is designed for flexible

@@ -1,9 +1,13 @@
 # ffnvcodec  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | ffnvcodec/11.1.5.2 | | |  
 | ffnvcodec/12.0.16.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 FFmpeg nvidia headers. Adds support for nvenc and nvdec. Requires Nvidia GPU and drivers to be present
 (picked up dynamically).  

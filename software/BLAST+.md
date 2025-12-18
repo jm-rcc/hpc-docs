@@ -1,9 +1,13 @@
 # BLAST+  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | blast+/2.11.0-gompi-2021a | | |  
 | blast+/2.13.0-gompi-2022a | | |  
-  
+{: .tablelines}  
 ## Description  
 Basic Local Alignment Search Tool, or BLAST, is an algorithm
  for comparing primary biological sequence information, such as the amino-acid

@@ -1,9 +1,13 @@
 # FLAC  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | flac/1.3.3-gcccore-10.3.0 | | |  
 | flac/1.3.4-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning
 that audio is compressed in FLAC without any loss in quality.  

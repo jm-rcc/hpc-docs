@@ -1,5 +1,9 @@
 # CMake  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | cmake/3.12.1 | | |  
 | cmake/3.18.4 | | |  
@@ -9,7 +13,7 @@
 | cmake/3.26.3-gcccore-12.3.0 | | |  
 | cmake/3.29.3-gcccore-13.3.0 | | |  
 | cmake/3.31.3-gcccore-14.2.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 CMake, the cross-platform, open-source build system.  CMake is a family of
  tools designed to build, test and package software.  

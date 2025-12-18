@@ -1,8 +1,12 @@
 # VTK  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | vtk/9.3.0-foss-2023a | | |  
-  
+{: .tablelines}  
 ## Description  
 The Visualization Toolkit (VTK) is an open-source, freely available software system for
  3D computer graphics, image processing and visualization. VTK consists of a C++ class library and several

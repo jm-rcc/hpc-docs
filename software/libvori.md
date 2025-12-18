@@ -1,8 +1,12 @@
 # libvori  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | libvori/220621-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 C++ library implementing the Voronoi integration as well as the compressed bqb
 file format. The present version of libvori is a very early development

@@ -1,8 +1,12 @@
 # VSCode  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | vscode/1.87.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Visual Studio Code is a lightweight but powerful source code editor 
     which runs on your desktop and is available for Windows, macOS and 

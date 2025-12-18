@@ -1,11 +1,15 @@
 # Brotli  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | brotli/1.0.9-gcccore-10.3.0 | | |  
 | brotli/1.0.9-gcccore-11.3.0 | | |  
 | brotli/1.0.9-gcccore-12.3.0 | | |  
 | brotli/1.1.0-gcccore-13.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination
  of a modern variant of the LZ77 algorithm, Huffman coding and 2nd order context modeling, with a compression ratio

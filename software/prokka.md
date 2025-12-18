@@ -1,9 +1,13 @@
 # prokka  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | prokka/1.14.5-gompi-2021a | | |  
 | prokka/1.14.5-gompi-2022a | | |  
-  
+{: .tablelines}  
 ## Description  
 Prokka is a software tool for the rapid annotation of prokaryotic genomes.  
 ## Homepage  

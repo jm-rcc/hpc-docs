@@ -1,8 +1,12 @@
 # intervaltree  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | intervaltree/0.1-gcccore-10.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 An interval tree can be used to efficiently find a set of numeric intervals
  overlapping or containing another interval. This library provides a basic implementation of an

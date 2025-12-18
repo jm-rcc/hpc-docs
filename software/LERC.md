@@ -1,8 +1,12 @@
 # LERC  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | lerc/4.0.0-gcccore-12.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 LERC is an open-source image or raster format which supports rapid encoding and decoding
 for any pixel type (not just RGB or Byte). Users set the maximum compression error per pixel while encoding,

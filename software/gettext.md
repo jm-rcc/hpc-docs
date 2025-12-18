@@ -1,5 +1,9 @@
 # gettext  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | gettext/.0.21 | | |  
 | gettext/.0.21-gcccore-10.3.0 | | |  
@@ -8,7 +12,7 @@
 | gettext/.0.21.1-gcccore-12.3.0 | | |  
 | gettext/.0.22.5 | | |  
 | gettext/.0.22.5-gcccore-13.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 GNU 'gettext' is an important step for the GNU Translation Project, as it is an asset on which we may
 build many other steps. This package offers to programmers, translators, and even users, a well integrated set of tools

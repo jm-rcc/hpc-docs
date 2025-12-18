@@ -1,8 +1,12 @@
 # minimap2  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | minimap2/2.24-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Minimap2 is a fast sequence mapping and alignment
 program that can find overlaps between long noisy reads, or map long

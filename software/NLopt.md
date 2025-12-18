@@ -1,9 +1,13 @@
 # NLopt  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | nlopt/2.7.0-gcccore-10.3.0 | | |  
 | nlopt/2.7.1-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 NLopt is a free/open-source library for nonlinear optimization,
  providing a common interface for a number of different free optimization routines

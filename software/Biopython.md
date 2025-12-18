@@ -1,9 +1,13 @@
 # Biopython  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | biopython/1.79-foss-2021a | | |  
 | biopython/1.79-foss-2022a | | |  
-  
+{: .tablelines}  
 ## Description  
 Biopython is a set of freely available tools for biological
  computation written in Python by an international team of developers. It is

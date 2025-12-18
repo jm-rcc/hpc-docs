@@ -1,8 +1,12 @@
 # SSW  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | ssw/1.1-gcccore-10.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
  Single-Instruction Multiple-Data (SIMD) instructions to parallelize the algorithm at the

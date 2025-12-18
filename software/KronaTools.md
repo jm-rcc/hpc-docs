@@ -1,8 +1,12 @@
 # KronaTools  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | kronatools/2.8.1-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Krona Tools is a set of scripts to create Krona charts from
 several Bioinformatics tools as well as from text and XML files.  

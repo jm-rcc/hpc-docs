@@ -1,9 +1,13 @@
 # wget  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | wget/1.21.1-gcccore-10.3.0 | | |  
 | wget/1.21.3-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP,
  the most widely-used Internet protocols. It is a non-interactive commandline tool,

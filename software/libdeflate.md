@@ -1,9 +1,13 @@
 # libdeflate  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | libdeflate/1.10-gcccore-11.3.0 | | |  
 | libdeflate/1.18-gcccore-12.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.  
 ## Homepage  

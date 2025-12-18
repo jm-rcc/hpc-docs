@@ -1,8 +1,12 @@
 # tmux  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | tmux/3.5a | | |  
-  
+{: .tablelines}  
 ## Description  
 tmux is a terminal multiplexer: it enables a number of
 terminals to be created, accessed, and controlled from a single screen. tmux

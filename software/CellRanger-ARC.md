@@ -1,8 +1,12 @@
 # CellRanger-ARC  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | cellranger-arc/2.0.2 | | |  
-  
+{: .tablelines}  
 ## Description  
 Cell Ranger ARC is a set of analysis pipelines that process
  Chromium Single Cell Multiome ATAC + Gene Expression sequencing data to generate a

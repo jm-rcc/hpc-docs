@@ -1,5 +1,9 @@
 # zlib  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | zlib/.1.2.11 | | |  
 | zlib/.1.2.11-gcccore-10.3.0 | | |  
@@ -11,7 +15,7 @@
 | zlib/.1.3.1-gcccore-13.3.0 | | |  
 | zlib/.1.3.1-gcccore-14.2.0 | | |  
 | zlib/1.3.1-gcccore-13.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 zlib is designed to be a free, general-purpose, legally unencumbered -- that
  is, not covered by any patents -- lossless data-compression library for use

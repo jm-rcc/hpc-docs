@@ -1,9 +1,13 @@
 # CP2K  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | cp2k/8.2-foss-2021a | | |  
 | cp2k/9.1-foss-2022a | | |  
-  
+{: .tablelines}  
 ## Description  
 CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
  simulations of solid state, liquid, molecular and biological systems. It provides a general framework for different

@@ -1,9 +1,13 @@
 # OpenJPEG  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | openjpeg/2.5.0-gcccore-11.3.0 | | |  
 | openjpeg/2.5.0-gcccore-12.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 OpenJPEG is an open-source JPEG 2000 codec written in
  C language. It has been developed in order to promote the use of JPEG 2000,

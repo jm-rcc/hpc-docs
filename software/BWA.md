@@ -1,9 +1,13 @@
 # BWA  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | bwa/0.7.17-gcc-10.3.0 | | |  
 | bwa/0.7.17-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 Burrows-Wheeler Aligner (BWA) is an efficient program that aligns relatively
  short nucleotide sequences against a long reference sequence such as the human

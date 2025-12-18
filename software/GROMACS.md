@@ -1,10 +1,14 @@
 # GROMACS  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | gromacs/2021.3-foss-2021a | | |  
 | gromacs/2023.3-foss-2023a | | |  
 | gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the
 Newtonian equations of motion for systems with hundreds to millions of

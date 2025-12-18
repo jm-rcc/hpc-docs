@@ -1,9 +1,13 @@
 # Kraken2  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | kraken2/2.1.2-gompi-2021a | | |  
 | kraken2/2.1.2-gompi-2022a | | |  
-  
+{: .tablelines}  
 ## Description  
 Kraken is a system for assigning taxonomic labels to short DNA sequences,
  usually obtained through metagenomic studies. Previous attempts by other

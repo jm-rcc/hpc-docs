@@ -1,9 +1,13 @@
 # parallel  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | parallel/20210622-gcccore-10.3.0 | | |  
 | parallel/20220722-gcccore-11.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 parallel: Build and execute shell commands in parallel  
 ## Homepage  

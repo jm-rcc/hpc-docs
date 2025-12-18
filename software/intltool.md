@@ -1,11 +1,15 @@
 # intltool  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | intltool/.0.51.0-gcccore-10.3.0 | | |  
 | intltool/.0.51.0-gcccore-11.3.0 | | |  
 | intltool/.0.51.0-gcccore-12.3.0 | | |  
 | intltool/.0.51.0-gcccore-13.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 intltool is a set of tools to centralize translation of
  many different file formats using GNU gettext-compatible PO files.  

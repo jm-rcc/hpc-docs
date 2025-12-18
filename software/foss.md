@@ -1,12 +1,16 @@
 # foss  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | foss/2021a | | |  
 | foss/2022a | | |  
 | foss/2023a | | |  
 | foss/2024a | | |  
 | foss/2025a | | |  
-  
+{: .tablelines}  
 ## Description  
 GNU Compiler Collection (GCC) based compiler toolchain, including
  OpenMPI for MPI support, OpenBLAS (BLAS and LAPACK support), FFTW and ScaLAPACK.  

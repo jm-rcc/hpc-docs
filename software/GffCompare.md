@@ -1,8 +1,12 @@
 # GffCompare  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | gffcompare/0.12.2-gcc-10.3.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 GffCompare provides classification and reference annotation mapping and
  matching statistics for RNA-Seq assemblies (transfrags) or other generic GFF/GTF files.  

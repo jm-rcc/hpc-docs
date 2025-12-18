@@ -1,5 +1,9 @@
 # ncurses  
-|Installed versions:|A|B|  
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+border: 1px solid black;
+}
+</style>|Installed versions:|A|B|  
 |-------|--------|---------|  
 | ncurses/.6.1 | | |  
 | ncurses/.6.2 | | |  
@@ -10,7 +14,7 @@
 | ncurses/.6.5 | | |  
 | ncurses/.6.5-gcccore-13.3.0 | | |  
 | ncurses/.6.5-gcccore-14.2.0 | | |  
-  
+{: .tablelines}  
 ## Description  
 The Ncurses (new curses) library is a free software emulation of curses in
  System V Release 4.0, and more. It uses Terminfo format, supports pads and
