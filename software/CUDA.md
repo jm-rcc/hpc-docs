@@ -9,8 +9,8 @@ category: system
 | :--- | :--- | :--- | :--- |  
  | cuda/12.6.0 | 12.6.0 |  |  |  
  | cuda/12.2.0 | 12.2.0 |  |  |  
- | cuda/11.8.0 | 11.8.0 |  |  |  
  | cuda/12.1.1 | 12.1.1 |  |  |  
+ | cuda/11.8.0 | 11.8.0 |  |  |  
  | cuda/11.7.0 | 11.7.0 |  |  |  
   
 CUDA (formerly Compute Unified Device Architecture) is a parallel

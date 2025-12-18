@@ -7,8 +7,8 @@ category: lib
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | isa-l/2.30.0-gcccore-10.3.0 | 2.30.0 | GCCcore-10.3.0 |  |  
  | isa-l/2.30.0-gcccore-11.3.0 | 2.30.0 | GCCcore-11.3.0 |  |  
+ | isa-l/2.30.0-gcccore-10.3.0 | 2.30.0 | GCCcore-10.3.0 |  |  
   
 Intelligent Storage Acceleration Library  
   

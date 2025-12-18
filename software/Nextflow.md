@@ -8,9 +8,9 @@ category: tools
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | nextflow/22.10.1 | 22.10.1 |  |  |  
- | nextflow/23.04.2 | 23.04.2 |  |  |  
  | nextflow/25.04.6 | 25.04.6 |  |  |  
+ | nextflow/23.04.2 | 23.04.2 |  |  |  
+ | nextflow/22.10.1 | 22.10.1 |  |  |  
   
 Nextflow is a reactive workflow framework and a programming DSL
  that eases writing computational pipelines with complex data  
