@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # libnsl  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | libnsl/1.3.0-gcccore-11.3.0 | (version) | (toolchain) |  
+  
 >The libnsl package contains the public client interface for NIS(YP).  
   
   

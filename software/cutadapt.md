@@ -1,11 +1,13 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # cutadapt  
 ## Installed versions  
   
+  
 | A | b | c |  
 | :--- | :---: | :---: |  
- | cutadapt/4.2-gcccore-11.3.0 | (version) | (toolchain) |  
  | cutadapt/3.4-gcccore-10.3.0 | (version) | (toolchain) |  
+ | cutadapt/4.2-gcccore-11.3.0 | (version) | (toolchain) |  
+  
 >Cutadapt finds and removes adapter sequences, primers, poly-A tails and  
 > other types of unwanted sequence from your high-throughput sequencing reads.  
   

@@ -1,11 +1,13 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # HMMER  
 ## Installed versions  
   
+  
 | A | b | c |  
 | :--- | :---: | :---: |  
- | hmmer/3.3.2-gompi-2022a | (version) | (toolchain) |  
  | hmmer/3.3.2-gompi-2021a | (version) | (toolchain) |  
+ | hmmer/3.3.2-gompi-2022a | (version) | (toolchain) |  
+  
 >HMMER is used for searching sequence databases for homologs  
 > of protein sequences, and for making protein sequence alignments. It  
 > implements methods using probabilistic models called profile hidden Markov  

@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # multichoose  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | multichoose/1.0.3-gcccore-10.3.0 | (version) | (toolchain) |  
+  
 >generate multiset combinations (n multichoose k).  
   
   

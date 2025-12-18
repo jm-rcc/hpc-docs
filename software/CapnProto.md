@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # CapnProto  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | capnproto/0.9.1-gcccore-10.3.0 | (version) | (toolchain) |  
+  
 >Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.  
   
   

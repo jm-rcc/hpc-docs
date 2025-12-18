@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # tqdm  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | tqdm/4.61.2-gcccore-10.3.0 | (version) | (toolchain) |  
+  
 >A fast, extensible progress bar for Python and CLI  
   
   

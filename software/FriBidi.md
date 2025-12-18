@@ -1,12 +1,14 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # FriBidi  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | fribidi/.1.0.12-gcccore-11.3.0 | (version) | (toolchain) |  
  | fribidi/.1.0.10-gcccore-10.3.0 | (version) | (toolchain) |  
  | fribidi/.1.0.12-gcccore-12.3.0 | (version) | (toolchain) |  
+  
 >The Free Implementation of the Unicode Bidirectional Algorithm.  
   
   

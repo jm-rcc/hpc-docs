@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # GDRCopy  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | gdrcopy/2.3.1-gcccore-12.3.0 | (version) | (toolchain) |  
+  
 >A low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.  
   
   

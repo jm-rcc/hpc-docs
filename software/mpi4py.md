@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # mpi4py  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | mpi4py/3.1.4-gompi-2023a | (version) | (toolchain) |  
+  
 >MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for  
 > the Python programming language, allowing any Python program to exploit multiple processors.  
   

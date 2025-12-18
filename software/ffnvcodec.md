@@ -1,11 +1,13 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # ffnvcodec  
 ## Installed versions  
   
+  
 | A | b | c |  
 | :--- | :---: | :---: |  
- | ffnvcodec/12.0.16.0 | (version) | (toolchain) |  
  | ffnvcodec/11.1.5.2 | (version) | (toolchain) |  
+ | ffnvcodec/12.0.16.0 | (version) | (toolchain) |  
+  
 >FFmpeg nvidia headers. Adds support for nvenc and nvdec. Requires Nvidia GPU and drivers to be present  
 >(picked up dynamically).  
   

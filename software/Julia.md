@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # Julia  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | julia/1.8.2-linux-x86_64 | (version) | (toolchain) |  
+  
 >Julia is a high-level, high-performance dynamic programming language for numerical computing  
   
   

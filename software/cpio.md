@@ -1,10 +1,12 @@
-[< Software](../software_shortlist)  
+[< Software](../software_shortlist.md)  
 # cpio  
 ## Installed versions  
+  
   
 | A | b | c |  
 | :--- | :---: | :---: |  
  | cpio/2.14-gcccore-11.3.0 | (version) | (toolchain) |  
+  
 >The cpio package contains tools for archiving.  
   
   
