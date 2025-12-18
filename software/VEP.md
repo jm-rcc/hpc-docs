@@ -1,11 +1,13 @@
 [< Software](../software_shortlist.md)  
 # VEP  
+## Homepage  
+[https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
+`category: {i}`  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | vep/107-gcc-11.3.0 | 107 | GCC-11.3.0 | None |  
+ | vep/107-gcc-11.3.0 | 107 | GCC-11.3.0 |  |  
   
 >Variant Effect Predictor (VEP) determines the effect of your  
 > variants (SNPs, insertions, deletions, CNVs or structural variants) on genes,  
@@ -14,5 +16,3 @@
 > used routines in VEP.  
   
   
-## Homepage  
-[https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  

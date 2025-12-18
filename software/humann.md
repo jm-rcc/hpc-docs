@@ -1,11 +1,13 @@
 [< Software](../software_shortlist.md)  
 # humann  
+## Homepage  
+[http://huttenhower.sph.harvard.edu/humann](http://huttenhower.sph.harvard.edu/humann)  
+`category: {i}`  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | humann/3.6-foss-2022a | 3.6 | foss-2022a | None |  
+ | humann/3.6-foss-2022a | 3.6 | foss-2022a |  |  
   
 >HUMAnN v3 is a pipeline for efficiently  
 > and accurately determining the coverage and abundance  
@@ -18,5 +20,3 @@
 > What are the microbes in my community-of-interest doing (or capable of doing)?  
   
   
-## Homepage  
-[http://huttenhower.sph.harvard.edu/humann](http://huttenhower.sph.harvard.edu/humann)  

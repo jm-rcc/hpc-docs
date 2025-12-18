@@ -1,11 +1,13 @@
 [< Software](../software_shortlist.md)  
 # Cereal  
+## Homepage  
+[https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  
+`category: {i}`  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | cereal/1.3.0 | 1.3.0 |  | None |  
+ | cereal/1.3.0 | 1.3.0 |  |  |  
   
 >cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly  
 >turns them into different representations, such as compact binary encodings, XML, or JSON. cereal was designed to be  
@@ -13,5 +15,3 @@
 >used standalone.  
   
   
-## Homepage  
-[https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  

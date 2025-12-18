@@ -1,16 +1,16 @@
 [< Software](../software_shortlist.md)  
 # cutadapt  
+## Homepage  
+[https://opensource.scilifelab.se/projects/cutadapt/](https://opensource.scilifelab.se/projects/cutadapt/)  
+`category: {i}`  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | cutadapt/3.4-gcccore-10.3.0 | 3.4 | GCCcore-10.3.0 | None |  
- | cutadapt/4.2-gcccore-11.3.0 | 4.2 | GCCcore-11.3.0 | None |  
+ | cutadapt/4.2-gcccore-11.3.0 | 4.2 | GCCcore-11.3.0 |  |  
+ | cutadapt/3.4-gcccore-10.3.0 | 3.4 | GCCcore-10.3.0 |  |  
   
 >Cutadapt finds and removes adapter sequences, primers, poly-A tails and  
 > other types of unwanted sequence from your high-throughput sequencing reads.  
   
   
-## Homepage  
-[https://opensource.scilifelab.se/projects/cutadapt/](https://opensource.scilifelab.se/projects/cutadapt/)  

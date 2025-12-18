@@ -1,11 +1,13 @@
 [< Software](../software_shortlist.md)  
 # minimap2  
+## Homepage  
+[https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  
+`category: {i}`  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | minimap2/2.24-gcccore-11.3.0 | 2.24 | GCCcore-11.3.0 | None |  
+ | minimap2/2.24-gcccore-11.3.0 | 2.24 | GCCcore-11.3.0 |  |  
   
 >Minimap2 is a fast sequence mapping and alignment  
 >program that can find overlaps between long noisy reads, or map long  
@@ -18,5 +20,3 @@
 >alignment.  
   
   
-## Homepage  
-[https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  

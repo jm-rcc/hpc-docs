@@ -1,11 +1,13 @@
 [< Software](../software_shortlist.md)  
 # GCTA  
+## Homepage  
+[https://yanglab.westlake.edu.cn/software/gcta/](https://yanglab.westlake.edu.cn/software/gcta/)  
+`category: {i}`  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gcta/1.94.0beta-gfbf-2022a | 1.94.0beta | gfbf-2022a | None |  
+ | gcta/1.94.0beta-gfbf-2022a | 1.94.0beta | gfbf-2022a |  |  
   
 >GCTA (Genome-wide Complex Trait Analysis) is a software package, which was  
 > initially developed to estimate the proportion of phenotypic variance explained  
@@ -13,5 +15,3 @@
 > for many other analyses of data from genome-wide association studies (GWASs).  
   
   
-## Homepage  
-[https://yanglab.westlake.edu.cn/software/gcta/](https://yanglab.westlake.edu.cn/software/gcta/)  

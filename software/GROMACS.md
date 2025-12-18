@@ -1,11 +1,13 @@
 [< Software](../software_shortlist.md)  
 # GROMACS  
+## Homepage  
+[https://www.gromacs.org](https://www.gromacs.org)  
+`category: {i}`  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 | 2023.3 | foss-2023a | {'openmp': True, 'usempi': True, 'extra_cxxflags': '-fpermissive'} |  
+ | gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 | 2023.3 | foss-2023a | openmp: True, usempi: True, extra_cxxflags: -fpermissive |  
   
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
@@ -18,10 +20,9 @@
 >next to PLUMED.  
   
   
-  
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gromacs/2023.3-foss-2023a | 2023.3 | foss-2023a | {'openmp': True, 'usempi': True} |  
+ | gromacs/2023.3-foss-2023a | 2023.3 | foss-2023a | openmp: True, usempi: True |  
   
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
@@ -33,10 +34,9 @@
 >It also contains the gmxapi extension for the single precision MPI build.  
   
   
-  
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gromacs/2021.3-foss-2021a | 2021.3 | foss-2021a | {'openmp': True, 'usempi': True} |  
+ | gromacs/2021.3-foss-2021a | 2021.3 | foss-2021a | openmp: True, usempi: True |  
   
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
@@ -48,5 +48,3 @@
 >It also contains the gmxapi extension for the single precision MPI build.  
   
   
-## Homepage  
-[https://www.gromacs.org](https://www.gromacs.org)  
