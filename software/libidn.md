@@ -2,7 +2,7 @@
 # libidn  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | libidn/.1.36-gcccore-10.3.0 | (version) | (toolchain) |
 >GNU Libidn is a fully documented implementation of the Stringprep, Punycode and IDNA specifications.  

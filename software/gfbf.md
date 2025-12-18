@@ -2,7 +2,7 @@
 # gfbf  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | gfbf/2022a | (version) | (toolchain) |
  | gfbf/2023a | (version) | (toolchain) |

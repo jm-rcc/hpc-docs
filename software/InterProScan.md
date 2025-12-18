@@ -2,7 +2,7 @@
 # InterProScan  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | interproscan/5.55-88.0-foss-2021a | (version) | (toolchain) |
 >InterProScan is a sequence analysis application (nucleotide and protein sequences) that combines  

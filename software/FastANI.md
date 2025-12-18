@@ -2,7 +2,7 @@
 # FastANI  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | fastani/1.33-gcc-10.3.0 | (version) | (toolchain) |
 >FastANI is developed for fast alignment-free computation of  

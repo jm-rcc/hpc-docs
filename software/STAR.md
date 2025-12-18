@@ -2,7 +2,7 @@
 # STAR  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | star/2.7.10b-gcc-11.3.0 | (version) | (toolchain) |
  | star/2.7.9a-gcc-10.3.0 | (version) | (toolchain) |

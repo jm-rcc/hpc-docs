@@ -2,7 +2,7 @@
 # Eigen  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | eigen/.3.3.9-gcccore-10.3.0 | (version) | (toolchain) |
  | eigen/.3.4.0-gcccore-11.3.0 | (version) | (toolchain) |

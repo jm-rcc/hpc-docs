@@ -2,7 +2,7 @@
 # FFmpeg  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | ffmpeg/6.0-gcccore-12.3.0 | (version) | (toolchain) |
  | ffmpeg/4.3.2-gcccore-10.3.0 | (version) | (toolchain) |

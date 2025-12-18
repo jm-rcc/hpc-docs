@@ -2,7 +2,7 @@
 # EasyBuild  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | easybuild/5.1.0 | (version) | (toolchain) |
  | easybuild/5.1.1 | (version) | (toolchain) |

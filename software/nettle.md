@@ -2,7 +2,7 @@
 # nettle  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | nettle/.3.7.2-gcccore-10.3.0 | (version) | (toolchain) |
  | nettle/.3.8-gcccore-11.3.0 | (version) | (toolchain) |

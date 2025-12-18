@@ -2,7 +2,7 @@
 # libev  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | libev/.4.33-gcc-11.3.0 | (version) | (toolchain) |
 >A full-featured and high-performance (see benchmark)  

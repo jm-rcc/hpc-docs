@@ -2,7 +2,7 @@
 # nghttp2  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | nghttp2/.1.48.0-gcc-11.3.0 | (version) | (toolchain) |
 >This is an implementation of the Hypertext Transfer Protocol version 2 in C.    

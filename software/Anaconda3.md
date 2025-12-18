@@ -2,7 +2,7 @@
 # Anaconda3  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | anaconda3/2022.05 | (version) | (toolchain) |
 >Built to complement the rich, open source Python community,  
@@ -10,7 +10,7 @@
 >that empowers companies to adopt a modern open data science analytics architecture.  
   
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | anaconda3/2023.09-0 | (version) | (toolchain) |
 >Built to complement the rich, open source Python community,  

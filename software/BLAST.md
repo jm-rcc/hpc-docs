@@ -2,7 +2,7 @@
 # BLAST  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | blast/2.11.0-linux_x86_64 | (version) | (toolchain) |
 >Basic Local Alignment Search Tool, or BLAST, is an algorithm for comparing primary biological  

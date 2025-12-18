@@ -2,7 +2,7 @@
 # SAMtools  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | samtools/1.13-gcc-10.3.0 | (version) | (toolchain) |
  | samtools/1.16.1-gcc-11.3.0 | (version) | (toolchain) |

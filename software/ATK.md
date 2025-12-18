@@ -2,7 +2,7 @@
 # ATK  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | atk/.2.38.0-gcccore-12.3.0 | (version) | (toolchain) |
  | atk/.2.38.0-gcccore-11.3.0 | (version) | (toolchain) |

@@ -2,7 +2,7 @@
 # seqtk  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | seqtk/1.3-gcc-10.3.0 | (version) | (toolchain) |
  | seqtk/1.3-gcc-11.3.0 | (version) | (toolchain) |

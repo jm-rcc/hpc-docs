@@ -2,7 +2,7 @@
 # libxc  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | libxc/.5.1.5-gcc-10.3.0 | (version) | (toolchain) |
  | libxc/.5.2.3-gcc-11.3.0 | (version) | (toolchain) |

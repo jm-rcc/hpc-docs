@@ -2,7 +2,7 @@
 # libepoxy  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | libepoxy/.1.5.10-gcccore-12.3.0 | (version) | (toolchain) |
  | libepoxy/.1.5.10-gcccore-11.3.0 | (version) | (toolchain) |

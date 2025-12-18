@@ -2,7 +2,7 @@
 # ant  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | ant/1.10.12-java-11 | (version) | (toolchain) |
  | ant/1.10.9-java-11 | (version) | (toolchain) |

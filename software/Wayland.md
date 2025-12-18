@@ -2,7 +2,7 @@
 # Wayland  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | wayland/1.22.0-gcccore-12.3.0 | (version) | (toolchain) |
  | wayland/1.23.0-gcccore-13.3.0 | (version) | (toolchain) |

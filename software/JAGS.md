@@ -2,7 +2,7 @@
 # JAGS  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | jags/4.3.0-foss-2021a | (version) | (toolchain) |
 >JAGS is Just Another Gibbs Sampler.  It is a program for analysis  

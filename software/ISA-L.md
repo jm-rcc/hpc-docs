@@ -2,7 +2,7 @@
 # ISA-L  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | isa-l/2.30.0-gcccore-11.3.0 | (version) | (toolchain) |
  | isa-l/2.30.0-gcccore-10.3.0 | (version) | (toolchain) |

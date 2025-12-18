@@ -2,7 +2,7 @@
 # CoordgenLibs  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | coordgenlibs/3.0.1-gompi-2022a | (version) | (toolchain) |
  | coordgenlibs/3.0.1-gompi-2021a | (version) | (toolchain) |

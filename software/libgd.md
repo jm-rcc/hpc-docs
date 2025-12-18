@@ -2,7 +2,7 @@
 # libgd  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | libgd/.2.3.3-gcccore-11.3.0 | (version) | (toolchain) |
  | libgd/.2.3.1-gcccore-10.3.0 | (version) | (toolchain) |

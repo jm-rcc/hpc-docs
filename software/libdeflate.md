@@ -2,7 +2,7 @@
 # libdeflate  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | libdeflate/1.18-gcccore-12.3.0 | (version) | (toolchain) |
  | libdeflate/1.10-gcccore-11.3.0 | (version) | (toolchain) |

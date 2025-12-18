@@ -2,7 +2,7 @@
 # Kraken2  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | kraken2/2.1.2-gompi-2021a | (version) | (toolchain) |
  | kraken2/2.1.2-gompi-2022a | (version) | (toolchain) |

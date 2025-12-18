@@ -2,7 +2,7 @@
 # GATK  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | gatk/4.3.0.0-gcccore-11.3.0-java-11 | (version) | (toolchain) |
  | gatk/.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437 | (version) | (toolchain) |

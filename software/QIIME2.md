@@ -2,7 +2,7 @@
 # QIIME2  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | qiime2/2022.8 | (version) | (toolchain) |
 >QIIME is an open-source bioinformatics pipeline for performing microbiome analysis  

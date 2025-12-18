@@ -2,7 +2,7 @@
 # GLPK  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | glpk/.5.0-gcccore-11.3.0 | (version) | (toolchain) |
  | glpk/.5.0-gcccore-10.3.0 | (version) | (toolchain) |

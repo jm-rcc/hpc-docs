@@ -2,7 +2,7 @@
 # BLAST+  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | blast+/2.13.0-gompi-2022a | (version) | (toolchain) |
  | blast+/2.11.0-gompi-2021a | (version) | (toolchain) |

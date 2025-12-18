@@ -2,7 +2,7 @@
 # CellRanger  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | cellranger/7.1.0 | (version) | (toolchain) |
 >Cell Ranger is a set of analysis pipelines that process Chromium  

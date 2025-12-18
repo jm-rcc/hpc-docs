@@ -2,7 +2,7 @@
 # SSW  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | ssw/1.1-gcccore-10.3.0 | (version) | (toolchain) |
 >SSW is a fast implementation of the Smith-Waterman algorithm, which uses the  

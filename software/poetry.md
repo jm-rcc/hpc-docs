@@ -2,7 +2,7 @@
 # poetry  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | poetry/1.5.1-gcccore-12.3.0 | (version) | (toolchain) |
 >Python packaging and dependency management made easy. Poetry helps you declare, manage and install  

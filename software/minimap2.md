@@ -2,7 +2,7 @@
 # minimap2  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | minimap2/2.24-gcccore-11.3.0 | (version) | (toolchain) |
 >Minimap2 is a fast sequence mapping and alignment  

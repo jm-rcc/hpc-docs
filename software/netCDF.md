@@ -2,7 +2,7 @@
 # netCDF  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | netcdf/4.8.0-gompi-2021a | (version) | (toolchain) |
  | netcdf/4.9.0-gompi-2022a | (version) | (toolchain) |

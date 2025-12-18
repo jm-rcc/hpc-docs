@@ -2,7 +2,7 @@
 # HMMER  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | hmmer/3.3.2-gompi-2022a | (version) | (toolchain) |
  | hmmer/3.3.2-gompi-2021a | (version) | (toolchain) |

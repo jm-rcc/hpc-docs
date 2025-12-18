@@ -2,7 +2,7 @@
 # CD-HIT  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | cd-hit/4.8.1-gcc-10.3.0 | (version) | (toolchain) |
  | cd-hit/4.8.1-gcc-11.3.0 | (version) | (toolchain) |

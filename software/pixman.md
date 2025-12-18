@@ -2,10 +2,10 @@
 # pixman  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
- | pixman/.0.42.2-gcccore-12.3.0 | (version) | (toolchain) |
  | pixman/.0.40.0-gcccore-10.3.0 | (version) | (toolchain) |
+ | pixman/.0.42.2-gcccore-12.3.0 | (version) | (toolchain) |
  | pixman/.0.40.0-gcccore-11.3.0 | (version) | (toolchain) |
 >Pixman is a low-level software library for pixel manipulation, providing  
 > features such as image compositing and trapezoid rasterization. Important  

@@ -2,7 +2,7 @@
 # SRA-Toolkit  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | sra-toolkit/3.0.3-gompi-2022a | (version) | (toolchain) |
 >The SRA Toolkit, and the source-code SRA System Development  

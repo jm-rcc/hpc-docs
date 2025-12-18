@@ -2,7 +2,7 @@
 # nodejs  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | nodejs/.16.15.1-gcccore-11.3.0 | (version) | (toolchain) |
  | nodejs/.18.17.1-gcccore-12.3.0 | (version) | (toolchain) |

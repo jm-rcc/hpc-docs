@@ -2,7 +2,7 @@
 # tmux  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | tmux/3.5a | (version) | (toolchain) |
 >tmux is a terminal multiplexer: it enables a number of  

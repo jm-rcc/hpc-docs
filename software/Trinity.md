@@ -2,7 +2,7 @@
 # Trinity  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | trinity/2.9.1-foss-2021a | (version) | (toolchain) |
 >Trinity represents a novel method for the efficient and robust de novo reconstruction  

@@ -2,10 +2,10 @@
 # OpenPGM  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
- | openpgm/.5.2.122-gcccore-11.3.0 | (version) | (toolchain) |
  | openpgm/.5.2.122-gcccore-10.3.0 | (version) | (toolchain) |
+ | openpgm/.5.2.122-gcccore-11.3.0 | (version) | (toolchain) |
 >OpenPGM is an open source implementation of the Pragmatic General Multicast  
 > (PGM) specification in RFC 3208 available at www.ietf.org. PGM is a reliable  
 > and scalable multicast protocol that enables receivers to detect loss, request  

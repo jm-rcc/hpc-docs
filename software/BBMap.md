@@ -2,7 +2,7 @@
 # BBMap  
 ## Installed versions  
   
-|A|b|c|
+| A | b | c |
 |:---|:---:|:---:|
  | bbmap/39.01-gcc-11.3.0 | (version) | (toolchain) |
  | bbmap/38.96-gcc-10.3.0 | (version) | (toolchain) |
