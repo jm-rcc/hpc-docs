@@ -73,7 +73,7 @@ Set parameter TokenServer to value "uq-gurobi.research.dc.uq.edu.au"
 Set parameter LogFile to value "gurobi.log"
 Using license file /sw/local/rocky8.6/noarch/rcc/software/Gurobi/gurobi.lic
 
-```
+```  
 
 ___
 ### MATLAB 
@@ -106,10 +106,10 @@ ___
 
 To test functionality please either of these  
 
-```
+```  
 module load star-ccm+/15.06.008
 module load star-ccm+/17.02.008
-```
+```  
 
 
 Please submit a support request via email to rcc-support@uq.edu.au if you experience any issues while testing Star-CCM+.
@@ -127,7 +127,7 @@ An alternative to using an interactive session on a CUDA node, would be to inter
 ### CPU Nodes
 
 You should run **`module -I -w 120 --show-hidden overview`** on Bunya to get the up-to-date list of installed software.  
-```
+```  
 ------------------------------------------ /sw/auto/rocky8c/epyc3/modules/all ------------------------------------------
 abricate           (1)   fastp                 (1)   impi            (3)   lz4           (2)   pybigwig        (2)
 alsa-lib           (1)   fastqc                (1)   intel-compilers (3)   lzo           (1)   pybind11        (2)
@@ -230,8 +230,8 @@ drep                (1)   juicer       (1)   nextpolish2   (1)   rsem           
 edirect             (1)   kallisto     (1)   ont-fast5-api (1)   salsa2          (1)   unicycler    (1)
 enrichm             (1)   kofamscan    (1)   parsnp        (1)   scvelo          (1)   xpore        (1)
 exonerate           (1)   ldsc         (1)   pb-assembly   (1)   shovill         (1)
-
-```
+  
+```  
 ___
 ## Software Survey Requests
 
