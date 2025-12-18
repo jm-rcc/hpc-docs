@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | sepp/4.5.0-foss-2021a | (version) | (toolchain) |  
  | sepp/4.5.1-foss-2022a | (version) | (toolchain) |  
   

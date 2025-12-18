@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | giflib/.5.2.1-gcccore-12.3.0 | (version) | (toolchain) |  
  | giflib/.5.2.1-gcccore-11.3.0 | (version) | (toolchain) |  
   

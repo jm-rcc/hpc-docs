@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | libtasn1/.4.19.0-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >Libtasn1 is the ASN.1 library used by GnuTLS, GNU Shishi and  

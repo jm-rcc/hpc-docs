@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | cryptography/41.0.1-gcccore-12.3.0 | (version) | (toolchain) |  
   
 >cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.  

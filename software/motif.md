@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | motif/2.3.8-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building  

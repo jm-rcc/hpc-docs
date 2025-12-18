@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | xxd/9.0.2112-gcccore-12.3.0 | (version) | (toolchain) |  
  | xxd/8.2.4220-gcccore-11.3.0 | (version) | (toolchain) |  
  | xxd/8.2.4220-gcccore-10.3.0 | (version) | (toolchain) |  

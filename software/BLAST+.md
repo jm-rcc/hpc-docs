@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | blast+/2.13.0-gompi-2022a | (version) | (toolchain) |  
  | blast+/2.11.0-gompi-2021a | (version) | (toolchain) |  
   

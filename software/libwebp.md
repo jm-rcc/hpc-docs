@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | libwebp/.1.2.4-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >WebP is a modern image format that provides superior  

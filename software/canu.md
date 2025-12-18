@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | canu/2.2-gcccore-10.3.0 | (version) | (toolchain) |  
  | canu/2.2-gcccore-11.3.0 | (version) | (toolchain) |  
   

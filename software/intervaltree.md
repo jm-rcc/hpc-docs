@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | intervaltree/0.1-gcccore-10.3.0 | (version) | (toolchain) |  
   
 >An interval tree can be used to efficiently find a set of numeric intervals  

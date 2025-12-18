@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | humann/3.6-foss-2022a | (version) | (toolchain) |  
   
 >HUMAnN v3 is a pipeline for efficiently  

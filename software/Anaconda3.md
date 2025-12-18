@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | anaconda3/2022.05 | (version) | (toolchain) |  
   
 >Built to complement the rich, open source Python community,  
@@ -13,8 +13,8 @@
   
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | anaconda3/2023.09-0 | (version) | (toolchain) |  
   
 >Built to complement the rich, open source Python community,  

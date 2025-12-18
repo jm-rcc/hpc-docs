@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | matplotlib/3.5.2-foss-2022a | (version) | (toolchain) |  
  | matplotlib/3.4.2-foss-2021a | (version) | (toolchain) |  
   

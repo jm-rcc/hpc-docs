@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | openbabel/3.1.1-gompi-2022a | (version) | (toolchain) |  
  | openbabel/3.1.1-gompi-2021a | (version) | (toolchain) |  
   

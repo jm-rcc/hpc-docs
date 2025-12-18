@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | augustus/3.4.0-foss-2021a | (version) | (toolchain) |  
  | augustus/3.5.0-foss-2022a | (version) | (toolchain) |  
   

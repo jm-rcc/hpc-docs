@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | git/2.41.0-gcccore-12.3.0-nodocs | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | git/2.32.0-gcccore-10.3.0-nodocs | (version) | (toolchain) |  
+ | git/2.41.0-gcccore-12.3.0-nodocs | (version) | (toolchain) |  
  | git/2.36.0-gcccore-11.3.0-nodocs | (version) | (toolchain) |  
  | git/2.45.1-gcccore-13.3.0 | (version) | (toolchain) |  
   

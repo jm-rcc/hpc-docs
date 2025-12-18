@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | maeparser/1.3.0-gompi-2021a | (version) | (toolchain) |  
  | maeparser/1.3.0-gompi-2022a | (version) | (toolchain) |  
   

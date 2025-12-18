@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | libaec/1.0.6-gcccore-12.3.0 | (version) | (toolchain) |  
   
 >Libaec provides fast lossless compression of 1 up to 32 bit wide signed or unsigned integers  

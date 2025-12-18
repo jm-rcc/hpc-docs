@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | fastahack/1.0.0-gcccore-10.3.0 | (version) | (toolchain) |  
   
 >Utilities for indexing and sequence extraction from FASTA files.  

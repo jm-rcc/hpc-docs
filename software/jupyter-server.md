@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | jupyter-server/1.21.0-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >The Jupyter Server provides the backend (i.e. the core services, APIs, and REST  

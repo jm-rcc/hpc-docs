@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | quast/5.0.2-foss-2021a | (version) | (toolchain) |  
  | quast/5.2.0-foss-2022a | (version) | (toolchain) |  
   

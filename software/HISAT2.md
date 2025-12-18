@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | hisat2/2.2.1-gompi-2022a | (version) | (toolchain) |  
  | hisat2/2.2.1-gompi-2021a | (version) | (toolchain) |  
   

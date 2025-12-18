@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | picard/2.25.1-java-11 | (version) | (toolchain) |  
   
 >A set of tools (in Java) for working with next generation sequencing data in the BAM format.  

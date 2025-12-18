@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | h5py/3.2.1-foss-2021a | (version) | (toolchain) |  
   
 >HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical Data Format library,  

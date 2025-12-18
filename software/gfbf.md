@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | gfbf/2022a | (version) | (toolchain) |  
  | gfbf/2023a | (version) | (toolchain) |  
   

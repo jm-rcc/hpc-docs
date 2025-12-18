@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | curl/.8.11.1-gcccore-14.2.0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | curl/.7.83.0-gcccore-11.3.0 | (version) | (toolchain) |  
- | curl/.8.0.1-gcccore-12.3.0 | (version) | (toolchain) |  
  | curl/.8.7.1-gcccore-13.3.0 | (version) | (toolchain) |  
+ | curl/.8.11.1-gcccore-14.2.0 | (version) | (toolchain) |  
  | curl/.7.76.0-gcccore-10.3.0 | (version) | (toolchain) |  
+ | curl/.8.0.1-gcccore-12.3.0 | (version) | (toolchain) |  
   
 >libcurl is a free and easy-to-use client-side URL transfer library,  
 > supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP,  

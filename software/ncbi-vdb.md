@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | ncbi-vdb/2.10.9-gompi-2021a | (version) | (toolchain) |  
  | ncbi-vdb/3.0.2-gompi-2022a | (version) | (toolchain) |  
   

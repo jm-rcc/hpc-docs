@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | popt/1.19-gcccore-11.3.0 | (version) | (toolchain) |  
  | popt/.1.19-gcccore-11.3.0.bak_20251013214435_2034437 | (version) | (toolchain) |  
   

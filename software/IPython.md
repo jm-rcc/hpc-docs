@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | ipython/.8.5.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | ipython/.7.25.0-gcccore-10.3.0 | (version) | (toolchain) |  
+ | ipython/.8.5.0-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >IPython provides a rich architecture for interactive computing with:  
 > Powerful interactive shells (terminal and Qt-based).  

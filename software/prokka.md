@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | prokka/1.14.5-gompi-2022a | (version) | (toolchain) |  
  | prokka/1.14.5-gompi-2021a | (version) | (toolchain) |  
   

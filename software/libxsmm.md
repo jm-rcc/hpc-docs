@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | libxsmm/1.17-gcc-11.3.0 | (version) | (toolchain) |  
  | libxsmm/1.16.2-gcc-10.3.0 | (version) | (toolchain) |  
   

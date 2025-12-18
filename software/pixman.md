@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | pixman/.0.40.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | pixman/.0.40.0-gcccore-10.3.0 | (version) | (toolchain) |  
+ | pixman/.0.40.0-gcccore-11.3.0 | (version) | (toolchain) |  
  | pixman/.0.42.2-gcccore-12.3.0 | (version) | (toolchain) |  
   
 >Pixman is a low-level software library for pixel manipulation, providing  

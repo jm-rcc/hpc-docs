@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | spaceranger/2.1.0-gcc-11.3.0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | spaceranger/2.0.1-gcc-11.3.0 | (version) | (toolchain) |  
+ | spaceranger/2.1.0-gcc-11.3.0 | (version) | (toolchain) |  
   
 >Space Ranger is a set of analysis pipelines that process Visium spatial RNA-seq output  
 >and brightfield microscope images in order to detect tissue, align reads, generate feature-spot matrices,  

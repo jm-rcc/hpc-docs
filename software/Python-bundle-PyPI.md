@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | python-bundle-pypi/2023.06-gcccore-12.3.0 | (version) | (toolchain) |  
   
 >Bundle of Python packages from PyPI  

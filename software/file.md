@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | file/5.43-gcccore-11.3.0 | (version) | (toolchain) |  
  | file/5.40-gcccore-10.3.0 | (version) | (toolchain) |  
   

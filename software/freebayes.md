@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | freebayes/1.3.6-foss-2021a-r-4.1.0 | (version) | (toolchain) |  
   
 >Bayesian haplotype-based genetic polymorphism discovery and genotyping.  

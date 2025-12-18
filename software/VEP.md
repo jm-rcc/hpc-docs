@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | vep/107-gcc-11.3.0 | (version) | (toolchain) |  
   
 >Variant Effect Predictor (VEP) determines the effect of your  

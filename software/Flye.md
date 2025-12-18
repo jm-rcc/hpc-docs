@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | flye/2.9-gcc-10.3.0 | (version) | (toolchain) |  
   
 >Flye is a de novo assembler for long and noisy reads, such as those produced by PacBio  

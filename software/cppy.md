@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | cppy/1.1.0-gcccore-10.3.0 | (version) | (toolchain) |  
  | cppy/1.2.1-gcccore-11.3.0 | (version) | (toolchain) |  
   

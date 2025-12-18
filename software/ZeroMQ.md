@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | zeromq/.4.3.4-gcccore-11.3.0 | (version) | (toolchain) |  
  | zeromq/.4.3.4-gcccore-10.3.0 | (version) | (toolchain) |  
   

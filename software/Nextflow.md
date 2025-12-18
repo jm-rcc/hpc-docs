@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | nextflow/22.10.1 | (version) | (toolchain) |  
  | nextflow/25.04.6 | (version) | (toolchain) |  
  | nextflow/23.04.2 | (version) | (toolchain) |  

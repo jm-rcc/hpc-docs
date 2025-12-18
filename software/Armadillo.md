@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | armadillo/12.6.2-foss-2023a | (version) | (toolchain) |  
   
 >Armadillo is an open-source C++ linear algebra library (matrix maths) aiming towards  

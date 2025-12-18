@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | mpfr/4.1.0-gcccore-11.3.0 | (version) | (toolchain) |  
  | mpfr/4.1.0-gcccore-10.3.0 | (version) | (toolchain) |  
   

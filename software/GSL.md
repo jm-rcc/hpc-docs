@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | gsl/2.7-gcc-12.3.0 | (version) | (toolchain) |  
  | gsl/2.7-gcc-11.3.0 | (version) | (toolchain) |  
  | gsl/2.7-gcc-10.3.0 | (version) | (toolchain) |  

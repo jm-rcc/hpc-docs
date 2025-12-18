@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | nghttp3/.0.6.0-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >nghttp3 is an implementation of RFC 9114 HTTP/3  

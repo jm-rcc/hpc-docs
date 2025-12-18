@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | fsom/20141119-gcccore-10.3.0 | (version) | (toolchain) |  
   
 >A tiny C library for managing SOM (Self-Organizing Maps) neural networks.  

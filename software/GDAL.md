@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | gdal/3.5.0-foss-2022a | (version) | (toolchain) |  
  | gdal/3.7.1-foss-2023a | (version) | (toolchain) |  
  | gdal/3.3.0-foss-2021a | (version) | (toolchain) |  

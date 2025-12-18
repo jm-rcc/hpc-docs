@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | boost.python/1.79.0-gcc-11.3.0 | (version) | (toolchain) |  
  | boost.python/1.76.0-gcc-10.3.0 | (version) | (toolchain) |  
   

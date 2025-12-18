@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | miniconda3/23.9.0-0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | miniconda3/4.12.0 | (version) | (toolchain) |  
+ | miniconda3/23.9.0-0 | (version) | (toolchain) |  
   
 >Miniconda is a free minimal installer for conda. It is a small,  
 > bootstrap version of Anaconda that includes only conda, Python, the packages they  

@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | pkg-config/.0.29.2-gcccore-11.3.0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | pkg-config/.0.29.2-gcccore-10.3.0 | (version) | (toolchain) |  
+ | pkg-config/.0.29.2-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >pkg-config is a helper tool used when compiling applications and libraries.  
 > It helps you insert the correct compiler options on the command line so an  

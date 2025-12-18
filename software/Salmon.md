@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | salmon/1.9.0-gcc-11.3.0 | (version) | (toolchain) |  
  | salmon/1.4.0-gompi-2021a | (version) | (toolchain) |  
   

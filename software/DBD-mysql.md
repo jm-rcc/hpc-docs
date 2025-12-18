@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | dbd-mysql/4.050-gcc-11.3.0 | (version) | (toolchain) |  
   
 >Perl binding for MySQL  

@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | busco/5.4.5-foss-2022a | (version) | (toolchain) |  
  | busco/5.4.2-foss-2021a | (version) | (toolchain) |  
   

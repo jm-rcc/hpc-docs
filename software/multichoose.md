@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | multichoose/1.0.3-gcccore-10.3.0 | (version) | (toolchain) |  
   
 >generate multiset combinations (n multichoose k).  

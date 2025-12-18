@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | imath/3.1.7-gcccore-12.3.0 | (version) | (toolchain) |  
   
 >Imath is a C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics  

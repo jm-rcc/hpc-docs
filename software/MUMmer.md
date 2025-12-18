@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | mummer/3.23-gcccore-10.3.0 | (version) | (toolchain) |  
  | mummer/4.0.0rc1-gcccore-11.3.0 | (version) | (toolchain) |  
   

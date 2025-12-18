@@ -3,12 +3,12 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | bison/.3.8.2-gcccore-12.3.0 | (version) | (toolchain) |  
- | bison/.3.7.6-gcccore-10.3.0 | (version) | (toolchain) |  
  | bison/.3.8.2-gcccore-11.3.0 | (version) | (toolchain) |  
  | bison/.3.8.2-gcccore-14.2.0 | (version) | (toolchain) |  
+ | bison/.3.7.6-gcccore-10.3.0 | (version) | (toolchain) |  
  | bison/.3.8.2-gcccore-13.3.0 | (version) | (toolchain) |  
   
 >Bison is a general-purpose parser generator that converts an annotated context-free grammar  
@@ -16,8 +16,8 @@
   
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | bison/.3.8.2 | (version) | (toolchain) |  
   
 >Bison is a general-purpose parser generator that converts an annotated  

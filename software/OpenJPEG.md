@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | openjpeg/2.5.0-gcccore-12.3.0 | (version) | (toolchain) |  
  | openjpeg/2.5.0-gcccore-11.3.0 | (version) | (toolchain) |  
   

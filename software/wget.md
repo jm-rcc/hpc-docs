@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | wget/1.21.3-gcccore-11.3.0 | (version) | (toolchain) |  
  | wget/1.21.1-gcccore-10.3.0 | (version) | (toolchain) |  
   

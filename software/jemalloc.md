@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | jemalloc/.5.3.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | jemalloc/.5.2.1-gcccore-11.3.0 | (version) | (toolchain) |  
+ | jemalloc/.5.3.0-gcccore-11.3.0 | (version) | (toolchain) |  
  | jemalloc/.5.2.1-gcccore-10.3.0 | (version) | (toolchain) |  
   
 >jemalloc is a general purpose malloc(3) implementation that emphasizes fragmentation avoidance and  

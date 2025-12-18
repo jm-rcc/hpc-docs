@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | libpsl/.0.21.5-gcccore-14.2.0 | (version) | (toolchain) |  
  | libpsl/.0.21.1-gcccore-11.3.0 | (version) | (toolchain) |  
   

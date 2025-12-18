@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | lpsolve/5.5.2.11-gcc-10.3.0 | (version) | (toolchain) |  
  | lpsolve/5.5.2.11-gcc-11.3.0 | (version) | (toolchain) |  
   

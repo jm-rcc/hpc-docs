@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | nlopt/2.7.0-gcccore-10.3.0 | (version) | (toolchain) |  
  | nlopt/2.7.1-gcccore-11.3.0 | (version) | (toolchain) |  
   

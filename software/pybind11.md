@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | pybind11/2.9.2-gcccore-11.3.0 | (version) | (toolchain) |  
  | pybind11/2.11.1-gcccore-12.3.0 | (version) | (toolchain) |  
  | pybind11/2.6.2-gcccore-10.3.0 | (version) | (toolchain) |  

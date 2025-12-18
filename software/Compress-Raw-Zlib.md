@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | compress-raw-zlib/2.202-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >Low-Level Interface to zlib or zlib-ng compression library  

@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | lerc/4.0.0-gcccore-12.3.0 | (version) | (toolchain) |  
   
 >LERC is an open-source image or raster format which supports rapid encoding and decoding  

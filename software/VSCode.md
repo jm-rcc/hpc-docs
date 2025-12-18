@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | vscode/1.87.0 | (version) | (toolchain) |  
   
 >Visual Studio Code is a lightweight but powerful source code editor   

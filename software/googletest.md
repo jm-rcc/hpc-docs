@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | googletest/1.11.0-gcccore-11.3.0 | (version) | (toolchain) |  
  | googletest/1.13.0-gcccore-12.3.0 | (version) | (toolchain) |  
   

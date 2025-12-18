@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | pycoqc/2.5.2-foss-2021a | (version) | (toolchain) |  
   
 >PycoQC computes metrics and generates interactive QC plots for  

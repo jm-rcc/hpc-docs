@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
- | diamond/2.0.13-gcc-10.3.0 | (version) | (toolchain) |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | diamond/2.1.0-gcc-11.3.0 | (version) | (toolchain) |  
+ | diamond/2.0.13-gcc-10.3.0 | (version) | (toolchain) |  
   
 >Accelerated BLAST compatible local sequence aligner  
   

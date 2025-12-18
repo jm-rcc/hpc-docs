@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | archive-zip/1.68-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >Provide an interface to ZIP archive files.  

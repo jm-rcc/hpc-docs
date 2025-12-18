@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | go/1.18.1 | (version) | (toolchain) |  
  | go/1.18.3 | (version) | (toolchain) |  
  | go/1.23.6 | (version) | (toolchain) |  

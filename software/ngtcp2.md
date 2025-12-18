@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | ngtcp2/.0.7.0-gcc-11.3.0 | (version) | (toolchain) |  
   
 >'Call it TCP/2. One More Time.'    

@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | pybigwig/0.3.18-foss-2022a | (version) | (toolchain) |  
  | pybigwig/0.3.18-foss-2021a | (version) | (toolchain) |  
   

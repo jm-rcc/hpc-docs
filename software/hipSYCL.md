@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | hipsycl/0.9.1-gcc-10.3.0 | (version) | (toolchain) |  
   
 >hipSYCL is a modern SYCL implementation targeting CPUs and  

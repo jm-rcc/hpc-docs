@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | fastp/0.23.2-gcc-11.3.0 | (version) | (toolchain) |  
   
 >A tool designed to provide fast all-in-one preprocessing for FastQ files.  

@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | pocl/6.0-gcc-13.3.0 | (version) | (toolchain) |  
   
 >PoCL is a portable open source (MIT-licensed) implementation  
@@ -12,8 +12,8 @@
   
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | pocl/1.8-gcc-11.3.0 | (version) | (toolchain) |  
   
 >Pocl is a portable open source (MIT-licensed) implementation of the OpenCL standard  

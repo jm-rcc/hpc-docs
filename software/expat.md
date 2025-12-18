@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | expat/.2.6.2-gcccore-13.3.0 | (version) | (toolchain) |  
  | expat/.2.5.0-gcccore-12.3.0 | (version) | (toolchain) |  
   
@@ -14,8 +14,8 @@
   
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | expat/.2.4.8-gcccore-11.3.0 | (version) | (toolchain) |  
  | expat/.2.2.9-gcccore-10.3.0 | (version) | (toolchain) |  
   

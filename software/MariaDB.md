@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | mariadb/10.9.3-gcc-11.3.0 | (version) | (toolchain) |  
   
 >MariaDB is an enhanced, drop-in replacement for MySQL.  

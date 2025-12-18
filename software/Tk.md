@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | tk/.8.6.13-gcccore-12.3.0 | (version) | (toolchain) |  
  | tk/.8.6.11-gcccore-10.3.0 | (version) | (toolchain) |  
  | tk/.8.6.12-gcccore-11.3.0 | (version) | (toolchain) |  

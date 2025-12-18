@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | stringtie/2.1.7-gcc-10.3.0 | (version) | (toolchain) |  
   
 >StringTie is a fast and highly efficient assembler of RNA-Seq alignments into potential transcripts  

@@ -3,8 +3,8 @@
 ## Installed versions  
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | bwa/0.7.17-gcc-10.3.0 | (version) | (toolchain) |  
   
 >Burrows-Wheeler Aligner (BWA) is an efficient program that aligns  
@@ -12,8 +12,8 @@
   
   
   
-| A | b | c |  
-| :--- | :---: | :---: |  
+| &nbsp; | &nbsp; | &nbsp; |  
+| :--- | :--- | :--- |  
  | bwa/0.7.17-gcccore-11.3.0 | (version) | (toolchain) |  
   
 >Burrows-Wheeler Aligner (BWA) is an efficient program that aligns relatively  
