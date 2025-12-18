@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # kim-api  
-category: http://www.diracprogram.org  
+category: chem  
 ## Homepage  
 [https://openkim.org/](https://openkim.org/)  
 ## Installed versions  

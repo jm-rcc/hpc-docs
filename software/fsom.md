@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # fsom  
-category: https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release  
+category: lib  
 ## Homepage  
 [https://github.com/ekg/fsom](https://github.com/ekg/fsom)  
 ## Installed versions  

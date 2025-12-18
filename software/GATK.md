@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GATK  
-category: https://github.com/freebayes/freebayes  
+category: bio  
 ## Homepage  
 [https://www.broadinstitute.org/gatk/](https://www.broadinstitute.org/gatk/)  
 ## Installed versions  

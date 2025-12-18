@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LAPACK  
-category: https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html  
+category: numlib  
 ## Homepage  
 [https://www.netlib.org/lapack/](https://www.netlib.org/lapack/)  
 ## Installed versions  

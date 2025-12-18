@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # lxml  
-category: https://symas.com/lmdb  
+category: lib  
 ## Homepage  
 [https://lxml.de/](https://lxml.de/)  
 ## Installed versions  

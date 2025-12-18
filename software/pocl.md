@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pocl  
-category: https://pmix.org/  
+category: lib  
 ## Homepage  
 [http://portablecl.org](http://portablecl.org)  
 ## Installed versions  

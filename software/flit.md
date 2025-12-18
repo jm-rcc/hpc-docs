@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # flit  
-category: https://libexpat.github.io  
+category: tools  
 ## Homepage  
 [https://github.com/pypa/flit](https://github.com/pypa/flit)  
 ## Installed versions  

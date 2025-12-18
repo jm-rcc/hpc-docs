@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # motif  
-category: https://www.mesa3d.org/  
+category: vis  
 ## Homepage  
 [https://motif.ics.com/](https://motif.ics.com/)  
 ## Installed versions  

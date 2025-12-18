@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Julia  
-category: https://openjdk.org  
+category: lang  
 ## Homepage  
 [https://julialang.org](https://julialang.org)  
 ## Installed versions  

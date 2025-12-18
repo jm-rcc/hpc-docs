@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # STAR  
-category: https://github.com/ncbi/sra-tools  
+category: bio  
 ## Homepage  
 [https://github.com/alexdobin/STAR](https://github.com/alexdobin/STAR)  
 ## Installed versions  

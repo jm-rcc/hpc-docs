@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pkg-config  
-category: https://www.pcre.org/  
+category: devel  
 ## Homepage  
 [https://www.freedesktop.org/wiki/Software/pkg-config/](https://www.freedesktop.org/wiki/Software/pkg-config/)  
 ## Installed versions  

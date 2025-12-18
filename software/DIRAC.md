@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DIRAC  
-category: https://www.cp2k.org/  
+category: chem  
 ## Homepage  
 [http://www.diracprogram.org](http://www.diracprogram.org)  
 ## Installed versions  

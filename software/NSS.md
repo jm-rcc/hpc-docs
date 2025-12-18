@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NSS  
-category: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR  
+category: lib  
 ## Homepage  
 [https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS)  
 ## Installed versions  

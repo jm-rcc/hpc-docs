@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Beagle  
-category: https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html  
+category: bio  
 ## Homepage  
 [https://faculty.washington.edu/browning/beagle/beagle.html](https://faculty.washington.edu/browning/beagle/beagle.html)  
 ## Installed versions  

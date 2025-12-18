@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # matplotlib  
-category: https://www.littlecms.com/  
+category: vis  
 ## Homepage  
 [https://matplotlib.org](https://matplotlib.org)  
 ## Installed versions  

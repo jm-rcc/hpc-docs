@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # re2c  
-category: https://python-poetry.org  
+category: tools  
 ## Homepage  
-[https://re2c.org/](https://re2c.org/)  
 [https://re2c.org](https://re2c.org)  
+[https://re2c.org/](https://re2c.org/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

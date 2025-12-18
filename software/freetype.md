@@ -1,16 +1,16 @@
 [< Software](../software_shortlist.md)  
 # freetype  
-category: https://www.freedesktop.org/wiki/Software/fontconfig/  
+category: vis  
 ## Homepage  
 [https://www.freetype.org](https://www.freetype.org)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | freetype/.2.13.2-gcccore-13.3.0 | 2.13.2 | GCCcore-13.3.0 | pic: True |  
- | freetype/.2.12.1-gcccore-11.3.0 | 2.12.1 | GCCcore-11.3.0 | pic: True |  
- | freetype/.2.10.4-gcccore-10.3.0 | 2.10.4 | GCCcore-10.3.0 | pic: True |  
  | freetype/.2.13.0-gcccore-12.3.0 | 2.13.0 | GCCcore-12.3.0 | pic: True |  
+ | freetype/.2.12.1-gcccore-11.3.0 | 2.12.1 | GCCcore-11.3.0 | pic: True |  
+ | freetype/.2.13.2-gcccore-13.3.0 | 2.13.2 | GCCcore-13.3.0 | pic: True |  
+ | freetype/.2.10.4-gcccore-10.3.0 | 2.10.4 | GCCcore-10.3.0 | pic: True |  
   
 FreeType 2 is a software font engine that is designed to be small, efficient,
  highly customizable, and portable while capable of producing high-quality

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GnuTLS  
-category: https://www.darwinsys.com/file/  
+category: system  
 ## Homepage  
 [https://www.gnutls.org](https://www.gnutls.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # bcl2fastq2  
-category: https://www.htslib.org/  
+category: bio  
 ## Homepage  
 [https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ffnvcodec  
-category: https://elfutils.org/  
+category: lib  
 ## Homepage  
 [https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git](https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git)  
 ## Installed versions  

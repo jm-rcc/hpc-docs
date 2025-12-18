@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Miller  
-category: https://mesonbuild.com  
+category: tools  
 ## Homepage  
 [https://miller.readthedocs.io/](https://miller.readthedocs.io/)  
 ## Installed versions  

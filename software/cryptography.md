@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cryptography  
-category: https://github.com/nucleic/cppy  
+category: tools  
 ## Homepage  
 [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 ## Installed versions  

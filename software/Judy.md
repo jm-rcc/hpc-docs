@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Judy  
-category: https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html  
+category: lib  
 ## Homepage  
 [http://judy.sourceforge.net/](http://judy.sourceforge.net/)  
 ## Installed versions  

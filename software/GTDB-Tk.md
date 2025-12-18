@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GTDB-Tk  
-category: https://www.gromacs.org  
+category: bio  
 ## Homepage  
 [https://github.com/Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)  
 ## Installed versions  

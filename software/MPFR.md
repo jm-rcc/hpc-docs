@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MPFR  
-category: https://karypis.github.io/glaros/projects/gp.html  
+category: math  
 ## Homepage  
 [https://www.mpfr.org](https://www.mpfr.org)  
 ## Installed versions  

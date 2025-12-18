@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BLAST  
-category: https://www.biopython.org  
+category: bio  
 ## Homepage  
 [https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  
 ## Installed versions  

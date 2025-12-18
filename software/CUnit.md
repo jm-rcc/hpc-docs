@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CUnit  
-category: https://www.gnu.org/software/bison  
+category: lang  
 ## Homepage  
 [https://sourceforge.net/projects/cunit/](https://sourceforge.net/projects/cunit/)  
 ## Installed versions  

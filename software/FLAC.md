@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FLAC  
-category: https://github.com/ekg/filevercmp  
+category: lib  
 ## Homepage  
 [https://xiph.org/flac/](https://xiph.org/flac/)  
 ## Installed versions  

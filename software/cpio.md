@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cpio  
-category: https://cffi.readthedocs.io/en/latest/  
+category: tools  
 ## Homepage  
 [https://savannah.gnu.org/projects/cpio/](https://savannah.gnu.org/projects/cpio/)  
 ## Installed versions  

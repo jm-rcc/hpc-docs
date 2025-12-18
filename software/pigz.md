@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pigz  
-category: https://github.com/NixOS/patchelf  
+category: tools  
 ## Homepage  
 [https://zlib.net/pigz/](https://zlib.net/pigz/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Bowtie2  
-category: http://bowtie-bio.sourceforge.net/index.shtml  
+category: bio  
 ## Homepage  
 [https://bowtie-bio.sourceforge.net/bowtie2/index.shtml](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)  
 ## Installed versions  

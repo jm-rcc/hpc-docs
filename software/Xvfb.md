@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Xvfb  
-category: https://x265.org/  
+category: vis  
 ## Homepage  
 [https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml)  
 ## Installed versions  

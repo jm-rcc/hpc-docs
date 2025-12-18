@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # tqdm  
-category: https://github.com/oneapi-src/oneTBB  
+category: lib  
 ## Homepage  
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 ## Installed versions  

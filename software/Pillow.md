@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Pillow  
-category: https://www.paraview.org  
+category: vis  
 ## Homepage  
 [https://pillow.readthedocs.org/](https://pillow.readthedocs.org/)  
 ## Installed versions  

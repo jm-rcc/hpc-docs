@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hifiasm  
-category: https://github.com/Ecogenomics/GTDBTk  
+category: bio  
 ## Homepage  
 [https://github.com/chhylp123/hifiasm](https://github.com/chhylp123/hifiasm)  
 ## Installed versions  

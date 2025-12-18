@@ -1,14 +1,14 @@
 [< Software](../software_shortlist.md)  
 # IPython  
-category: https://github.com/HypothesisWorks/hypothesis  
+category: tools  
 ## Homepage  
 [https://ipython.org/index.html](https://ipython.org/index.html)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ipython/.8.5.0-gcccore-11.3.0 | 8.5.0 | GCCcore-11.3.0 |  |  
  | ipython/.7.25.0-gcccore-10.3.0 | 7.25.0 | GCCcore-10.3.0 |  |  
+ | ipython/.8.5.0-gcccore-11.3.0 | 8.5.0 | GCCcore-11.3.0 |  |  
   
 IPython provides a rich architecture for interactive computing with:
  Powerful interactive shells (terminal and Qt-based).

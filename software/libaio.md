@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libaio  
-category: https://gitlab.dkrz.de/k202009/libaec  
+category: lib  
 ## Homepage  
 [https://pagure.io/libaio](https://pagure.io/libaio)  
 ## Installed versions  

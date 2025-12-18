@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MetaEuk  
-category: https://github.com/voutcn/megahit  
+category: bio  
 ## Homepage  
 [https://metaeuk.soedinglab.org](https://metaeuk.soedinglab.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # elfutils  
-category: https://github.com/google/double-conversion  
+category: lib  
 ## Homepage  
 [https://elfutils.org/](https://elfutils.org/)  
 ## Installed versions  

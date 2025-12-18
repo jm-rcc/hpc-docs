@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenBabel  
-category: https://github.com/MolSSI-MDI/MDI_Library  
+category: chem  
 ## Homepage  
 [https://openbabel.org](https://openbabel.org)  
 ## Installed versions  

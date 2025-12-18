@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libvorbis  
-category: https://www.nongnu.org/libunwind/  
+category: lib  
 ## Homepage  
 [https://xiph.org/vorbis/](https://xiph.org/vorbis/)  
 ## Installed versions  

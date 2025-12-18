@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenPGM  
-category: https://cgit.freedesktop.org/xorg/lib/libpciaccess/  
+category: system  
 ## Homepage  
 [https://code.google.com/p/openpgm/](https://code.google.com/p/openpgm/)  
 ## Installed versions  

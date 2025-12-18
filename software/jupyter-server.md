@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # jupyter-server  
-category: https://ipython.org/index.html  
+category: tools  
 ## Homepage  
 [https://jupyter.org/](https://jupyter.org/)  
 ## Installed versions  

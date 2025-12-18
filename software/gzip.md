@@ -1,16 +1,16 @@
 [< Software](../software_shortlist.md)  
 # gzip  
-category: https://www.gnu.org/software/groff  
+category: tools  
 ## Homepage  
 [https://www.gnu.org/software/gzip/](https://www.gnu.org/software/gzip/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gzip/1.13-gcccore-13.3.0 | 1.13 | GCCcore-13.3.0 |  |  
- | gzip/1.12-gcccore-11.3.0 | 1.12 | GCCcore-11.3.0 |  |  
  | gzip/1.10-gcccore-10.3.0 | 1.10 | GCCcore-10.3.0 |  |  
+ | gzip/1.12-gcccore-11.3.0 | 1.12 | GCCcore-11.3.0 |  |  
  | gzip/1.12-gcccore-12.3.0 | 1.12 | GCCcore-12.3.0 |  |  
+ | gzip/1.13-gcccore-13.3.0 | 1.13 | GCCcore-13.3.0 |  |  
   
 gzip (GNU zip) is a popular data compression program as a replacement for compress  
   

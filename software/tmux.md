@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # tmux  
-category: https://support.hdfgroup.org/doc_resource/SZIP/  
+category: tools  
 ## Homepage  
 [https://github.com/tmux/tmux/](https://github.com/tmux/tmux/)  
 ## Installed versions  

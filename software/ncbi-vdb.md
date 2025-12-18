@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ncbi-vdb  
-category: https://mummer.sourceforge.net/  
+category: bio  
 ## Homepage  
 [https://github.com/ncbi/ncbi-vdb](https://github.com/ncbi/ncbi-vdb)  
 ## Installed versions  

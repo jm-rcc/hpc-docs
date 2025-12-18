@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GObject-Introspection  
-category: https://www.doxygen.org  
+category: devel  
 ## Homepage  
 [https://gi.readthedocs.io/en/latest/](https://gi.readthedocs.io/en/latest/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pplacer  
-category: https://www.cog-genomics.org/plink/2.0/  
+category: bio  
 ## Homepage  
 [http://matsen.fhcrc.org/pplacer/](http://matsen.fhcrc.org/pplacer/)  
 ## Installed versions  

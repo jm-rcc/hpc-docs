@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CP2K  
-category: https://github.com/schrodinger/coordgenlibs  
+category: chem  
 ## Homepage  
 [https://www.cp2k.org/](https://www.cp2k.org/)  
 ## Installed versions  

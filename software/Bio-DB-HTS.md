@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Bio-DB-HTS  
-category: https://bedtools.readthedocs.io/  
+category: bio  
 ## Homepage  
 [https://metacpan.org/release/Bio-DB-HTS](https://metacpan.org/release/Bio-DB-HTS)  
 ## Installed versions  

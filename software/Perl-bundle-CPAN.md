@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Perl-bundle-CPAN  
-category: https://www.perl.org/  
+category: lang  
 ## Homepage  
 [https://www.perl.org/](https://www.perl.org/)  
 ## Installed versions  

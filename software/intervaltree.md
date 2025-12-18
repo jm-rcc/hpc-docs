@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # intervaltree  
-category: https://imath.readthedocs.io/en/latest/  
+category: lib  
 ## Homepage  
 [https://github.com/ekg/intervaltree](https://github.com/ekg/intervaltree)  
 ## Installed versions  

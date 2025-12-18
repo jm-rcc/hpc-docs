@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Voro++  
-category: https://spectralib.org/  
+category: math  
 ## Homepage  
 [http://math.lbl.gov/voro++/](http://math.lbl.gov/voro++/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LibSoup  
-category: https://doc.libsodium.org/  
+category: lib  
 ## Homepage  
 [https://wiki.gnome.org/Projects/libsoup](https://wiki.gnome.org/Projects/libsoup)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Mono  
-category: https://docs.conda.io/en/latest/miniconda.html  
+category: lang  
 ## Homepage  
 [https://www.mono-project.com/](https://www.mono-project.com/)  
 ## Installed versions  

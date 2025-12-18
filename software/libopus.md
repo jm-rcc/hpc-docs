@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libopus  
-category: https://xiph.org/ogg/  
+category: lib  
 ## Homepage  
 [https://www.opus-codec.org/](https://www.opus-codec.org/)  
 ## Installed versions  

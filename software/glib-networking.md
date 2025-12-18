@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # glib-networking  
-category: https://gitpython.readthedocs.org  
+category: lib  
 ## Homepage  
 [https://gitlab.gnome.org/GNOME/glib-networking](https://gitlab.gnome.org/GNOME/glib-networking)  
 ## Installed versions  

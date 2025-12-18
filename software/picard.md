@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # picard  
-category: https://github.com/ncbi/ngs  
+category: bio  
 ## Homepage  
 [https://broadinstitute.github.io/picard/](https://broadinstitute.github.io/picard/)  
 ## Installed versions  

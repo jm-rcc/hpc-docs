@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libwebp  
-category: https://brehm-research.de/libvori.php  
+category: lib  
 ## Homepage  
 [https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)  
 ## Installed versions  

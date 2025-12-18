@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MaxQuant  
-category: http://mash.readthedocs.org  
+category: bio  
 ## Homepage  
 [https://maxquant.org/maxquant](https://maxquant.org/maxquant)  
 ## Installed versions  

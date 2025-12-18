@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libtasn1  
-category: https://wiki.gnome.org/Projects/libsoup  
+category: lib  
 ## Homepage  
 [https://www.gnu.org/software/libtasn1/](https://www.gnu.org/software/libtasn1/)  
 ## Installed versions  

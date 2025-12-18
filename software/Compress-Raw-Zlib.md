@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Compress-Raw-Zlib  
-category: http://heasarc.gsfc.nasa.gov/fitsio/  
+category: lib  
 ## Homepage  
 [https://metacpan.org/pod/Compress::Raw::Zlib](https://metacpan.org/pod/Compress::Raw::Zlib)  
 ## Installed versions  

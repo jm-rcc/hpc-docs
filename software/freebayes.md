@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # freebayes  
-category: https://github.com/fenderglass/Flye  
+category: bio  
 ## Homepage  
 [https://github.com/freebayes/freebayes](https://github.com/freebayes/freebayes)  
 ## Installed versions  

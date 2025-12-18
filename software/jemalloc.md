@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # jemalloc  
-category: https://github.com/intel/isa-l  
+category: lib  
 ## Homepage  
-[https://jemalloc.net](https://jemalloc.net)  
 [http://jemalloc.net](http://jemalloc.net)  
+[https://jemalloc.net](https://jemalloc.net)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

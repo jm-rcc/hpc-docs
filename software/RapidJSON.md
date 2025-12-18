@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # RapidJSON  
-category: https://github.com/yaml/pyyaml  
+category: lib  
 ## Homepage  
 [https://rapidjson.org](https://rapidjson.org)  
 ## Installed versions  

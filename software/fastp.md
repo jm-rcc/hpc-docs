@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # fastp  
-category: https://github.com/ParBLiSS/FastANI  
+category: bio  
 ## Homepage  
 [https://github.com/OpenGene/fastp](https://github.com/OpenGene/fastp)  
 ## Installed versions  

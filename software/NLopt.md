@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NLopt  
-category: https://www.netlib.org/lapack/  
+category: numlib  
 ## Homepage  
 [http://ab-initio.mit.edu/wiki/index.php/NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)  
 ## Installed versions  

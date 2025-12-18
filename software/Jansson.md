@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Jansson  
-category: https://portal.hdfgroup.org/display/support  
+category: data  
 ## Homepage  
 [https://www.digip.org/jansson/](https://www.digip.org/jansson/)  
 ## Installed versions  

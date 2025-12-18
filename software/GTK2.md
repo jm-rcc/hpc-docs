@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GTK2  
-category: http://gnuplot.sourceforge.net/  
+category: vis  
 ## Homepage  
 [https://www.gtk.org](https://www.gtk.org)  
 ## Installed versions  

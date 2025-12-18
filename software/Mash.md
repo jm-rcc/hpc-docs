@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Mash  
-category: https://mafft.cbrc.jp/alignment/software/source.html  
+category: bio  
 ## Homepage  
 [http://mash.readthedocs.org](http://mash.readthedocs.org)  
 ## Installed versions  

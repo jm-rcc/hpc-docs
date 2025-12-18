@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # googletest  
-category: https://www.gnu.org/software/glpk/  
+category: tools  
 ## Homepage  
 [https://github.com/google/googletest](https://github.com/google/googletest)  
 ## Installed versions  

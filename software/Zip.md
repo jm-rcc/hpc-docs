@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Zip  
-category: https://github.com/Z3Prover/z3  
+category: tools  
 ## Homepage  
 [http://www.info-zip.org/Zip.html](http://www.info-zip.org/Zip.html)  
 ## Installed versions  

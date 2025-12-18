@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Xerces-C++  
-category: http://www.openucx.org/  
+category: lib  
 ## Homepage  
 [https://xerces.apache.org/xerces-c/](https://xerces.apache.org/xerces-c/)  
 ## Installed versions  

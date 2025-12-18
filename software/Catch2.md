@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Catch2  
-category: https://c-ares.org/  
+category: lib  
 ## Homepage  
 [https://github.com/catchorg/Catch2](https://github.com/catchorg/Catch2)  
 ## Installed versions  

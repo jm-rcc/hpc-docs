@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pkgconfig  
-category: https://github.com/pkgconf/pkgconf  
+category: devel  
 ## Homepage  
 [https://github.com/matze/pkgconfig](https://github.com/matze/pkgconfig)  
 ## Installed versions  

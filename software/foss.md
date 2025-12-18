@@ -7,10 +7,10 @@ category: toolchain
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | foss/2025a | 2025a |  |  |  
  | foss/2023a | 2023a |  |  |  
  | foss/2024a | 2024a |  |  |  
  | foss/2021a | 2021a |  |  |  
+ | foss/2025a | 2025a |  |  |  
  | foss/2022a | 2022a |  |  |  
   
 GNU Compiler Collection (GCC) based compiler toolchain, including

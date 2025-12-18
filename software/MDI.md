@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MDI  
-category: https://libxc.gitlab.io  
+category: chem  
 ## Homepage  
 [https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  
 ## Installed versions  

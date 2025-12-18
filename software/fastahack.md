@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # fastahack  
-category: https://github.com/bbuchfink/diamond  
+category: bio  
 ## Homepage  
 [https://github.com/ekg/fastahack](https://github.com/ekg/fastahack)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libnsl  
-category: https://libgit2.org/  
+category: devel  
 ## Homepage  
 [https://github.com/thkukuk/libnsl](https://github.com/thkukuk/libnsl)  
 ## Installed versions  

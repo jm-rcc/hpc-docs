@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BBMap  
-category: https://github.com/pezmaster31/bamtools  
+category: bio  
 ## Homepage  
 [https://sourceforge.net/projects/bbmap/](https://sourceforge.net/projects/bbmap/)  
 ## Installed versions  

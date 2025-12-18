@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VSCode  
-category: http://www.swig.org/  
+category: devel  
 ## Homepage  
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
 ## Installed versions  

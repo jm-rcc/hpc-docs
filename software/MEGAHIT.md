@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MEGAHIT  
-category: https://maxquant.org/maxquant  
+category: bio  
 ## Homepage  
 [https://github.com/voutcn/megahit](https://github.com/voutcn/megahit)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Kraken2  
-category: https://pachterlab.github.io/kallisto/  
+category: bio  
 ## Homepage  
 [https://github.com/DerrickWood/kraken2/wiki](https://github.com/DerrickWood/kraken2/wiki)  
 ## Installed versions  

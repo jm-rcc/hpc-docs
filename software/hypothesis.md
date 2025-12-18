@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hypothesis  
-category: https://www.gnu.org/software/help2man/  
+category: tools  
 ## Homepage  
 [https://github.com/HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis)  
 ## Installed versions  

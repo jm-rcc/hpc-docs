@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PLINK  
-category: https://broadinstitute.github.io/picard/  
+category: bio  
 ## Homepage  
 [https://www.cog-genomics.org/plink/2.0/](https://www.cog-genomics.org/plink/2.0/)  
 ## Installed versions  

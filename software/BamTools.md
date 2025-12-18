@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BamTools  
-category: https://bioinf.uni-greifswald.de/augustus/  
+category: bio  
 ## Homepage  
 [https://github.com/pezmaster31/bamtools](https://github.com/pezmaster31/bamtools)  
 ## Installed versions  

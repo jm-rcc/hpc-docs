@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # vcflib  
-category: https://trinityrnaseq.github.io  
+category: bio  
 ## Homepage  
 [https://github.com/vcflib/vcflib](https://github.com/vcflib/vcflib)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenEXR  
-category: https://motif.ics.com/  
+category: vis  
 ## Homepage  
 [https://www.openexr.com/](https://www.openexr.com/)  
 ## Installed versions  

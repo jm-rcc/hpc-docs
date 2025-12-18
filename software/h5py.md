@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # h5py  
-category: https://www.gdal.org  
+category: data  
 ## Homepage  
 [https://www.h5py.org/](https://www.h5py.org/)  
 ## Installed versions  

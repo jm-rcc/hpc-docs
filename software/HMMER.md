@@ -1,14 +1,14 @@
 [< Software](../software_shortlist.md)  
 # HMMER  
-category: https://daehwankimlab.github.io/hisat2  
+category: bio  
 ## Homepage  
 [http://hmmer.org/](http://hmmer.org/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | hmmer/3.3.2-gompi-2022a | 3.3.2 | gompi-2022a |  |  
  | hmmer/3.3.2-gompi-2021a | 3.3.2 | gompi-2021a |  |  
+ | hmmer/3.3.2-gompi-2022a | 3.3.2 | gompi-2022a |  |  
   
 HMMER is used for searching sequence databases for homologs
  of protein sequences, and for making protein sequence alignments. It

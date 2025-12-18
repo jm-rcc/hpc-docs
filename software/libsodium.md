@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libsodium  
-category: http://www.mega-nerd.com/libsndfile  
+category: lib  
 ## Homepage  
 [https://doc.libsodium.org/](https://doc.libsodium.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libcerf  
-category: http://mcmc-jags.sourceforge.net/  
+category: math  
 ## Homepage  
 [https://jugit.fz-juelich.de/mlz/libcerf](https://jugit.fz-juelich.de/mlz/libcerf)  
 ## Installed versions  

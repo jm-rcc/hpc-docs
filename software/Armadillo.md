@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Armadillo  
-category: https://github.com/amd/blis  
+category: numlib  
 ## Homepage  
 [https://arma.sourceforge.net/](https://arma.sourceforge.net/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # UCX-CUDA  
-category: https://www.openucx.org/  
+category: lib  
 ## Homepage  
 [http://www.openucx.org/](http://www.openucx.org/)  
 ## Installed versions  

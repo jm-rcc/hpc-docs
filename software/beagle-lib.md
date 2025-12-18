@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # beagle-lib  
-category: https://github.com/opencollab/arpack-ng  
+category: numlib  
 ## Homepage  
 [https://github.com/beagle-dev/beagle-lib](https://github.com/beagle-dev/beagle-lib)  
 ## Installed versions  

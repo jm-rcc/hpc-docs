@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Salmon  
-category: https://github.com/ablab/quast  
+category: bio  
 ## Homepage  
 [https://github.com/COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)  
 ## Installed versions  

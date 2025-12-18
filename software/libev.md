@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libev  
-category: https://github.com/anholt/libepoxy  
+category: lib  
 ## Homepage  
 [http://software.schmorp.de/pkg/libev.html](http://software.schmorp.de/pkg/libev.html)  
 ## Installed versions  

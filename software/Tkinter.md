@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Tkinter  
-category: https://www.tcl.tk/  
+category: lang  
 ## Homepage  
 [https://python.org/](https://python.org/)  
 ## Installed versions  

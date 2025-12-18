@@ -1,15 +1,15 @@
 [< Software](../software_shortlist.md)  
 # Qhull  
-category: https://www.mpfr.org  
+category: math  
 ## Homepage  
 [http://www.qhull.org](http://www.qhull.org)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
+ | qhull/.2020.2-gcccore-12.3.0 | 2020.2 | GCCcore-12.3.0 | pic: True |  
  | qhull/.2020.2-gcccore-11.3.0 | 2020.2 | GCCcore-11.3.0 | pic: True |  
  | qhull/2020.2-gcccore-12.3.0 | 2020.2 | GCCcore-12.3.0 | pic: True |  
- | qhull/.2020.2-gcccore-12.3.0 | 2020.2 | GCCcore-12.3.0 | pic: True |  
  | qhull/.2020.2-gcccore-10.3.0 | 2020.2 | GCCcore-10.3.0 | pic: True |  
   
 Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,

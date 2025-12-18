@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cuDNN  
-category: https://github.com/flame/blis/  
+category: numlib  
 ## Homepage  
 [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)  
 ## Installed versions  

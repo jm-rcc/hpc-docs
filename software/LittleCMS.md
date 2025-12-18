@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LittleCMS  
-category: https://gitlab.freedesktop.org/mesa/glu  
+category: vis  
 ## Homepage  
 [https://www.littlecms.com/](https://www.littlecms.com/)  
 ## Installed versions  

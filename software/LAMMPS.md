@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LAMMPS  
-category: https://openkim.org/  
+category: chem  
 ## Homepage  
 [https://www.lammps.org](https://www.lammps.org)  
 ## Installed versions  

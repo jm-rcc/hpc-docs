@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Pango  
-category: https://www.openexr.com/  
+category: vis  
 ## Homepage  
 [https://www.pango.org/](https://www.pango.org/)  
 ## Installed versions  
