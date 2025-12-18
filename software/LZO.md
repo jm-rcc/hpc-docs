@@ -1,14 +1,15 @@
 [< Software](../software_shortlist.md)  
 # LZO  
+category: devel  
+## Homepage  
+[https://www.oberhumer.com/opensource/lzo/](https://www.oberhumer.com/opensource/lzo/)  
 ## Installed versions  
-  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | lzo/2.10-gcccore-11.3.0 | 2.10 | GCCcore-11.3.0 | {'pic': True} |  
+ | lzo/2.10-gcccore-11.3.0 | 2.10 | GCCcore-11.3.0 | pic: True |  
   
->Portable lossless data compression library  
+Portable lossless data compression library  
   
+----  
   
-## Homepage  
-[https://www.oberhumer.com/opensource/lzo/](https://www.oberhumer.com/opensource/lzo/)  
