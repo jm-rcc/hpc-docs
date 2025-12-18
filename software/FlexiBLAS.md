@@ -7,7 +7,8 @@
  - flexiblas/3.4.5-gcc-14.2.0  (version), (toolchain)  
   
 ## Description  
-FlexiBLAS is a wrapper library that enables the exchange of the BLAS and LAPACK implementation
+FlexiBLAS is a wrapper library that enables the exchange of the BLAS and LAPACK implementation  
+  
 used by a program without recompiling or relinking it.  
 ## Homepage  
 [https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release)  

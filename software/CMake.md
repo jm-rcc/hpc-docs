@@ -10,7 +10,8 @@
  - cmake/3.31.3-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-CMake, the cross-platform, open-source build system.  CMake is a family of
+CMake, the cross-platform, open-source build system.  CMake is a family of  
+  
  tools designed to build, test and package software.  
 ## Homepage  
 [https://www.cmake.org](https://www.cmake.org)  

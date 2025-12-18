@@ -4,7 +4,8 @@
  - salmon/1.9.0-gcc-11.3.0  (version), (toolchain)  
   
 ## Description  
-Salmon is a wicked-fast program to produce a highly-accurate,
+Salmon is a wicked-fast program to produce a highly-accurate,  
+  
  transcript-level quantification estimates from RNA-seq data.  
 ## Homepage  
 [https://github.com/COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)  

@@ -6,8 +6,10 @@
  - ucc/1.3.0-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-UCC (Unified Collective Communication) is a collective
-communication operations API and library that is flexible, complete, and
+UCC (Unified Collective Communication) is a collective  
+  
+communication operations API and library that is flexible, complete, and  
+  
 feature-rich for current and emerging programming models and runtimes.  
 ## Homepage  
 [https://www.openucx.org/](https://www.openucx.org/)  

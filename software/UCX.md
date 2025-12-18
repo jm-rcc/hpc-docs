@@ -8,8 +8,10 @@
  - ucx/.1.18.0-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-Unified Communication X
-An open-source production grade communication framework for data centric
+Unified Communication X  
+  
+An open-source production grade communication framework for data centric  
+  
 and high-performance applications  
 ## Homepage  
 [https://www.openucx.org/](https://www.openucx.org/)  

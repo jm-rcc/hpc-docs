@@ -7,7 +7,8 @@
  - r/4.4.0-gfbf-2023a  (version), (toolchain)  
   
 ## Description  
-R is a free software environment for statistical computing
+R is a free software environment for statistical computing  
+  
  and graphics.  
 ## Homepage  
 [https://www.r-project.org/](https://www.r-project.org/)  

@@ -11,9 +11,12 @@
  - ncurses/.6.5-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-The Ncurses (new curses) library is a free software emulation of curses in
- System V Release 4.0, and more. It uses Terminfo format, supports pads and
- color and multiple highlights and forms characters and function-key mapping,
+The Ncurses (new curses) library is a free software emulation of curses in  
+  
+ System V Release 4.0, and more. It uses Terminfo format, supports pads and  
+  
+ color and multiple highlights and forms characters and function-key mapping,  
+  
  and has all the other SYSV-curses enhancements over BSD Curses.  
 ## Homepage  
 [https://www.gnu.org/software/ncurses/](https://www.gnu.org/software/ncurses/)  

@@ -11,7 +11,8 @@
  - libxml2/2.9.13-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
-Libxml2 is the XML C parser and toolchain developed for the Gnome project
+Libxml2 is the XML C parser and toolchain developed for the Gnome project  
+  
  (but usable outside of the Gnome platform).  
 ## Homepage  
 [http://xmlsoft.org/](http://xmlsoft.org/)  

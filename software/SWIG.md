@@ -5,7 +5,8 @@
  - swig/.4.1.1-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-SWIG is a software development tool that connects programs written in C and C++ with
+SWIG is a software development tool that connects programs written in C and C++ with  
+  
  a variety of high-level programming languages.  
 ## Homepage  
 [http://www.swig.org/](http://www.swig.org/)  

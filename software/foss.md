@@ -7,7 +7,8 @@
  - foss/2025a  (version), (toolchain)  
   
 ## Description  
-GNU Compiler Collection (GCC) based compiler toolchain, including
+GNU Compiler Collection (GCC) based compiler toolchain, including  
+  
  OpenMPI for MPI support, OpenBLAS (BLAS and LAPACK support), FFTW and ScaLAPACK.  
 ## Homepage  
 [https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain)  

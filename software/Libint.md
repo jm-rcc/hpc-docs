@@ -4,7 +4,8 @@
  - libint/2.7.2-gcc-11.3.0-lmax-6-cp2k  (version), (toolchain)  
   
 ## Description  
-Libint library is used to evaluate the traditional (electron repulsion) and certain novel two-body
+Libint library is used to evaluate the traditional (electron repulsion) and certain novel two-body  
+  
  matrix elements (integrals) over Cartesian Gaussian functions used in modern atomic and molecular theory.  
 ## Homepage  
 [https://github.com/evaleev/libint](https://github.com/evaleev/libint)  

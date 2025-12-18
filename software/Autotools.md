@@ -8,7 +8,8 @@
  - autotools/.20240712-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-This bundle collect the standard GNU build tools: Autoconf, Automake
+This bundle collect the standard GNU build tools: Autoconf, Automake  
+  
  and libtool  
 ## Homepage  
 [https://autotools.io](https://autotools.io)  

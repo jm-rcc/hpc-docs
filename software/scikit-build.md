@@ -4,7 +4,8 @@
  - scikit-build/0.17.6-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Scikit-Build, or skbuild, is an improved build system generator
+Scikit-Build, or skbuild, is an improved build system generator  
+  
 for CPython C/C++/Fortran/Cython extensions.  
 ## Homepage  
 [https://scikit-build.readthedocs.io/en/latest](https://scikit-build.readthedocs.io/en/latest)  

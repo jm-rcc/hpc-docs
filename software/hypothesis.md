@@ -5,8 +5,10 @@
  - hypothesis/6.82.0-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized
- by a source of examples, and then generates simple and comprehensible examples that make your tests fail. This lets
+Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized  
+  
+ by a source of examples, and then generates simple and comprehensible examples that make your tests fail. This lets  
+  
  you find more bugs in your code with less work.  
 ## Homepage  
 [https://github.com/HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis)  

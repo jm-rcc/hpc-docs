@@ -11,7 +11,8 @@
  - gompi/2025a  (version), (toolchain)  
   
 ## Description  
-GNU Compiler Collection (GCC) based compiler toolchain,
+GNU Compiler Collection (GCC) based compiler toolchain,  
+  
  including OpenMPI for MPI support.  
 ## Homepage  
 [(none)]((none))  

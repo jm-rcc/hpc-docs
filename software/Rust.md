@@ -5,7 +5,8 @@
  - rust/1.70.0-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Rust is a systems programming language that runs blazingly fast, prevents segfaults,
+Rust is a systems programming language that runs blazingly fast, prevents segfaults,  
+  
  and guarantees thread safety.  
 ## Homepage  
 [https://www.rust-lang.org](https://www.rust-lang.org)  

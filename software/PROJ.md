@@ -5,7 +5,8 @@
  - proj/.9.2.0-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Program proj is a standard Unix filter function which converts
+Program proj is a standard Unix filter function which converts  
+  
 geographic longitude and latitude coordinates into cartesian coordinates  
 ## Homepage  
 [https://proj.org](https://proj.org)  

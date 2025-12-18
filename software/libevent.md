@@ -8,9 +8,12 @@
  - libevent/.2.1.12-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-The libevent API provides a mechanism to execute a callback function when
- a specific event occurs on a file descriptor or after a timeout has been
- reached.  Furthermore, libevent also support callbacks due to signals or
+The libevent API provides a mechanism to execute a callback function when  
+  
+ a specific event occurs on a file descriptor or after a timeout has been  
+  
+ reached.  Furthermore, libevent also support callbacks due to signals or  
+  
  regular timeouts.  
 ## Homepage  
 [https://libevent.org](https://libevent.org)  

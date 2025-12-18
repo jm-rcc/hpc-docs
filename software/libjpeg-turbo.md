@@ -6,8 +6,10 @@
  - libjpeg-turbo/.3.0.1-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to
- accelerate baseline JPEG compression and decompression. libjpeg is a library
+libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to  
+  
+ accelerate baseline JPEG compression and decompression. libjpeg is a library  
+  
  that implements JPEG image encoding, decoding and transcoding.  
 ## Homepage  
 [https://sourceforge.net/projects/libjpeg-turbo/](https://sourceforge.net/projects/libjpeg-turbo/)  
