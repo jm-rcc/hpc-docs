@@ -2,7 +2,7 @@
 # prokka  
 ## Homepage  
 [https://www.vicbioinformatics.com/software.prokka.shtml](https://www.vicbioinformatics.com/software.prokka.shtml)  
-`category: {i}`  
+`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -10,6 +10,6 @@
  | prokka/1.14.5-gompi-2021a | 1.14.5 | gompi-2021a |  |  
  | prokka/1.14.5-gompi-2022a | 1.14.5 | gompi-2022a |  |  
   
->Prokka is a software tool for the rapid annotation of prokaryotic genomes.  
+Prokka is a software tool for the rapid annotation of prokaryotic genomes.  
   
   

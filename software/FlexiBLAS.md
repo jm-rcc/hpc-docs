@@ -2,7 +2,7 @@
 # FlexiBLAS  
 ## Homepage  
 [https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release)  
-`category: {i}`  
+`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

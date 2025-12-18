@@ -2,7 +2,7 @@
 # BamTools  
 ## Homepage  
 [https://github.com/pezmaster31/bamtools](https://github.com/pezmaster31/bamtools)  
-`category: {i}`  
+`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -10,6 +10,6 @@
  | bamtools/2.5.2-gcc-10.3.0 | 2.5.2 | GCC-10.3.0 | pic: True |  
  | bamtools/2.5.2-gcc-11.3.0 | 2.5.2 | GCC-11.3.0 | pic: True |  
   
->BamTools provides both a programmer's API and an end-user's toolkit for handling BAM files.  
+BamTools provides both a programmer's API and an end-user's toolkit for handling BAM files.  
   
   

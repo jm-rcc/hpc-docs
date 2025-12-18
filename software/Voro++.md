@@ -2,18 +2,18 @@
 # Voro++  
 ## Homepage  
 [http://math.lbl.gov/voro++/](http://math.lbl.gov/voro++/)  
-`category: {i}`  
+`category: math`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | voro++/0.4.6-gcccore-10.3.0 | 0.4.6 | GCCcore-10.3.0 | pic: True |  
  | voro++/0.4.6-gcccore-12.3.0 | 0.4.6 | GCCcore-12.3.0 | pic: True |  
+ | voro++/0.4.6-gcccore-10.3.0 | 0.4.6 | GCCcore-10.3.0 | pic: True |  
   
->Voro++ is a software library for carrying out three-dimensional computations of the Voronoi  
->tessellation. A distinguishing feature of the Voro++ library is that it carries out cell-based calculations,  
->computing the Voronoi cell for each particle individually. It is particularly well-suited for applications that  
->rely on cell-based statistics, where features of Voronoi cells (eg. volume, centroid, number of faces) can be used  
->to analyze a system of particles.  
+Voro++ is a software library for carrying out three-dimensional computations of the Voronoi
+tessellation. A distinguishing feature of the Voro++ library is that it carries out cell-based calculations,
+computing the Voronoi cell for each particle individually. It is particularly well-suited for applications that
+rely on cell-based statistics, where features of Voronoi cells (eg. volume, centroid, number of faces) can be used
+to analyze a system of particles.  
   
   
