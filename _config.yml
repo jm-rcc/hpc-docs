@@ -4,3 +4,5 @@ plugins:
 
 title: HPC docs
 description: Documentation on Bunya and data storage
+
+markdown: kramdown
