@@ -408,3 +408,105 @@ footer p {
 .mb-1 { margin-bottom: 0.5rem; }
 .mb-2 { margin-bottom: 1rem; }
 .mb-3 { margin-bottom: 1.5rem; }
+
+
+/* Breadcrumb... */
+
+.breadcrumbs {
+  max-width: 64rem;
+  margin: 1.5rem auto;
+  padding: 0 1rem;
+  font-size: 0.875rem;
+  
+  ol {
+    list-style: none;
+    padding: 0.75rem 1.25rem;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 0.5rem;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    
+    &:not(:last-child)::after {
+      content: "›";
+      font-size: 1.1rem;
+      color: rgba(255, 255, 255, 0.4);
+      font-weight: 300;
+    }
+  }
+  
+  a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.25rem;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      background: rgba(255, 255, 255, 0.1);
+      color: #fff;
+    }
+    
+    &:focus {
+      outline: 2px solid rgba(255, 255, 255, 0.5);
+      outline-offset: 2px;
+    }
+  }
+  
+  span[aria-current="page"] {
+    color: #fff;
+    font-weight: 500;
+    padding: 0.25rem 0.5rem;
+  }
+  
+  // Responsive adjustments
+  @media screen and (max-width: 42em) {
+    margin: 1rem auto;
+    font-size: 0.8125rem;
+    
+    ol {
+      padding: 0.5rem 1rem;
+    }
+  }
+}
+
+// Dark theme support (if the page background is light)
+@media (prefers-color-scheme: light) {
+  .breadcrumbs {
+    ol {
+      background: rgba(0, 0, 0, 0.03);
+      border-color: rgba(0, 0, 0, 0.1);
+    }
+    
+    li:not(:last-child)::after {
+      color: rgba(0, 0, 0, 0.4);
+    }
+    
+    a {
+      color: #1e6bb8;
+      
+      &:hover {
+        background: rgba(0, 0, 0, 0.05);
+        color: #155799;
+      }
+      
+      &:focus {
+        outline-color: #1e6bb8;
+      }
+    }
+    
+    span[aria-current="page"] {
+      color: #333;
+    }
+  }
+}
