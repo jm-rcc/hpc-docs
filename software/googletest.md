@@ -4,6 +4,6 @@
  - googletest/1.13.0-gcccore-12.3.0  
   
 ## Description  
-Google  
+Google's framework for writing C++ tests on a variety of platforms  
 ## Homepage  
 [https://github.com/google/googletest](https://github.com/google/googletest)  
