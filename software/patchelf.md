@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # patchelf  
 ## Installed versions  
- - patchelf/0.18.0-gcccore-12.3.0  (version), (toolchain)  
+  
+ | patchelf/0.18.0-gcccore-12.3.0 | (version) | (toolchain) |  
 >PatchELF is a small utility to modify the dynamic linker and RPATH of ELF executables.  
   
   

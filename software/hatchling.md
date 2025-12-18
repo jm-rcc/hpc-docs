@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # hatchling  
 ## Installed versions  
- - hatchling/1.18.0-gcccore-12.3.0  (version), (toolchain)  
+  
+ | hatchling/1.18.0-gcccore-12.3.0 | (version) | (toolchain) |  
 >Extensible, standards compliant build backend used by Hatch,  
 >a modern, extensible Python project manager.  
   

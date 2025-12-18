@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # SSW  
 ## Installed versions  
- - ssw/1.1-gcccore-10.3.0  (version), (toolchain)  
+  
+ | ssw/1.1-gcccore-10.3.0 | (version) | (toolchain) |  
 >SSW is a fast implementation of the Smith-Waterman algorithm, which uses the  
 > Single-Instruction Multiple-Data (SIMD) instructions to parallelize the algorithm at the  
 > instruction level. SSW library provides an API that can be flexibly used by programs written in  

@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # smithwaterman  
 ## Installed versions  
- - smithwaterman/20160702-gcccore-10.3.0  (version), (toolchain)  
+  
+ | smithwaterman/20160702-gcccore-10.3.0 | (version) | (toolchain) |  
 >smith-waterman-gotoh alignment algorithm.  
   
   

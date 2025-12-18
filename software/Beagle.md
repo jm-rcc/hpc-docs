@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # Beagle  
 ## Installed versions  
- - beagle/5.4.22jul22.46e-java-11  (version), (toolchain)  
+  
+ | beagle/5.4.22jul22.46e-java-11 | (version) | (toolchain) |  
 >Beagle is a software package for phasing genotypes and for imputing  
 > ungenotyped markers.  
   

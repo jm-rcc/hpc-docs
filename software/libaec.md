@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # libaec  
 ## Installed versions  
- - libaec/1.0.6-gcccore-12.3.0  (version), (toolchain)  
+  
+ | libaec/1.0.6-gcccore-12.3.0 | (version) | (toolchain) |  
 >Libaec provides fast lossless compression of 1 up to 32 bit wide signed or unsigned integers  
 >(samples). The library achieves best results for low entropy data as often encountered in space imaging  
 >instrument data or numerical model output from weather or climate simulations. While floating point representations  

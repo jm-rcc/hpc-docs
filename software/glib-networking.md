@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # glib-networking  
 ## Installed versions  
- - glib-networking/.2.72.1-gcccore-11.3.0  (version), (toolchain)  
+  
+ | glib-networking/.2.72.1-gcccore-11.3.0 | (version) | (toolchain) |  
 >Network extensions for GLib  
   
   

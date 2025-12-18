@@ -1,7 +1,9 @@
+[< Software](software_shortlist)  
 # kallisto  
 ## Installed versions  
- - kallisto/0.48.0-gompi-2022a  (version), (toolchain)  
- - kallisto/0.48.0-gompi-2021a  (version), (toolchain)  
+  
+ | kallisto/0.48.0-gompi-2022a | (version) | (toolchain) |  
+ | kallisto/0.48.0-gompi-2021a | (version) | (toolchain) |  
 >kallisto is a program for quantifying abundances of transcripts from RNA-Seq data, or more generally  
 > of target sequences using high-throughput sequencing reads.  
   

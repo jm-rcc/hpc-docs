@@ -1,11 +1,14 @@
+[< Software](software_shortlist)  
 # VirtualGL  
 ## Installed versions  
- - virtualgl/3.1-gcc-11.3.0  (version), (toolchain)  
+  
+ | virtualgl/3.1-gcc-11.3.0 | (version) | (toolchain) |  
 >VirtualGL is an open source toolkit that gives any Linux or   
 >Unix remote display software the ability to run OpenGL applications with full   
 >hardware acceleration.  
   
- - virtualgl/3.1.3-gcc-13.3.0  (version), (toolchain)  
+  
+ | virtualgl/3.1.3-gcc-13.3.0 | (version) | (toolchain) |  
 >VirtualGL is an open source toolkit that gives any Linux or  
 >Unix remote display software the ability to run OpenGL applications with full  
 >hardware acceleration.  

@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # LZO  
 ## Installed versions  
- - lzo/2.10-gcccore-11.3.0  (version), (toolchain)  
+  
+ | lzo/2.10-gcccore-11.3.0 | (version) | (toolchain) |  
 >Portable lossless data compression library  
   
   

@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # poetry  
 ## Installed versions  
- - poetry/1.5.1-gcccore-12.3.0  (version), (toolchain)  
+  
+ | poetry/1.5.1-gcccore-12.3.0 | (version) | (toolchain) |  
 >Python packaging and dependency management made easy. Poetry helps you declare, manage and install  
 > dependencies of Python projects, ensuring you have the right stack everywhere.  
   

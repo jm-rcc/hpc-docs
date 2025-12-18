@@ -1,7 +1,9 @@
+[< Software](software_shortlist)  
 # Bowtie2  
 ## Installed versions  
- - bowtie2/2.4.5-gcc-11.3.0  (version), (toolchain)  
- - bowtie2/2.4.4-gcc-10.3.0  (version), (toolchain)  
+  
+ | bowtie2/2.4.5-gcc-11.3.0 | (version) | (toolchain) |  
+ | bowtie2/2.4.4-gcc-10.3.0 | (version) | (toolchain) |  
 >Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads  
 > to long reference sequences. It is particularly good at aligning reads of about 50 up to 100s or 1,000s  
 > of characters, and particularly good at aligning to relatively long (e.g. mammalian) genomes.  

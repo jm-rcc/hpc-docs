@@ -1,7 +1,9 @@
+[< Software](software_shortlist)  
 # tbl2asn  
 ## Installed versions  
- - tbl2asn/20230119-linux64  (version), (toolchain)  
- - tbl2asn/20220427-linux64  (version), (toolchain)  
+  
+ | tbl2asn/20230119-linux64 | (version) | (toolchain) |  
+ | tbl2asn/20220427-linux64 | (version) | (toolchain) |  
 >Tbl2asn is a command-line program that automates the creation of  
 > sequence records for submission to GenBank  
   

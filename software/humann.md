@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # humann  
 ## Installed versions  
- - humann/3.6-foss-2022a  (version), (toolchain)  
+  
+ | humann/3.6-foss-2022a | (version) | (toolchain) |  
 >HUMAnN v3 is a pipeline for efficiently  
 > and accurately determining the coverage and abundance  
 > of microbial pathways in a community from metagenomic data.  

@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # Ansys-dependencies  
 ## Installed versions  
- - ansys-dependencies/2023-gcc-11.3.0  (version), (toolchain)  
+  
+ | ansys-dependencies/2023-gcc-11.3.0 | (version) | (toolchain) |  
 >A collection of software to meet the requirements of Ansys.  
   
   

@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # multichoose  
 ## Installed versions  
- - multichoose/1.0.3-gcccore-10.3.0  (version), (toolchain)  
+  
+ | multichoose/1.0.3-gcccore-10.3.0 | (version) | (toolchain) |  
 >generate multiset combinations (n multichoose k).  
   
   

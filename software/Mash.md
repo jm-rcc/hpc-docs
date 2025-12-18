@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # Mash  
 ## Installed versions  
- - mash/2.3-gcc-10.3.0  (version), (toolchain)  
+  
+ | mash/2.3-gcc-10.3.0 | (version) | (toolchain) |  
 >Fast genome and metagenome distance estimation using MinHash  
   
   

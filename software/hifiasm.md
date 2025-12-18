@@ -1,6 +1,8 @@
+[< Software](software_shortlist)  
 # hifiasm  
 ## Installed versions  
- - hifiasm/0.16.1-gcccore-10.3.0  (version), (toolchain)  
+  
+ | hifiasm/0.16.1-gcccore-10.3.0 | (version) | (toolchain) |  
 >Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.  
   
   
