@@ -1,12 +1,12 @@
 # Autoconf  
-|Installed versions:|  
-| ---- |  
-| autoconf/.2.71 |  
-| autoconf/.2.71-gcccore-10.3.0 |  
-| autoconf/.2.71-gcccore-11.3.0 |  
-| autoconf/.2.71-gcccore-12.3.0 |  
-| autoconf/.2.72-gcccore-13.3.0 |  
-| autoconf/.2.72-gcccore-14.2.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| autoconf/.2.71 |||
+| autoconf/.2.71-gcccore-10.3.0 |||
+| autoconf/.2.71-gcccore-11.3.0 |||
+| autoconf/.2.71-gcccore-12.3.0 |||
+| autoconf/.2.72-gcccore-13.3.0 |||
+| autoconf/.2.72-gcccore-14.2.0 |||
   
 ## Description  
 Autoconf is an extensible package of M4 macros that produce shell scripts
@@ -15,4 +15,4 @@ Autoconf is an extensible package of M4 macros that produce shell scripts
  creates a configuration script for a package from a template file that lists the
  operating system features that the package can use, in the form of M4 macro calls.  
 ## Homepage  
-(https://www.gnu.org/software/autoconf/)[https://www.gnu.org/software/autoconf/]  
+[https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  

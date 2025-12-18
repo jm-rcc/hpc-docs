@@ -1,7 +1,7 @@
 # VEP  
-|Installed versions:|  
-| ---- |  
-| vep/107-gcc-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| vep/107-gcc-11.3.0 |||
   
 ## Description  
 Variant Effect Predictor (VEP) determines the effect of your
@@ -10,4 +10,4 @@ Variant Effect Predictor (VEP) determines the effect of your
  Includes EnsEMBL-XS, which provides pre-compiled replacements for frequently
  used routines in VEP.  
 ## Homepage  
-(https://www.ensembl.org/info/docs/tools/vep)[https://www.ensembl.org/info/docs/tools/vep]  
+[https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  

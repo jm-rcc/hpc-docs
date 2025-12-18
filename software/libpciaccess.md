@@ -1,13 +1,13 @@
 # libpciaccess  
-|Installed versions:|  
-| ---- |  
-| libpciaccess/.0.16-gcccore-10.3.0 |  
-| libpciaccess/.0.16-gcccore-11.3.0 |  
-| libpciaccess/.0.17-gcccore-12.3.0 |  
-| libpciaccess/.0.18.1-gcccore-13.3.0 |  
-| libpciaccess/.0.18.1-gcccore-14.2.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| libpciaccess/.0.16-gcccore-10.3.0 |||
+| libpciaccess/.0.16-gcccore-11.3.0 |||
+| libpciaccess/.0.17-gcccore-12.3.0 |||
+| libpciaccess/.0.18.1-gcccore-13.3.0 |||
+| libpciaccess/.0.18.1-gcccore-14.2.0 |||
   
 ## Description  
 Generic PCI access library.  
 ## Homepage  
-(https://cgit.freedesktop.org/xorg/lib/libpciaccess/)[https://cgit.freedesktop.org/xorg/lib/libpciaccess/]  
+[https://cgit.freedesktop.org/xorg/lib/libpciaccess/](https://cgit.freedesktop.org/xorg/lib/libpciaccess/)  

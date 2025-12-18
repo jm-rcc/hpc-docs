@@ -1,8 +1,8 @@
 # nettle  
-|Installed versions:|  
-| ---- |  
-| nettle/.3.7.2-gcccore-10.3.0 |  
-| nettle/.3.8-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| nettle/.3.7.2-gcccore-10.3.0 |||
+| nettle/.3.8-gcccore-11.3.0 |||
   
 ## Description  
 Nettle is a cryptographic library that is designed to fit easily
@@ -10,4 +10,4 @@ Nettle is a cryptographic library that is designed to fit easily
  languages (C++, Python, Pike, ...), in applications like LSH or GNUPG,
  or even in kernel space.  
 ## Homepage  
-(https://www.lysator.liu.se/~nisse/nettle/)[https://www.lysator.liu.se/~nisse/nettle/]  
+[https://www.lysator.liu.se/~nisse/nettle/](https://www.lysator.liu.se/~nisse/nettle/)  

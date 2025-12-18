@@ -1,7 +1,7 @@
 # VTK  
-|Installed versions:|  
-| ---- |  
-| vtk/9.3.0-foss-2023a |  
+|Installed versions:|||
+|-------|--------|---------|
+| vtk/9.3.0-foss-2023a |||
   
 ## Description  
 The Visualization Toolkit (VTK) is an open-source, freely available software system for
@@ -10,4 +10,4 @@ The Visualization Toolkit (VTK) is an open-source, freely available software sys
  algorithms including: scalar, vector, tensor, texture, and volumetric methods; and advanced modeling techniques
  such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring, and Delaunay triangulation.  
 ## Homepage  
-(https://www.vtk.org)[https://www.vtk.org]  
+[https://www.vtk.org](https://www.vtk.org)  

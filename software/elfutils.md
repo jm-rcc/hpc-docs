@@ -1,11 +1,11 @@
 # elfutils  
-|Installed versions:|  
-| ---- |  
-| elfutils/0.185-gcccore-10.3.0 |  
-| elfutils/0.187-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| elfutils/0.185-gcccore-10.3.0 |||
+| elfutils/0.187-gcccore-11.3.0 |||
   
 ## Description  
 The elfutils project provides libraries and tools for ELF files
  and DWARF data.  
 ## Homepage  
-(https://elfutils.org/)[https://elfutils.org/]  
+[https://elfutils.org/](https://elfutils.org/)  

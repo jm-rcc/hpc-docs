@@ -1,8 +1,8 @@
 # METIS  
-|Installed versions:|  
-| ---- |  
-| metis/5.1.0-gcccore-10.3.0 |  
-| metis/5.1.0-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| metis/5.1.0-gcccore-10.3.0 |||
+| metis/5.1.0-gcccore-11.3.0 |||
   
 ## Description  
 METIS is a set of serial programs for partitioning graphs, partitioning
@@ -11,4 +11,4 @@ METIS is a set of serial programs for partitioning graphs, partitioning
  recursive-bisection, multilevel k-way, and multi-constraint partitioning
  schemes.  
 ## Homepage  
-(https://karypis.github.io/glaros/projects/gp.html)[https://karypis.github.io/glaros/projects/gp.html]  
+[https://karypis.github.io/glaros/projects/gp.html](https://karypis.github.io/glaros/projects/gp.html)  

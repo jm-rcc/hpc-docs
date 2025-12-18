@@ -1,8 +1,8 @@
 # Lua  
-|Installed versions:|  
-| ---- |  
-| lua/5.4.3-gcccore-10.3.0 |  
-| lua/5.4.4-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| lua/5.4.3-gcccore-10.3.0 |||
+| lua/5.4.4-gcccore-11.3.0 |||
   
 ## Description  
 Lua is a powerful, fast, lightweight, embeddable scripting language.
@@ -12,4 +12,4 @@ Lua is a powerful, fast, lightweight, embeddable scripting language.
  and has automatic memory management with incremental garbage collection,
  making it ideal for configuration, scripting, and rapid prototyping.  
 ## Homepage  
-(https://www.lua.org/)[https://www.lua.org/]  
+[https://www.lua.org/](https://www.lua.org/)  

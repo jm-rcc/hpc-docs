@@ -1,10 +1,10 @@
 # gperf  
-|Installed versions:|  
-| ---- |  
-| gperf/.3.1-gcccore-10.3.0 |  
-| gperf/.3.1-gcccore-11.3.0 |  
-| gperf/.3.1-gcccore-12.3.0 |  
-| gperf/.3.1-gcccore-13.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| gperf/.3.1-gcccore-10.3.0 |||
+| gperf/.3.1-gcccore-11.3.0 |||
+| gperf/.3.1-gcccore-12.3.0 |||
+| gperf/.3.1-gcccore-13.3.0 |||
   
 ## Description  
 GNU gperf is a perfect hash function generator. For a given list of strings,
@@ -13,4 +13,4 @@ GNU gperf is a perfect hash function generator. For a given list of strings,
  perfect, which means that the hash table has no collisions, and the hash
  table lookup needs a single string comparison only.  
 ## Homepage  
-(https://www.gnu.org/software/gperf/)[https://www.gnu.org/software/gperf/]  
+[https://www.gnu.org/software/gperf/](https://www.gnu.org/software/gperf/)  

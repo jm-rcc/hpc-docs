@@ -1,15 +1,15 @@
 # LLVM  
-|Installed versions:|  
-| ---- |  
-| llvm/.11.1.0-gcccore-10.3.0 |  
-| llvm/.14.0.3-gcccore-11.3.0 |  
-| llvm/.16.0.6-gcccore-12.3.0 |  
-| llvm/.18.1.8-gcccore-13.3.0 |  
-| llvm/.18.1.8-gcccore-13.3.0-minimal |  
-| llvm/11.1.0-gcccore-10.3.0 |  
-| llvm/16.0.6-gcccore-12.3.0 |  
-| llvm/18.1.8-gcccore-13.3.0 |  
-| llvm/18.1.8-gcccore-13.3.0-minimal |  
+|Installed versions:|||
+|-------|--------|---------|
+| llvm/.11.1.0-gcccore-10.3.0 |||
+| llvm/.14.0.3-gcccore-11.3.0 |||
+| llvm/.16.0.6-gcccore-12.3.0 |||
+| llvm/.18.1.8-gcccore-13.3.0 |||
+| llvm/.18.1.8-gcccore-13.3.0-minimal |||
+| llvm/11.1.0-gcccore-10.3.0 |||
+| llvm/16.0.6-gcccore-12.3.0 |||
+| llvm/18.1.8-gcccore-13.3.0 |||
+| llvm/18.1.8-gcccore-13.3.0-minimal |||
   
 ## Description  
 The LLVM Core libraries provide a modern source- and target-independent
@@ -20,4 +20,4 @@ The LLVM Core libraries provide a modern source- and target-independent
  particularly easy to invent your own language (or port an existing compiler)
  to use LLVM as an optimizer and code generator.  
 ## Homepage  
-(https://llvm.org/)[https://llvm.org/]  
+[https://llvm.org/](https://llvm.org/)  

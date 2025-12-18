@@ -1,7 +1,7 @@
 # humann  
-|Installed versions:|  
-| ---- |  
-| humann/3.6-foss-2022a |  
+|Installed versions:|||
+|-------|--------|---------|
+| humann/3.6-foss-2022a |||
   
 ## Description  
 HUMAnN v3 is a pipeline for efficiently
@@ -14,4 +14,4 @@ Sequencing a metagenome typically produces millions
  functional profiling answers the question:
  What are the microbes in my community-of-interest doing (or capable of doing)?  
 ## Homepage  
-(http://huttenhower.sph.harvard.edu/humann)[http://huttenhower.sph.harvard.edu/humann]  
+[http://huttenhower.sph.harvard.edu/humann](http://huttenhower.sph.harvard.edu/humann)  

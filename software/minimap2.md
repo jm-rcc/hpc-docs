@@ -1,7 +1,7 @@
 # minimap2  
-|Installed versions:|  
-| ---- |  
-| minimap2/2.24-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| minimap2/2.24-gcccore-11.3.0 |||
   
 ## Description  
 Minimap2 is a fast sequence mapping and alignment
@@ -14,4 +14,4 @@ test data sets, minimap2 is over 20 times faster than most other
 long-read aligners. It will replace BWA-MEM for long reads and contig
 alignment.  
 ## Homepage  
-(https://github.com/lh3/minimap2)[https://github.com/lh3/minimap2]  
+[https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  

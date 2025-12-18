@@ -1,12 +1,12 @@
 # DendroPy  
-|Installed versions:|  
-| ---- |  
-| dendropy/4.5.2-gcccore-10.3.0 |  
-| dendropy/4.5.2-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| dendropy/4.5.2-gcccore-10.3.0 |||
+| dendropy/4.5.2-gcccore-11.3.0 |||
   
 ## Description  
 A Python library for phylogenetics and phylogenetic computing:
 reading, writing, simulation, processing and manipulation of phylogenetic trees
 (phylogenies) and characters.  
 ## Homepage  
-(https://dendropy.org/)[https://dendropy.org/]  
+[https://dendropy.org/](https://dendropy.org/)  

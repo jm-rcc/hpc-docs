@@ -1,7 +1,7 @@
 # MDI  
-|Installed versions:|  
-| ---- |  
-| mdi/1.4.26-gompi-2023a |  
+|Installed versions:|||
+|-------|--------|---------|
+| mdi/1.4.26-gompi-2023a |||
   
 ## Description  
 The MolSSI Driver Interface (MDI) project provides a
@@ -15,4 +15,4 @@ advanced sampling, and path integral MD, while also being straightforwardly
 extensible. Communication between codes is handled by the MDI Library, which
 enables tight coupling between codes using either the MPI or TCP/IP methods.  
 ## Homepage  
-(https://github.com/MolSSI-MDI/MDI_Library)[https://github.com/MolSSI-MDI/MDI_Library]  
+[https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  

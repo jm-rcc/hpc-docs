@@ -1,7 +1,7 @@
 # SSW  
-|Installed versions:|  
-| ---- |  
-| ssw/1.1-gcccore-10.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| ssw/1.1-gcccore-10.3.0 |||
   
 ## Description  
 SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
@@ -13,4 +13,4 @@ SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
  (cigar) of the optimal alignment accurately; and return the sub-optimal alignment score and
  location heuristically.  
 ## Homepage  
-(https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library)[https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library]  
+[https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library](https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library)  

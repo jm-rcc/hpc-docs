@@ -1,8 +1,8 @@
 # OpenJPEG  
-|Installed versions:|  
-| ---- |  
-| openjpeg/2.5.0-gcccore-11.3.0 |  
-| openjpeg/2.5.0-gcccore-12.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| openjpeg/2.5.0-gcccore-11.3.0 |||
+| openjpeg/2.5.0-gcccore-12.3.0 |||
   
 ## Description  
 OpenJPEG is an open-source JPEG 2000 codec written in
@@ -11,4 +11,4 @@ OpenJPEG is an open-source JPEG 2000 codec written in
  (JPEG). Since may 2015, it is officially recognized by ISO/IEC and ITU-T as
  a JPEG 2000 Reference Software.  
 ## Homepage  
-(https://www.openjpeg.org/)[https://www.openjpeg.org/]  
+[https://www.openjpeg.org/](https://www.openjpeg.org/)  

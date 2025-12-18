@@ -1,8 +1,8 @@
 # kim-api  
-|Installed versions:|  
-| ---- |  
-| kim-api/2.2.1-gcc-10.3.0 |  
-| kim-api/2.3.0-gcc-12.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| kim-api/2.2.1-gcc-10.3.0 |||
+| kim-api/2.3.0-gcc-12.3.0 |||
   
 ## Description  
 Open Knowledgebase of Interatomic Models.
@@ -18,4 +18,4 @@ or
     kim-api-collections-management install user OpenKIM
 to install them all.  
 ## Homepage  
-(https://openkim.org/)[https://openkim.org/]  
+[https://openkim.org/](https://openkim.org/)  

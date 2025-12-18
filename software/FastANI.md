@@ -1,7 +1,7 @@
 # FastANI  
-|Installed versions:|  
-| ---- |  
-| fastani/1.33-gcc-10.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| fastani/1.33-gcc-10.3.0 |||
   
 ## Description  
 FastANI is developed for fast alignment-free computation of
@@ -10,4 +10,4 @@ FastANI is developed for fast alignment-free computation of
  genomes. FastANI supports pairwise comparison of both complete and draft
  genome assemblies.  
 ## Homepage  
-(https://github.com/ParBLiSS/FastANI)[https://github.com/ParBLiSS/FastANI]  
+[https://github.com/ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)  

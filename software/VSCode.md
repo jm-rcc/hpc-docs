@@ -1,7 +1,7 @@
 # VSCode  
-|Installed versions:|  
-| ---- |  
-| vscode/1.87.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| vscode/1.87.0 |||
   
 ## Description  
 Visual Studio Code is a lightweight but powerful source code editor 
@@ -11,4 +11,4 @@ Visual Studio Code is a lightweight but powerful source code editor
     and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin 
     your journey with VS Code with these introductory videos.  
 ## Homepage  
-(https://code.visualstudio.com/)[https://code.visualstudio.com/]  
+[https://code.visualstudio.com/](https://code.visualstudio.com/)  

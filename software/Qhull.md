@@ -1,10 +1,10 @@
 # Qhull  
-|Installed versions:|  
-| ---- |  
-| qhull/.2020.2-gcccore-10.3.0 |  
-| qhull/.2020.2-gcccore-11.3.0 |  
-| qhull/.2020.2-gcccore-12.3.0 |  
-| qhull/2020.2-gcccore-12.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| qhull/.2020.2-gcccore-10.3.0 |||
+| qhull/.2020.2-gcccore-11.3.0 |||
+| qhull/.2020.2-gcccore-12.3.0 |||
+| qhull/2020.2-gcccore-12.3.0 |||
   
 ## Description  
 Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,
@@ -13,4 +13,4 @@ Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,
  higher dimensions. Qhull implements the Quickhull algorithm for computing the
  convex hull.  
 ## Homepage  
-(http://www.qhull.org)[http://www.qhull.org]  
+[http://www.qhull.org](http://www.qhull.org)  

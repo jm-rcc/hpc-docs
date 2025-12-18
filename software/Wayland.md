@@ -1,8 +1,8 @@
 # Wayland  
-|Installed versions:|  
-| ---- |  
-| wayland/1.22.0-gcccore-12.3.0 |  
-| wayland/1.23.0-gcccore-13.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| wayland/1.22.0-gcccore-12.3.0 |||
+| wayland/1.23.0-gcccore-13.3.0 |||
   
 ## Description  
 Wayland is a project to define a protocol for a compositor to talk to
@@ -12,4 +12,4 @@ Wayland is a project to define a protocol for a compositor to talk to
  client itself.  The clients can be traditional applications, X servers
  (rootless or fullscreen) or other display servers.  
 ## Homepage  
-(https://wayland.freedesktop.org/)[https://wayland.freedesktop.org/]  
+[https://wayland.freedesktop.org/](https://wayland.freedesktop.org/)  

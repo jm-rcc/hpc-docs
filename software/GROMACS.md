@@ -1,9 +1,9 @@
 # GROMACS  
-|Installed versions:|  
-| ---- |  
-| gromacs/2021.3-foss-2021a |  
-| gromacs/2023.3-foss-2023a |  
-| gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| gromacs/2021.3-foss-2021a |||
+| gromacs/2023.3-foss-2023a |||
+| gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 |||
   
 ## Description  
 GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the
@@ -15,4 +15,4 @@ for both single and double precision.
 
 It also contains the gmxapi extension for the single precision MPI build.  
 ## Homepage  
-(https://www.gromacs.org)[https://www.gromacs.org]  
+[https://www.gromacs.org](https://www.gromacs.org)  

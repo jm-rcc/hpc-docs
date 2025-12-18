@@ -1,10 +1,10 @@
 # Bowtie  
-|Installed versions:|  
-| ---- |  
-| bowtie/1.3.1-gcc-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| bowtie/1.3.1-gcc-11.3.0 |||
   
 ## Description  
 Bowtie is an ultrafast, memory-efficient short read aligner.
  It aligns short DNA sequences (reads) to the human genome.  
 ## Homepage  
-(http://bowtie-bio.sourceforge.net/index.shtml)[http://bowtie-bio.sourceforge.net/index.shtml]  
+[http://bowtie-bio.sourceforge.net/index.shtml](http://bowtie-bio.sourceforge.net/index.shtml)  

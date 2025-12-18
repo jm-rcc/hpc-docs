@@ -1,8 +1,8 @@
 # GATK  
-|Installed versions:|  
-| ---- |  
-| gatk/.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437 |  
-| gatk/4.3.0.0-gcccore-11.3.0-java-11 |  
+|Installed versions:|||
+|-------|--------|---------|
+| gatk/.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437 |||
+| gatk/4.3.0.0-gcccore-11.3.0-java-11 |||
   
 ## Description  
 The Genome Analysis Toolkit or GATK is a software package developed at the Broad Institute
@@ -11,4 +11,4 @@ The Genome Analysis Toolkit or GATK is a software package developed at the Broad
  data quality assurance. Its robust architecture, powerful processing engine and
  high-performance computing features make it capable of taking on projects of any size.  
 ## Homepage  
-(https://www.broadinstitute.org/gatk/)[https://www.broadinstitute.org/gatk/]  
+[https://www.broadinstitute.org/gatk/](https://www.broadinstitute.org/gatk/)  

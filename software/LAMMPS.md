@@ -1,9 +1,9 @@
 # LAMMPS  
-|Installed versions:|  
-| ---- |  
-| lammps/23jun2022-foss-2021a-kokkos |  
-| lammps/2aug2023_update2-foss-2023a-kokkos |  
-| lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1 |  
+|Installed versions:|||
+|-------|--------|---------|
+| lammps/23jun2022-foss-2021a-kokkos |||
+| lammps/2aug2023_update2-foss-2023a-kokkos |||
+| lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1 |||
   
 ## Description  
 LAMMPS is a classical molecular dynamics code, and an acronym
@@ -16,4 +16,4 @@ parallel using message-passing techniques and a spatial-decomposition of the
 simulation domain. The code is designed to be easy to modify or extend with new
 functionality.  
 ## Homepage  
-(https://www.lammps.org)[https://www.lammps.org]  
+[https://www.lammps.org](https://www.lammps.org)  

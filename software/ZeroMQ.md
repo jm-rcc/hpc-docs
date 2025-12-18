@@ -1,8 +1,8 @@
 # ZeroMQ  
-|Installed versions:|  
-| ---- |  
-| zeromq/.4.3.4-gcccore-10.3.0 |  
-| zeromq/.4.3.4-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| zeromq/.4.3.4-gcccore-10.3.0 |||
+| zeromq/.4.3.4-gcccore-11.3.0 |||
   
 ## Description  
 ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.
@@ -12,4 +12,4 @@ ZeroMQ looks like an embeddable networking library but acts like a concurrency f
  products. Its asynchronous I/O model gives you scalable multicore applications, built as asynchronous
  message-processing tasks. It has a score of language APIs and runs on most operating systems.  
 ## Homepage  
-(https://www.zeromq.org/)[https://www.zeromq.org/]  
+[https://www.zeromq.org/](https://www.zeromq.org/)  

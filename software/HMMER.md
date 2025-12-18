@@ -1,8 +1,8 @@
 # HMMER  
-|Installed versions:|  
-| ---- |  
-| hmmer/3.3.2-gompi-2021a |  
-| hmmer/3.3.2-gompi-2022a |  
+|Installed versions:|||
+|-------|--------|---------|
+| hmmer/3.3.2-gompi-2021a |||
+| hmmer/3.3.2-gompi-2022a |||
   
 ## Description  
 HMMER is used for searching sequence databases for homologs
@@ -15,4 +15,4 @@ HMMER is used for searching sequence databases for homologs
  past, this strength came at significant computational expense, but in the new
  HMMER3 project, HMMER is now essentially as fast as BLAST.  
 ## Homepage  
-(http://hmmer.org/)[http://hmmer.org/]  
+[http://hmmer.org/](http://hmmer.org/)  

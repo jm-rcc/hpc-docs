@@ -1,8 +1,8 @@
 # IPython  
-|Installed versions:|  
-| ---- |  
-| ipython/.7.25.0-gcccore-10.3.0 |  
-| ipython/.8.5.0-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| ipython/.7.25.0-gcccore-10.3.0 |||
+| ipython/.8.5.0-gcccore-11.3.0 |||
   
 ## Description  
 IPython provides a rich architecture for interactive computing with:
@@ -12,4 +12,4 @@ IPython provides a rich architecture for interactive computing with:
  Flexible, embeddable interpreters to load into your own projects.
  Easy to use, high performance tools for parallel computing.  
 ## Homepage  
-(https://ipython.org/index.html)[https://ipython.org/index.html]  
+[https://ipython.org/index.html](https://ipython.org/index.html)  

@@ -1,7 +1,7 @@
 # Cereal  
-|Installed versions:|  
-| ---- |  
-| cereal/1.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| cereal/1.3.0 |||
   
 ## Description  
 cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly
@@ -9,4 +9,4 @@ turns them into different representations, such as compact binary encodings, XML
 fast, light-weight, and easy to extend - it has no external dependencies and can be easily bundled with other code or
 used standalone.  
 ## Homepage  
-(https://uscilab.github.io/cereal/)[https://uscilab.github.io/cereal/]  
+[https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  

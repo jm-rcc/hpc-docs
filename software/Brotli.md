@@ -1,10 +1,10 @@
 # Brotli  
-|Installed versions:|  
-| ---- |  
-| brotli/1.0.9-gcccore-10.3.0 |  
-| brotli/1.0.9-gcccore-11.3.0 |  
-| brotli/1.0.9-gcccore-12.3.0 |  
-| brotli/1.1.0-gcccore-13.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| brotli/1.0.9-gcccore-10.3.0 |||
+| brotli/1.0.9-gcccore-11.3.0 |||
+| brotli/1.0.9-gcccore-12.3.0 |||
+| brotli/1.1.0-gcccore-13.3.0 |||
   
 ## Description  
 Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination
@@ -13,4 +13,4 @@ Brotli is a generic-purpose lossless compression algorithm that compresses data 
  but offers more dense compression.
 The specification of the Brotli Compressed Data Format is defined in RFC 7932.  
 ## Homepage  
-(https://github.com/google/brotli)[https://github.com/google/brotli]  
+[https://github.com/google/brotli](https://github.com/google/brotli)  

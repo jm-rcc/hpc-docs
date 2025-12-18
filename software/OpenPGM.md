@@ -1,8 +1,8 @@
 # OpenPGM  
-|Installed versions:|  
-| ---- |  
-| openpgm/.5.2.122-gcccore-10.3.0 |  
-| openpgm/.5.2.122-gcccore-11.3.0 |  
+|Installed versions:|||
+|-------|--------|---------|
+| openpgm/.5.2.122-gcccore-10.3.0 |||
+| openpgm/.5.2.122-gcccore-11.3.0 |||
   
 ## Description  
 OpenPGM is an open source implementation of the Pragmatic General Multicast
@@ -13,4 +13,4 @@ OpenPGM is an open source implementation of the Pragmatic General Multicast
  for ensuring all data is received, absolving the sender of reception
  responsibility.  
 ## Homepage  
-(https://code.google.com/p/openpgm/)[https://code.google.com/p/openpgm/]  
+[https://code.google.com/p/openpgm/](https://code.google.com/p/openpgm/)  

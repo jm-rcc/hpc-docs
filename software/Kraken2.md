@@ -1,8 +1,8 @@
 # Kraken2  
-|Installed versions:|  
-| ---- |  
-| kraken2/2.1.2-gompi-2021a |  
-| kraken2/2.1.2-gompi-2022a |  
+|Installed versions:|||
+|-------|--------|---------|
+| kraken2/2.1.2-gompi-2021a |||
+| kraken2/2.1.2-gompi-2022a |||
   
 ## Description  
 Kraken is a system for assigning taxonomic labels to short DNA sequences,
@@ -13,4 +13,4 @@ Kraken is a system for assigning taxonomic labels to short DNA sequences,
  programs. Kraken aims to achieve high sensitivity and high speed by
  utilizing exact alignments of k-mers and a novel classification algorithm.  
 ## Homepage  
-(https://github.com/DerrickWood/kraken2/wiki)[https://github.com/DerrickWood/kraken2/wiki]  
+[https://github.com/DerrickWood/kraken2/wiki](https://github.com/DerrickWood/kraken2/wiki)  

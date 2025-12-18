@@ -1,8 +1,8 @@
 # Biopython  
-|Installed versions:|  
-| ---- |  
-| biopython/1.79-foss-2021a |  
-| biopython/1.79-foss-2022a |  
+|Installed versions:|||
+|-------|--------|---------|
+| biopython/1.79-foss-2021a |||
+| biopython/1.79-foss-2022a |||
   
 ## Description  
 Biopython is a set of freely available tools for biological
@@ -11,4 +11,4 @@ Biopython is a set of freely available tools for biological
  applications which address the needs of current and future work in
  bioinformatics.  
 ## Homepage  
-(https://www.biopython.org)[https://www.biopython.org]  
+[https://www.biopython.org](https://www.biopython.org)  
