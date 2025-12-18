@@ -1,7 +1,7 @@
 # GDAL  
 ## Installed versions  
- - gdal/3.3.0-foss-2021a  (version), (toolchain)  
  - gdal/3.5.0-foss-2022a  (version), (toolchain)  
+ - gdal/3.3.0-foss-2021a  (version), (toolchain)  
  - gdal/3.7.1-foss-2023a  (version), (toolchain)  
 ### Description  
 GDAL is a translator library for raster geospatial data formats that is released under an X/MIT style

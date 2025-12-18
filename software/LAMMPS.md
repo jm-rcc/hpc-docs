@@ -1,7 +1,7 @@
 # LAMMPS  
 ## Installed versions  
- - lammps/23jun2022-foss-2021a-kokkos  (version), (toolchain)  
  - lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1  (version), (toolchain)  
+ - lammps/23jun2022-foss-2021a-kokkos  (version), (toolchain)  
  - lammps/2aug2023_update2-foss-2023a-kokkos  (version), (toolchain)  
 ### Description  
 LAMMPS is a classical molecular dynamics code, and an acronym
