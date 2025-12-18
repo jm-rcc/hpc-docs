@@ -237,7 +237,7 @@ ___
 ## Software Survey Requests
 
 In late 2022, we asked users to participate in the software survey to ascertain which tools were required on Bunya.
-The following table summarises the status of those requests.
+The following table summarises the status of those requests.  
   
 |Name|Requests|Responsible|Completed|
 |:---|:------:|:--:|:--------|
@@ -368,7 +368,7 @@ The following table summarises the status of those requests.
 |sortmerna|0|QCIF||
 |humann|0|RCC|YES|
 |srst2|0|QCIF||
-|rust|0|RCC|YES|
+|rust|0|RCC|YES|  
   
 ___
 ## Post Software Survey Requests
