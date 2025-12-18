@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | perl/5.34.1-gcccore-11.3.0-minimal | 5.34.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | perl/5.32.1-gcccore-10.3.0-minimal | 5.32.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | perl/5.34.1-gcccore-11.3.0-minimal | 5.34.1 | GCCcore-11.3.0 | {'pic': True} |  
+ | perl/5.32.1-gcccore-10.3.0-minimal | 5.32.1 | GCCcore-10.3.0 | {'pic': True} |  
   
 >Larry Wall's Practical Extraction and Report Language    
 >    
@@ -16,8 +16,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | perl/5.32.1-gcccore-10.3.0 | 5.32.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | perl/5.34.1-gcccore-11.3.0 | 5.34.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | perl/5.34.1-gcccore-11.3.0 | 5.34.1 | GCCcore-11.3.0 | {'pic': True} |  
+ | perl/5.32.1-gcccore-10.3.0 | 5.32.1 | GCCcore-10.3.0 | {'pic': True} |  
   
 >Larry Wall's Practical Extraction and Report Language  
   
@@ -25,10 +25,10 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | perl/5.38.2-gcccore-13.3.0 | 5.38.2 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | perl/5.40.0-gcccore-14.2.0 | 5.40.0 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
- | perl/5.38.0 | 5.38.0 | None | None |  
- | perl/5.36.1-gcccore-12.3.0 | 5.36.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | perl/5.36.1-gcccore-12.3.0 | 5.36.1 | GCCcore-12.3.0 | {'pic': True} |  
+ | perl/5.38.2-gcccore-13.3.0 | 5.38.2 | GCCcore-13.3.0 | {'pic': True} |  
+ | perl/5.40.0-gcccore-14.2.0 | 5.40.0 | GCCcore-14.2.0 | {'pic': True} |  
+ | perl/5.38.0 | 5.38.0 |  | None |  
   
 >Larry Wall's Practical Extraction and Report Language    
 >    

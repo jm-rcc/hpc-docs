@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | stringtie/2.1.7-gcc-10.3.0 | 2.1.7 | {'name': 'GCC', 'version': '10.3.0'} | None |  
+ | stringtie/2.1.7-gcc-10.3.0 | 2.1.7 | GCC-10.3.0 | None |  
   
 >StringTie is a fast and highly efficient assembler of RNA-Seq alignments into potential transcripts  
   

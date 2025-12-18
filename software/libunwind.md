@@ -5,10 +5,10 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libunwind/.1.6.2-gcccore-11.3.0 | 1.6.2 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | libunwind/.1.8.1-gcccore-13.3.0 | 1.8.1 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | libunwind/.1.4.0-gcccore-10.3.0 | 1.4.0 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | libunwind/.1.6.2-gcccore-12.3.0 | 1.6.2 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | libunwind/.1.6.2-gcccore-12.3.0 | 1.6.2 | GCCcore-12.3.0 | None |  
+ | libunwind/.1.6.2-gcccore-11.3.0 | 1.6.2 | GCCcore-11.3.0 | None |  
+ | libunwind/.1.4.0-gcccore-10.3.0 | 1.4.0 | GCCcore-10.3.0 | None |  
+ | libunwind/.1.8.1-gcccore-13.3.0 | 1.8.1 | GCCcore-13.3.0 | None |  
   
 >The primary goal of libunwind is to define a portable and efficient C programming interface  
 > (API) to determine the call-chain of a program. The API additionally provides the means to manipulate the  

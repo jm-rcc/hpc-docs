@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | wget/1.21.1-gcccore-10.3.0 | 1.21.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | wget/1.21.3-gcccore-11.3.0 | 1.21.3 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | wget/1.21.3-gcccore-11.3.0 | 1.21.3 | GCCcore-11.3.0 | None |  
+ | wget/1.21.1-gcccore-10.3.0 | 1.21.1 | GCCcore-10.3.0 | None |  
   
 >GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP,  
 > the most widely-used Internet protocols. It is a non-interactive commandline tool,  

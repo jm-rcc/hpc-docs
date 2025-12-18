@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | trimmomatic/0.39-java-11 | 0.39 | None | None |  
+ | trimmomatic/0.39-java-11 | 0.39 |  | None |  
   
 >Trimmomatic performs a variety of useful trimming tasks for illumina  
 > paired-end and single ended data.The selection of trimming steps and their associated  

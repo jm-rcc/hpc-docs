@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | diamond/2.1.0-gcc-11.3.0 | 2.1.0 | {'name': 'GCC', 'version': '11.3.0'} | None |  
- | diamond/2.0.13-gcc-10.3.0 | 2.0.13 | {'name': 'GCC', 'version': '10.3.0'} | None |  
+ | diamond/2.1.0-gcc-11.3.0 | 2.1.0 | GCC-11.3.0 | None |  
+ | diamond/2.0.13-gcc-10.3.0 | 2.0.13 | GCC-10.3.0 | None |  
   
 >Accelerated BLAST compatible local sequence aligner  
   

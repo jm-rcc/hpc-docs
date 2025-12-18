@@ -5,15 +5,15 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | llvm/.16.0.6-gcccore-12.3.0 | 16.0.6 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
- | llvm/11.1.0-gcccore-10.3.0 | 11.1.0 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | llvm/.14.0.3-gcccore-11.3.0 | 14.0.3 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | llvm/.11.1.0-gcccore-10.3.0 | 11.1.0 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | llvm/18.1.8-gcccore-13.3.0-minimal | 18.1.8 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | llvm/16.0.6-gcccore-12.3.0 | 16.0.6 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
- | llvm/18.1.8-gcccore-13.3.0 | 18.1.8 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | llvm/.18.1.8-gcccore-13.3.0-minimal | 18.1.8 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | llvm/.18.1.8-gcccore-13.3.0 | 18.1.8 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
+ | llvm/.11.1.0-gcccore-10.3.0 | 11.1.0 | GCCcore-10.3.0 | {'cstd': 'gnu++11', 'pic': True} |  
+ | llvm/18.1.8-gcccore-13.3.0-minimal | 18.1.8 | GCCcore-13.3.0 | {'cstd': 'gnu++11', 'pic': True} |  
+ | llvm/.14.0.3-gcccore-11.3.0 | 14.0.3 | GCCcore-11.3.0 | {'cstd': 'gnu++11', 'pic': True} |  
+ | llvm/.18.1.8-gcccore-13.3.0 | 18.1.8 | GCCcore-13.3.0 | {'pic': True} |  
+ | llvm/.16.0.6-gcccore-12.3.0 | 16.0.6 | GCCcore-12.3.0 | {'cstd': 'gnu++11', 'pic': True} |  
+ | llvm/16.0.6-gcccore-12.3.0 | 16.0.6 | GCCcore-12.3.0 | {'cstd': 'gnu++11', 'pic': True} |  
+ | llvm/11.1.0-gcccore-10.3.0 | 11.1.0 | GCCcore-10.3.0 | {'cstd': 'gnu++11', 'pic': True} |  
+ | llvm/18.1.8-gcccore-13.3.0 | 18.1.8 | GCCcore-13.3.0 | {'pic': True} |  
+ | llvm/.18.1.8-gcccore-13.3.0-minimal | 18.1.8 | GCCcore-13.3.0 | {'cstd': 'gnu++11', 'pic': True} |  
   
 >The LLVM Core libraries provide a modern source- and target-independent  
 > optimizer, along with code generation support for many popular CPUs  

@@ -5,11 +5,11 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | help2man/.1.49.3-gcccore-14.2.0 | 1.49.3 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
- | help2man/.1.49.3-gcccore-13.3.0 | 1.49.3 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | help2man/.1.49.3-gcccore-12.3.0 | 1.49.3 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
- | help2man/.1.49.2-gcccore-11.3.0 | 1.49.2 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | help2man/.1.48.3-gcccore-10.3.0 | 1.48.3 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | help2man/.1.49.3-gcccore-13.3.0 | 1.49.3 | GCCcore-13.3.0 | None |  
+ | help2man/.1.49.3-gcccore-12.3.0 | 1.49.3 | GCCcore-12.3.0 | None |  
+ | help2man/.1.48.3-gcccore-10.3.0 | 1.48.3 | GCCcore-10.3.0 | None |  
+ | help2man/.1.49.3-gcccore-14.2.0 | 1.49.3 | GCCcore-14.2.0 | None |  
+ | help2man/.1.49.2-gcccore-11.3.0 | 1.49.2 | GCCcore-11.3.0 | None |  
   
 >help2man produces simple manual pages from the '--help' and '--version' output of other commands.  
   

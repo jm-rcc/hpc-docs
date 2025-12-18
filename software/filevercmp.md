@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | filevercmp/20191210-gcccore-10.3.0 | 20191210 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | filevercmp/20191210-gcccore-10.3.0 | 20191210 | GCCcore-10.3.0 | None |  
   
 >filevercmp function as in sort --version-sort.  
   

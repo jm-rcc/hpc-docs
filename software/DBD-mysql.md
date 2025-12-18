@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | dbd-mysql/4.050-gcc-11.3.0 | 4.050 | {'name': 'GCC', 'version': '11.3.0'} | None |  
+ | dbd-mysql/4.050-gcc-11.3.0 | 4.050 | GCC-11.3.0 | None |  
   
 >Perl binding for MySQL  
   

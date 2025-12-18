@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | rjags/4-10-foss-2021a-r-4.1.0 | 4-10 | {'name': 'foss', 'version': '2021a'} | None |  
+ | rjags/4-10-foss-2021a-r-4.1.0 | 4-10 | foss-2021a | None |  
   
 >The rjags package is an interface to the JAGS library.  
   

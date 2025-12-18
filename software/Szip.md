@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | szip/.2.1.1-gcccore-12.3.0 | 2.1.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
- | szip/.2.1.1-gcccore-10.3.0 | 2.1.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | szip/.2.1.1-gcccore-11.3.0 | 2.1.1 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | szip/.2.1.1-gcccore-11.3.0 | 2.1.1 | GCCcore-11.3.0 | {'pic': True} |  
+ | szip/.2.1.1-gcccore-10.3.0 | 2.1.1 | GCCcore-10.3.0 | {'pic': True} |  
+ | szip/.2.1.1-gcccore-12.3.0 | 2.1.1 | GCCcore-12.3.0 | {'pic': True} |  
   
 >Szip compression software, providing lossless compression of scientific data  
   

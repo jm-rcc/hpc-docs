@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | arpack-ng/.3.9.0-foss-2023a | 3.9.0 | {'name': 'foss', 'version': '2023a'} | None |  
+ | arpack-ng/.3.9.0-foss-2023a | 3.9.0 | foss-2023a | {'pic': True, 'usempi': True} |  
   
 >ARPACK is a collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.  
   

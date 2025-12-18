@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ssw/1.1-gcccore-10.3.0 | 1.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | ssw/1.1-gcccore-10.3.0 | 1.1 | GCCcore-10.3.0 | None |  
   
 >SSW is a fast implementation of the Smith-Waterman algorithm, which uses the  
 > Single-Instruction Multiple-Data (SIMD) instructions to parallelize the algorithm at the  

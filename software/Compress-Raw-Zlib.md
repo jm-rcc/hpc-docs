@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | compress-raw-zlib/2.202-gcccore-11.3.0 | 2.202 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | compress-raw-zlib/2.202-gcccore-11.3.0 | 2.202 | GCCcore-11.3.0 | None |  
   
 >Low-Level Interface to zlib or zlib-ng compression library  
   

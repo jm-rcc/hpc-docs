@@ -5,11 +5,11 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | blis/0.8.1-gcc-10.3.0 | 0.8.1 | {'name': 'GCC', 'version': '10.3.0'} | None |  
- | blis/1.1-gcc-14.2.0 | 1.1 | {'name': 'GCC', 'version': '14.2.0'} | None |  
- | blis/1.0-gcc-13.3.0 | 1.0 | {'name': 'GCC', 'version': '13.3.0'} | None |  
- | blis/0.9.0-gcc-11.3.0 | 0.9.0 | {'name': 'GCC', 'version': '11.3.0'} | None |  
- | blis/0.9.0-gcc-12.3.0 | 0.9.0 | {'name': 'GCC', 'version': '12.3.0'} | None |  
+ | blis/0.9.0-gcc-12.3.0 | 0.9.0 | GCC-12.3.0 | None |  
+ | blis/0.9.0-gcc-11.3.0 | 0.9.0 | GCC-11.3.0 | None |  
+ | blis/1.1-gcc-14.2.0 | 1.1 | GCC-14.2.0 | None |  
+ | blis/1.0-gcc-13.3.0 | 1.0 | GCC-13.3.0 | None |  
+ | blis/0.8.1-gcc-10.3.0 | 0.8.1 | GCC-10.3.0 | None |  
   
 >BLIS is a portable software framework for instantiating high-performance  
 >BLAS-like dense linear algebra libraries.  

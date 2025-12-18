@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | smithwaterman/20160702-gcccore-10.3.0 | 20160702 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | smithwaterman/20160702-gcccore-10.3.0 | 20160702 | GCCcore-10.3.0 | None |  
   
 >smith-waterman-gotoh alignment algorithm.  
   

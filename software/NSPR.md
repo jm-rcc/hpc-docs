@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | nspr/.4.30-gcccore-10.3.0 | 4.30 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | nspr/.4.34-gcccore-11.3.0 | 4.34 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | nspr/.4.35-gcccore-12.3.0 | 4.35 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | nspr/.4.34-gcccore-11.3.0 | 4.34 | GCCcore-11.3.0 | None |  
+ | nspr/.4.35-gcccore-12.3.0 | 4.35 | GCCcore-12.3.0 | None |  
+ | nspr/.4.30-gcccore-10.3.0 | 4.30 | GCCcore-10.3.0 | None |  
   
 >Netscape Portable Runtime (NSPR) provides a platform-neutral API for system level  
 > and libc-like functions.  

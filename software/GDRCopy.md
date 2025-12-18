@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | gdrcopy/2.3.1-gcccore-12.3.0 | 2.3.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | gdrcopy/2.3.1-gcccore-12.3.0 | 2.3.1 | GCCcore-12.3.0 | {'pic': True} |  
   
 >A low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.  
   

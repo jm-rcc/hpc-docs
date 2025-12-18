@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | nghttp2/.1.48.0-gcc-11.3.0 | 1.48.0 | {'name': 'GCC', 'version': '11.3.0'} | None |  
+ | nghttp2/.1.48.0-gcc-11.3.0 | 1.48.0 | GCC-11.3.0 | {'pic': True} |  
   
 >This is an implementation of the Hypertext Transfer Protocol version 2 in C.    
 >    

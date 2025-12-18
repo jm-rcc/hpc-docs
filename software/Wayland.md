@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | wayland/1.23.0-gcccore-13.3.0 | 1.23.0 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | wayland/1.22.0-gcccore-12.3.0 | 1.22.0 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | wayland/1.23.0-gcccore-13.3.0 | 1.23.0 | GCCcore-13.3.0 | None |  
+ | wayland/1.22.0-gcccore-12.3.0 | 1.22.0 | GCCcore-12.3.0 | None |  
   
 >Wayland is a project to define a protocol for a compositor to talk to  
 > its clients as well as a library implementation of the protocol.  The  

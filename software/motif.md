@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | motif/2.3.8-gcccore-11.3.0 | 2.3.8 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | motif/2.3.8-gcccore-11.3.0 | 2.3.8 | GCCcore-11.3.0 | None |  
   
 >Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building  
 > applications that follow that specification under the X Window System on Unix and other POSIX-compliant systems.  

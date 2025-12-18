@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | humann/3.6-foss-2022a | 3.6 | {'name': 'foss', 'version': '2022a'} | None |  
+ | humann/3.6-foss-2022a | 3.6 | foss-2022a | None |  
   
 >HUMAnN v3 is a pipeline for efficiently  
 > and accurately determining the coverage and abundance  

@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | coordgenlibs/3.0.1-gompi-2021a | 3.0.1 | {'name': 'gompi', 'version': '2021a'} | None |  
- | coordgenlibs/3.0.1-gompi-2022a | 3.0.1 | {'name': 'gompi', 'version': '2022a'} | None |  
+ | coordgenlibs/3.0.1-gompi-2021a | 3.0.1 | gompi-2021a | None |  
+ | coordgenlibs/3.0.1-gompi-2022a | 3.0.1 | gompi-2022a | None |  
   
 >Schrodinger-developed 2D Coordinate Generation  
   

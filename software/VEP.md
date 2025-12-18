@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | vep/107-gcc-11.3.0 | 107 | {'name': 'GCC', 'version': '11.3.0'} | None |  
+ | vep/107-gcc-11.3.0 | 107 | GCC-11.3.0 | None |  
   
 >Variant Effect Predictor (VEP) determines the effect of your  
 > variants (SNPs, insertions, deletions, CNVs or structural variants) on genes,  

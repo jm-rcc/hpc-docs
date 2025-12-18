@@ -5,11 +5,11 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libreadline/.8.2-gcccore-14.2.0 | 8.2 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
- | libreadline/.8.2-gcccore-13.3.0 | 8.2 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | libreadline/.8.1-gcccore-10.3.0 | 8.1 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | libreadline/.8.1.2-gcccore-11.3.0 | 8.1.2 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | libreadline/.8.2-gcccore-12.3.0 | 8.2 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | libreadline/.8.2-gcccore-13.3.0 | 8.2 | GCCcore-13.3.0 | {'pic': True} |  
+ | libreadline/.8.2-gcccore-12.3.0 | 8.2 | GCCcore-12.3.0 | {'pic': True} |  
+ | libreadline/.8.1.2-gcccore-11.3.0 | 8.1.2 | GCCcore-11.3.0 | {'pic': True} |  
+ | libreadline/.8.1-gcccore-10.3.0 | 8.1 | GCCcore-10.3.0 | {'pic': True} |  
+ | libreadline/.8.2-gcccore-14.2.0 | 8.2 | GCCcore-14.2.0 | {'pic': True} |  
   
 >The GNU Readline library provides a set of functions for use by applications  
 > that allow users to edit command lines as they are typed in. Both Emacs and  

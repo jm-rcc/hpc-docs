@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | python-bundle-pypi/2023.06-gcccore-12.3.0 | 2023.06 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | python-bundle-pypi/2023.06-gcccore-12.3.0 | 2023.06 | GCCcore-12.3.0 | {'pic': True} |  
   
 >Bundle of Python packages from PyPI  
   

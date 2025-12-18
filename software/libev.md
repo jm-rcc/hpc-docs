@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libev/.4.33-gcc-11.3.0 | 4.33 | {'name': 'GCC', 'version': '11.3.0'} | None |  
+ | libev/.4.33-gcc-11.3.0 | 4.33 | GCC-11.3.0 | {'pic': True} |  
   
 >A full-featured and high-performance (see benchmark)  
 >event loop that is loosely modelled after libevent, but without its  

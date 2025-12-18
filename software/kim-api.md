@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | kim-api/2.3.0-gcc-12.3.0 | 2.3.0 | {'name': 'GCC', 'version': '12.3.0'} | None |  
- | kim-api/2.2.1-gcc-10.3.0 | 2.2.1 | {'name': 'GCC', 'version': '10.3.0'} | None |  
+ | kim-api/2.2.1-gcc-10.3.0 | 2.2.1 | GCC-10.3.0 | None |  
+ | kim-api/2.3.0-gcc-12.3.0 | 2.3.0 | GCC-12.3.0 | None |  
   
 >Open Knowledgebase of Interatomic Models.    
 >    

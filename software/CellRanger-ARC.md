@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | cellranger-arc/2.0.2 | 2.0.2 | None | None |  
+ | cellranger-arc/2.0.2 | 2.0.2 |  | None |  
   
 >Cell Ranger ARC is a set of analysis pipelines that process  
 > Chromium Single Cell Multiome ATAC + Gene Expression sequencing data to generate a  

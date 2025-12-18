@@ -5,12 +5,12 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | automake/.1.16.5-gcccore-11.3.0 | 1.16.5 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | automake/.1.16.5-gcccore-13.3.0 | 1.16.5 | {'name': 'GCCcore', 'version': '13.3.0'} | None |  
- | automake/.1.17-gcccore-14.2.0 | 1.17 | {'name': 'GCCcore', 'version': '14.2.0'} | None |  
- | automake/.1.16.5 | 1.16.5 | None | None |  
- | automake/.1.16.5-gcccore-12.3.0 | 1.16.5 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
- | automake/.1.16.3-gcccore-10.3.0 | 1.16.3 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | automake/.1.17-gcccore-14.2.0 | 1.17 | GCCcore-14.2.0 | None |  
+ | automake/.1.16.5-gcccore-13.3.0 | 1.16.5 | GCCcore-13.3.0 | None |  
+ | automake/.1.16.5-gcccore-11.3.0 | 1.16.5 | GCCcore-11.3.0 | None |  
+ | automake/.1.16.5-gcccore-12.3.0 | 1.16.5 | GCCcore-12.3.0 | None |  
+ | automake/.1.16.3-gcccore-10.3.0 | 1.16.3 | GCCcore-10.3.0 | None |  
+ | automake/.1.16.5 | 1.16.5 |  | None |  
   
 >Automake: GNU Standards-compliant Makefile generator  
   

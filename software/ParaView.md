@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | paraview/5.11.2-foss-2023a | 5.11.2 | {'name': 'foss', 'version': '2023a'} | None |  
+ | paraview/5.11.2-foss-2023a | 5.11.2 | foss-2023a | {'pic': True, 'usempi': True} |  
   
 >ParaView is a scientific parallel visualizer.  
   

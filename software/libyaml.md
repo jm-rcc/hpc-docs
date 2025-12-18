@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | libyaml/.0.2.5-gcccore-10.3.0 | 0.2.5 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | libyaml/.0.2.5-gcccore-11.3.0 | 0.2.5 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | libyaml/.0.2.5-gcccore-11.3.0 | 0.2.5 | GCCcore-11.3.0 | None |  
+ | libyaml/.0.2.5-gcccore-10.3.0 | 0.2.5 | GCCcore-10.3.0 | None |  
   
 >LibYAML is a YAML parser and emitter written in C.  
   

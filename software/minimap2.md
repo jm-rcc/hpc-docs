@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | minimap2/2.24-gcccore-11.3.0 | 2.24 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | minimap2/2.24-gcccore-11.3.0 | 2.24 | GCCcore-11.3.0 | None |  
   
 >Minimap2 is a fast sequence mapping and alignment  
 >program that can find overlaps between long noisy reads, or map long  

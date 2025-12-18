@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | fsom/20141119-gcccore-10.3.0 | 20141119 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | fsom/20141119-gcccore-10.3.0 | 20141119 | GCCcore-10.3.0 | None |  
   
 >A tiny C library for managing SOM (Self-Organizing Maps) neural networks.  
   

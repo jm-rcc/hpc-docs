@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | tbl2asn/20220427-linux64 | 20220427 | None | None |  
- | tbl2asn/20230119-linux64 | 20230119 | None | None |  
+ | tbl2asn/20230119-linux64 | 20230119 |  | None |  
+ | tbl2asn/20220427-linux64 | 20220427 |  | None |  
   
 >Tbl2asn is a command-line program that automates the creation of  
 > sequence records for submission to GenBank  

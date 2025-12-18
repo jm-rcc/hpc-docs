@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1 | 1.14.1 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1 | 1.14.1 | GCCcore-12.3.0 | {'pic': True} |  
   
 >Unified Communication X  
 >An open-source production grade communication framework for data centric  

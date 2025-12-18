@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | ansys-dependencies/2023-gcc-11.3.0 | 2023 | {'name': 'GCC', 'version': '11.3.0'} | None |  
+ | ansys-dependencies/2023-gcc-11.3.0 | 2023 | GCC-11.3.0 | None |  
   
 >A collection of software to meet the requirements of Ansys.  
   

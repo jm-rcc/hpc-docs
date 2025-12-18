@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | double-conversion/3.2.0-gcccore-11.3.0 | 3.2.0 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | double-conversion/3.3.0-gcccore-12.3.0 | 3.3.0 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
- | double-conversion/3.1.5-gcccore-10.3.0 | 3.1.5 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | double-conversion/3.2.0-gcccore-11.3.0 | 3.2.0 | GCCcore-11.3.0 | None |  
+ | double-conversion/3.3.0-gcccore-12.3.0 | 3.3.0 | GCCcore-12.3.0 | None |  
+ | double-conversion/3.1.5-gcccore-10.3.0 | 3.1.5 | GCCcore-10.3.0 | None |  
   
 >Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.  
   

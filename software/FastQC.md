@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | fastqc/0.11.9-java-11 | 0.11.9 | None | None |  
- | fastqc/.0.11.9-java-11.bak_20251013200142_1777895 | 0.11.9 | None | None |  
+ | fastqc/.0.11.9-java-11.bak_20251013200142_1777895 | 0.11.9 |  | None |  
+ | fastqc/0.11.9-java-11 | 0.11.9 |  | None |  
   
 >FastQC is a quality control application for high throughput  
 >sequence data. It reads in sequence data in a variety of formats and can either  

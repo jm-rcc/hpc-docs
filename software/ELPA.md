@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | elpa/2021.05.001-foss-2021a | 2021.05.001 | {'name': 'foss', 'version': '2021a'} | None |  
+ | elpa/2021.05.001-foss-2021a | 2021.05.001 | foss-2021a | {'openmp': True, 'usempi': True} |  
   
 >Eigenvalue SoLvers for Petaflop-Applications .  
   
@@ -13,7 +13,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | elpa/2021.11.001-foss-2022a | 2021.11.001 | {'name': 'foss', 'version': '2022a'} | None |  
+ | elpa/2021.11.001-foss-2022a | 2021.11.001 | foss-2022a | {'openmp': True, 'usempi': True} |  
   
 >Eigenvalue SoLvers for Petaflop-Applications.  
   

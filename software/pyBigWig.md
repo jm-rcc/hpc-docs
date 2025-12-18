@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | pybigwig/0.3.18-foss-2021a | 0.3.18 | {'name': 'foss', 'version': '2021a'} | None |  
- | pybigwig/0.3.18-foss-2022a | 0.3.18 | {'name': 'foss', 'version': '2022a'} | None |  
+ | pybigwig/0.3.18-foss-2021a | 0.3.18 | foss-2021a | None |  
+ | pybigwig/0.3.18-foss-2022a | 0.3.18 | foss-2022a | None |  
   
 >A python extension, written in C, for quick access to bigBed  
 > files and access to and creation of bigWig files.  

@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | lzo/2.10-gcccore-11.3.0 | 2.10 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | lzo/2.10-gcccore-11.3.0 | 2.10 | GCCcore-11.3.0 | {'pic': True} |  
   
 >Portable lossless data compression library  
   

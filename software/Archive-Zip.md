@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | archive-zip/1.68-gcccore-11.3.0 | 1.68 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | archive-zip/1.68-gcccore-11.3.0 | 1.68 | GCCcore-11.3.0 | None |  
   
 >Provide an interface to ZIP archive files.  
   

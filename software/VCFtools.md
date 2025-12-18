@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | vcftools/0.1.16-gcc-11.3.0 | 0.1.16 | {'name': 'GCC', 'version': '11.3.0'} | None |  
- | vcftools/0.1.16-gcc-10.3.0 | 0.1.16 | {'name': 'GCC', 'version': '10.3.0'} | None |  
+ | vcftools/0.1.16-gcc-10.3.0 | 0.1.16 | GCC-10.3.0 | None |  
+ | vcftools/0.1.16-gcc-11.3.0 | 0.1.16 | GCC-11.3.0 | None |  
   
 >The aim of VCFtools is to provide  
 > easily accessible methods for working with complex  

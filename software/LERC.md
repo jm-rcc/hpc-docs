@@ -5,7 +5,7 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | lerc/4.0.0-gcccore-12.3.0 | 4.0.0 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
+ | lerc/4.0.0-gcccore-12.3.0 | 4.0.0 | GCCcore-12.3.0 | None |  
   
 >LERC is an open-source image or raster format which supports rapid encoding and decoding  
 >for any pixel type (not just RGB or Byte). Users set the maximum compression error per pixel while encoding,  

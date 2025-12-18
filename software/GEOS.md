@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | geos/3.9.1-gcc-10.3.0 | 3.9.1 | {'name': 'GCC', 'version': '10.3.0'} | None |  
- | geos/3.10.3-gcc-11.3.0 | 3.10.3 | {'name': 'GCC', 'version': '11.3.0'} | None |  
- | geos/3.12.0-gcc-12.3.0 | 3.12.0 | {'name': 'GCC', 'version': '12.3.0'} | None |  
+ | geos/3.10.3-gcc-11.3.0 | 3.10.3 | GCC-11.3.0 | None |  
+ | geos/3.9.1-gcc-10.3.0 | 3.9.1 | GCC-10.3.0 | None |  
+ | geos/3.12.0-gcc-12.3.0 | 3.12.0 | GCC-12.3.0 | {'pic': True} |  
   
 >GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS)  
   

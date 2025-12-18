@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | openpgm/.5.2.122-gcccore-11.3.0 | 5.2.122 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
- | openpgm/.5.2.122-gcccore-10.3.0 | 5.2.122 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
+ | openpgm/.5.2.122-gcccore-10.3.0 | 5.2.122 | GCCcore-10.3.0 | {'pic': True} |  
+ | openpgm/.5.2.122-gcccore-11.3.0 | 5.2.122 | GCCcore-11.3.0 | {'pic': True} |  
   
 >OpenPGM is an open source implementation of the Pragmatic General Multicast  
 > (PGM) specification in RFC 3208 available at www.ietf.org. PGM is a reliable  

@@ -5,8 +5,8 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | busco/5.4.5-foss-2022a | 5.4.5 | {'name': 'foss', 'version': '2022a'} | None |  
- | busco/5.4.2-foss-2021a | 5.4.2 | {'name': 'foss', 'version': '2021a'} | None |  
+ | busco/5.4.2-foss-2021a | 5.4.2 | foss-2021a | None |  
+ | busco/5.4.5-foss-2022a | 5.4.5 | foss-2022a | None |  
   
 >BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs  
   

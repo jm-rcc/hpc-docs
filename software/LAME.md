@@ -5,9 +5,9 @@
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | lame/3.100-gcccore-12.3.0 | 3.100 | {'name': 'GCCcore', 'version': '12.3.0'} | None |  
- | lame/3.100-gcccore-10.3.0 | 3.100 | {'name': 'GCCcore', 'version': '10.3.0'} | None |  
- | lame/3.100-gcccore-11.3.0 | 3.100 | {'name': 'GCCcore', 'version': '11.3.0'} | None |  
+ | lame/3.100-gcccore-12.3.0 | 3.100 | GCCcore-12.3.0 | None |  
+ | lame/3.100-gcccore-11.3.0 | 3.100 | GCCcore-11.3.0 | None |  
+ | lame/3.100-gcccore-10.3.0 | 3.100 | GCCcore-10.3.0 | None |  
   
 >LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL.  
   
