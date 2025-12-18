@@ -1,8 +1,8 @@
 # lz4  
 ## Installed versions  
+ - lz4/1.9.3-gcccore-10.3.0  (version), (toolchain)  
  - lz4/1.9.4-gcccore-13.3.0  (version), (toolchain)  
  - lz4/1.9.3-gcccore-11.3.0  (version), (toolchain)  
- - lz4/1.9.3-gcccore-10.3.0  (version), (toolchain)  
  - lz4/1.9.4-gcccore-12.3.0  (version), (toolchain)  
 ### Description  
 LZ4 is lossless compression algorithm, providing compression speed at 400 MB/s per core.

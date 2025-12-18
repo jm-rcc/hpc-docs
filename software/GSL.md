@@ -1,7 +1,7 @@
 # GSL  
 ## Installed versions  
- - gsl/2.7-gcc-10.3.0  (version), (toolchain)  
  - gsl/2.7-gcc-11.3.0  (version), (toolchain)  
+ - gsl/2.7-gcc-10.3.0  (version), (toolchain)  
  - gsl/2.7-gcc-12.3.0  (version), (toolchain)  
 ### Description  
 The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.

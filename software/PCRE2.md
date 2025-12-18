@@ -1,7 +1,7 @@
 # PCRE2  
 ## Installed versions  
- - pcre2/10.42-gcccore-12.3.0  (version), (toolchain)  
  - pcre2/10.36-gcccore-10.3.0  (version), (toolchain)  
+ - pcre2/10.42-gcccore-12.3.0  (version), (toolchain)  
  - pcre2/10.40-gcccore-11.3.0  (version), (toolchain)  
 ### Description  
 The PCRE library is a set of functions that implement regular expression pattern matching using the same syntax

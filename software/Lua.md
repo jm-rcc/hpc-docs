@@ -1,7 +1,7 @@
 # Lua  
 ## Installed versions  
- - lua/5.4.3-gcccore-10.3.0  (version), (toolchain)  
  - lua/5.4.4-gcccore-11.3.0  (version), (toolchain)  
+ - lua/5.4.3-gcccore-10.3.0  (version), (toolchain)  
 ### Description  
 Lua is a powerful, fast, lightweight, embeddable scripting language.
  Lua combines simple procedural syntax with powerful data description constructs based

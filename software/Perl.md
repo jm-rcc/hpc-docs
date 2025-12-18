@@ -1,7 +1,7 @@
 # Perl  
 ## Installed versions  
- - perl/5.34.1-gcccore-11.3.0-minimal  (version), (toolchain)  
  - perl/5.32.1-gcccore-10.3.0-minimal  (version), (toolchain)  
+ - perl/5.34.1-gcccore-11.3.0-minimal  (version), (toolchain)  
 ### Description  
 Larry Wall's Practical Extraction and Report Language  
   
@@ -10,10 +10,10 @@ This is a minimal build without any modules. Should only be used for build depen
  - perl/5.32.1-gcccore-10.3.0  (version), (toolchain)  
 ### Description  
 Larry Wall's Practical Extraction and Report Language  
- - perl/5.36.1-gcccore-12.3.0  (version), (toolchain)  
  - perl/5.38.0  (version), (toolchain)  
- - perl/5.40.0-gcccore-14.2.0  (version), (toolchain)  
  - perl/5.38.2-gcccore-13.3.0  (version), (toolchain)  
+ - perl/5.36.1-gcccore-12.3.0  (version), (toolchain)  
+ - perl/5.40.0-gcccore-14.2.0  (version), (toolchain)  
 ### Description  
 Larry Wall's Practical Extraction and Report Language  
   

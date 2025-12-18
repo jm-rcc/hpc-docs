@@ -1,8 +1,8 @@
 # Brotli  
 ## Installed versions  
  - brotli/1.0.9-gcccore-11.3.0  (version), (toolchain)  
- - brotli/1.1.0-gcccore-13.3.0  (version), (toolchain)  
  - brotli/1.0.9-gcccore-10.3.0  (version), (toolchain)  
+ - brotli/1.1.0-gcccore-13.3.0  (version), (toolchain)  
  - brotli/1.0.9-gcccore-12.3.0  (version), (toolchain)  
 ### Description  
 Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination

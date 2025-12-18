@@ -1,8 +1,8 @@
 # intel  
 ## Installed versions  
- - intel/2022a  (version), (toolchain)  
  - intel/2021a  (version), (toolchain)  
  - intel/2023a  (version), (toolchain)  
+ - intel/2022a  (version), (toolchain)  
  - intel/2024a  (version), (toolchain)  
  - intel/2025a  (version), (toolchain)  
 ### Description  

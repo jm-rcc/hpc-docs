@@ -9,9 +9,9 @@ Autoconf is an extensible package of M4 macros that produce shell scripts
  creates a configuration script for a package from a template file that lists the
  operating system features that the package can use, in the form of M4 macro calls.  
  - autoconf/.2.72-gcccore-13.3.0  (version), (toolchain)  
- - autoconf/.2.71-gcccore-12.3.0  (version), (toolchain)  
- - autoconf/.2.71-gcccore-11.3.0  (version), (toolchain)  
  - autoconf/.2.72-gcccore-14.2.0  (version), (toolchain)  
+ - autoconf/.2.71-gcccore-11.3.0  (version), (toolchain)  
+ - autoconf/.2.71-gcccore-12.3.0  (version), (toolchain)  
 ### Description  
 Autoconf is an extensible package of M4 macros that produce shell scripts
  to automatically configure software source code packages. These scripts can
