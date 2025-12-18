@@ -1,10 +1,10 @@
 # hwloc  
 ## Installed versions  
- - hwloc/.2.4.1-gcccore-10.3.0  (version), (toolchain)  
- - hwloc/.2.9.1-gcccore-12.3.0  (version), (toolchain)  
  - hwloc/.2.7.1-gcccore-11.3.0  (version), (toolchain)  
  - hwloc/.2.11.2-gcccore-14.2.0  (version), (toolchain)  
+ - hwloc/.2.4.1-gcccore-10.3.0  (version), (toolchain)  
  - hwloc/.2.10.0-gcccore-13.3.0  (version), (toolchain)  
+ - hwloc/.2.9.1-gcccore-12.3.0  (version), (toolchain)  
 >The Portable Hardware Locality (hwloc) software package provides a portable
  abstraction (across OS, versions, architectures, ...) of the hierarchical
  topology of modern architectures, including NUMA memory nodes, sockets, shared

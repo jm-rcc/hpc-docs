@@ -1,7 +1,7 @@
 # Wayland  
 ## Installed versions  
- - wayland/1.22.0-gcccore-12.3.0  (version), (toolchain)  
  - wayland/1.23.0-gcccore-13.3.0  (version), (toolchain)  
+ - wayland/1.22.0-gcccore-12.3.0  (version), (toolchain)  
 >Wayland is a project to define a protocol for a compositor to talk to
  its clients as well as a library implementation of the protocol.  The
  compositor can be a standalone display server running on Linux kernel
