@@ -1,8 +1,21 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+#remote_theme: pages-themes/cayman@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: HPC docs
 description: Documentation on Bunya and data storage
 
+url: "https://jm-rcc.github.io" # hpc-docs
+baseurl: ""
+
+# Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
