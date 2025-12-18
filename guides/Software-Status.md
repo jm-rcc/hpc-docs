@@ -60,7 +60,7 @@ ___
 * Version 10.0.1 has been installed and configured.
 * Awaiting a patch to the license server to be applied. 
 * The licensing patch has been applied.
-* Version 11.0.3 has been deployed and is the (current) default version. 
+* Version 11.0.3 has been deployed and is the (current) default version.  
 ```
 [uq_user@bunya2 ~]$ module purge
 [uq_user@bunya2 ~]$ module load gurobi/11.0.3
@@ -104,7 +104,7 @@ ___
 * Several dependencies have been deployed.
 * Some command line options are essential. Please refer to `module help starccm+/17.02.008`
 
-To test functionality please either of these 
+To test functionality please either of these  
 
 ```
 module load star-ccm+/15.06.008
@@ -126,7 +126,7 @@ An alternative to using an interactive session on a CUDA node, would be to inter
 
 ### CPU Nodes
 
-You should run **`module -I -w 120 --show-hidden overview`** on Bunya to get the up-to-date list of installed software.
+You should run **`module -I -w 120 --show-hidden overview`** on Bunya to get the up-to-date list of installed software.  
 ```
 ------------------------------------------ /sw/auto/rocky8c/epyc3/modules/all ------------------------------------------
 abricate           (1)   fastp                 (1)   impi            (3)   lz4           (2)   pybigwig        (2)
