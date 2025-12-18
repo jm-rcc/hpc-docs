@@ -1,12 +1,7 @@
 # Miller  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| miller/6.4.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - miller/6.4.0  
+  
 ## Description  
 Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  
 ## Homepage  

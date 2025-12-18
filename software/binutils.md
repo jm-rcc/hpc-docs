@@ -1,21 +1,16 @@
 # binutils  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| binutils/.2.35 | | |  
-| binutils/.2.36.1 | | |  
-| binutils/.2.36.1-gcccore-10.3.0 | | |  
-| binutils/.2.38 | | |  
-| binutils/.2.38-gcccore-11.3.0 | | |  
-| binutils/.2.40 | | |  
-| binutils/.2.40-gcccore-12.3.0 | | |  
-| binutils/.2.42 | | |  
-| binutils/.2.42-gcccore-13.3.0 | | |  
-| binutils/.2.42-gcccore-14.2.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - binutils/.2.35  
+ - binutils/.2.36.1  
+ - binutils/.2.36.1-gcccore-10.3.0  
+ - binutils/.2.38  
+ - binutils/.2.38-gcccore-11.3.0  
+ - binutils/.2.40  
+ - binutils/.2.40-gcccore-12.3.0  
+ - binutils/.2.42  
+ - binutils/.2.42-gcccore-13.3.0  
+ - binutils/.2.42-gcccore-14.2.0  
+  
 ## Description  
 binutils: GNU binary utilities  
 ## Homepage  

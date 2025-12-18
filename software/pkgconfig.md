@@ -1,12 +1,7 @@
 # pkgconfig  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| pkgconfig/1.5.4-gcccore-10.3.0-python | | |  
-{: .tablelines}  
+## Installed versions  
+ - pkgconfig/1.5.4-gcccore-10.3.0-python  
+  
 ## Description  
 pkgconfig is a Python module to interface with the pkg-config command line tool  
 ## Homepage  

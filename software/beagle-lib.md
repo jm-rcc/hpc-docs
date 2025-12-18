@@ -1,13 +1,8 @@
 # beagle-lib  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| beagle-lib/3.1.2-gcc-11.3.0 | | |  
-| beagle-lib/4.0.0-gcc-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - beagle-lib/3.1.2-gcc-11.3.0  
+ - beagle-lib/4.0.0-gcc-11.3.0  
+  
 ## Description  
 beagle-lib is a high-performance library that can perform the core calculations at the heart of most
  Bayesian and Maximum Likelihood phylogenetics packages.  

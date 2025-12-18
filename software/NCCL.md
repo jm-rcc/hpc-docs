@@ -1,12 +1,7 @@
 # NCCL  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| nccl/2.18.3-gcccore-12.3.0-cuda-12.1.1 | | |  
-{: .tablelines}  
+## Installed versions  
+ - nccl/2.18.3-gcccore-12.3.0-cuda-12.1.1  
+  
 ## Description  
 The NVIDIA Collective Communications Library (NCCL) implements multi-GPU and multi-node collective
 communication primitives that are performance optimized for NVIDIA GPUs.  

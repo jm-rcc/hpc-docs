@@ -1,12 +1,7 @@
 # motif  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| motif/2.3.8-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - motif/2.3.8-gcccore-11.3.0  
+  
 ## Description  
 Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building
  applications that follow that specification under the X Window System on Unix and other POSIX-compliant systems.

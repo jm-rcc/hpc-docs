@@ -1,13 +1,8 @@
 # JsonCpp  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| jsoncpp/1.9.4-gcccore-10.3.0 | | |  
-| jsoncpp/1.9.5-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - jsoncpp/1.9.4-gcccore-10.3.0  
+ - jsoncpp/1.9.5-gcccore-11.3.0  
+  
 ## Description  
 JsonCpp is a C++ library that allows manipulating JSON values,
  including serialization and deserialization to and from strings. It can also preserve existing comment in

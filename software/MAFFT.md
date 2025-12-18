@@ -1,12 +1,7 @@
 # MAFFT  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| mafft/7.490-gcc-10.3.0-with-extensions | | |  
-{: .tablelines}  
+## Installed versions  
+ - mafft/7.490-gcc-10.3.0-with-extensions  
+  
 ## Description  
 MAFFT is a multiple sequence alignment program for unix-like operating systems.
 It offers a range of multiple alignment methods, L-INS-i (accurate; for alignment

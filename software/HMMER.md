@@ -1,13 +1,8 @@
 # HMMER  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| hmmer/3.3.2-gompi-2021a | | |  
-| hmmer/3.3.2-gompi-2022a | | |  
-{: .tablelines}  
+## Installed versions  
+ - hmmer/3.3.2-gompi-2021a  
+ - hmmer/3.3.2-gompi-2022a  
+  
 ## Description  
 HMMER is used for searching sequence databases for homologs
  of protein sequences, and for making protein sequence alignments. It

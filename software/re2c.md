@@ -1,14 +1,9 @@
 # re2c  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| re2c/2.1.1-gcccore-10.3.0 | | |  
-| re2c/2.2-gcccore-11.3.0 | | |  
-| re2c/3.1-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - re2c/2.1.1-gcccore-10.3.0  
+ - re2c/2.2-gcccore-11.3.0  
+ - re2c/3.1-gcccore-12.3.0  
+  
 ## Description  
 re2c is a free and open-source lexer generator for C and C++. Its main goal is generating
 fast lexers: at least as fast as their reasonably optimized hand-coded counterparts. Instead of using

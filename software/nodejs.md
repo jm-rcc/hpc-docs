@@ -1,14 +1,9 @@
 # nodejs  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| nodejs/.14.17.0-gcccore-10.3.0 | | |  
-| nodejs/.16.15.1-gcccore-11.3.0 | | |  
-| nodejs/.18.17.1-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - nodejs/.14.17.0-gcccore-10.3.0  
+ - nodejs/.16.15.1-gcccore-11.3.0  
+ - nodejs/.18.17.1-gcccore-12.3.0  
+  
 ## Description  
 Node.js is a platform built on Chrome's JavaScript runtime
  for easily building fast, scalable network applications. Node.js uses an

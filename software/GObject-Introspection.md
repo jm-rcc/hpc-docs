@@ -1,14 +1,9 @@
 # GObject-Introspection  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| gobject-introspection/.1.68.0-gcccore-10.3.0 | | |  
-| gobject-introspection/.1.72.0-gcccore-11.3.0 | | |  
-| gobject-introspection/.1.76.1-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - gobject-introspection/.1.68.0-gcccore-10.3.0  
+ - gobject-introspection/.1.72.0-gcccore-11.3.0  
+ - gobject-introspection/.1.76.1-gcccore-12.3.0  
+  
 ## Description  
 GObject introspection is a middleware layer between C libraries
  (using GObject) and language bindings. The C library can be scanned at

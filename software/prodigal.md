@@ -1,13 +1,8 @@
 # prodigal  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| prodigal/2.6.3-gcccore-10.3.0 | | |  
-| prodigal/2.6.3-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - prodigal/2.6.3-gcccore-10.3.0  
+ - prodigal/2.6.3-gcccore-11.3.0  
+  
 ## Description  
 Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
    is a microbial (bacterial and archaeal) gene finding program developed

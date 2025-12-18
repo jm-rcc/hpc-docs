@@ -1,14 +1,9 @@
 # Rust  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| rust/1.52.1-gcccore-10.3.0 | | |  
-| rust/1.60.0-gcccore-11.3.0 | | |  
-| rust/1.70.0-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - rust/1.52.1-gcccore-10.3.0  
+ - rust/1.60.0-gcccore-11.3.0  
+ - rust/1.70.0-gcccore-12.3.0  
+  
 ## Description  
 Rust is a systems programming language that runs blazingly fast, prevents segfaults,
  and guarantees thread safety.  

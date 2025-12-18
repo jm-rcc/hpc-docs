@@ -1,16 +1,11 @@
 # libreadline  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| libreadline/.8.1-gcccore-10.3.0 | | |  
-| libreadline/.8.1.2-gcccore-11.3.0 | | |  
-| libreadline/.8.2-gcccore-12.3.0 | | |  
-| libreadline/.8.2-gcccore-13.3.0 | | |  
-| libreadline/.8.2-gcccore-14.2.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - libreadline/.8.1-gcccore-10.3.0  
+ - libreadline/.8.1.2-gcccore-11.3.0  
+ - libreadline/.8.2-gcccore-12.3.0  
+ - libreadline/.8.2-gcccore-13.3.0  
+ - libreadline/.8.2-gcccore-14.2.0  
+  
 ## Description  
 The GNU Readline library provides a set of functions for use by applications
  that allow users to edit command lines as they are typed in. Both Emacs and

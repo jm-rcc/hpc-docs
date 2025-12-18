@@ -1,12 +1,7 @@
 # hipSYCL  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| hipsycl/0.9.1-gcc-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - hipsycl/0.9.1-gcc-10.3.0  
+  
 ## Description  
 hipSYCL is a modern SYCL implementation targeting CPUs and
 GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP  

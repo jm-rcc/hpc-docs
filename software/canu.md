@@ -1,13 +1,8 @@
 # canu  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| canu/2.2-gcccore-10.3.0 | | |  
-| canu/2.2-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - canu/2.2-gcccore-10.3.0  
+ - canu/2.2-gcccore-11.3.0  
+  
 ## Description  
 Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing  
 ## Homepage  

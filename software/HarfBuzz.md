@@ -1,14 +1,9 @@
 # HarfBuzz  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| harfbuzz/.2.8.1-gcccore-10.3.0 | | |  
-| harfbuzz/.4.2.1-gcccore-11.3.0 | | |  
-| harfbuzz/.5.3.1-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - harfbuzz/.2.8.1-gcccore-10.3.0  
+ - harfbuzz/.4.2.1-gcccore-11.3.0  
+ - harfbuzz/.5.3.1-gcccore-12.3.0  
+  
 ## Description  
 HarfBuzz is an OpenType text shaping engine.  
 ## Homepage  

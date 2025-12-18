@@ -1,12 +1,7 @@
 # p11-kit  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| p11-kit/.0.24.1-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - p11-kit/.0.24.1-gcccore-11.3.0  
+  
 ## Description  
 Provides a way to load and enumerate PKCS#11 modules.
  Provides a standard configuration setup for installing

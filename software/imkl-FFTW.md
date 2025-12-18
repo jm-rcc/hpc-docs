@@ -1,15 +1,10 @@
 # imkl-FFTW  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| imkl-fftw/2022.1.0-iimpi-2022a | | |  
-| imkl-fftw/2023.1.0-iimpi-2023a | | |  
-| imkl-fftw/2024.2.0-iimpi-2024a | | |  
-| imkl-fftw/2025.1.0-iimpi-2025a | | |  
-{: .tablelines}  
+## Installed versions  
+ - imkl-fftw/2022.1.0-iimpi-2022a  
+ - imkl-fftw/2023.1.0-iimpi-2023a  
+ - imkl-fftw/2024.2.0-iimpi-2024a  
+ - imkl-fftw/2025.1.0-iimpi-2025a  
+  
 ## Description  
 FFTW interfaces using Intel oneAPI Math Kernel Library  
 ## Homepage  

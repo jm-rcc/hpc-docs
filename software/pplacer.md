@@ -1,12 +1,7 @@
 # pplacer  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| pplacer/1.1.alpha19 | | |  
-{: .tablelines}  
+## Installed versions  
+ - pplacer/1.1.alpha19  
+  
 ## Description  
 Pplacer places query sequences on a fixed reference phylogenetic tree to maximize phylogenetic
  likelihood or posterior probability according to a reference alignment. Pplacer is designed to be fast, to give

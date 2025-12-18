@@ -1,13 +1,8 @@
 # BEDTools  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| bedtools/2.30.0-gcc-10.3.0 | | |  
-| bedtools/2.30.0-gcc-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - bedtools/2.30.0-gcc-10.3.0  
+ - bedtools/2.30.0-gcc-11.3.0  
+  
 ## Description  
 BEDTools: a powerful toolset for genome arithmetic.
 The BEDTools utilities allow one to address common genomics tasks such as finding feature overlaps and

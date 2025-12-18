@@ -1,13 +1,8 @@
 # MaxQuant  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| maxquant/.2.2.0.0-gcccore-11.3.0.bak_20251013214505_2034437 | | |  
-| maxquant/2.2.0.0-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - maxquant/.2.2.0.0-gcccore-11.3.0.bak_20251013214505_2034437  
+ - maxquant/2.2.0.0-gcccore-11.3.0  
+  
 ## Description  
 MaxQuant is a quantitative proteomics software package designed for analyzing large
  mass-spectrometric data sets. It is specifically aimed at high-resolution MS data. Several labeling

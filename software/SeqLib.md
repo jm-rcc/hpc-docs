@@ -1,12 +1,7 @@
 # SeqLib  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| seqlib/1.2.0-gcc-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - seqlib/1.2.0-gcc-10.3.0  
+  
 ## Description  
 C++ interface to HTSlib, BWA-MEM and Fermi.  
 ## Homepage  

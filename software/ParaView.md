@@ -1,12 +1,7 @@
 # ParaView  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| paraview/5.11.2-foss-2023a | | |  
-{: .tablelines}  
+## Installed versions  
+ - paraview/5.11.2-foss-2023a  
+  
 ## Description  
 ParaView is a scientific parallel visualizer.  
 ## Homepage  

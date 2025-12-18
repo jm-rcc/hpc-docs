@@ -1,12 +1,7 @@
 # humann  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| humann/3.6-foss-2022a | | |  
-{: .tablelines}  
+## Installed versions  
+ - humann/3.6-foss-2022a  
+  
 ## Description  
 HUMAnN v3 is a pipeline for efficiently
  and accurately determining the coverage and abundance

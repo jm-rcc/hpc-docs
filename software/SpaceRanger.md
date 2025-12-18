@@ -1,13 +1,8 @@
 # SpaceRanger  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| spaceranger/2.0.1-gcc-11.3.0 | | |  
-| spaceranger/2.1.0-gcc-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - spaceranger/2.0.1-gcc-11.3.0  
+ - spaceranger/2.1.0-gcc-11.3.0  
+  
 ## Description  
 Space Ranger is a set of analysis pipelines that process Visium spatial RNA-seq output
 and brightfield microscope images in order to detect tissue, align reads, generate feature-spot matrices,

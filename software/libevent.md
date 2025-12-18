@@ -1,17 +1,12 @@
 # libevent  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| libevent/.2.1.12 | | |  
-| libevent/.2.1.12-gcccore-10.3.0 | | |  
-| libevent/.2.1.12-gcccore-11.3.0 | | |  
-| libevent/.2.1.12-gcccore-12.3.0 | | |  
-| libevent/.2.1.12-gcccore-13.3.0 | | |  
-| libevent/.2.1.12-gcccore-14.2.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - libevent/.2.1.12  
+ - libevent/.2.1.12-gcccore-10.3.0  
+ - libevent/.2.1.12-gcccore-11.3.0  
+ - libevent/.2.1.12-gcccore-12.3.0  
+ - libevent/.2.1.12-gcccore-13.3.0  
+ - libevent/.2.1.12-gcccore-14.2.0  
+  
 ## Description  
 The libevent API provides a mechanism to execute a callback function when
  a specific event occurs on a file descriptor or after a timeout has been

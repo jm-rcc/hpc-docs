@@ -1,13 +1,8 @@
 # METIS  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| metis/5.1.0-gcccore-10.3.0 | | |  
-| metis/5.1.0-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - metis/5.1.0-gcccore-10.3.0  
+ - metis/5.1.0-gcccore-11.3.0  
+  
 ## Description  
 METIS is a set of serial programs for partitioning graphs, partitioning
  finite element meshes, and producing fill reducing orderings for sparse

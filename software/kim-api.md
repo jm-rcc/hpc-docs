@@ -1,13 +1,8 @@
 # kim-api  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| kim-api/2.2.1-gcc-10.3.0 | | |  
-| kim-api/2.3.0-gcc-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - kim-api/2.2.1-gcc-10.3.0  
+ - kim-api/2.3.0-gcc-12.3.0  
+  
 ## Description  
 Open Knowledgebase of Interatomic Models.
 

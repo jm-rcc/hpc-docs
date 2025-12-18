@@ -1,12 +1,7 @@
 # GnuTLS  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| gnutls/3.7.8-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - gnutls/3.7.8-gcccore-11.3.0  
+  
 ## Description  
 GnuTLS is a secure communications library implementing the SSL, TLS
  and DTLS protocols and technologies around them. It provides a simple

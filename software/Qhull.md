@@ -1,15 +1,10 @@
 # Qhull  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| qhull/.2020.2-gcccore-10.3.0 | | |  
-| qhull/.2020.2-gcccore-11.3.0 | | |  
-| qhull/.2020.2-gcccore-12.3.0 | | |  
-| qhull/2020.2-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - qhull/.2020.2-gcccore-10.3.0  
+ - qhull/.2020.2-gcccore-11.3.0  
+ - qhull/.2020.2-gcccore-12.3.0  
+ - qhull/2020.2-gcccore-12.3.0  
+  
 ## Description  
 Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,
  halfspace intersection about a point, furthest-site Delaunay triangulation,

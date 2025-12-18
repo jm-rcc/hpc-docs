@@ -1,12 +1,7 @@
 # fermi-lite  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| fermi-lite/20190320-gcccore-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - fermi-lite/20190320-gcccore-10.3.0  
+  
 ## Description  
 Standalone C library for assembling Illumina short reads in small regions.  
 ## Homepage  

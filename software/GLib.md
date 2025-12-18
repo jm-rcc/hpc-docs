@@ -1,14 +1,9 @@
 # GLib  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| glib/.2.68.2-gcccore-10.3.0 | | |  
-| glib/.2.72.1-gcccore-11.3.0 | | |  
-| glib/.2.77.1-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - glib/.2.68.2-gcccore-10.3.0  
+ - glib/.2.72.1-gcccore-11.3.0  
+ - glib/.2.77.1-gcccore-12.3.0  
+  
 ## Description  
 GLib is one of the base libraries of the GTK+ project  
 ## Homepage  

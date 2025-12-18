@@ -1,16 +1,11 @@
 # CUDA  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| cuda/11.7.0 | | |  
-| cuda/11.8.0 | | |  
-| cuda/12.1.1 | | |  
-| cuda/12.2.0 | | |  
-| cuda/12.6.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - cuda/11.7.0  
+ - cuda/11.8.0  
+ - cuda/12.1.1  
+ - cuda/12.2.0  
+ - cuda/12.6.0  
+  
 ## Description  
 CUDA (formerly Compute Unified Device Architecture) is a parallel
  computing platform and programming model created by NVIDIA and implemented by the

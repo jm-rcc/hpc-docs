@@ -1,12 +1,7 @@
 # LibSoup  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| libsoup/.3.0.8-gcc-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - libsoup/.3.0.8-gcc-11.3.0  
+  
 ## Description  
 libsoup is an HTTP client/server library for GNOME. It
 uses GObjects and the glib main loop, to integrate well with GNOME

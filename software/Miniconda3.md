@@ -1,13 +1,8 @@
 # Miniconda3  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| miniconda3/23.9.0-0 | | |  
-| miniconda3/4.12.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - miniconda3/23.9.0-0  
+ - miniconda3/4.12.0  
+  
 ## Description  
 Miniconda is a free minimal installer for conda. It is a small,
  bootstrap version of Anaconda that includes only conda, Python, the packages they

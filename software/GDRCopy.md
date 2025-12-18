@@ -1,12 +1,7 @@
 # GDRCopy  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| gdrcopy/2.3.1-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - gdrcopy/2.3.1-gcccore-12.3.0  
+  
 ## Description  
 A low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.  
 ## Homepage  

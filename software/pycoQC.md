@@ -1,12 +1,7 @@
 # pycoQC  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| pycoqc/2.5.2-foss-2021a | | |  
-{: .tablelines}  
+## Installed versions  
+ - pycoqc/2.5.2-foss-2021a  
+  
 ## Description  
 PycoQC computes metrics and generates interactive QC plots for
  Oxford Nanopore technologies sequencing data.  

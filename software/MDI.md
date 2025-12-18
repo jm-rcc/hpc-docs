@@ -1,12 +1,7 @@
 # MDI  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| mdi/1.4.26-gompi-2023a | | |  
-{: .tablelines}  
+## Installed versions  
+ - mdi/1.4.26-gompi-2023a  
+  
 ## Description  
 The MolSSI Driver Interface (MDI) project provides a
 standardized API for fast, on-the-fly communication between computational

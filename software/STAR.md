@@ -1,13 +1,8 @@
 # STAR  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| star/2.7.10b-gcc-11.3.0 | | |  
-| star/2.7.9a-gcc-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - star/2.7.10b-gcc-11.3.0  
+ - star/2.7.9a-gcc-10.3.0  
+  
 ## Description  
 STAR aligns RNA-seq reads to a reference genome using uncompressed suffix arrays.  
 ## Homepage  

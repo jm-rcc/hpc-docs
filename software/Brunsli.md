@@ -1,12 +1,7 @@
 # Brunsli  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| brunsli/0.1-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - brunsli/0.1-gcccore-12.3.0  
+  
 ## Description  
 Brunsli is a lossless JPEG repacking library.  
 ## Homepage  

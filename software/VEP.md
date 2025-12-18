@@ -1,12 +1,7 @@
 # VEP  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| vep/107-gcc-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - vep/107-gcc-11.3.0  
+  
 ## Description  
 Variant Effect Predictor (VEP) determines the effect of your
  variants (SNPs, insertions, deletions, CNVs or structural variants) on genes,

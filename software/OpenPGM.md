@@ -1,13 +1,8 @@
 # OpenPGM  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| openpgm/.5.2.122-gcccore-10.3.0 | | |  
-| openpgm/.5.2.122-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - openpgm/.5.2.122-gcccore-10.3.0  
+ - openpgm/.5.2.122-gcccore-11.3.0  
+  
 ## Description  
 OpenPGM is an open source implementation of the Pragmatic General Multicast
  (PGM) specification in RFC 3208 available at www.ietf.org. PGM is a reliable

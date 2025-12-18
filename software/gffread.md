@@ -1,12 +1,7 @@
 # gffread  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| gffread/0.12.7-gcccore-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - gffread/0.12.7-gcccore-10.3.0  
+  
 ## Description  
 GFF/GTF parsing utility providing format conversions,
 region filtering, FASTA sequence extraction and more.  

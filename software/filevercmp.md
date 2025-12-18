@@ -1,12 +1,7 @@
 # filevercmp  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| filevercmp/20191210-gcccore-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - filevercmp/20191210-gcccore-10.3.0  
+  
 ## Description  
 filevercmp function as in sort --version-sort.  
 ## Homepage  

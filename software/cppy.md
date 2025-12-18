@@ -1,13 +1,8 @@
 # cppy  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| cppy/1.1.0-gcccore-10.3.0 | | |  
-| cppy/1.2.1-gcccore-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - cppy/1.1.0-gcccore-10.3.0  
+ - cppy/1.2.1-gcccore-11.3.0  
+  
 ## Description  
 A small C++ header library which makes it easier to write
 Python extension modules. The primary feature is a PyObject smart pointer

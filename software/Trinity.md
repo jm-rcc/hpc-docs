@@ -1,12 +1,7 @@
 # Trinity  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| trinity/2.9.1-foss-2021a | | |  
-{: .tablelines}  
+## Installed versions  
+ - trinity/2.9.1-foss-2021a  
+  
 ## Description  
 Trinity represents a novel method for the efficient and robust de novo reconstruction
  of transcriptomes from RNA-Seq data. Trinity combines three independent software modules: Inchworm,

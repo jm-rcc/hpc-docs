@@ -1,14 +1,9 @@
 # GDAL  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| gdal/3.3.0-foss-2021a | | |  
-| gdal/3.5.0-foss-2022a | | |  
-| gdal/3.7.1-foss-2023a | | |  
-{: .tablelines}  
+## Installed versions  
+ - gdal/3.3.0-foss-2021a  
+ - gdal/3.5.0-foss-2022a  
+ - gdal/3.7.1-foss-2023a  
+  
 ## Description  
 GDAL is a translator library for raster geospatial data formats that is released under an X/MIT style
  Open Source license by the Open Source Geospatial Foundation. As a library, it presents a single abstract data model

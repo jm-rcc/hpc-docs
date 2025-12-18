@@ -1,13 +1,8 @@
 # OpenSSL  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| openssl/1.1 | | |  
-| openssl/3 | | |  
-{: .tablelines}  
+## Installed versions  
+ - openssl/1.1  
+ - openssl/3  
+  
 ## Description  
 The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
  and Open Source toolchain implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1)

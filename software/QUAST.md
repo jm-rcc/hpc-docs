@@ -1,13 +1,8 @@
 # QUAST  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| quast/5.0.2-foss-2021a | | |  
-| quast/5.2.0-foss-2022a | | |  
-{: .tablelines}  
+## Installed versions  
+ - quast/5.0.2-foss-2021a  
+ - quast/5.2.0-foss-2022a  
+  
 ## Description  
 QUAST evaluates genome assemblies by computing various metrics.
 It works both with and without reference genomes. The tool accepts multiple

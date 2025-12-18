@@ -1,13 +1,8 @@
 # tbl2asn  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| tbl2asn/20220427-linux64 | | |  
-| tbl2asn/20230119-linux64 | | |  
-{: .tablelines}  
+## Installed versions  
+ - tbl2asn/20220427-linux64  
+ - tbl2asn/20230119-linux64  
+  
 ## Description  
 Tbl2asn is a command-line program that automates the creation of
  sequence records for submission to GenBank  

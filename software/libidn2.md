@@ -1,14 +1,9 @@
 # libidn2  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| libidn2/.2.3.0-gcccore-10.3.0 | | |  
-| libidn2/.2.3.2-gcccore-11.3.0 | | |  
-| libidn2/.2.3.7-gcccore-14.2.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - libidn2/.2.3.0-gcccore-10.3.0  
+ - libidn2/.2.3.2-gcccore-11.3.0  
+ - libidn2/.2.3.7-gcccore-14.2.0  
+  
 ## Description  
 Libidn2 implements the revised algorithm for internationalized domain names called IDNA2008/TR46.  
 ## Homepage  

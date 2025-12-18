@@ -1,12 +1,7 @@
 # ABRicate  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| abricate/1.0.0-gompi-2021a | | |  
-{: .tablelines}  
+## Installed versions  
+ - abricate/1.0.0-gompi-2021a  
+  
 ## Description  
 Mass screening of contigs for antimicrobial and virulence genes  
 ## Homepage  

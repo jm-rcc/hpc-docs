@@ -1,12 +1,7 @@
 # nghttp2  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| nghttp2/.1.48.0-gcc-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - nghttp2/.1.48.0-gcc-11.3.0  
+  
 ## Description  
 This is an implementation of the Hypertext Transfer Protocol version 2 in C.
 

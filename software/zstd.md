@@ -1,15 +1,10 @@
 # zstd  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| zstd/1.4.9-gcccore-10.3.0 | | |  
-| zstd/1.5.2-gcccore-11.3.0 | | |  
-| zstd/1.5.5-gcccore-12.3.0 | | |  
-| zstd/1.5.6-gcccore-13.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - zstd/1.4.9-gcccore-10.3.0  
+ - zstd/1.5.2-gcccore-11.3.0  
+ - zstd/1.5.5-gcccore-12.3.0  
+ - zstd/1.5.6-gcccore-13.3.0  
+  
 ## Description  
 Zstandard is a real-time compression algorithm, providing high compression ratios.
  It offers a very wide range of compression/speed trade-off, while being backed by a very fast decoder.

@@ -1,12 +1,7 @@
 # Armadillo  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| armadillo/12.6.2-foss-2023a | | |  
-{: .tablelines}  
+## Installed versions  
+ - armadillo/12.6.2-foss-2023a  
+  
 ## Description  
 Armadillo is an open-source C++ linear algebra library (matrix maths) aiming towards
  a good balance between speed and ease of use. Integer, floating point and complex numbers are supported,

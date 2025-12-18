@@ -1,13 +1,8 @@
 # FastQC  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| fastqc/.0.11.9-java-11.bak_20251013200142_1777895 | | |  
-| fastqc/0.11.9-java-11 | | |  
-{: .tablelines}  
+## Installed versions  
+ - fastqc/.0.11.9-java-11.bak_20251013200142_1777895  
+ - fastqc/0.11.9-java-11  
+  
 ## Description  
 FastQC is a quality control application for high throughput
 sequence data. It reads in sequence data in a variety of formats and can either

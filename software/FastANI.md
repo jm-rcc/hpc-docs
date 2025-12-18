@@ -1,12 +1,7 @@
 # FastANI  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| fastani/1.33-gcc-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - fastani/1.33-gcc-10.3.0  
+  
 ## Description  
 FastANI is developed for fast alignment-free computation of
  whole-genome Average Nucleotide Identity (ANI). ANI is defined as mean

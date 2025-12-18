@@ -1,13 +1,8 @@
 # graphite2  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| graphite2/1.3.14-gcccore-11.3.0 | | |  
-| graphite2/1.3.14-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - graphite2/1.3.14-gcccore-11.3.0  
+ - graphite2/1.3.14-gcccore-12.3.0  
+  
 ## Description  
 Graphite is a "smart font" system developed specifically to
  handle the complexities of lesser-known languages of the world.  

@@ -1,14 +1,9 @@
 # GEOS  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| geos/3.10.3-gcc-11.3.0 | | |  
-| geos/3.12.0-gcc-12.3.0 | | |  
-| geos/3.9.1-gcc-10.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - geos/3.10.3-gcc-11.3.0  
+ - geos/3.12.0-gcc-12.3.0  
+ - geos/3.9.1-gcc-10.3.0  
+  
 ## Description  
 GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS)  
 ## Homepage  

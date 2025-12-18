@@ -1,13 +1,8 @@
 # libxsmm  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| libxsmm/1.16.2-gcc-10.3.0 | | |  
-| libxsmm/1.17-gcc-11.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - libxsmm/1.16.2-gcc-10.3.0  
+ - libxsmm/1.17-gcc-11.3.0  
+  
 ## Description  
 LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications
 targeting Intel Architecture (x86).  

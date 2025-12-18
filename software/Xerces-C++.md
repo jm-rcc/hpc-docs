@@ -1,12 +1,7 @@
 # Xerces-C++  
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-border: 1px solid black;
-}
-</style>|Installed versions:|A|B|  
-|-------|--------|---------|  
-| xerces-c++/3.2.4-gcccore-12.3.0 | | |  
-{: .tablelines}  
+## Installed versions  
+ - xerces-c++/3.2.4-gcccore-12.3.0  
+  
 ## Description  
 Xerces-C++ is a validating XML parser written in a portable
 subset of C++. Xerces-C++ makes it easy to give your application the ability to
