@@ -24,6 +24,8 @@ Your spaces in *home*, *scratch*, *opendata*, *$TMPDIR* and *RDM*
 
 [Software Installation Status](guides/Software-Status.md)
 
+[Software List](software_shortlist.md)
+
 [All Available User Guides](guides)
 
 <br>
