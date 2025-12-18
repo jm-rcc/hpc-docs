@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # parallel  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://savannah.gnu.org/projects/parallel/](https://savannah.gnu.org/projects/parallel/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Pandoc  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://pandoc.org](https://pandoc.org)  
 ## Installed versions  

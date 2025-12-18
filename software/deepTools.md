@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # deepTools  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://deeptools.readthedocs.io/](https://deeptools.readthedocs.io/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libgeotiff  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://directory.fsf.org/wiki/Libgeotiff](https://directory.fsf.org/wiki/Libgeotiff)  
 ## Installed versions  

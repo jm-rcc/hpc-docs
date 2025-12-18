@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # EasyBuild  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://easybuilders.github.io/easybuild](https://easybuilders.github.io/easybuild)  
 ## Installed versions  

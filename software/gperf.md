@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gperf  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.gnu.org/software/gperf/](https://www.gnu.org/software/gperf/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libsndfile  
-category: lib  
+Category: lib  
 ## Homepage  
 [http://www.mega-nerd.com/libsndfile](http://www.mega-nerd.com/libsndfile)  
 ## Installed versions  

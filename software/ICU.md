@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # ICU  
-category: lib  
+Category: lib  
 ## Homepage  
-[https://icu.unicode.org](https://icu.unicode.org)  
 [https://icu-project.org/](https://icu-project.org/)  
+[https://icu.unicode.org](https://icu.unicode.org)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

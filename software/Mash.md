@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Mash  
-category: bio  
+Category: bio  
 ## Homepage  
 [http://mash.readthedocs.org](http://mash.readthedocs.org)  
 ## Installed versions  

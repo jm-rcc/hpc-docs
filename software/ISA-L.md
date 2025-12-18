@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ISA-L  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/intel/isa-l](https://github.com/intel/isa-l)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gc  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://hboehm.info/gc/](https://hboehm.info/gc/)  
 ## Installed versions  

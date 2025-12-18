@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pplacer  
-category: bio  
+Category: bio  
 ## Homepage  
 [http://matsen.fhcrc.org/pplacer/](http://matsen.fhcrc.org/pplacer/)  
 ## Installed versions  

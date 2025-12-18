@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Anaconda3  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.anaconda.com](https://www.anaconda.com)  
 ## Installed versions  

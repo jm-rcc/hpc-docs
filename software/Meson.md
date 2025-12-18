@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Meson  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://mesonbuild.com](https://mesonbuild.com)  
 ## Installed versions  

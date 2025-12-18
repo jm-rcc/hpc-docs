@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GTK3  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://developer.gnome.org/gtk3/stable/](https://developer.gnome.org/gtk3/stable/)  
 ## Installed versions  

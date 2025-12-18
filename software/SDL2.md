@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SDL2  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.libsdl.org/](https://www.libsdl.org/)  
 ## Installed versions  

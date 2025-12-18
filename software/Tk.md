@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Tk  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.tcl.tk/](https://www.tcl.tk/)  
 ## Installed versions  

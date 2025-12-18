@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SAMtools  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.htslib.org/](https://www.htslib.org/)  
 ## Installed versions  

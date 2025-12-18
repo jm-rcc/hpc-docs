@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # smithwaterman  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/ekg/smithwaterman](https://github.com/ekg/smithwaterman)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Cereal  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  
 ## Installed versions  

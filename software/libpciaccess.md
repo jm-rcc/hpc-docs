@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libpciaccess  
-category: system  
+Category: system  
 ## Homepage  
 [https://cgit.freedesktop.org/xorg/lib/libpciaccess/](https://cgit.freedesktop.org/xorg/lib/libpciaccess/)  
 ## Installed versions  

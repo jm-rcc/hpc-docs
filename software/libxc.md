@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libxc  
-category: chem  
+Category: chem  
 ## Homepage  
 [https://libxc.gitlab.io](https://libxc.gitlab.io)  
 ## Installed versions  

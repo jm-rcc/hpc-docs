@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Pillow  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://pillow.readthedocs.org/](https://pillow.readthedocs.org/)  
 ## Installed versions  

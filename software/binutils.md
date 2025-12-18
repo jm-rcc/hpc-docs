@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # binutils  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://directory.fsf.org/project/binutils/](https://directory.fsf.org/project/binutils/)  
 ## Installed versions  

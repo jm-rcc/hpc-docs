@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # groff  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.gnu.org/software/groff](https://www.gnu.org/software/groff)  
 ## Installed versions  

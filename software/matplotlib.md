@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # matplotlib  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://matplotlib.org](https://matplotlib.org)  
 ## Installed versions  

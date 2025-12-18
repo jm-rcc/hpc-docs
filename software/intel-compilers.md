@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # intel-compilers  
-category: compiler  
+Category: compiler  
 ## Homepage  
 [https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html](https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html)  
 ## Installed versions  

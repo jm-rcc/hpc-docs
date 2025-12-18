@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # UCC  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.openucx.org/](https://www.openucx.org/)  
 ## Installed versions  

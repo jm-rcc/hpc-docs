@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libsodium  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://doc.libsodium.org/](https://doc.libsodium.org/)  
 ## Installed versions  

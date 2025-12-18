@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # snakemake  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://snakemake.readthedocs.io](https://snakemake.readthedocs.io)  
 ## Installed versions  

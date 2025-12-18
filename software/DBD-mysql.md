@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DBD-mysql  
-category: data  
+Category: data  
 ## Homepage  
 [https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm](https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm)  
 ## Installed versions  

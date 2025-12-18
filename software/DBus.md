@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DBus  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://dbus.freedesktop.org/](https://dbus.freedesktop.org/)  
 ## Installed versions  

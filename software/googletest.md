@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # googletest  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/google/googletest](https://github.com/google/googletest)  
 ## Installed versions  

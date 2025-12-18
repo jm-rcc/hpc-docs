@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cutadapt  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://opensource.scilifelab.se/projects/cutadapt/](https://opensource.scilifelab.se/projects/cutadapt/)  
 ## Installed versions  

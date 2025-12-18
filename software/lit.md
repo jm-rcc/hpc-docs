@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # lit  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://llvm.org/docs/CommandGuide/lit.html](https://llvm.org/docs/CommandGuide/lit.html)  
 ## Installed versions  

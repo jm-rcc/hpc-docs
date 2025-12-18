@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SRA-Toolkit  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/ncbi/sra-tools](https://github.com/ncbi/sra-tools)  
 ## Installed versions  

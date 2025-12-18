@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cryptography  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 ## Installed versions  

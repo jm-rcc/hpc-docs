@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # plotly.py  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://plot.ly/python](https://plot.ly/python)  
 ## Installed versions  

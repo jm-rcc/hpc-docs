@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # AUGUSTUS  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://bioinf.uni-greifswald.de/augustus/](https://bioinf.uni-greifswald.de/augustus/)  
 ## Installed versions  

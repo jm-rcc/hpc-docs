@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # zstd  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://facebook.github.io/zstd](https://facebook.github.io/zstd)  
 ## Installed versions  

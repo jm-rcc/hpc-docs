@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # git  
-category: tools  
+Category: tools  
 ## Homepage  
-[https://git-scm.com](https://git-scm.com)  
 [https://git-scm.com/](https://git-scm.com/)  
+[https://git-scm.com](https://git-scm.com)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

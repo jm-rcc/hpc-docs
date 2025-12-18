@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Pango  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.pango.org/](https://www.pango.org/)  
 ## Installed versions  

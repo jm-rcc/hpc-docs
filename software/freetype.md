@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # freetype  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.freetype.org](https://www.freetype.org)  
 ## Installed versions  

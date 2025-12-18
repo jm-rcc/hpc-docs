@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Julia  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://julialang.org](https://julialang.org)  
 ## Installed versions  

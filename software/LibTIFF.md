@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LibTIFF  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://libtiff.gitlab.io/libtiff/](https://libtiff.gitlab.io/libtiff/)  
 [https://libtiff.maptools.org/](https://libtiff.maptools.org/)  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CheckM-Database  
-category: data  
+Category: data  
 ## Homepage  
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ## Installed versions  

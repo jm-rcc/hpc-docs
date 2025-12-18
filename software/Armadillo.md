@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Armadillo  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://arma.sourceforge.net/](https://arma.sourceforge.net/)  
 ## Installed versions  

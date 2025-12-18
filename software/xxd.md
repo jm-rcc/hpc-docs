@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # xxd  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.vim.org](https://www.vim.org)  
 ## Installed versions  

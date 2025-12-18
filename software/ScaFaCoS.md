@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ScaFaCoS  
-category: math  
+Category: math  
 ## Homepage  
 [http://www.scafacos.de/](http://www.scafacos.de/)  
 ## Installed versions  

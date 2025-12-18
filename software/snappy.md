@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # snappy  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/google/snappy](https://github.com/google/snappy)  
 ## Installed versions  

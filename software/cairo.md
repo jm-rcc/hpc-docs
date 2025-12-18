@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cairo  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://cairographics.org](https://cairographics.org)  
 ## Installed versions  

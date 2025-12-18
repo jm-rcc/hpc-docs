@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # UDUNITS  
-category: phys  
+Category: phys  
 ## Homepage  
 [https://www.unidata.ucar.edu/software/udunits/](https://www.unidata.ucar.edu/software/udunits/)  
 ## Installed versions  

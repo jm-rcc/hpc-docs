@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # python-isal  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/pycompression/python-isal](https://github.com/pycompression/python-isal)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SuiteSparse  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://faculty.cse.tamu.edu/davis/suitesparse.html](https://faculty.cse.tamu.edu/davis/suitesparse.html)  
 ## Installed versions  

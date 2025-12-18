@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # fsom  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/ekg/fsom](https://github.com/ekg/fsom)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # archspec  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/archspec/archspec](https://github.com/archspec/archspec)  
 ## Installed versions  

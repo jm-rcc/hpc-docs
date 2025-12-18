@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # XML-LibXML  
-category: data  
+Category: data  
 ## Homepage  
 [https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod](https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod)  
 ## Installed versions  

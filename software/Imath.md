@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Imath  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://imath.readthedocs.io/en/latest/](https://imath.readthedocs.io/en/latest/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ScaLAPACK  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://www.netlib.org/scalapack/](https://www.netlib.org/scalapack/)  
 ## Installed versions  

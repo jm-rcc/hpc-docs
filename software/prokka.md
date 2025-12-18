@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # prokka  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.vicbioinformatics.com/software.prokka.shtml](https://www.vicbioinformatics.com/software.prokka.shtml)  
 ## Installed versions  

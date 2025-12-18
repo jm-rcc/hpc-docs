@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BeautifulSoup  
-category: data  
+Category: data  
 ## Homepage  
 [https://www.crummy.com/software/BeautifulSoup](https://www.crummy.com/software/BeautifulSoup)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libcerf  
-category: math  
+Category: math  
 ## Homepage  
 [https://jugit.fz-juelich.de/mlz/libcerf](https://jugit.fz-juelich.de/mlz/libcerf)  
 ## Installed versions  

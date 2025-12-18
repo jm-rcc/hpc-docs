@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # patchelf  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/NixOS/patchelf](https://github.com/NixOS/patchelf)  
 ## Installed versions  

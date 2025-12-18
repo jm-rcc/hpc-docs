@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # R  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.r-project.org/](https://www.r-project.org/)  
 ## Installed versions  

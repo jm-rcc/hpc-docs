@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GLib  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.gtk.org/](https://www.gtk.org/)  
 ## Installed versions  

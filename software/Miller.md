@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Miller  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://miller.readthedocs.io/](https://miller.readthedocs.io/)  
 ## Installed versions  

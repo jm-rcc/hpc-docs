@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # RapidJSON  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://rapidjson.org](https://rapidjson.org)  
 ## Installed versions  

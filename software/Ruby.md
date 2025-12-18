@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Ruby  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.ruby-lang.org](https://www.ruby-lang.org)  
 ## Installed versions  

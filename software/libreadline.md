@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libreadline  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://tiswww.case.edu/php/chet/readline/rltop.html](https://tiswww.case.edu/php/chet/readline/rltop.html)  
 ## Installed versions  

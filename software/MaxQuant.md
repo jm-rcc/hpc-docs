@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MaxQuant  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://maxquant.org/maxquant](https://maxquant.org/maxquant)  
 ## Installed versions  

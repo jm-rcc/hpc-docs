@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ParaView  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.paraview.org](https://www.paraview.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Automake  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.gnu.org/software/automake/automake.html](https://www.gnu.org/software/automake/automake.html)  
 ## Installed versions  

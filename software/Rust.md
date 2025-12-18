@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Rust  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.rust-lang.org](https://www.rust-lang.org)  
 ## Installed versions  

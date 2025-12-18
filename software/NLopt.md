@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NLopt  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [http://ab-initio.mit.edu/wiki/index.php/NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)  
 ## Installed versions  

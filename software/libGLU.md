@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libGLU  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://gitlab.freedesktop.org/mesa/glu](https://gitlab.freedesktop.org/mesa/glu)  
 ## Installed versions  

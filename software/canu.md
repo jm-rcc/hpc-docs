@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # canu  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://canu.readthedocs.io](https://canu.readthedocs.io)  
 ## Installed versions  

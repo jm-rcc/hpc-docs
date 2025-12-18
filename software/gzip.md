@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gzip  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.gnu.org/software/gzip/](https://www.gnu.org/software/gzip/)  
 ## Installed versions  

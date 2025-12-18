@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PCRE2  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.pcre.org/](https://www.pcre.org/)  
 ## Installed versions  

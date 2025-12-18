@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # imkl-FFTW  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html)  
 ## Installed versions  

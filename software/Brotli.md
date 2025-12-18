@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Brotli  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/google/brotli](https://github.com/google/brotli)  
 ## Installed versions  

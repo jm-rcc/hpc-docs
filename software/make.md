@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # make  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.gnu.org/software/make/make.html](https://www.gnu.org/software/make/make.html)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Jansson  
-category: data  
+Category: data  
 ## Homepage  
 [https://www.digip.org/jansson/](https://www.digip.org/jansson/)  
 ## Installed versions  

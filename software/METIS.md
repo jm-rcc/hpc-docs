@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # METIS  
-category: math  
+Category: math  
 ## Homepage  
 [https://karypis.github.io/glaros/projects/gp.html](https://karypis.github.io/glaros/projects/gp.html)  
 ## Installed versions  

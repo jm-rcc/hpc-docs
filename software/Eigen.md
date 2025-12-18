@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Eigen  
-category: math  
+Category: math  
 ## Homepage  
 [https://eigen.tuxfamily.org](https://eigen.tuxfamily.org)  
 ## Installed versions  

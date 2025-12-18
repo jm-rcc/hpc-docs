@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # bzip2  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://sourceware.org/bzip2](https://sourceware.org/bzip2)  
 ## Installed versions  

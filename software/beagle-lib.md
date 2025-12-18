@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # beagle-lib  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://github.com/beagle-dev/beagle-lib](https://github.com/beagle-dev/beagle-lib)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # networkx  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://pypi.python.org/pypi/networkx](https://pypi.python.org/pypi/networkx)  
 ## Installed versions  

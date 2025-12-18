@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Bio-SearchIO-hmmer  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://metacpan.org/pod/Bio::SearchIO::hmmer3](https://metacpan.org/pod/Bio::SearchIO::hmmer3)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Gdk-Pixbuf  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://developer.gnome.org/gdk-pixbuf/stable/](https://developer.gnome.org/gdk-pixbuf/stable/)  
 [https://docs.gtk.org/gdk-pixbuf/](https://docs.gtk.org/gdk-pixbuf/)  

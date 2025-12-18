@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # xorg-macros  
-category: devel  
+Category: devel  
 ## Homepage  
-[https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  
 [https://gitlab.freedesktop.org/xorg/util/macros](https://gitlab.freedesktop.org/xorg/util/macros)  
+[https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LLVM  
-category: compiler  
+Category: compiler  
 ## Homepage  
 [https://llvm.org/](https://llvm.org/)  
 ## Installed versions  

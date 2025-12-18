@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Salmon  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)  
 ## Installed versions  

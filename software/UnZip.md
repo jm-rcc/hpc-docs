@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # UnZip  
-category: tools  
+Category: tools  
 ## Homepage  
 [http://www.info-zip.org/UnZip.html](http://www.info-zip.org/UnZip.html)  
 ## Installed versions  

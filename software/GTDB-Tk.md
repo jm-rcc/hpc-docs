@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GTDB-Tk  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)  
 ## Installed versions  

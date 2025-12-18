@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LibSoup  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://wiki.gnome.org/Projects/libsoup](https://wiki.gnome.org/Projects/libsoup)  
 ## Installed versions  

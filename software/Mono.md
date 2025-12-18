@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Mono  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.mono-project.com/](https://www.mono-project.com/)  
 ## Installed versions  

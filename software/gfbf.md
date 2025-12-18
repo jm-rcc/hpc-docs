@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gfbf  
-category: toolchain  
+Category: toolchain  
 ## Homepage  
 [(none)]((none))  
 ## Installed versions  

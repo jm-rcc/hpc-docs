@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # picard  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://broadinstitute.github.io/picard/](https://broadinstitute.github.io/picard/)  
 ## Installed versions  

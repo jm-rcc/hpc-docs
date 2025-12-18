@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FFTW.MPI  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://www.fftw.org](https://www.fftw.org)  
 ## Installed versions  

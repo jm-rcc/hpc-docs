@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Boost.Python  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://boostorg.github.io/python](https://boostorg.github.io/python)  
 ## Installed versions  

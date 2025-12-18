@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Archive-Zip  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://metacpan.org/pod/Archive::Zip](https://metacpan.org/pod/Archive::Zip)  
 ## Installed versions  

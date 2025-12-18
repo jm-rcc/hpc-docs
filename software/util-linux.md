@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # util-linux  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux)  
 ## Installed versions  

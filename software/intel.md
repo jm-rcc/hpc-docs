@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # intel  
-category: toolchain  
+Category: toolchain  
 ## Homepage  
 [https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # json-c  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/json-c/json-c](https://github.com/json-c/json-c)  
 ## Installed versions  

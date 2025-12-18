@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Wayland  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://wayland.freedesktop.org/](https://wayland.freedesktop.org/)  
 ## Installed versions  

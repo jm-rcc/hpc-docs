@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # rjags  
-category: math  
+Category: math  
 ## Homepage  
 [https://cran.r-project.org/web/packages/rjags](https://cran.r-project.org/web/packages/rjags)  
 ## Installed versions  

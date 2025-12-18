@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Autoconf  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  
 ## Installed versions  

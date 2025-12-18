@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # wget  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.gnu.org/software/wget](https://www.gnu.org/software/wget)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # maeparser  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/schrodinger/maeparser](https://github.com/schrodinger/maeparser)  
 ## Installed versions  

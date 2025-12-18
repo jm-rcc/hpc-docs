@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LAPACK  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://www.netlib.org/lapack/](https://www.netlib.org/lapack/)  
 ## Installed versions  

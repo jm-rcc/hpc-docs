@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Boost  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.boost.org/](https://www.boost.org/)  
 ## Installed versions  

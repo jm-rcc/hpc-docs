@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SpaceRanger  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger)  
 ## Installed versions  

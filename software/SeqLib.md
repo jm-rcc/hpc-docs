@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SeqLib  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/walaj/SeqLib](https://github.com/walaj/SeqLib)  
 ## Installed versions  

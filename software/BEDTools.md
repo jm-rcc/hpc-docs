@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BEDTools  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://bedtools.readthedocs.io/](https://bedtools.readthedocs.io/)  
 ## Installed versions  

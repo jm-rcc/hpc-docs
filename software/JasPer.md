@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # JasPer  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.ece.uvic.ca/~frodo/jasper/](https://www.ece.uvic.ca/~frodo/jasper/)  
 ## Installed versions  

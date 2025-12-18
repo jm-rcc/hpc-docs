@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # HDF  
-category: data  
+Category: data  
 ## Homepage  
 [https://support.hdfgroup.org/products/hdf4/](https://support.hdfgroup.org/products/hdf4/)  
 ## Installed versions  

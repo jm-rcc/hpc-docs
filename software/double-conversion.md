@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # double-conversion  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/google/double-conversion](https://github.com/google/double-conversion)  
 ## Installed versions  

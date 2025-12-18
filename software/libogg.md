@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libogg  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://xiph.org/ogg/](https://xiph.org/ogg/)  
 ## Installed versions  

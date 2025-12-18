@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # kim-api  
-category: chem  
+Category: chem  
 ## Homepage  
 [https://openkim.org/](https://openkim.org/)  
 ## Installed versions  

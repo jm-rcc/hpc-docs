@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DendroPy  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
 [https://dendropy.org/](https://dendropy.org/)  

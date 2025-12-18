@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hypothesis  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis)  
 ## Installed versions  

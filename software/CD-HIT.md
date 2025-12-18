@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CD-HIT  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/weizhongli/cdhit/wiki](https://github.com/weizhongli/cdhit/wiki)  
 [http://weizhongli-lab.org/cd-hit/](http://weizhongli-lab.org/cd-hit/)  

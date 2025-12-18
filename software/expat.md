@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # expat  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://libexpat.github.io](https://libexpat.github.io)  
 ## Installed versions  

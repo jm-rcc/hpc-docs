@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libarchive  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.libarchive.org/](https://www.libarchive.org/)  
 ## Installed versions  

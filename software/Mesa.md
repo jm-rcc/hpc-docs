@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Mesa  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.mesa3d.org/](https://www.mesa3d.org/)  
 ## Installed versions  

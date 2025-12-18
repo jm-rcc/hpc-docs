@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Biopython  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.biopython.org](https://www.biopython.org)  
 ## Installed versions  

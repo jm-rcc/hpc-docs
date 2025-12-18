@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FastQC  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.bioinformatics.babraham.ac.uk/projects/fastqc/](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Autotools  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://autotools.io](https://autotools.io)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libevent  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://libevent.org](https://libevent.org)  
 [https://libevent.org/](https://libevent.org/)  

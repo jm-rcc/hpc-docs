@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LZO  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.oberhumer.com/opensource/lzo/](https://www.oberhumer.com/opensource/lzo/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NSPR  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Judy  
-category: lib  
+Category: lib  
 ## Homepage  
 [http://judy.sourceforge.net/](http://judy.sourceforge.net/)  
 ## Installed versions  

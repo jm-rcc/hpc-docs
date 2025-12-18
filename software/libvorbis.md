@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libvorbis  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://xiph.org/vorbis/](https://xiph.org/vorbis/)  
 ## Installed versions  

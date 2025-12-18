@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GMP  
-category: math  
+Category: math  
 ## Homepage  
 [https://gmplib.org/](https://gmplib.org/)  
 ## Installed versions  

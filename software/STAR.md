@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # STAR  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/alexdobin/STAR](https://github.com/alexdobin/STAR)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenBabel  
-category: chem  
+Category: chem  
 ## Homepage  
 [https://openbabel.org](https://openbabel.org)  
 ## Installed versions  

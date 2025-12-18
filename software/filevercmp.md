@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # filevercmp  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/ekg/filevercmp](https://github.com/ekg/filevercmp)  
 ## Installed versions  

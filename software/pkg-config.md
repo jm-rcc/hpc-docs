@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pkg-config  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.freedesktop.org/wiki/Software/pkg-config/](https://www.freedesktop.org/wiki/Software/pkg-config/)  
 ## Installed versions  

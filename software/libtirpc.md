@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libtirpc  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://sourceforge.net/projects/libtirpc/](https://sourceforge.net/projects/libtirpc/)  
 ## Installed versions  

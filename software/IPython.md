@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # IPython  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://ipython.org/index.html](https://ipython.org/index.html)  
 ## Installed versions  

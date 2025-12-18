@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Java  
-category: lang  
+Category: lang  
 ## Homepage  
 [http://openjdk.java.net](http://openjdk.java.net)  
 [https://openjdk.org](https://openjdk.org)  

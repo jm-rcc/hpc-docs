@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GnuTLS  
-category: system  
+Category: system  
 ## Homepage  
 [https://www.gnutls.org](https://www.gnutls.org)  
 ## Installed versions  

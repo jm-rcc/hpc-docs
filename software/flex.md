@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # flex  
-category: lang  
+Category: lang  
 ## Homepage  
-[http://flex.sourceforge.net/](http://flex.sourceforge.net/)  
 [https://github.com/westes/flex](https://github.com/westes/flex)  
+[http://flex.sourceforge.net/](http://flex.sourceforge.net/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

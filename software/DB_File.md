@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DB_File  
-category: data  
+Category: data  
 ## Homepage  
 [https://perldoc.perl.org/DB_File.html](https://perldoc.perl.org/DB_File.html)  
 ## Installed versions  

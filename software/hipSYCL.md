@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hipSYCL  
-category: compiler  
+Category: compiler  
 ## Homepage  
 [https://github.com/illuhad/hipSYCL](https://github.com/illuhad/hipSYCL)  
 ## Installed versions  

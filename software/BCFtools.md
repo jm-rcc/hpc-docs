@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BCFtools  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.htslib.org/](https://www.htslib.org/)  
 ## Installed versions  

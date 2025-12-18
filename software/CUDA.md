@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CUDA  
-category: system  
+Category: system  
 ## Homepage  
 [https://developer.nvidia.com/cuda-toolkit](https://developer.nvidia.com/cuda-toolkit)  
 ## Installed versions  

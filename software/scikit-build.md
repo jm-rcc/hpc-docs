@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # scikit-build  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://scikit-build.readthedocs.io/en/latest](https://scikit-build.readthedocs.io/en/latest)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # JsonCpp  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html](https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)  
 ## Installed versions  

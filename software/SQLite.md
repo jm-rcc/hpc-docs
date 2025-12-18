@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SQLite  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.sqlite.org/](https://www.sqlite.org/)  
 ## Installed versions  

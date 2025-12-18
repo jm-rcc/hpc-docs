@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # zlib  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.zlib.net/](https://www.zlib.net/)  
 ## Installed versions  

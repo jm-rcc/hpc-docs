@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Clang  
-category: compiler  
+Category: compiler  
 ## Homepage  
 [https://clang.llvm.org/](https://clang.llvm.org/)  
 ## Installed versions  

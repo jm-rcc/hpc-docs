@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # QIIME2  
-category: bio  
+Category: bio  
 ## Homepage  
 [http://qiime2.org/](http://qiime2.org/)  
 ## Installed versions  

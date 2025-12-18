@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VEP  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
 ## Installed versions  

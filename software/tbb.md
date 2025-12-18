@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # tbb  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # nettle  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.lysator.liu.se/~nisse/nettle/](https://www.lysator.liu.se/~nisse/nettle/)  
 ## Installed versions  

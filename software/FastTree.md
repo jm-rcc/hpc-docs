@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FastTree  
-category: bio  
+Category: bio  
 ## Homepage  
 [http://www.microbesonline.org/fasttree/](http://www.microbesonline.org/fasttree/)  
 ## Installed versions  

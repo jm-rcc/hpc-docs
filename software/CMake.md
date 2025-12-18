@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CMake  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.cmake.org](https://www.cmake.org)  
 ## Installed versions  

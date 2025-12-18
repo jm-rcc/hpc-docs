@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DB  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.oracle.com/technetwork/products/berkeleydb](https://www.oracle.com/technetwork/products/berkeleydb)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # HDF5  
-category: data  
+Category: data  
 ## Homepage  
 [https://portal.hdfgroup.org/display/support](https://portal.hdfgroup.org/display/support)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Ghostscript  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://ghostscript.com](https://ghostscript.com)  
 ## Installed versions  

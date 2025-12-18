@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libopus  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.opus-codec.org/](https://www.opus-codec.org/)  
 ## Installed versions  

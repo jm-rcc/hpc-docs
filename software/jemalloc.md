@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # jemalloc  
-category: lib  
+Category: lib  
 ## Homepage  
-[http://jemalloc.net](http://jemalloc.net)  
 [https://jemalloc.net](https://jemalloc.net)  
+[http://jemalloc.net](http://jemalloc.net)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

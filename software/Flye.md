@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Flye  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye)  
 ## Installed versions  

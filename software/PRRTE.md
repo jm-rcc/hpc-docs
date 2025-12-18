@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PRRTE  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://docs.prrte.org/](https://docs.prrte.org/)  
 ## Installed versions  

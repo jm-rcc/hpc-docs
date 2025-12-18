@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenMPI  
-category: mpi  
+Category: mpi  
 ## Homepage  
 [https://www.open-mpi.org/](https://www.open-mpi.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libepoxy  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/anholt/libepoxy](https://github.com/anholt/libepoxy)  
 ## Installed versions  

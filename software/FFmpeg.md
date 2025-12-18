@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FFmpeg  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.ffmpeg.org/](https://www.ffmpeg.org/)  
 ## Installed versions  

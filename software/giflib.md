@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # giflib  
-category: lib  
+Category: lib  
 ## Homepage  
 [http://giflib.sourceforge.net/](http://giflib.sourceforge.net/)  
 ## Installed versions  

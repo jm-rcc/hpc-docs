@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libjpeg-turbo  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://sourceforge.net/projects/libjpeg-turbo/](https://sourceforge.net/projects/libjpeg-turbo/)  
 ## Installed versions  

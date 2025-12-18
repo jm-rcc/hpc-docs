@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SWIG  
-category: devel  
+Category: devel  
 ## Homepage  
 [http://www.swig.org/](http://www.swig.org/)  
 ## Installed versions  

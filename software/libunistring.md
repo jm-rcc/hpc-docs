@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libunistring  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.gnu.org/software/libunistring/](https://www.gnu.org/software/libunistring/)  
 ## Installed versions  

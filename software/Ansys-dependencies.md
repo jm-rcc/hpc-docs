@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Ansys-dependencies  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.ansys.com/](https://www.ansys.com/)  
 ## Installed versions  

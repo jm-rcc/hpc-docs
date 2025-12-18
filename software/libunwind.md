@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libunwind  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.nongnu.org/libunwind/](https://www.nongnu.org/libunwind/)  
 ## Installed versions  

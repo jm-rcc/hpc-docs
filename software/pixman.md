@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pixman  
-category: vis  
+Category: vis  
 ## Homepage  
 [http://www.pixman.org/](http://www.pixman.org/)  
 ## Installed versions  

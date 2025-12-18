@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Tcl  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.tcl.tk/](https://www.tcl.tk/)  
 ## Installed versions  

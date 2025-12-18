@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libdeflate  
-category: system  
+Category: system  
 ## Homepage  
 [https://github.com/ebiggers/libdeflate](https://github.com/ebiggers/libdeflate)  
 ## Installed versions  

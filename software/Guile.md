@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Guile  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.gnu.org/software/guile/](https://www.gnu.org/software/guile/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FastANI  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # AOCL-BLAS  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://github.com/amd/blis](https://github.com/amd/blis)  
 ## Installed versions  

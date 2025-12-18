@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # nlohmann_json  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/nlohmann/json](https://github.com/nlohmann/json)  
 ## Installed versions  

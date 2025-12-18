@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # intltool  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://freedesktop.org/wiki/Software/intltool/](https://freedesktop.org/wiki/Software/intltool/)  
 ## Installed versions  

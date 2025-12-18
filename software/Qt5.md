@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Qt5  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://qt.io/](https://qt.io/)  
 ## Installed versions  

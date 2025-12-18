@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # lz4  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://lz4.github.io/lz4/](https://lz4.github.io/lz4/)  
 ## Installed versions  

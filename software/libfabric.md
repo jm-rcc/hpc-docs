@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libfabric  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://ofiwg.github.io/libfabric/](https://ofiwg.github.io/libfabric/)  
 ## Installed versions  

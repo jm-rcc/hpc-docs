@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CFITSIO  
-category: lib  
+Category: lib  
 ## Homepage  
 [http://heasarc.gsfc.nasa.gov/fitsio/](http://heasarc.gsfc.nasa.gov/fitsio/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # HISAT2  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://daehwankimlab.github.io/hisat2](https://daehwankimlab.github.io/hisat2)  
 ## Installed versions  

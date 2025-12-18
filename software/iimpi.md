@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # iimpi  
-category: toolchain  
+Category: toolchain  
 ## Homepage  
 [https://software.intel.com/parallel-studio-xe](https://software.intel.com/parallel-studio-xe)  
 ## Installed versions  

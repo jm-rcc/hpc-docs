@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Perl  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.perl.org/](https://www.perl.org/)  
 ## Installed versions  

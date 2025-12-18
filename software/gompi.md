@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gompi  
-category: toolchain  
+Category: toolchain  
 ## Homepage  
 [(none)]((none))  
 ## Installed versions  

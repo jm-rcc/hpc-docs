@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GLPK  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.gnu.org/software/glpk/](https://www.gnu.org/software/glpk/)  
 ## Installed versions  

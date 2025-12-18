@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # tbl2asn  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/](https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GATK  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.broadinstitute.org/gatk/](https://www.broadinstitute.org/gatk/)  
 ## Installed versions  

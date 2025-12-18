@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # motif  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://motif.ics.com/](https://motif.ics.com/)  
 ## Installed versions  

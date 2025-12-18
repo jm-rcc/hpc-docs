@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # at-spi2-core  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://wiki.gnome.org/Accessibility](https://wiki.gnome.org/Accessibility)  
 ## Installed versions  

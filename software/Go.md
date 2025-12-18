@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Go  
-category: compiler  
+Category: compiler  
 ## Homepage  
 [https://www.golang.org](https://www.golang.org)  
 ## Installed versions  

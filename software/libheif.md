@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libheif  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/strukturag/libheif](https://github.com/strukturag/libheif)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FriBidi  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://github.com/fribidi/fribidi](https://github.com/fribidi/fribidi)  
 ## Installed versions  

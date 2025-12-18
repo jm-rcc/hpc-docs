@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Doxygen  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.doxygen.org](https://www.doxygen.org)  
 ## Installed versions  

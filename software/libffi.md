@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libffi  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://sourceware.org/libffi/](https://sourceware.org/libffi/)  
 ## Installed versions  

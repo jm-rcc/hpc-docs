@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MariaDB  
-category: data  
+Category: data  
 ## Homepage  
 [https://mariadb.org/](https://mariadb.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Szip  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://support.hdfgroup.org/doc_resource/SZIP/](https://support.hdfgroup.org/doc_resource/SZIP/)  
 ## Installed versions  

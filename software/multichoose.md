@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # multichoose  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/ekg/multichoose](https://github.com/ekg/multichoose)  
 ## Installed versions  

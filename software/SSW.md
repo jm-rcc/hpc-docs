@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SSW  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library](https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CellRanger  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # foss  
-category: toolchain  
+Category: toolchain  
 ## Homepage  
 [https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain)  
 ## Installed versions  

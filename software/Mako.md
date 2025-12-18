@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Mako  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.makotemplates.org](https://www.makotemplates.org)  
 ## Installed versions  

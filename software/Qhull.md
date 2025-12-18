@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Qhull  
-category: math  
+Category: math  
 ## Homepage  
 [http://www.qhull.org](http://www.qhull.org)  
 ## Installed versions  

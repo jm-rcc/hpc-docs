@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GROMACS  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.gromacs.org](https://www.gromacs.org)  
 ## Installed versions  

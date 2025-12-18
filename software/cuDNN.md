@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cuDNN  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)  
 ## Installed versions  

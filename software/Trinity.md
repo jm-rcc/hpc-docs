@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Trinity  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://trinityrnaseq.github.io](https://trinityrnaseq.github.io)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Ninja  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://ninja-build.org/](https://ninja-build.org/)  
 ## Installed versions  

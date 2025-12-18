@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Beagle  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://faculty.washington.edu/browning/beagle/beagle.html](https://faculty.washington.edu/browning/beagle/beagle.html)  
 ## Installed versions  

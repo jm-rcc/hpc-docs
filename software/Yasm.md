@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Yasm  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.tortall.net/projects/yasm/](https://www.tortall.net/projects/yasm/)  
 ## Installed versions  

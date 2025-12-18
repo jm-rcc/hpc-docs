@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # kallisto  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://pachterlab.github.io/kallisto/](https://pachterlab.github.io/kallisto/)  
 ## Installed versions  

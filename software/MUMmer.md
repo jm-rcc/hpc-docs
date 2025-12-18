@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MUMmer  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
 [http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  

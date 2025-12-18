@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # netCDF  
-category: data  
+Category: data  
 ## Homepage  
 [https://www.unidata.ucar.edu/software/netcdf/](https://www.unidata.ucar.edu/software/netcdf/)  
 ## Installed versions  

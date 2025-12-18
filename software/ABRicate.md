@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ABRicate  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/tseemann/abricate](https://github.com/tseemann/abricate)  
 ## Installed versions  

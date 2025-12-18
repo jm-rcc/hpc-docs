@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Bison  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://www.gnu.org/software/bison](https://www.gnu.org/software/bison)  
 ## Installed versions  

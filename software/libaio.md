@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libaio  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://pagure.io/libaio](https://pagure.io/libaio)  
 ## Installed versions  

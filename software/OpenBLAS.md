@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenBLAS  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [http://www.openblas.net/](http://www.openblas.net/)  
 [https://xianyi.github.com/OpenBLAS/](https://xianyi.github.com/OpenBLAS/)  

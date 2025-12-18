@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # fontconfig  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.freedesktop.org/wiki/Software/fontconfig/](https://www.freedesktop.org/wiki/Software/fontconfig/)  
 ## Installed versions  

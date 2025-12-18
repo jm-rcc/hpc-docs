@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # tqdm  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 ## Installed versions  

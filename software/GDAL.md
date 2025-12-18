@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GDAL  
-category: data  
+Category: data  
 ## Homepage  
 [https://www.gdal.org](https://www.gdal.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Python  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://python.org/](https://python.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libpng  
-category: lib  
+Category: lib  
 ## Homepage  
 [http://www.libpng.org/pub/png/libpng.html](http://www.libpng.org/pub/png/libpng.html)  
 ## Installed versions  

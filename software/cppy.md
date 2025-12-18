@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cppy  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/nucleic/cppy](https://github.com/nucleic/cppy)  
 ## Installed versions  

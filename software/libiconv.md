@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libiconv  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.gnu.org/software/libiconv](https://www.gnu.org/software/libiconv)  
 ## Installed versions  

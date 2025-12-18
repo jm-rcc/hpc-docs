@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Brunsli  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/google/brunsli/](https://github.com/google/brunsli/)  
 ## Installed versions  

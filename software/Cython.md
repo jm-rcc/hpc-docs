@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Cython  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://cython.org/](https://cython.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # HMMER  
-category: bio  
+Category: bio  
 ## Homepage  
 [http://hmmer.org/](http://hmmer.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # numactl  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/numactl/numactl](https://github.com/numactl/numactl)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NCCL  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://developer.nvidia.com/nccl](https://developer.nvidia.com/nccl)  
 ## Installed versions  

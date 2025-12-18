@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # XZ  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://tukaani.org/xz/](https://tukaani.org/xz/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # QUAST  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/ablab/quast](https://github.com/ablab/quast)  
 [https://github.com/ablab/%(namelower)s](https://github.com/ablab/%(namelower)s)  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SpectrA  
-category: math  
+Category: math  
 ## Homepage  
 [https://spectralib.org/](https://spectralib.org/)  
 ## Installed versions  

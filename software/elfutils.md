@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # elfutils  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://elfutils.org/](https://elfutils.org/)  
 ## Installed versions  

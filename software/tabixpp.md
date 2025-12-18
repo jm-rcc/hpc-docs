@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # tabixpp  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/ekg/tabixpp](https://github.com/ekg/tabixpp)  
 ## Installed versions  

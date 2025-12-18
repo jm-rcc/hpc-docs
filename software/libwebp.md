@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libwebp  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)  
 ## Installed versions  

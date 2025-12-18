@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SPAdes  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/ablab/spades](https://github.com/ablab/spades)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FlexiBLAS  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release)  
 ## Installed versions  

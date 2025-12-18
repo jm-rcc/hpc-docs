@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # seqtk  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/lh3/seqtk/](https://github.com/lh3/seqtk/)  
 ## Installed versions  

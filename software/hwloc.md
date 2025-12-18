@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hwloc  
-category: system  
+Category: system  
 ## Homepage  
 [https://www.open-mpi.org/projects/hwloc/](https://www.open-mpi.org/projects/hwloc/)  
 ## Installed versions  

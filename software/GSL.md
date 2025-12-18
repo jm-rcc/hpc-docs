@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GSL  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://www.gnu.org/software/gsl/](https://www.gnu.org/software/gsl/)  
 ## Installed versions  

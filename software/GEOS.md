@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GEOS  
-category: math  
+Category: math  
 ## Homepage  
 [https://trac.osgeo.org/geos](https://trac.osgeo.org/geos)  
 ## Installed versions  

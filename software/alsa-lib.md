@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # alsa-lib  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.alsa-project.org](https://www.alsa-project.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GCCcore  
-category: compiler  
+Category: compiler  
 ## Homepage  
 [https://gcc.gnu.org/](https://gcc.gnu.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libxslt  
-category: lib  
+Category: lib  
 ## Homepage  
 [http://xmlsoft.org/](http://xmlsoft.org/)  
 ## Installed versions  

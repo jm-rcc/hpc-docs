@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # impi  
-category: mpi  
+Category: mpi  
 ## Homepage  
 [https://software.intel.com/content/www/us/en/develop/tools/mpi-library.html](https://software.intel.com/content/www/us/en/develop/tools/mpi-library.html)  
 ## Installed versions  

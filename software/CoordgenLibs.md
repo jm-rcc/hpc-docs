@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CoordgenLibs  
-category: chem  
+Category: chem  
 ## Homepage  
 [https://github.com/schrodinger/coordgenlibs](https://github.com/schrodinger/coordgenlibs)  
 ## Installed versions  

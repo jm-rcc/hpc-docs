@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PyYAML  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/yaml/pyyaml](https://github.com/yaml/pyyaml)  
 ## Installed versions  

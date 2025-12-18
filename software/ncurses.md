@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ncurses  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.gnu.org/software/ncurses/](https://www.gnu.org/software/ncurses/)  
 ## Installed versions  

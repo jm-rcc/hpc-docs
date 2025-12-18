@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libidn2  
-category: lib  
+Category: lib  
 ## Homepage  
 [http://www.gnu.org/software/%(name)s](http://www.gnu.org/software/%(name)s)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cpio  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://savannah.gnu.org/projects/cpio/](https://savannah.gnu.org/projects/cpio/)  
 ## Installed versions  

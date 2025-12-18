@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GDRCopy  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy)  
 ## Installed versions  

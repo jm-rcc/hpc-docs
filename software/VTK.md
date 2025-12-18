@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VTK  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.vtk.org](https://www.vtk.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Catch2  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://github.com/catchorg/Catch2](https://github.com/catchorg/Catch2)  
 ## Installed versions  

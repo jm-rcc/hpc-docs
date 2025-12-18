@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BioPerl  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://bioperl.org/](https://bioperl.org/)  
 ## Installed versions  

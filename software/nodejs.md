@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # nodejs  
-category: lang  
+Category: lang  
 ## Homepage  
 [https://nodejs.org](https://nodejs.org)  
 ## Installed versions  

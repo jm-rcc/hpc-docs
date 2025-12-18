@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ImageMagick  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.imagemagick.org/](https://www.imagemagick.org/)  
 ## Installed versions  

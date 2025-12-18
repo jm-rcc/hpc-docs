@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ZeroMQ  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://www.zeromq.org/](https://www.zeromq.org/)  
 ## Installed versions  

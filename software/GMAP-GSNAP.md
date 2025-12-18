@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GMAP-GSNAP  
-category: bio  
+Category: bio  
 ## Homepage  
 [http://research-pub.gene.com/gmap/](http://research-pub.gene.com/gmap/)  
 ## Installed versions  

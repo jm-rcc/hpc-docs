@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # c-ares  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://c-ares.org/](https://c-ares.org/)  
 ## Installed versions  

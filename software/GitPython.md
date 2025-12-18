@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GitPython  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://gitpython.readthedocs.org](https://gitpython.readthedocs.org)  
 ## Installed versions  

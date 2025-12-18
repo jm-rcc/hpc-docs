@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gettext  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.gnu.org/software/gettext/](https://www.gnu.org/software/gettext/)  
 ## Installed versions  

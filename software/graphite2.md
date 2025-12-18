@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # graphite2  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home](https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home)  
 ## Installed versions  

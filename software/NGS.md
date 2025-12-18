@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NGS  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/ncbi/ngs](https://github.com/ncbi/ngs)  
 ## Installed versions  

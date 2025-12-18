@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LMDB  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://symas.com/lmdb](https://symas.com/lmdb)  
 ## Installed versions  

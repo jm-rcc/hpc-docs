@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CellRanger-ARC  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # fastp  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/OpenGene/fastp](https://github.com/OpenGene/fastp)  
 ## Installed versions  

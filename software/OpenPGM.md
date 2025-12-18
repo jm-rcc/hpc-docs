@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenPGM  
-category: system  
+Category: system  
 ## Homepage  
 [https://code.google.com/p/openpgm/](https://code.google.com/p/openpgm/)  
 ## Installed versions  

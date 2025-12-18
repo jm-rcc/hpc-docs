@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libglvnd  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://gitlab.freedesktop.org/glvnd/libglvnd](https://gitlab.freedesktop.org/glvnd/libglvnd)  
 ## Installed versions  

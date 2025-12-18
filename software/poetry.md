@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # poetry  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://python-poetry.org](https://python-poetry.org)  
 ## Installed versions  

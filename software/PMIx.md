@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PMIx  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://pmix.org/](https://pmix.org/)  
 ## Installed versions  

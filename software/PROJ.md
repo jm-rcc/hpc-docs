@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PROJ  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://proj.org](https://proj.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CheckM  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ## Installed versions  

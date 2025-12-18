@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BLIS  
-category: numlib  
+Category: numlib  
 ## Homepage  
 [https://github.com/flame/blis/](https://github.com/flame/blis/)  
 ## Installed versions  

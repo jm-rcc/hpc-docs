@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MAFFT  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://mafft.cbrc.jp/alignment/software/source.html](https://mafft.cbrc.jp/alignment/software/source.html)  
 ## Installed versions  

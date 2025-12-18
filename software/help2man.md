@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # help2man  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://www.gnu.org/software/help2man/](https://www.gnu.org/software/help2man/)  
 ## Installed versions  

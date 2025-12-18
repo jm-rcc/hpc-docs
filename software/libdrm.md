@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libdrm  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://dri.freedesktop.org](https://dri.freedesktop.org)  
 ## Installed versions  

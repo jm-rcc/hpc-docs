@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hifiasm  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/chhylp123/hifiasm](https://github.com/chhylp123/hifiasm)  
 ## Installed versions  

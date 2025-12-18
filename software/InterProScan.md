@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # InterProScan  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://www.ebi.ac.uk/interpro/](https://www.ebi.ac.uk/interpro/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # jbigkit  
-category: vis  
+Category: vis  
 ## Homepage  
 [https://www.cl.cam.ac.uk/~mgk25/jbigkit/](https://www.cl.cam.ac.uk/~mgk25/jbigkit/)  
 ## Installed versions  

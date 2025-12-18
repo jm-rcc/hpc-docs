@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MetaEuk  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://metaeuk.soedinglab.org](https://metaeuk.soedinglab.org)  
 ## Installed versions  

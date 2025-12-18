@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MPFR  
-category: math  
+Category: math  
 ## Homepage  
 [https://www.mpfr.org](https://www.mpfr.org)  
 ## Installed versions  

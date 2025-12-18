@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # FFTW  
-category: numlib  
+Category: numlib  
 ## Homepage  
-[http://www.fftw.org](http://www.fftw.org)  
 [https://www.fftw.org](https://www.fftw.org)  
+[http://www.fftw.org](http://www.fftw.org)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

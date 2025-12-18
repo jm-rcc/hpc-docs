@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # HTSeq  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/simon-anders/htseq](https://github.com/simon-anders/htseq)  
 ## Installed versions  

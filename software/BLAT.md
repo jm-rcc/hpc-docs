@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BLAT  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://genome.ucsc.edu/goldenPath/help/blatSpec.html](https://genome.ucsc.edu/goldenPath/help/blatSpec.html)  
 ## Installed versions  

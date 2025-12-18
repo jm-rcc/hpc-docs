@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ant  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://ant.apache.org/](https://ant.apache.org/)  
 ## Installed versions  

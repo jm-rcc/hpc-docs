@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cURL  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://curl.haxx.se](https://curl.haxx.se)  
 ## Installed versions  

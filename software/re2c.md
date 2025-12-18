@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # re2c  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://re2c.org/](https://re2c.org/)  
 [https://re2c.org](https://re2c.org)  

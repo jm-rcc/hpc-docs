@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libtool  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://www.gnu.org/software/libtool](https://www.gnu.org/software/libtool)  
 ## Installed versions  

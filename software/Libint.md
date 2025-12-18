@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Libint  
-category: chem  
+Category: chem  
 ## Homepage  
 [https://github.com/evaleev/libint](https://github.com/evaleev/libint)  
 ## Installed versions  

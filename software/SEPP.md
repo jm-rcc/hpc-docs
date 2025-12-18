@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SEPP  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/smirarab/sepp](https://github.com/smirarab/sepp)  
 ## Installed versions  

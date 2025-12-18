@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libgit2  
-category: devel  
+Category: devel  
 ## Homepage  
 [https://libgit2.org/](https://libgit2.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VCFtools  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://vcftools.github.io](https://vcftools.github.io)  
 ## Installed versions  

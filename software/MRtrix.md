@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MRtrix  
-category: bio  
+Category: bio  
 ## Homepage  
 [http://www.brain.org.au/software/index.html#mrtrix](http://www.brain.org.au/software/index.html#mrtrix)  
 ## Installed versions  

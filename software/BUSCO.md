@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BUSCO  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://busco.ezlab.org/](https://busco.ezlab.org/)  
 ## Installed versions  

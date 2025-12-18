@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # lpsolve  
-category: math  
+Category: math  
 ## Homepage  
 [https://sourceforge.net/projects/lpsolve/](https://sourceforge.net/projects/lpsolve/)  
 ## Installed versions  

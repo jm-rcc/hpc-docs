@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libxsmm  
-category: math  
+Category: math  
 ## Homepage  
 [https://github.com/libxsmm/libxsmm](https://github.com/libxsmm/libxsmm)  
 ## Installed versions  

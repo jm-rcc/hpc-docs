@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pybind11  
-category: lib  
+Category: lib  
 ## Homepage  
 [https://pybind11.readthedocs.io](https://pybind11.readthedocs.io)  
 ## Installed versions  

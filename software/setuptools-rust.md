@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # setuptools-rust  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://github.com/PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust)  
 ## Installed versions  

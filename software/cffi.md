@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cffi  
-category: tools  
+Category: tools  
 ## Homepage  
 [https://cffi.readthedocs.io/en/latest/](https://cffi.readthedocs.io/en/latest/)  
 ## Installed versions  

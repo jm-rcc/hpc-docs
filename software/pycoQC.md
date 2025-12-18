@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pycoQC  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://tleonardi.github.io/pycoQC](https://tleonardi.github.io/pycoQC)  
 ## Installed versions  

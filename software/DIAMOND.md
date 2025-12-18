@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DIAMOND  
-category: bio  
+Category: bio  
 ## Homepage  
 [https://github.com/bbuchfink/diamond](https://github.com/bbuchfink/diamond)  
 ## Installed versions  
