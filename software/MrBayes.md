@@ -2,8 +2,8 @@
 # MrBayes  
 Category: bio  
 ## Homepage  
-[http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  
 [https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
+[http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

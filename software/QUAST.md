@@ -2,8 +2,8 @@
 # QUAST  
 Category: bio  
 ## Homepage  
-[https://github.com/ablab/quast](https://github.com/ablab/quast)  
 [https://github.com/ablab/%(namelower)s](https://github.com/ablab/%(namelower)s)  
+[https://github.com/ablab/quast](https://github.com/ablab/quast)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

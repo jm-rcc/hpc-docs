@@ -2,8 +2,8 @@
 # re2c  
 Category: tools  
 ## Homepage  
-[https://re2c.org/](https://re2c.org/)  
 [https://re2c.org](https://re2c.org)  
+[https://re2c.org/](https://re2c.org/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
