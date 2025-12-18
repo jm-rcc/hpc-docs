@@ -2,10 +2,10 @@
 # GTK3  
 ## Installed versions  
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | gtk3/3.24.33-gcccore-11.3.0 | (version) | (toolchain) |  
- | gtk3/3.24.37-gcccore-12.3.0 | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | gtk3/3.24.37-gcccore-12.3.0 | (version) | (toolchain) |
+ | gtk3/3.24.33-gcccore-11.3.0 | (version) | (toolchain) |
 >GTK+ is the primary library used to construct user interfaces in GNOME. It  
 > provides all the user interface controls, or widgets, used in a common  
 > graphical application. Its object-oriented API allows you to construct  

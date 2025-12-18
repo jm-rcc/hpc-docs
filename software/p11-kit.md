@@ -2,9 +2,9 @@
 # p11-kit  
 ## Installed versions  
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | p11-kit/.0.24.1-gcccore-11.3.0 | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | p11-kit/.0.24.1-gcccore-11.3.0 | (version) | (toolchain) |
 >Provides a way to load and enumerate PKCS#11 modules.  
 > Provides a standard configuration setup for installing  
 > PKCS#11 modules in such a way that they're discoverable.  

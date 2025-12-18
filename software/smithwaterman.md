@@ -2,9 +2,9 @@
 # smithwaterman  
 ## Installed versions  
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | smithwaterman/20160702-gcccore-10.3.0 | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | smithwaterman/20160702-gcccore-10.3.0 | (version) | (toolchain) |
 >smith-waterman-gotoh alignment algorithm.  
   
   

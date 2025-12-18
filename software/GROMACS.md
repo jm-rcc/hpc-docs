@@ -2,9 +2,9 @@
 # GROMACS  
 ## Installed versions  
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 | (version) | (toolchain) |
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
 >particles.    
@@ -16,9 +16,9 @@
 >next to PLUMED.  
   
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | gromacs/2023.3-foss-2023a | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | gromacs/2023.3-foss-2023a | (version) | (toolchain) |
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
 >particles.    
@@ -29,9 +29,9 @@
 >It also contains the gmxapi extension for the single precision MPI build.  
   
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | gromacs/2021.3-foss-2021a | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | gromacs/2021.3-foss-2021a | (version) | (toolchain) |
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
 >particles.    

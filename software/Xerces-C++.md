@@ -2,9 +2,9 @@
 # Xerces-C++  
 ## Installed versions  
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | xerces-c++/3.2.4-gcccore-12.3.0 | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | xerces-c++/3.2.4-gcccore-12.3.0 | (version) | (toolchain) |
 >Xerces-C++ is a validating XML parser written in a portable  
 >subset of C++. Xerces-C++ makes it easy to give your application the ability to  
 >read and write XML data. A shared library is provided for parsing, generating,  

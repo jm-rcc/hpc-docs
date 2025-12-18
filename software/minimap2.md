@@ -2,9 +2,9 @@
 # minimap2  
 ## Installed versions  
   
-|A|b|c|  
-|:---|:---:|:---:|  
- | minimap2/2.24-gcccore-11.3.0 | (version) | (toolchain) |  
+|A|b|c|
+|:---|:---:|:---:|
+ | minimap2/2.24-gcccore-11.3.0 | (version) | (toolchain) |
 >Minimap2 is a fast sequence mapping and alignment  
 >program that can find overlaps between long noisy reads, or map long  
 >reads or their assemblies to a reference genome optionally with detailed  
