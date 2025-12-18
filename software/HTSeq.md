@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | htseq/2.0.2-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | htseq/2.0.2-foss-2022a | 2.0.2 | None | None |  
   
 >HTSeq is a Python library to facilitate processing and analysis  
 > of data from high-throughput sequencing (HTS) experiments.  

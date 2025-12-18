@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | julia/1.8.2-linux-x86_64 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | julia/1.8.2-linux-x86_64 | 1.8.2 | None | None |  
   
 >Julia is a high-level, high-performance dynamic programming language for numerical computing  
   

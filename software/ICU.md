@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | icu/.73.2-gcccore-12.3.0 | (version) | (toolchain) |  
- | icu/.71.1-gcccore-11.3.0 | (version) | (toolchain) |  
- | icu/.69.1-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | icu/.69.1-gcccore-10.3.0 | 69.1 | None | None |  
+ | icu/.71.1-gcccore-11.3.0 | 71.1 | None | None |  
+ | icu/.73.2-gcccore-12.3.0 | 73.2 | None | None |  
   
 >ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization  
 > support for software applications.  

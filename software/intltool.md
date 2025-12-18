@@ -3,12 +3,12 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | intltool/.0.51.0-gcccore-11.3.0 | (version) | (toolchain) |  
- | intltool/.0.51.0-gcccore-12.3.0 | (version) | (toolchain) |  
- | intltool/.0.51.0-gcccore-13.3.0 | (version) | (toolchain) |  
- | intltool/.0.51.0-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | intltool/.0.51.0-gcccore-12.3.0 | 0.51.0 | None | None |  
+ | intltool/.0.51.0-gcccore-11.3.0 | 0.51.0 | None | None |  
+ | intltool/.0.51.0-gcccore-10.3.0 | 0.51.0 | None | None |  
+ | intltool/.0.51.0-gcccore-13.3.0 | 0.51.0 | None | None |  
   
 >intltool is a set of tools to centralize translation of  
 > many different file formats using GNU gettext-compatible PO files.  

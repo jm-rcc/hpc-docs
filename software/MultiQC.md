@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | multiqc/1.14-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | multiqc/1.14-foss-2022a | 1.14 | None | None |  
   
 >Aggregate results from bioinformatics analyses across many samples into a single report.    
 >    
@@ -14,9 +14,9 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | multiqc/1.11-foss-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | multiqc/1.11-foss-2021a | 1.11 | None | None |  
   
 >Aggregate results from bioinformatics analyses across many samples into a single  
 > report.    

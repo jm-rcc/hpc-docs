@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | gcc/14.2.0 | (version) | (toolchain) |  
- | gcc/10.3.0 | (version) | (toolchain) |  
- | gcc/11.3.0 | (version) | (toolchain) |  
- | gcc/12.3.0 | (version) | (toolchain) |  
- | gcc/13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | gcc/14.2.0 | 14.2.0 | None | None |  
+ | gcc/11.3.0 | 11.3.0 | None | None |  
+ | gcc/10.3.0 | 10.3.0 | None | None |  
+ | gcc/13.3.0 | 13.3.0 | None | None |  
+ | gcc/12.3.0 | 12.3.0 | None | None |  
   
 >The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, and Ada,  
 > as well as libraries for these languages (libstdc++, libgcj,...).  

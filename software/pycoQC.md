@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | pycoqc/2.5.2-foss-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | pycoqc/2.5.2-foss-2021a | 2.5.2 | None | None |  
   
 >PycoQC computes metrics and generates interactive QC plots for  
 > Oxford Nanopore technologies sequencing data.  

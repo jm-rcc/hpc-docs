@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libidn2/.2.3.0-gcccore-10.3.0 | (version) | (toolchain) |  
- | libidn2/.2.3.7-gcccore-14.2.0 | (version) | (toolchain) |  
- | libidn2/.2.3.2-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libidn2/.2.3.7-gcccore-14.2.0 | 2.3.7 | None | None |  
+ | libidn2/.2.3.2-gcccore-11.3.0 | 2.3.2 | None | None |  
+ | libidn2/.2.3.0-gcccore-10.3.0 | 2.3.0 | None | None |  
   
 >Libidn2 implements the revised algorithm for internationalized domain names called IDNA2008/TR46.  
   

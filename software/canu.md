@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | canu/2.2-gcccore-10.3.0 | (version) | (toolchain) |  
- | canu/2.2-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | canu/2.2-gcccore-10.3.0 | 2.2 | None | None |  
+ | canu/2.2-gcccore-11.3.0 | 2.2 | None | None |  
   
 >Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing  
   

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | judy/1.0.5-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | judy/1.0.5-gcccore-11.3.0 | 1.0.5 | None | None |  
   
 >A C library that implements a dynamic array.  
   

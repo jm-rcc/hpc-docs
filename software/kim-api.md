@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | kim-api/2.2.1-gcc-10.3.0 | (version) | (toolchain) |  
- | kim-api/2.3.0-gcc-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | kim-api/2.3.0-gcc-12.3.0 | 2.3.0 | None | None |  
+ | kim-api/2.2.1-gcc-10.3.0 | 2.2.1 | None | None |  
   
 >Open Knowledgebase of Interatomic Models.    
 >    

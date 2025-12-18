@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | catch2/2.13.9-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | catch2/2.13.9-gcccore-12.3.0 | 2.13.9 | None | None |  
   
 >A modern, C++-native, header-only,  
 > test framework for unit-tests, TDD and BDD  

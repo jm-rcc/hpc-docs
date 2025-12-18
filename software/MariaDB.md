@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | mariadb/10.9.3-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | mariadb/10.9.3-gcc-11.3.0 | 10.9.3 | None | None |  
   
 >MariaDB is an enhanced, drop-in replacement for MySQL.  
 >Included engines: myISAM, Aria, InnoDB, RocksDB, TokuDB, OQGraph, Mroonga.  

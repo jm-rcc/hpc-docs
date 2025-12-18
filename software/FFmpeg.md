@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | ffmpeg/6.0-gcccore-12.3.0 | (version) | (toolchain) |  
- | ffmpeg/4.3.2-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | ffmpeg/4.3.2-gcccore-10.3.0 | 4.3.2 | None | None |  
+ | ffmpeg/6.0-gcccore-12.3.0 | 6.0 | None | None |  
   
 >A complete, cross-platform solution to record, convert and stream audio and video.  
   

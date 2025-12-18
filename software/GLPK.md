@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | glpk/.5.0-gcccore-10.3.0 | (version) | (toolchain) |  
- | glpk/.5.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | glpk/.5.0-gcccore-10.3.0 | 5.0 | None | None |  
+ | glpk/.5.0-gcccore-11.3.0 | 5.0 | None | None |  
   
 >The GLPK (GNU Linear Programming Kit) package is intended for  
 > solving large-scale linear programming (LP),  

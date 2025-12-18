@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libnsl/1.3.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libnsl/1.3.0-gcccore-11.3.0 | 1.3.0 | None | None |  
   
 >The libnsl package contains the public client interface for NIS(YP).  
   

@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | intel/2021a | (version) | (toolchain) |  
- | intel/2022a | (version) | (toolchain) |  
- | intel/2025a | (version) | (toolchain) |  
- | intel/2024a | (version) | (toolchain) |  
- | intel/2023a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | intel/2021a | 2021a | None | None |  
+ | intel/2022a | 2022a | None | None |  
+ | intel/2023a | 2023a | None | None |  
+ | intel/2024a | 2024a | None | None |  
+ | intel/2025a | 2025a | None | None |  
   
 >Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel Library (MKL).  
   

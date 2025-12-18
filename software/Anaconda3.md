@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | anaconda3/2022.05 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | anaconda3/2022.05 | 2022.05 | None | None |  
   
 >Built to complement the rich, open source Python community,  
 >the Anaconda platform provides an enterprise-ready data analytics platform  
@@ -13,9 +13,9 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | anaconda3/2023.09-0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | anaconda3/2023.09-0 | 2023.09-0 | None | None |  
   
 >Built to complement the rich, open source Python community,  
 >the Anaconda platform provides an enterprise-ready data analytics platform   

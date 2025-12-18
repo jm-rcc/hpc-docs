@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | at-spi2-core/.2.44.1-gcccore-11.3.0 | (version) | (toolchain) |  
- | at-spi2-core/.2.49.91-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | at-spi2-core/.2.44.1-gcccore-11.3.0 | 2.44.1 | None | None |  
+ | at-spi2-core/.2.49.91-gcccore-12.3.0 | 2.49.91 | None | None |  
   
 >Assistive Technology Service Provider Interface.  
   

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | mdi/1.4.26-gompi-2023a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | mdi/1.4.26-gompi-2023a | 1.4.26 | None | None |  
   
 >The MolSSI Driver Interface (MDI) project provides a  
 >standardized API for fast, on-the-fly communication between computational  

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | any2fasta/0.4.2-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | any2fasta/0.4.2-gcccore-10.3.0 | 0.4.2 | None | None |  
   
 >Convert various sequence formats to FASTA  
   

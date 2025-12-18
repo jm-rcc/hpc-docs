@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | pandoc/3.1.2 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | pandoc/3.1.2 | 3.1.2 | None | None |  
   
 >If you need to convert files from one markup format into another, pandoc is your swiss-army knife  
   

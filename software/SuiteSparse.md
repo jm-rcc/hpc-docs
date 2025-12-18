@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | suitesparse/5.10.1-foss-2021a-metis-5.1.0 | (version) | (toolchain) |  
- | suitesparse/5.13.0-foss-2022a-metis-5.1.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | suitesparse/5.13.0-foss-2022a-metis-5.1.0 | 5.13.0 | None | None |  
+ | suitesparse/5.10.1-foss-2021a-metis-5.1.0 | 5.10.1 | None | None |  
   
 >SuiteSparse is a collection of libraries manipulate sparse matrices.  
   

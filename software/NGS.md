@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | ngs/2.10.9-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | ngs/2.10.9-gcccore-10.3.0 | 2.10.9 | None | None |  
   
 >NGS is a new, domain-specific API for accessing reads, alignments and pileups  
 >produced from Next Generation Sequencing.  

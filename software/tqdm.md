@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | tqdm/4.61.2-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | tqdm/4.61.2-gcccore-10.3.0 | 4.61.2 | None | None |  
   
 >A fast, extensible progress bar for Python and CLI  
   

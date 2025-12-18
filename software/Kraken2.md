@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | kraken2/2.1.2-gompi-2022a | (version) | (toolchain) |  
- | kraken2/2.1.2-gompi-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | kraken2/2.1.2-gompi-2022a | 2.1.2 | None | None |  
+ | kraken2/2.1.2-gompi-2021a | 2.1.2 | None | None |  
   
 >Kraken is a system for assigning taxonomic labels to short DNA sequences,  
 > usually obtained through metagenomic studies. Previous attempts by other  

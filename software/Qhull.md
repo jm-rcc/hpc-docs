@@ -3,12 +3,12 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | qhull/.2020.2-gcccore-12.3.0 | (version) | (toolchain) |  
- | qhull/.2020.2-gcccore-11.3.0 | (version) | (toolchain) |  
- | qhull/.2020.2-gcccore-10.3.0 | (version) | (toolchain) |  
- | qhull/2020.2-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | qhull/.2020.2-gcccore-11.3.0 | 2020.2 | None | None |  
+ | qhull/.2020.2-gcccore-10.3.0 | 2020.2 | None | None |  
+ | qhull/.2020.2-gcccore-12.3.0 | 2020.2 | None | None |  
+ | qhull/2020.2-gcccore-12.3.0 | 2020.2 | None | None |  
   
 >Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,  
 > halfspace intersection about a point, furthest-site Delaunay triangulation,  

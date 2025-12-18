@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | hwloc/.2.4.1-gcccore-10.3.0 | (version) | (toolchain) |  
- | hwloc/.2.9.1-gcccore-12.3.0 | (version) | (toolchain) |  
- | hwloc/.2.10.0-gcccore-13.3.0 | (version) | (toolchain) |  
- | hwloc/.2.7.1-gcccore-11.3.0 | (version) | (toolchain) |  
- | hwloc/.2.11.2-gcccore-14.2.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | hwloc/.2.10.0-gcccore-13.3.0 | 2.10.0 | None | None |  
+ | hwloc/.2.4.1-gcccore-10.3.0 | 2.4.1 | None | None |  
+ | hwloc/.2.11.2-gcccore-14.2.0 | 2.11.2 | None | None |  
+ | hwloc/.2.9.1-gcccore-12.3.0 | 2.9.1 | None | None |  
+ | hwloc/.2.7.1-gcccore-11.3.0 | 2.7.1 | None | None |  
   
 >The Portable Hardware Locality (hwloc) software package provides a portable  
 > abstraction (across OS, versions, architectures, ...) of the hierarchical  

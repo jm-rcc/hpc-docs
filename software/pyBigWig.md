@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | pybigwig/0.3.18-foss-2022a | (version) | (toolchain) |  
- | pybigwig/0.3.18-foss-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | pybigwig/0.3.18-foss-2022a | 0.3.18 | None | None |  
+ | pybigwig/0.3.18-foss-2021a | 0.3.18 | None | None |  
   
 >A python extension, written in C, for quick access to bigBed  
 > files and access to and creation of bigWig files.  

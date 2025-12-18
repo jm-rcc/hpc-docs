@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | multichoose/1.0.3-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | multichoose/1.0.3-gcccore-10.3.0 | 1.0.3 | None | None |  
   
 >generate multiset combinations (n multichoose k).  
   

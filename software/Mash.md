@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | mash/2.3-gcc-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | mash/2.3-gcc-10.3.0 | 2.3 | None | None |  
   
 >Fast genome and metagenome distance estimation using MinHash  
   

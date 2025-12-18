@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0 | 2023.3 | None | None |  
   
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
@@ -19,9 +19,9 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | gromacs/2023.3-foss-2023a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | gromacs/2023.3-foss-2023a | 2023.3 | None | None |  
   
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  
@@ -34,9 +34,9 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | gromacs/2021.3-foss-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | gromacs/2021.3-foss-2021a | 2021.3 | None | None |  
   
 >GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the  
 >Newtonian equations of motion for systems with hundreds to millions of  

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | pkgconfig/1.5.4-gcccore-10.3.0-python | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | pkgconfig/1.5.4-gcccore-10.3.0-python | 1.5.4 | None | None |  
   
 >pkgconfig is a Python module to interface with the pkg-config command line tool  
   

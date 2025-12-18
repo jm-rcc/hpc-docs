@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | dendropy/4.5.2-gcccore-11.3.0 | (version) | (toolchain) |  
- | dendropy/4.5.2-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | dendropy/4.5.2-gcccore-10.3.0 | 4.5.2 | None | None |  
+ | dendropy/4.5.2-gcccore-11.3.0 | 4.5.2 | None | None |  
   
 >A Python library for phylogenetics and phylogenetic computing:  
 >reading, writing, simulation, processing and manipulation of phylogenetic trees  

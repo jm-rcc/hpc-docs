@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | hifiasm/0.16.1-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | hifiasm/0.16.1-gcccore-10.3.0 | 0.16.1 | None | None |  
   
 >Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.  
   

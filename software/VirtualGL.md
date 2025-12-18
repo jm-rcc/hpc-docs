@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | virtualgl/3.1-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | virtualgl/3.1-gcc-11.3.0 | 3.1 | None | None |  
   
 >VirtualGL is an open source toolkit that gives any Linux or   
 >Unix remote display software the ability to run OpenGL applications with full   
@@ -13,9 +13,9 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | virtualgl/3.1.3-gcc-13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | virtualgl/3.1.3-gcc-13.3.0 | 3.1.3 | None | None |  
   
 >VirtualGL is an open source toolkit that gives any Linux or  
 >Unix remote display software the ability to run OpenGL applications with full  

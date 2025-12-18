@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | cunit/2.1-3-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | cunit/2.1-3-gcccore-11.3.0 | 2.1-3 | None | None |  
   
 >Automated testing framework for C.  
   

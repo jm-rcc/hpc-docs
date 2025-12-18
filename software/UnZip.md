@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | unzip/6.0-gcccore-12.3.0 | (version) | (toolchain) |  
- | unzip/6.0-gcccore-13.3.0 | (version) | (toolchain) |  
- | unzip/6.0-gcccore-10.3.0 | (version) | (toolchain) |  
- | unzip/6.0-gcccore-14.2.0 | (version) | (toolchain) |  
- | unzip/6.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | unzip/6.0-gcccore-13.3.0 | 6.0 | None | None |  
+ | unzip/6.0-gcccore-12.3.0 | 6.0 | None | None |  
+ | unzip/6.0-gcccore-14.2.0 | 6.0 | None | None |  
+ | unzip/6.0-gcccore-10.3.0 | 6.0 | None | None |  
+ | unzip/6.0-gcccore-11.3.0 | 6.0 | None | None |  
   
 >UnZip is an extraction utility for archives compressed  
 >in .zip format (also called "zipfiles"). Although highly compatible both  

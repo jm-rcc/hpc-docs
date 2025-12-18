@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | lxml/4.9.1-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | lxml/4.9.1-gcccore-11.3.0 | 4.9.1 | None | None |  
   
 >The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxslt.  
   

@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | xml-libxml/2.0207-gcccore-10.3.0 | (version) | (toolchain) |  
- | xml-libxml/2.0207-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | xml-libxml/2.0207-gcccore-11.3.0 | 2.0207 | None | None |  
+ | xml-libxml/2.0207-gcccore-10.3.0 | 2.0207 | None | None |  
   
 >Perl binding for libxml2  
   

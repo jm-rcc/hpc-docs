@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libreadline/.8.1-gcccore-10.3.0 | (version) | (toolchain) |  
- | libreadline/.8.2-gcccore-13.3.0 | (version) | (toolchain) |  
- | libreadline/.8.2-gcccore-14.2.0 | (version) | (toolchain) |  
- | libreadline/.8.2-gcccore-12.3.0 | (version) | (toolchain) |  
- | libreadline/.8.1.2-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libreadline/.8.2-gcccore-13.3.0 | 8.2 | None | None |  
+ | libreadline/.8.1-gcccore-10.3.0 | 8.1 | None | None |  
+ | libreadline/.8.2-gcccore-14.2.0 | 8.2 | None | None |  
+ | libreadline/.8.2-gcccore-12.3.0 | 8.2 | None | None |  
+ | libreadline/.8.1.2-gcccore-11.3.0 | 8.1.2 | None | None |  
   
 >The GNU Readline library provides a set of functions for use by applications  
 > that allow users to edit command lines as they are typed in. Both Emacs and  

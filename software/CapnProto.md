@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | capnproto/0.9.1-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | capnproto/0.9.1-gcccore-10.3.0 | 0.9.1 | None | None |  
   
 >Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.  
   

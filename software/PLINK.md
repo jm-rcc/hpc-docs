@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | plink/2.00a3.6-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | plink/2.00a3.6-gcc-11.3.0 | 2.00a3.6 | None | None |  
   
 >Whole-genome association analysis toolset  
   

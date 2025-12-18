@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | jansson/2.14-gcc-11.3.0 | (version) | (toolchain) |  
- | jansson/.2.14-gcc-11.3.0.bak_20251013214429_2034437 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | jansson/.2.14-gcc-11.3.0.bak_20251013214429_2034437 | 2.14 | None | None |  
+ | jansson/2.14-gcc-11.3.0 | 2.14 | None | None |  
   
 >Jansson is a C library for encoding, decoding and manipulating JSON data.  
 > Its main features and design principles are:  

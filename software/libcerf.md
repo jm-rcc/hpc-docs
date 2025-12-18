@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libcerf/.1.17-gcccore-10.3.0 | (version) | (toolchain) |  
- | libcerf/.2.1-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libcerf/.1.17-gcccore-10.3.0 | 1.17 | None | None |  
+ | libcerf/.2.1-gcccore-11.3.0 | 2.1 | None | None |  
   
 >libcerf is a self-contained numeric library that provides an efficient and  
 > accurate implementation of complex error functions, along with Dawson,  

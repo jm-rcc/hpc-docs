@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | networkx/.2.5.1-foss-2021a | (version) | (toolchain) |  
- | networkx/.3.1-gfbf-2023a | (version) | (toolchain) |  
- | networkx/.2.8.4-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | networkx/.2.8.4-foss-2022a | 2.8.4 | None | None |  
+ | networkx/.2.5.1-foss-2021a | 2.5.1 | None | None |  
+ | networkx/.3.1-gfbf-2023a | 3.1 | None | None |  
   
 >NetworkX is a Python package for the creation, manipulation,  
 >and study of the structure, dynamics, and functions of complex networks.  

@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | perl-bundle-cpan/5.36.1-gcccore-12.3.0 | (version) | (toolchain) |  
- | perl-bundle-cpan/5.38.2-gcccore-13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | perl-bundle-cpan/5.36.1-gcccore-12.3.0 | 5.36.1 | None | None |  
+ | perl-bundle-cpan/5.38.2-gcccore-13.3.0 | 5.38.2 | None | None |  
   
 >A set of common packages from CPAN  
   

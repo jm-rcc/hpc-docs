@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | cpio/2.14-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | cpio/2.14-gcccore-11.3.0 | 2.14 | None | None |  
   
 >The cpio package contains tools for archiving.  
   

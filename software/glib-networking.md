@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | glib-networking/.2.72.1-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | glib-networking/.2.72.1-gcccore-11.3.0 | 2.72.1 | None | None |  
   
 >Network extensions for GLib  
   

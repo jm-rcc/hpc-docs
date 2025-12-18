@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | fastani/1.33-gcc-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | fastani/1.33-gcc-10.3.0 | 1.33 | None | None |  
   
 >FastANI is developed for fast alignment-free computation of  
 > whole-genome Average Nucleotide Identity (ANI). ANI is defined as mean  

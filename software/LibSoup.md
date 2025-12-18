@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libsoup/.3.0.8-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libsoup/.3.0.8-gcc-11.3.0 | 3.0.8 | None | None |  
   
 >libsoup is an HTTP client/server library for GNOME. It  
 >uses GObjects and the glib main loop, to integrate well with GNOME  

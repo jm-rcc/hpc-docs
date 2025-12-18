@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | prokka/1.14.5-gompi-2022a | (version) | (toolchain) |  
- | prokka/1.14.5-gompi-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | prokka/1.14.5-gompi-2022a | 1.14.5 | None | None |  
+ | prokka/1.14.5-gompi-2021a | 1.14.5 | None | None |  
   
 >Prokka is a software tool for the rapid annotation of prokaryotic genomes.  
   

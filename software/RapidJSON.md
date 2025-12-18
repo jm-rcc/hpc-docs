@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | rapidjson/1.1.0-gcccore-10.3.0 | (version) | (toolchain) |  
- | rapidjson/1.1.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | rapidjson/1.1.0-gcccore-10.3.0 | 1.1.0 | None | None |  
+ | rapidjson/1.1.0-gcccore-11.3.0 | 1.1.0 | None | None |  
   
 >A fast JSON parser/generator for C++ with both SAX/DOM style API  
   

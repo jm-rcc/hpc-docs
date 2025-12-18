@@ -3,12 +3,12 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | git/2.32.0-gcccore-10.3.0-nodocs | (version) | (toolchain) |  
- | git/2.41.0-gcccore-12.3.0-nodocs | (version) | (toolchain) |  
- | git/2.36.0-gcccore-11.3.0-nodocs | (version) | (toolchain) |  
- | git/2.45.1-gcccore-13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | git/2.36.0-gcccore-11.3.0-nodocs | 2.36.0 | None | None |  
+ | git/2.41.0-gcccore-12.3.0-nodocs | 2.41.0 | None | None |  
+ | git/2.45.1-gcccore-13.3.0 | 2.45.1 | None | None |  
+ | git/2.32.0-gcccore-10.3.0-nodocs | 2.32.0 | None | None |  
   
 >Git is a free and open source distributed version control system designed  
 >to handle everything from small to very large projects with speed and efficiency.  

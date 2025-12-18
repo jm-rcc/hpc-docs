@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | trinity/2.9.1-foss-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | trinity/2.9.1-foss-2021a | 2.9.1 | None | None |  
   
 >Trinity represents a novel method for the efficient and robust de novo reconstruction  
 > of transcriptomes from RNA-Seq data. Trinity combines three independent software modules: Inchworm,  

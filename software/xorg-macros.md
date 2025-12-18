@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | xorg-macros/.1.20.0-gcccore-12.3.0 | (version) | (toolchain) |  
- | xorg-macros/.1.19.3-gcccore-10.3.0 | (version) | (toolchain) |  
- | xorg-macros/.1.19.3-gcccore-11.3.0 | (version) | (toolchain) |  
- | xorg-macros/.1.20.2-gcccore-14.2.0 | (version) | (toolchain) |  
- | xorg-macros/.1.20.1-gcccore-13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | xorg-macros/.1.20.1-gcccore-13.3.0 | 1.20.1 | None | None |  
+ | xorg-macros/.1.19.3-gcccore-11.3.0 | 1.19.3 | None | None |  
+ | xorg-macros/.1.20.0-gcccore-12.3.0 | 1.20.0 | None | None |  
+ | xorg-macros/.1.20.2-gcccore-14.2.0 | 1.20.2 | None | None |  
+ | xorg-macros/.1.19.3-gcccore-10.3.0 | 1.19.3 | None | None |  
   
 >X.org macros utilities.  
   

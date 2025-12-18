@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | seqlib/1.2.0-gcc-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | seqlib/1.2.0-gcc-10.3.0 | 1.2.0 | None | None |  
   
 >C++ interface to HTSlib, BWA-MEM and Fermi.  
   

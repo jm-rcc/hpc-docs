@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | paraview/5.11.2-foss-2023a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | paraview/5.11.2-foss-2023a | 5.11.2 | None | None |  
   
 >ParaView is a scientific parallel visualizer.  
   

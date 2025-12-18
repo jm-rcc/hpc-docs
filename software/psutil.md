@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | psutil/6.0.0-gcccore-13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | psutil/6.0.0-gcccore-13.3.0 | 6.0.0 | None | None |  
   
 >A cross-platform process and system utilities module for Python  
   

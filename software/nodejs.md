@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | nodejs/.14.17.0-gcccore-10.3.0 | (version) | (toolchain) |  
- | nodejs/.16.15.1-gcccore-11.3.0 | (version) | (toolchain) |  
- | nodejs/.18.17.1-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | nodejs/.18.17.1-gcccore-12.3.0 | 18.17.1 | None | None |  
+ | nodejs/.14.17.0-gcccore-10.3.0 | 14.17.0 | None | None |  
+ | nodejs/.16.15.1-gcccore-11.3.0 | 16.15.1 | None | None |  
   
 >Node.js is a platform built on Chrome's JavaScript runtime  
 > for easily building fast, scalable network applications. Node.js uses an  

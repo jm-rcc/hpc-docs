@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | zeromq/.4.3.4-gcccore-11.3.0 | (version) | (toolchain) |  
- | zeromq/.4.3.4-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | zeromq/.4.3.4-gcccore-11.3.0 | 4.3.4 | None | None |  
+ | zeromq/.4.3.4-gcccore-10.3.0 | 4.3.4 | None | None |  
   
 >ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.  
 > It gives you sockets that carry atomic messages across various transports like in-process,  

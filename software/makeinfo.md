@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | makeinfo/6.7-gcccore-10.3.0-minimal | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | makeinfo/6.7-gcccore-10.3.0-minimal | 6.7 | None | None |  
   
 >makeinfo is part of the Texinfo project, the official documentation format of the GNU project.    
 >    
@@ -13,9 +13,9 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | makeinfo/6.8-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | makeinfo/6.8-gcccore-11.3.0 | 6.8 | None | None |  
   
 >makeinfo is part of the Texinfo project, the official documentation format of the GNU project.  
   

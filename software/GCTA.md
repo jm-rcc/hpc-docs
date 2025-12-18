@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | gcta/1.94.0beta-gfbf-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | gcta/1.94.0beta-gfbf-2022a | 1.94.0beta | None | None |  
   
 >GCTA (Genome-wide Complex Trait Analysis) is a software package, which was  
 > initially developed to estimate the proportion of phenotypic variance explained  

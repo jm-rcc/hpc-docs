@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | pybind11/2.9.2-gcccore-11.3.0 | (version) | (toolchain) |  
- | pybind11/2.11.1-gcccore-12.3.0 | (version) | (toolchain) |  
- | pybind11/2.6.2-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | pybind11/2.9.2-gcccore-11.3.0 | 2.9.2 | None | None |  
+ | pybind11/2.6.2-gcccore-10.3.0 | 2.6.2 | None | None |  
+ | pybind11/2.11.1-gcccore-12.3.0 | 2.11.1 | None | None |  
   
 >pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa,  
 > mainly to create Python bindings of existing C++ code.  

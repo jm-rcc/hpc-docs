@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | openjpeg/2.5.0-gcccore-12.3.0 | (version) | (toolchain) |  
- | openjpeg/2.5.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | openjpeg/2.5.0-gcccore-12.3.0 | 2.5.0 | None | None |  
+ | openjpeg/2.5.0-gcccore-11.3.0 | 2.5.0 | None | None |  
   
 >OpenJPEG is an open-source JPEG 2000 codec written in  
 > C language. It has been developed in order to promote the use of JPEG 2000,  

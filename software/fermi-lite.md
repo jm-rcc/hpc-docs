@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | fermi-lite/20190320-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | fermi-lite/20190320-gcccore-10.3.0 | 20190320 | None | None |  
   
 >Standalone C library for assembling Illumina short reads in small regions.  
   

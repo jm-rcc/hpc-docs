@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | tabixpp/1.1.0-gcc-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | tabixpp/1.1.0-gcc-10.3.0 | 1.1.0 | None | None |  
   
 >C++ wrapper to tabix indexer  
   

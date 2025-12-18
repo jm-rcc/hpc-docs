@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | augustus/3.4.0-foss-2021a | (version) | (toolchain) |  
- | augustus/3.5.0-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | augustus/3.4.0-foss-2021a | 3.4.0 | None | None |  
+ | augustus/3.5.0-foss-2022a | 3.5.0 | None | None |  
   
 >AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences  
   

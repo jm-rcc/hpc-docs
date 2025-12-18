@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | bio-searchio-hmmer/1.7.3-gcc-10.3.0 | (version) | (toolchain) |  
- | bio-searchio-hmmer/1.7.3-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | bio-searchio-hmmer/1.7.3-gcc-11.3.0 | 1.7.3 | None | None |  
+ | bio-searchio-hmmer/1.7.3-gcc-10.3.0 | 1.7.3 | None | None |  
   
 >Code to parse output from hmmsearch, hmmscan, phmmer and nhmmer, compatible  
 >with both version 2 and version 3 of the HMMER package from http://hmmer.org.  

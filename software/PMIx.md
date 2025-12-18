@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | pmix/.4.2.4-gcccore-12.3.0 | (version) | (toolchain) |  
- | pmix/.4.1.2-gcccore-11.3.0 | (version) | (toolchain) |  
- | pmix/.3.2.3-gcccore-10.3.0 | (version) | (toolchain) |  
- | pmix/.5.0.6-gcccore-14.2.0 | (version) | (toolchain) |  
- | pmix/.5.0.2-gcccore-13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | pmix/.3.2.3-gcccore-10.3.0 | 3.2.3 | None | None |  
+ | pmix/.5.0.6-gcccore-14.2.0 | 5.0.6 | None | None |  
+ | pmix/.5.0.2-gcccore-13.3.0 | 5.0.2 | None | None |  
+ | pmix/.4.1.2-gcccore-11.3.0 | 4.1.2 | None | None |  
+ | pmix/.4.2.4-gcccore-12.3.0 | 4.2.4 | None | None |  
   
 >Process Management for Exascale Environments  
 >PMI Exascale (PMIx) represents an attempt to  

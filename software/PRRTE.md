@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | prrte/3.0.8-gcccore-14.2.0 | (version) | (toolchain) |  
- | prrte/3.0.5-gcccore-13.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | prrte/3.0.8-gcccore-14.2.0 | 3.0.8 | None | None |  
+ | prrte/3.0.5-gcccore-13.3.0 | 3.0.5 | None | None |  
   
 >PRRTE is the PMIx Reference RunTime Environment  
   

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | sra-toolkit/3.0.3-gompi-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | sra-toolkit/3.0.3-gompi-2022a | 3.0.3 | None | None |  
   
 >The SRA Toolkit, and the source-code SRA System Development  
 > Kit (SDK), will allow you to programmatically access data housed within SRA  

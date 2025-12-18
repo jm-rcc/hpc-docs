@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | jupyter-server/1.21.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | jupyter-server/1.21.0-gcccore-11.3.0 | 1.21.0 | None | None |  
   
 >The Jupyter Server provides the backend (i.e. the core services, APIs, and REST  
 >endpoints) for Jupyter web applications like Jupyter notebook, JupyterLab, and  

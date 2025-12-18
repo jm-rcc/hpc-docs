@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | sepp/4.5.0-foss-2021a | (version) | (toolchain) |  
- | sepp/4.5.1-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | sepp/4.5.1-foss-2022a | 4.5.1 | None | None |  
+ | sepp/4.5.0-foss-2021a | 4.5.0 | None | None |  
   
 >SATe-enabled Phylogenetic Placement - addresses the problem of phylogenetic  
 >placement of short reads into reference alignments and trees.  

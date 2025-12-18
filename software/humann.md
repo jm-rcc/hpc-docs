@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | humann/3.6-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | humann/3.6-foss-2022a | 3.6 | None | None |  
   
 >HUMAnN v3 is a pipeline for efficiently  
 > and accurately determining the coverage and abundance  

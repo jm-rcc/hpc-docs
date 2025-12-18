@@ -3,15 +3,15 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | ncurses/.6.2-gcccore-10.3.0 | (version) | (toolchain) |  
- | ncurses/.6.4-gcccore-12.3.0 | (version) | (toolchain) |  
- | ncurses/.6.3-gcccore-11.3.0 | (version) | (toolchain) |  
- | ncurses/.6.5-gcccore-13.3.0 | (version) | (toolchain) |  
- | ncurses/.6.5-gcccore-14.2.0 | (version) | (toolchain) |  
- | ncurses/.6.3 | (version) | (toolchain) |  
- | ncurses/.6.5 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | ncurses/.6.4-gcccore-12.3.0 | 6.4 | None | None |  
+ | ncurses/.6.2-gcccore-10.3.0 | 6.2 | None | None |  
+ | ncurses/.6.5-gcccore-14.2.0 | 6.5 | None | None |  
+ | ncurses/.6.5 | 6.5 | None | None |  
+ | ncurses/.6.3-gcccore-11.3.0 | 6.3 | None | None |  
+ | ncurses/.6.5-gcccore-13.3.0 | 6.5 | None | None |  
+ | ncurses/.6.3 | 6.3 | None | None |  
   
 >The Ncurses (new curses) library is a free software emulation of curses in  
 > System V Release 4.0, and more. It uses Terminfo format, supports pads and  
@@ -20,10 +20,10 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | ncurses/.6.1 | (version) | (toolchain) |  
- | ncurses/.6.2 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | ncurses/.6.1 | 6.1 | None | None |  
+ | ncurses/.6.2 | 6.2 | None | None |  
   
 >The Ncurses (new curses) library is a free software emulation of curses in System V Release 4.0,  
 > and more. It uses Terminfo format, supports pads and color and multiple highlights and forms characters and  

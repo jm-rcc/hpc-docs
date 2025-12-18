@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | perl/5.32.1-gcccore-10.3.0-minimal | (version) | (toolchain) |  
- | perl/5.34.1-gcccore-11.3.0-minimal | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | perl/5.32.1-gcccore-10.3.0-minimal | 5.32.1 | None | None |  
+ | perl/5.34.1-gcccore-11.3.0-minimal | 5.34.1 | None | None |  
   
 >Larry Wall's Practical Extraction and Report Language    
 >    
@@ -14,21 +14,21 @@
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | perl/5.34.1-gcccore-11.3.0 | (version) | (toolchain) |  
- | perl/5.32.1-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | perl/5.34.1-gcccore-11.3.0 | 5.34.1 | None | None |  
+ | perl/5.32.1-gcccore-10.3.0 | 5.32.1 | None | None |  
   
 >Larry Wall's Practical Extraction and Report Language  
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | perl/5.38.2-gcccore-13.3.0 | (version) | (toolchain) |  
- | perl/5.38.0 | (version) | (toolchain) |  
- | perl/5.40.0-gcccore-14.2.0 | (version) | (toolchain) |  
- | perl/5.36.1-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | perl/5.38.2-gcccore-13.3.0 | 5.38.2 | None | None |  
+ | perl/5.40.0-gcccore-14.2.0 | 5.40.0 | None | None |  
+ | perl/5.38.0 | 5.38.0 | None | None |  
+ | perl/5.36.1-gcccore-12.3.0 | 5.36.1 | None | None |  
   
 >Larry Wall's Practical Extraction and Report Language    
 >    

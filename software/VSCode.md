@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | vscode/1.87.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | vscode/1.87.0 | 1.87.0 | None | None |  
   
 >Visual Studio Code is a lightweight but powerful source code editor   
 >    which runs on your desktop and is available for Windows, macOS and   

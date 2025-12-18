@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | miller/6.4.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | miller/6.4.0 | 6.4.0 | None | None |  
   
 >Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  
   

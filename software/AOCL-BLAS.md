@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | aocl-blas/5.0-gcc-14.2.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | aocl-blas/5.0-gcc-14.2.0 | 5.0 | None | None |  
   
 >AOCL-BLAS is AMD's optimized version of  
 >                 BLAS targeted for AMD EPYC and Ryzen CPUs.  

@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | foss/2021a | (version) | (toolchain) |  
- | foss/2022a | (version) | (toolchain) |  
- | foss/2023a | (version) | (toolchain) |  
- | foss/2025a | (version) | (toolchain) |  
- | foss/2024a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | foss/2021a | 2021a | None | None |  
+ | foss/2022a | 2022a | None | None |  
+ | foss/2023a | 2023a | None | None |  
+ | foss/2024a | 2024a | None | None |  
+ | foss/2025a | 2025a | None | None |  
   
 >GNU Compiler Collection (GCC) based compiler toolchain, including  
 > OpenMPI for MPI support, OpenBLAS (BLAS and LAPACK support), FFTW and ScaLAPACK.  

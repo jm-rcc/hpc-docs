@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | cuda/11.8.0 | (version) | (toolchain) |  
- | cuda/12.2.0 | (version) | (toolchain) |  
- | cuda/11.7.0 | (version) | (toolchain) |  
- | cuda/12.1.1 | (version) | (toolchain) |  
- | cuda/12.6.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | cuda/12.2.0 | 12.2.0 | None | None |  
+ | cuda/12.1.1 | 12.1.1 | None | None |  
+ | cuda/11.8.0 | 11.8.0 | None | None |  
+ | cuda/11.7.0 | 11.7.0 | None | None |  
+ | cuda/12.6.0 | 12.6.0 | None | None |  
   
 >CUDA (formerly Compute Unified Device Architecture) is a parallel  
 > computing platform and programming model created by NVIDIA and implemented by the  

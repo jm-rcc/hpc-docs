@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | bowtie/1.3.1-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | bowtie/1.3.1-gcc-11.3.0 | 1.3.1 | None | None |  
   
 >Bowtie is an ultrafast, memory-efficient short read aligner.  
 > It aligns short DNA sequences (reads) to the human genome.  

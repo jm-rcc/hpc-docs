@@ -3,12 +3,12 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | ucc/1.3.0-gcccore-13.3.0 | (version) | (toolchain) |  
- | ucc/1.3.0-gcccore-14.2.0 | (version) | (toolchain) |  
- | ucc/1.3.0-gcccore-11.3.0 | (version) | (toolchain) |  
- | ucc/1.3.0-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | ucc/1.3.0-gcccore-11.3.0 | 1.3.0 | None | None |  
+ | ucc/1.3.0-gcccore-13.3.0 | 1.3.0 | None | None |  
+ | ucc/1.3.0-gcccore-14.2.0 | 1.3.0 | None | None |  
+ | ucc/1.3.0-gcccore-12.3.0 | 1.3.0 | None | None |  
   
 >UCC (Unified Collective Communication) is a collective  
 >communication operations API and library that is flexible, complete, and  

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | ngtcp2/.0.7.0-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | ngtcp2/.0.7.0-gcc-11.3.0 | 0.7.0 | None | None |  
   
 >'Call it TCP/2. One More Time.'    
 >    

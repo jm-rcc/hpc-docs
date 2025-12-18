@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | gffread/0.12.7-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | gffread/0.12.7-gcccore-10.3.0 | 0.12.7 | None | None |  
   
 >GFF/GTF parsing utility providing format conversions,  
 >region filtering, FASTA sequence extraction and more.  

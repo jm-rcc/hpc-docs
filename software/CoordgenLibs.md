@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | coordgenlibs/3.0.1-gompi-2021a | (version) | (toolchain) |  
- | coordgenlibs/3.0.1-gompi-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | coordgenlibs/3.0.1-gompi-2022a | 3.0.1 | None | None |  
+ | coordgenlibs/3.0.1-gompi-2021a | 3.0.1 | None | None |  
   
 >Schrodinger-developed 2D Coordinate Generation  
   

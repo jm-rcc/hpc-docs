@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | jsoncpp/1.9.4-gcccore-10.3.0 | (version) | (toolchain) |  
- | jsoncpp/1.9.5-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | jsoncpp/1.9.4-gcccore-10.3.0 | 1.9.4 | None | None |  
+ | jsoncpp/1.9.5-gcccore-11.3.0 | 1.9.5 | None | None |  
   
 >JsonCpp is a C++ library that allows manipulating JSON values,  
 > including serialization and deserialization to and from strings. It can also preserve existing comment in  

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | openexr/3.1.7-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | openexr/3.1.7-gcccore-12.3.0 | 3.1.7 | None | None |  
   
 >OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic  
 > for use in computer imaging applications  

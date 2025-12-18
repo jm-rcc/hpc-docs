@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | gsl/2.7-gcc-12.3.0 | (version) | (toolchain) |  
- | gsl/2.7-gcc-11.3.0 | (version) | (toolchain) |  
- | gsl/2.7-gcc-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | gsl/2.7-gcc-10.3.0 | 2.7 | None | None |  
+ | gsl/2.7-gcc-11.3.0 | 2.7 | None | None |  
+ | gsl/2.7-gcc-12.3.0 | 2.7 | None | None |  
   
 >The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.  
 > The library provides a wide range of mathematical routines such as random number generators, special functions  

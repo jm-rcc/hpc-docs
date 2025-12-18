@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | ansys-dependencies/2023-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | ansys-dependencies/2023-gcc-11.3.0 | 2023 | None | None |  
   
 >A collection of software to meet the requirements of Ansys.  
   

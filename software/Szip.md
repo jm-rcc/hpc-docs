@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | szip/.2.1.1-gcccore-10.3.0 | (version) | (toolchain) |  
- | szip/.2.1.1-gcccore-12.3.0 | (version) | (toolchain) |  
- | szip/.2.1.1-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | szip/.2.1.1-gcccore-11.3.0 | 2.1.1 | None | None |  
+ | szip/.2.1.1-gcccore-12.3.0 | 2.1.1 | None | None |  
+ | szip/.2.1.1-gcccore-10.3.0 | 2.1.1 | None | None |  
   
 >Szip compression software, providing lossless compression of scientific data  
   

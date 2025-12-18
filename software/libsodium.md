@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libsodium/.1.0.18-gcccore-11.3.0 | (version) | (toolchain) |  
- | libsodium/.1.0.18-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libsodium/.1.0.18-gcccore-11.3.0 | 1.0.18 | None | None |  
+ | libsodium/.1.0.18-gcccore-10.3.0 | 1.0.18 | None | None |  
   
 >Sodium is a modern, easy-to-use software library for encryption, decryption,  
 > signatures, password hashing and more.  

@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | cfitsio/4.3.0-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | cfitsio/4.3.0-gcccore-12.3.0 | 4.3.0 | None | None |  
   
 >CFITSIO is a library of C and Fortran subroutines for reading and writing data files in  
 >FITS (Flexible Image Transport System) data format.  

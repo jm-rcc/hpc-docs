@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | make/.4.4.1-gcccore-12.3.0 | (version) | (toolchain) |  
- | make/.4.4.1-gcccore-13.3.0 | (version) | (toolchain) |  
- | make/.4.3-gcccore-11.3.0 | (version) | (toolchain) |  
- | make/.4.4.1-gcccore-14.2.0 | (version) | (toolchain) |  
- | make/.4.3-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | make/.4.4.1-gcccore-14.2.0 | 4.4.1 | None | None |  
+ | make/.4.4.1-gcccore-13.3.0 | 4.4.1 | None | None |  
+ | make/.4.4.1-gcccore-12.3.0 | 4.4.1 | None | None |  
+ | make/.4.3-gcccore-10.3.0 | 4.3 | None | None |  
+ | make/.4.3-gcccore-11.3.0 | 4.3 | None | None |  
   
 >GNU version of make utility  
   

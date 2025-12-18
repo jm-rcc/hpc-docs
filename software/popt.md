@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | popt/1.19-gcccore-11.3.0 | (version) | (toolchain) |  
- | popt/.1.19-gcccore-11.3.0.bak_20251013214435_2034437 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | popt/1.19-gcccore-11.3.0 | 1.19 | None | None |  
+ | popt/.1.19-gcccore-11.3.0.bak_20251013214435_2034437 | 1.19 | None | None |  
   
 >Popt is a C library for parsing command line parameters.  
   

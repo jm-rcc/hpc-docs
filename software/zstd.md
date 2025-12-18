@@ -3,12 +3,12 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | zstd/1.5.6-gcccore-13.3.0 | (version) | (toolchain) |  
- | zstd/1.5.5-gcccore-12.3.0 | (version) | (toolchain) |  
- | zstd/1.5.2-gcccore-11.3.0 | (version) | (toolchain) |  
- | zstd/1.4.9-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | zstd/1.4.9-gcccore-10.3.0 | 1.4.9 | None | None |  
+ | zstd/1.5.2-gcccore-11.3.0 | 1.5.2 | None | None |  
+ | zstd/1.5.5-gcccore-12.3.0 | 1.5.5 | None | None |  
+ | zstd/1.5.6-gcccore-13.3.0 | 1.5.6 | None | None |  
   
 >Zstandard is a real-time compression algorithm, providing high compression ratios.  
 > It offers a very wide range of compression/speed trade-off, while being backed by a very fast decoder.  

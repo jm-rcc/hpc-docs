@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | giflib/.5.2.1-gcccore-12.3.0 | (version) | (toolchain) |  
- | giflib/.5.2.1-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | giflib/.5.2.1-gcccore-12.3.0 | 5.2.1 | None | None |  
+ | giflib/.5.2.1-gcccore-11.3.0 | 5.2.1 | None | None |  
   
 >giflib is a library for reading and writing gif images.  
 >It is API and ABI compatible with libungif which was in wide use while  

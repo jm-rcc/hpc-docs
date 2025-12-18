@@ -3,13 +3,13 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | imkl/2021.2.0-iimpi-2021a | (version) | (toolchain) |  
- | imkl/2024.2.0 | (version) | (toolchain) |  
- | imkl/2022.1.0 | (version) | (toolchain) |  
- | imkl/2023.1.0 | (version) | (toolchain) |  
- | imkl/2025.1.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | imkl/2022.1.0 | 2022.1.0 | None | None |  
+ | imkl/2021.2.0-iimpi-2021a | 2021.2.0 | None | None |  
+ | imkl/2025.1.0 | 2025.1.0 | None | None |  
+ | imkl/2024.2.0 | 2024.2.0 | None | None |  
+ | imkl/2023.1.0 | 2023.1.0 | None | None |  
   
 >Intel oneAPI Math Kernel Library  
   

@@ -3,17 +3,17 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | elpa/2021.05.001-foss-2021a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | elpa/2021.05.001-foss-2021a | 2021.05.001 | None | None |  
   
 >Eigenvalue SoLvers for Petaflop-Applications .  
   
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | elpa/2021.11.001-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | elpa/2021.11.001-foss-2022a | 2021.11.001 | None | None |  
   
 >Eigenvalue SoLvers for Petaflop-Applications.  
   

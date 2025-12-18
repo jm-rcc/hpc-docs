@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | snappy/1.1.8-gcccore-10.3.0 | (version) | (toolchain) |  
- | snappy/1.1.10-gcccore-12.3.0 | (version) | (toolchain) |  
- | snappy/1.1.9-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | snappy/1.1.10-gcccore-12.3.0 | 1.1.10 | None | None |  
+ | snappy/1.1.8-gcccore-10.3.0 | 1.1.8 | None | None |  
+ | snappy/1.1.9-gcccore-11.3.0 | 1.1.9 | None | None |  
   
 >Snappy is a compression/decompression library. It does not aim  
 >for maximum compression, or compatibility with any other compression library;  

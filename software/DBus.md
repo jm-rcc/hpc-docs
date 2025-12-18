@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | dbus/.1.14.0-gcccore-11.3.0 | (version) | (toolchain) |  
- | dbus/.1.13.18-gcccore-10.3.0 | (version) | (toolchain) |  
- | dbus/.1.15.4-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | dbus/.1.13.18-gcccore-10.3.0 | 1.13.18 | None | None |  
+ | dbus/.1.14.0-gcccore-11.3.0 | 1.14.0 | None | None |  
+ | dbus/.1.15.4-gcccore-12.3.0 | 1.15.4 | None | None |  
   
 >D-Bus is a message bus system, a simple way for applications to talk  
 > to one another.  In addition to interprocess communication, D-Bus helps  

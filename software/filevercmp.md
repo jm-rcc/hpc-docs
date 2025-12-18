@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | filevercmp/20191210-gcccore-10.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | filevercmp/20191210-gcccore-10.3.0 | 20191210 | None | None |  
   
 >filevercmp function as in sort --version-sort.  
   

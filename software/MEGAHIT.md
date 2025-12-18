@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | megahit/1.2.9-gcccore-10.3.0 | (version) | (toolchain) |  
- | megahit/1.2.9-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | megahit/1.2.9-gcccore-11.3.0 | 1.2.9 | None | None |  
+ | megahit/1.2.9-gcccore-10.3.0 | 1.2.9 | None | None |  
   
 >An ultra-fast single-node solution for large and complex  
 >metagenomics assembly via succinct de Bruijn graph  

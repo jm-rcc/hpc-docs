@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libgeotiff/1.7.1-gcccore-11.3.0 | (version) | (toolchain) |  
- | libgeotiff/1.6.0-gcccore-10.3.0 | (version) | (toolchain) |  
- | libgeotiff/1.7.1-gcccore-12.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libgeotiff/1.7.1-gcccore-11.3.0 | 1.7.1 | None | None |  
+ | libgeotiff/1.7.1-gcccore-12.3.0 | 1.7.1 | None | None |  
+ | libgeotiff/1.6.0-gcccore-10.3.0 | 1.6.0 | None | None |  
   
 >Library for reading and writing coordinate system information from/to GeoTIFF files  
   

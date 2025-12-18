@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | quantumespresso/6.8-foss-2021a | (version) | (toolchain) |  
- | quantumespresso/7.1-foss-2022a | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | quantumespresso/7.1-foss-2022a | 7.1 | None | None |  
+ | quantumespresso/6.8-foss-2021a | 6.8 | None | None |  
   
 >Quantum ESPRESSO  is an integrated suite of computer codes  
 >for electronic-structure calculations and materials modeling at the nanoscale.  

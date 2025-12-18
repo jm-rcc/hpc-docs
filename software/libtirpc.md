@@ -3,11 +3,11 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libtirpc/1.3.3-gcccore-12.3.0 | (version) | (toolchain) |  
- | libtirpc/1.3.2-gcccore-10.3.0 | (version) | (toolchain) |  
- | libtirpc/1.3.2-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libtirpc/1.3.2-gcccore-11.3.0 | 1.3.2 | None | None |  
+ | libtirpc/1.3.2-gcccore-10.3.0 | 1.3.2 | None | None |  
+ | libtirpc/1.3.3-gcccore-12.3.0 | 1.3.3 | None | None |  
   
 >Libtirpc is a port of Suns Transport-Independent RPC library to Linux.  
   

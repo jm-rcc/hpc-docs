@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | zip/3.0-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | zip/3.0-gcccore-11.3.0 | 3.0 | None | None |  
   
 >Zip is a compression and file packaging/archive utility.  
 >Although highly compatible both with PKWARE's PKZIP and PKUNZIP  

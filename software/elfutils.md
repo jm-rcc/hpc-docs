@@ -3,10 +3,10 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | elfutils/0.185-gcccore-10.3.0 | (version) | (toolchain) |  
- | elfutils/0.187-gcccore-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | elfutils/0.187-gcccore-11.3.0 | 0.187 | None | None |  
+ | elfutils/0.185-gcccore-10.3.0 | 0.185 | None | None |  
   
 >The elfutils project provides libraries and tools for ELF files  
 > and DWARF data.  

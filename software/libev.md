@@ -3,9 +3,9 @@
 ## Installed versions  
   
   
-| &nbsp; | &nbsp; | &nbsp; |  
-| :--- | :--- | :--- |  
- | libev/.4.33-gcc-11.3.0 | (version) | (toolchain) |  
+| Module | Version | Toolchain | Options |  
+| :--- | :--- | :--- | :--- |  
+ | libev/.4.33-gcc-11.3.0 | 4.33 | None | None |  
   
 >A full-featured and high-performance (see benchmark)  
 >event loop that is loosely modelled after libevent, but without its  
