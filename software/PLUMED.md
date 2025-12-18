@@ -7,8 +7,8 @@ category: chem
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | plumed/2.8.1-foss-2022a | 2.8.1 | foss-2022a | usempi: True |  
  | plumed/2.9.0-foss-2023a | 2.9.0 | foss-2023a | usempi: True |  
+ | plumed/2.8.1-foss-2022a | 2.8.1 | foss-2022a | usempi: True |  
  | plumed/2.7.2-foss-2021a | 2.7.2 | foss-2021a | usempi: True |  
   
 PLUMED is an open source library for free energy calculations in molecular systems which
