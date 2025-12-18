@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Lua  
-category: lang  
+category: https://julialang.org  
 ## Homepage  
 [https://www.lua.org/](https://www.lua.org/)  
 ## Installed versions  

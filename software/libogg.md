@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libogg  
-category: lib  
+category: https://sourceforge.net/projects/libjpeg-turbo/  
 ## Homepage  
 [https://xiph.org/ogg/](https://xiph.org/ogg/)  
 ## Installed versions  

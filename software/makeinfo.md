@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # makeinfo  
-category: devel  
+category: https://www.gnu.org/software/make/make.html  
 ## Homepage  
 [https://www.gnu.org/software/texinfo/](https://www.gnu.org/software/texinfo/)  
 ## Installed versions  

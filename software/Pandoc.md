@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Pandoc  
-category: tools  
+category: https://github.com/numactl/numactl  
 ## Homepage  
 [https://pandoc.org](https://pandoc.org)  
 ## Installed versions  

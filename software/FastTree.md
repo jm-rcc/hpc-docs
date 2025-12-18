@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FastTree  
-category: bio  
+category: https://www.bioinformatics.babraham.ac.uk/projects/fastqc/  
 ## Homepage  
 [http://www.microbesonline.org/fasttree/](http://www.microbesonline.org/fasttree/)  
 ## Installed versions  

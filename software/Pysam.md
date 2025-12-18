@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Pysam  
-category: bio  
+category: https://tleonardi.github.io/pycoQC  
 ## Homepage  
 [https://github.com/pysam-developers/pysam](https://github.com/pysam-developers/pysam)  
 ## Installed versions  

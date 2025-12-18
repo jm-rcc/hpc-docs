@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ngtcp2  
-category: lib  
+category: https://github.com/ngtcp2/nghttp3  
 ## Homepage  
 [https://github.com/ngtcp2/ngtcp2](https://github.com/ngtcp2/ngtcp2)  
 ## Installed versions  

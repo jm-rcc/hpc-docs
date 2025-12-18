@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # kallisto  
-category: bio  
+category: http://www.genome.umd.edu/jellyfish.html  
 ## Homepage  
 [https://pachterlab.github.io/kallisto/](https://pachterlab.github.io/kallisto/)  
 ## Installed versions  

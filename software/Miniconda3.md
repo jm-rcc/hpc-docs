@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Miniconda3  
-category: lang  
+category: https://www.lua.org/  
 ## Homepage  
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)  
 ## Installed versions  

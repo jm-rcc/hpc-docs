@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Python-bundle-PyPI  
-category: lang  
+category: https://python.org/  
 ## Homepage  
 [https://python.org/](https://python.org/)  
 ## Installed versions  

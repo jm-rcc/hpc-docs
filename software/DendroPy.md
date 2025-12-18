@@ -1,7 +1,8 @@
 [< Software](../software_shortlist.md)  
 # DendroPy  
-category: bio  
+category: https://deeptools.readthedocs.io/  
 ## Homepage  
+[https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
 [https://dendropy.org/](https://dendropy.org/)  
 ## Installed versions  
   

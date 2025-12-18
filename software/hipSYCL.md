@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hipSYCL  
-category: compiler  
+category: https://www.golang.org  
 ## Homepage  
 [https://github.com/illuhad/hipSYCL](https://github.com/illuhad/hipSYCL)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # tabixpp  
-category: bio  
+category: https://ccb.jhu.edu/software/stringtie/  
 ## Homepage  
 [https://github.com/ekg/tabixpp](https://github.com/ekg/tabixpp)  
 ## Installed versions  

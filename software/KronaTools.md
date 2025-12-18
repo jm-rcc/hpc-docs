@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # KronaTools  
-category: bio  
+category: https://github.com/DerrickWood/kraken2/wiki  
 ## Homepage  
 [https://github.com/marbl/Krona/wiki/KronaTools](https://github.com/marbl/Krona/wiki/KronaTools)  
 ## Installed versions  

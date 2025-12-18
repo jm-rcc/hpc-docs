@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # HarfBuzz  
-category: vis  
+category: https://developer.gnome.org/gtk3/stable/  
 ## Homepage  
 [https://www.freedesktop.org/wiki/Software/HarfBuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz)  
 ## Installed versions  

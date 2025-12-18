@@ -1,8 +1,9 @@
 [< Software](../software_shortlist.md)  
 # gnuplot  
-category: vis  
+category: https://www.gtk.org/  
 ## Homepage  
 [http://gnuplot.sourceforge.net](http://gnuplot.sourceforge.net)  
+[http://gnuplot.sourceforge.net/](http://gnuplot.sourceforge.net/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libaec  
-category: lib  
+category: https://github.com/Esri/lerc  
 ## Homepage  
 [https://gitlab.dkrz.de/k202009/libaec](https://gitlab.dkrz.de/k202009/libaec)  
 ## Installed versions  

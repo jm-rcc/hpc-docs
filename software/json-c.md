@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # json-c  
-category: lib  
+category: http://jemalloc.net  
 ## Homepage  
 [https://github.com/json-c/json-c](https://github.com/json-c/json-c)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GMAP-GSNAP  
-category: bio  
+category: https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread  
 ## Homepage  
 [http://research-pub.gene.com/gmap/](http://research-pub.gene.com/gmap/)  
 ## Installed versions  

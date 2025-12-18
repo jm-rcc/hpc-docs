@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GCTA  
-category: bio  
+category: https://www.broadinstitute.org/gatk/  
 ## Homepage  
 [https://yanglab.westlake.edu.cn/software/gcta/](https://yanglab.westlake.edu.cn/software/gcta/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Jellyfish  
-category: bio  
+category: https://www.ebi.ac.uk/interpro/  
 ## Homepage  
 [http://www.genome.umd.edu/jellyfish.html](http://www.genome.umd.edu/jellyfish.html)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Archive-Zip  
-category: tools  
+category: https://github.com/tseemann/any2fasta  
 ## Homepage  
 [https://metacpan.org/pod/Archive::Zip](https://metacpan.org/pod/Archive::Zip)  
 ## Installed versions  

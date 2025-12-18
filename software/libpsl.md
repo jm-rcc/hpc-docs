@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libpsl  
-category: lib  
+category: http://www.libpng.org/pub/png/libpng.html  
 ## Homepage  
 [https://rockdaboot.github.io/libpsl](https://rockdaboot.github.io/libpsl)  
 ## Installed versions  

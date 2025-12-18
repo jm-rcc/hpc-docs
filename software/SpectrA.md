@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SpectrA  
-category: math  
+category: http://www.scafacos.de/  
 ## Homepage  
 [https://spectralib.org/](https://spectralib.org/)  
 ## Installed versions  

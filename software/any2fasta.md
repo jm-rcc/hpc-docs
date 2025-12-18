@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # any2fasta  
-category: tools  
+category: https://www.ansys.com/  
 ## Homepage  
 [https://github.com/tseemann/any2fasta](https://github.com/tseemann/any2fasta)  
 ## Installed versions  

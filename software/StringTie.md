@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # StringTie  
-category: bio  
+category: https://github.com/alexdobin/STAR  
 ## Homepage  
 [https://ccb.jhu.edu/software/stringtie/](https://ccb.jhu.edu/software/stringtie/)  
 ## Installed versions  

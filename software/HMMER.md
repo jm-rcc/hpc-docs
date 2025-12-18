@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # HMMER  
-category: bio  
+category: https://daehwankimlab.github.io/hisat2  
 ## Homepage  
 [http://hmmer.org/](http://hmmer.org/)  
 ## Installed versions  

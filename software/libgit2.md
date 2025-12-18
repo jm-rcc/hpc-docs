@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libgit2  
-category: devel  
+category: https://freedesktop.org/wiki/Software/intltool/  
 ## Homepage  
 [https://libgit2.org/](https://libgit2.org/)  
 ## Installed versions  

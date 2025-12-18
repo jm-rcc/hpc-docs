@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MultiQC  
-category: bio  
+category: https://github.com/ekg/multichoose  
 ## Homepage  
 [https://multiqc.info](https://multiqc.info)  
 ## Installed versions  

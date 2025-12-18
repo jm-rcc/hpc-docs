@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Flye  
-category: bio  
+category: https://github.com/lh3/fermi-lite  
 ## Homepage  
 [https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye)  
 ## Installed versions  

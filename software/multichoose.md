@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # multichoose  
-category: bio  
+category: http://www.brain.org.au/software/index.html#mrtrix  
 ## Homepage  
 [https://github.com/ekg/multichoose](https://github.com/ekg/multichoose)  
 ## Installed versions  

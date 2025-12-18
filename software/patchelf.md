@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # patchelf  
-category: tools  
+category: https://savannah.gnu.org/projects/parallel/  
 ## Homepage  
 [https://github.com/NixOS/patchelf](https://github.com/NixOS/patchelf)  
 ## Installed versions  

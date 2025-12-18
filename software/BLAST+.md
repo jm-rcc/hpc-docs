@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BLAST+  
-category: bio  
+category: https://blast.ncbi.nlm.nih.gov/  
 ## Homepage  
 [https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  
 ## Installed versions  

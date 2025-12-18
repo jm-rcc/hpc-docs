@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LZO  
-category: devel  
+category: https://github.com/thkukuk/libnsl  
 ## Homepage  
 [https://www.oberhumer.com/opensource/lzo/](https://www.oberhumer.com/opensource/lzo/)  
 ## Installed versions  

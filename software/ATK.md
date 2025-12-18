@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ATK  
-category: vis  
+category: https://wiki.gnome.org/Accessibility  
 ## Homepage  
 [https://developer.gnome.org/atk/](https://developer.gnome.org/atk/)  
 ## Installed versions  

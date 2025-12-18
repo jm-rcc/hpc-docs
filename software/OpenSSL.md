@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenSSL  
-category: system  
+category: https://code.google.com/p/openpgm/  
 ## Homepage  
 [https://www.openssl.org/](https://www.openssl.org/)  
 ## Installed versions  

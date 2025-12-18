@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # minimap2  
-category: bio  
+category: https://metaeuk.soedinglab.org  
 ## Homepage  
 [https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  
 ## Installed versions  

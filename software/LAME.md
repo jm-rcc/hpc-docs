@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LAME  
-category: data  
+category: https://www.digip.org/jansson/  
 ## Homepage  
 [http://lame.sourceforge.net/](http://lame.sourceforge.net/)  
 ## Installed versions  

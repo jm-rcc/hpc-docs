@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CheckM-Database  
-category: data  
+category: https://www.crummy.com/software/BeautifulSoup  
 ## Homepage  
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Cython  
-category: lang  
+category: https://sourceforge.net/projects/cunit/  
 ## Homepage  
 [https://cython.org/](https://cython.org/)  
 ## Installed versions  

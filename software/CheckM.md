@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CheckM  
-category: bio  
+category: https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/  
 ## Homepage  
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ## Installed versions  

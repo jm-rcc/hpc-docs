@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # METIS  
-category: math  
+category: https://sourceforge.net/projects/lpsolve/  
 ## Homepage  
 [https://karypis.github.io/glaros/projects/gp.html](https://karypis.github.io/glaros/projects/gp.html)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BWA  
-category: bio  
+category: https://busco.ezlab.org/  
 ## Homepage  
 [http://bio-bwa.sourceforge.net/](http://bio-bwa.sourceforge.net/)  
 ## Installed versions  

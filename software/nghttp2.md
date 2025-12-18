@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # nghttp2  
-category: lib  
+category: https://www.lysator.liu.se/~nisse/nettle/  
 ## Homepage  
 [https://github.com/nghttp2/nghttp2](https://github.com/nghttp2/nghttp2)  
 ## Installed versions  

@@ -1,8 +1,9 @@
 [< Software](../software_shortlist.md)  
 # MUMmer  
-category: bio  
+category: https://multiqc.info  
 ## Homepage  
 [http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
+[https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  

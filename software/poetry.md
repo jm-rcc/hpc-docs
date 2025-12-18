@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # poetry  
-category: tools  
+category: https://zlib.net/pigz/  
 ## Homepage  
 [https://python-poetry.org](https://python-poetry.org)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ISA-L  
-category: lib  
+category: https://github.com/ekg/intervaltree  
 ## Homepage  
 [https://github.com/intel/isa-l](https://github.com/intel/isa-l)  
 ## Installed versions  

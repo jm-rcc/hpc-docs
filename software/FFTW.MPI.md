@@ -1,14 +1,14 @@
 [< Software](../software_shortlist.md)  
 # FFTW.MPI  
-category: numlib  
+category: http://www.fftw.org  
 ## Homepage  
 [https://www.fftw.org](https://www.fftw.org)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | fftw.mpi/3.3.10-gompi-2023a | 3.3.10 | gompi-2023a | pic: True |  
  | fftw.mpi/3.3.10-gompi-2025a | 3.3.10 | gompi-2025a | pic: True |  
+ | fftw.mpi/3.3.10-gompi-2023a | 3.3.10 | gompi-2023a | pic: True |  
  | fftw.mpi/3.3.10-gompi-2022a | 3.3.10 | gompi-2022a | pic: True |  
  | fftw.mpi/3.3.10-gompi-2024a | 3.3.10 | gompi-2024a | pic: True |  
   

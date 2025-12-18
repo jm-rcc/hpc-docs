@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # popt  
-category: lib  
+category: http://portablecl.org  
 ## Homepage  
 [http://freecode.com/projects/popt](http://freecode.com/projects/popt)  
 ## Installed versions  

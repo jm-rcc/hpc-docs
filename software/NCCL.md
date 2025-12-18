@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NCCL  
-category: lib  
+category: https://github.com/mpi4py/mpi4py  
 ## Homepage  
 [https://developer.nvidia.com/nccl](https://developer.nvidia.com/nccl)  
 ## Installed versions  

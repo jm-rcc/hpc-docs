@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pyBigWig  
-category: bio  
+category: https://www.vicbioinformatics.com/software.prokka.shtml  
 ## Homepage  
 [https://github.com/%(github_account)s/%(name)s](https://github.com/%(github_account)s/%(name)s)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MariaDB  
-category: data  
+category: http://lame.sourceforge.net/  
 ## Homepage  
 [https://mariadb.org/](https://mariadb.org/)  
 ## Installed versions  

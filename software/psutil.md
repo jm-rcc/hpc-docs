@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # psutil  
-category: lib  
+category: https://docs.prrte.org/  
 ## Homepage  
 [https://github.com/giampaolo/psutil](https://github.com/giampaolo/psutil)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libvori  
-category: lib  
+category: https://xiph.org/vorbis/  
 ## Homepage  
 [https://brehm-research.de/libvori.php](https://brehm-research.de/libvori.php)  
 ## Installed versions  

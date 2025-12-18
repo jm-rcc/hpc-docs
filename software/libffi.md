@@ -1,16 +1,16 @@
 [< Software](../software_shortlist.md)  
 # libffi  
-category: lib  
+category: https://ofiwg.github.io/libfabric/  
 ## Homepage  
 [https://sourceware.org/libffi/](https://sourceware.org/libffi/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
+ | libffi/.3.4.2-gcccore-11.3.0 | 3.4.2 | GCCcore-11.3.0 | pic: True |  
  | libffi/.3.4.5-gcccore-13.3.0 | 3.4.5 | GCCcore-13.3.0 | pic: True |  
  | libffi/.3.4.4-gcccore-12.3.0 | 3.4.4 | GCCcore-12.3.0 | pic: True |  
  | libffi/.3.3-gcccore-10.3.0 | 3.3 | GCCcore-10.3.0 | pic: True |  
- | libffi/.3.4.2-gcccore-11.3.0 | 3.4.2 | GCCcore-11.3.0 | pic: True |  
  | libffi/.3.4.5-gcccore-14.2.0 | 3.4.5 | GCCcore-14.2.0 | pic: True |  
   
 The libffi library provides a portable, high level programming interface to

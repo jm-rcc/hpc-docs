@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VTK  
-category: vis  
+category: https://virtualgl.org/  
 ## Homepage  
 [https://www.vtk.org](https://www.vtk.org)  
 ## Installed versions  

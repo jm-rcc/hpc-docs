@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # arpack-ng  
-category: numlib  
+category: https://arma.sourceforge.net/  
 ## Homepage  
 [https://github.com/opencollab/arpack-ng](https://github.com/opencollab/arpack-ng)  
 ## Installed versions  

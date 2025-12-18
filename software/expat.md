@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # expat  
-category: tools  
+category: https://easybuilders.github.io/easybuild  
 ## Homepage  
 [https://libexpat.github.io](https://libexpat.github.io)  
 ## Installed versions  

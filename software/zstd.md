@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # zstd  
-category: lib  
+category: https://www.zlib.net/  
 ## Homepage  
 [https://facebook.github.io/zstd](https://facebook.github.io/zstd)  
 ## Installed versions  
@@ -8,9 +8,9 @@ category: lib
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
  | zstd/1.5.6-gcccore-13.3.0 | 1.5.6 | GCCcore-13.3.0 |  |  
+ | zstd/1.4.9-gcccore-10.3.0 | 1.4.9 | GCCcore-10.3.0 |  |  
  | zstd/1.5.2-gcccore-11.3.0 | 1.5.2 | GCCcore-11.3.0 |  |  
  | zstd/1.5.5-gcccore-12.3.0 | 1.5.5 | GCCcore-12.3.0 |  |  
- | zstd/1.4.9-gcccore-10.3.0 | 1.4.9 | GCCcore-10.3.0 |  |  
   
 Zstandard is a real-time compression algorithm, providing high compression ratios.
  It offers a very wide range of compression/speed trade-off, while being backed by a very fast decoder.

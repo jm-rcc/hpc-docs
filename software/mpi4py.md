@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # mpi4py  
-category: lib  
+category: https://lz4.github.io/lz4/  
 ## Homepage  
 [https://github.com/mpi4py/mpi4py](https://github.com/mpi4py/mpi4py)  
 ## Installed versions  

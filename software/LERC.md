@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # LERC  
-category: lib  
+category: http://judy.sourceforge.net/  
 ## Homepage  
 [https://github.com/Esri/lerc](https://github.com/Esri/lerc)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # filevercmp  
-category: lib  
+category: https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git  
 ## Homepage  
 [https://github.com/ekg/filevercmp](https://github.com/ekg/filevercmp)  
 ## Installed versions  

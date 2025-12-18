@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gffread  
-category: bio  
+category: https://ccb.jhu.edu/software/stringtie/gffcompare.shtml  
 ## Homepage  
 [https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread](https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread)  
 ## Installed versions  

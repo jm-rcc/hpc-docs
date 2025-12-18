@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # OpenJPEG  
-category: lib  
+category: https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS  
 ## Homepage  
 [https://www.openjpeg.org/](https://www.openjpeg.org/)  
 ## Installed versions  

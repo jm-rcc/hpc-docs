@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BEDTools  
-category: bio  
+category: https://faculty.washington.edu/browning/beagle/beagle.html  
 ## Homepage  
 [https://bedtools.readthedocs.io/](https://bedtools.readthedocs.io/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # CapnProto  
-category: bio  
+category: https://canu.readthedocs.io  
 ## Homepage  
 [https://capnproto.org](https://capnproto.org)  
 ## Installed versions  

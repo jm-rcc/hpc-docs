@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # lz4  
-category: lib  
+category: https://lxml.de/  
 ## Homepage  
 [https://lz4.github.io/lz4/](https://lz4.github.io/lz4/)  
 ## Installed versions  

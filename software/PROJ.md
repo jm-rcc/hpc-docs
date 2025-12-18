@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PROJ  
-category: lib  
+category: http://freecode.com/projects/popt  
 ## Homepage  
 [https://proj.org](https://proj.org)  
 ## Installed versions  

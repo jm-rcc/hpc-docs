@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # FastQC  
-category: bio  
+category: https://github.com/OpenGene/fastp  
 ## Homepage  
 [https://www.bioinformatics.babraham.ac.uk/projects/fastqc/](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)  
 ## Installed versions  

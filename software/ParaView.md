@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ParaView  
-category: vis  
+category: https://www.pango.org/  
 ## Homepage  
 [https://www.paraview.org](https://www.paraview.org)  
 ## Installed versions  

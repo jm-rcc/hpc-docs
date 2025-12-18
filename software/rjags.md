@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # rjags  
-category: math  
+category: http://www.qhull.org  
 ## Homepage  
 [https://cran.r-project.org/web/packages/rjags](https://cran.r-project.org/web/packages/rjags)  
 ## Installed versions  

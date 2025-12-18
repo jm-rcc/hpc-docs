@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # SciPy-bundle  
-category: lang  
+category: https://www.rust-lang.org  
 ## Homepage  
 [https://python.org/](https://python.org/)  
 ## Installed versions  

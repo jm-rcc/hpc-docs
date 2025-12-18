@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # giflib  
-category: lib  
+category: https://github.com/NVIDIA/gdrcopy  
 ## Homepage  
 [http://giflib.sourceforge.net/](http://giflib.sourceforge.net/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gc  
-category: lib  
+category: https://github.com/ekg/fsom  
 ## Homepage  
 [https://hboehm.info/gc/](https://hboehm.info/gc/)  
 ## Installed versions  

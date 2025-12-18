@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # humann  
-category: bio  
+category: https://www.htslib.org/  
 ## Homepage  
 [http://huttenhower.sph.harvard.edu/humann](http://huttenhower.sph.harvard.edu/humann)  
 ## Installed versions  

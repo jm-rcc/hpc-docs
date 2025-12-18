@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Cereal  
-category: lib  
+category: https://github.com/catchorg/Catch2  
 ## Homepage  
 [https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  
 ## Installed versions  

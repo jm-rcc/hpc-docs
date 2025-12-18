@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PLUMED  
-category: chem  
+category: https://openbabel.org  
 ## Homepage  
 [https://www.plumed.org](https://www.plumed.org)  
 ## Installed versions  

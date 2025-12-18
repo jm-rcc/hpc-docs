@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GROMACS  
-category: bio  
+category: http://research-pub.gene.com/gmap/  
 ## Homepage  
 [https://www.gromacs.org](https://www.gromacs.org)  
 ## Installed versions  

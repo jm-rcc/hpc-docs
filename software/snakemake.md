@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # snakemake  
-category: tools  
+category: https://github.com/PyO3/setuptools-rust  
 ## Homepage  
 [https://snakemake.readthedocs.io](https://snakemake.readthedocs.io)  
 ## Installed versions  

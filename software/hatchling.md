@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # hatchling  
-category: tools  
+category: https://www.gnu.org/software/gzip/  
 ## Homepage  
 [https://hatch.pypa.io](https://hatch.pypa.io)  
 ## Installed versions  

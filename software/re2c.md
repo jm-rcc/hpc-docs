@@ -1,15 +1,16 @@
 [< Software](../software_shortlist.md)  
 # re2c  
-category: tools  
+category: https://python-poetry.org  
 ## Homepage  
 [https://re2c.org/](https://re2c.org/)  
+[https://re2c.org](https://re2c.org)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | re2c/2.1.1-gcccore-10.3.0 | 2.1.1 | GCCcore-10.3.0 |  |  
  | re2c/2.2-gcccore-11.3.0 | 2.2 | GCCcore-11.3.0 |  |  
  | re2c/3.1-gcccore-12.3.0 | 3.1 | GCCcore-12.3.0 |  |  
+ | re2c/2.1.1-gcccore-10.3.0 | 2.1.1 | GCCcore-10.3.0 |  |  
   
 re2c is a free and open-source lexer generator for C and C++. Its main goal is generating
 fast lexers: at least as fast as their reasonably optimized hand-coded counterparts. Instead of using

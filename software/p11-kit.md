@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # p11-kit  
-category: lib  
+category: https://www.openjpeg.org/  
 ## Homepage  
 [https://p11-glue.freedesktop.org/p11-kit.html](https://p11-glue.freedesktop.org/p11-kit.html)  
 ## Installed versions  

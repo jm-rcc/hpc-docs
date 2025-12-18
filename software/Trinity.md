@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Trinity  
-category: bio  
+category: http://www.usadellab.org/cms/?page=trimmomatic  
 ## Homepage  
 [https://trinityrnaseq.github.io](https://trinityrnaseq.github.io)  
 ## Installed versions  

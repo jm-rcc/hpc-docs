@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libyaml  
-category: lib  
+category: http://xmlsoft.org/  
 ## Homepage  
 [https://pyyaml.org/wiki/LibYAML](https://pyyaml.org/wiki/LibYAML)  
 ## Installed versions  

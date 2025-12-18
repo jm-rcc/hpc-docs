@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cffi  
-category: tools  
+category: https://sourceware.org/bzip2  
 ## Homepage  
 [https://cffi.readthedocs.io/en/latest/](https://cffi.readthedocs.io/en/latest/)  
 ## Installed versions  

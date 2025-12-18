@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DIAMOND  
-category: bio  
+category: https://dendropy.org/  
 ## Homepage  
 [https://github.com/bbuchfink/diamond](https://github.com/bbuchfink/diamond)  
 ## Installed versions  

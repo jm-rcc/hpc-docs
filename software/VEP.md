@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VEP  
-category: bio  
+category: https://vcftools.github.io  
 ## Homepage  
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
 ## Installed versions  

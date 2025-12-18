@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # gfbf  
-category: toolchain  
+category: https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain  
 ## Homepage  
 [(none)]((none))  
 ## Installed versions  

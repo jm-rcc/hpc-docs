@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VirtualGL  
-category: vis  
+category: https://www.tcl.tk/  
 ## Homepage  
 [https://virtualgl.org/](https://virtualgl.org/)  
 ## Installed versions  

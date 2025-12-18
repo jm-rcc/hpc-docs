@@ -1,17 +1,17 @@
 [< Software](../software_shortlist.md)  
 # numactl  
-category: tools  
+category: https://ninja-build.org/  
 ## Homepage  
 [https://github.com/numactl/numactl](https://github.com/numactl/numactl)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | numactl/.2.0.19-gcccore-14.2.0 | 2.0.19 | GCCcore-14.2.0 | pic: True |  
- | numactl/.2.0.14-gcccore-11.3.0 | 2.0.14 | GCCcore-11.3.0 | pic: True |  
  | numactl/.2.0.14-gcccore-10.3.0 | 2.0.14 | GCCcore-10.3.0 | pic: True |  
- | numactl/.2.0.16-gcccore-12.3.0 | 2.0.16 | GCCcore-12.3.0 | pic: True |  
  | numactl/.2.0.18-gcccore-13.3.0 | 2.0.18 | GCCcore-13.3.0 | pic: True |  
+ | numactl/.2.0.19-gcccore-14.2.0 | 2.0.19 | GCCcore-14.2.0 | pic: True |  
+ | numactl/.2.0.16-gcccore-12.3.0 | 2.0.16 | GCCcore-12.3.0 | pic: True |  
+ | numactl/.2.0.14-gcccore-11.3.0 | 2.0.14 | GCCcore-11.3.0 | pic: True |  
   
 The numactl program allows you to run your application program on specific
  cpu's and memory nodes. It does this by supplying a NUMA memory policy to

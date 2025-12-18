@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # python-isal  
-category: lib  
+category: https://pybind11.readthedocs.io  
 ## Homepage  
 [https://github.com/pycompression/python-isal](https://github.com/pycompression/python-isal)  
 ## Installed versions  

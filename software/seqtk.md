@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # seqtk  
-category: bio  
+category: https://github.com/walaj/SeqLib  
 ## Homepage  
 [https://github.com/lh3/seqtk/](https://github.com/lh3/seqtk/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Trimmomatic  
-category: bio  
+category: https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/  
 ## Homepage  
 [http://www.usadellab.org/cms/?page=trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)  
 ## Installed versions  

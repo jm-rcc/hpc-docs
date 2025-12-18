@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # prodigal  
-category: bio  
+category: http://matsen.fhcrc.org/pplacer/  
 ## Homepage  
 [https://github.com/hyattpd/Prodigal/](https://github.com/hyattpd/Prodigal/)  
 ## Installed versions  

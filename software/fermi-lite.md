@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # fermi-lite  
-category: bio  
+category: http://www.microbesonline.org/fasttree/  
 ## Homepage  
 [https://github.com/lh3/fermi-lite](https://github.com/lh3/fermi-lite)  
 ## Installed versions  

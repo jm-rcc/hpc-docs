@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libidn  
-category: lib  
+category: https://www.gnu.org/software/libiconv  
 ## Homepage  
 [http://www.gnu.org/software/%(name)s](http://www.gnu.org/software/%(name)s)  
 ## Installed versions  

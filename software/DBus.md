@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # DBus  
-category: devel  
+category: https://www.cmake.org  
 ## Homepage  
 [https://dbus.freedesktop.org/](https://dbus.freedesktop.org/)  
 ## Installed versions  

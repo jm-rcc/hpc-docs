@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # JAGS  
-category: math  
+category: https://gmplib.org/  
 ## Homepage  
 [http://mcmc-jags.sourceforge.net/](http://mcmc-jags.sourceforge.net/)  
 ## Installed versions  

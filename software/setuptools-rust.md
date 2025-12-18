@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # setuptools-rust  
-category: tools  
+category: https://re2c.org  
 ## Homepage  
 [https://github.com/PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust)  
 ## Installed versions  

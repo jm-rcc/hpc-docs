@@ -1,7 +1,8 @@
 [< Software](../software_shortlist.md)  
 # MrBayes  
-category: bio  
+category: https://github.com/lh3/minimap2  
 ## Homepage  
+[http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  
 [https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
 ## Installed versions  
   

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BUSCO  
-category: bio  
+category: https://bowtie-bio.sourceforge.net/bowtie2/index.shtml  
 ## Homepage  
 [https://busco.ezlab.org/](https://busco.ezlab.org/)  
 ## Installed versions  

@@ -1,14 +1,14 @@
 [< Software](../software_shortlist.md)  
 # SpaceRanger  
-category: bio  
+category: https://github.com/lh3/seqtk/  
 ## Homepage  
 [https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | spaceranger/2.0.1-gcc-11.3.0 | 2.0.1 | GCC-11.3.0 |  |  
  | spaceranger/2.1.0-gcc-11.3.0 | 2.1.0 | GCC-11.3.0 |  |  
+ | spaceranger/2.0.1-gcc-11.3.0 | 2.0.1 | GCC-11.3.0 |  |  
   
 Space Ranger is a set of analysis pipelines that process Visium spatial RNA-seq output
 and brightfield microscope images in order to detect tissue, align reads, generate feature-spot matrices,

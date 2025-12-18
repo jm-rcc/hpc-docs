@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GLib  
-category: vis  
+category: https://developer.gnome.org/gdk-pixbuf/stable/  
 ## Homepage  
 [https://www.gtk.org/](https://www.gtk.org/)  
 ## Installed versions  

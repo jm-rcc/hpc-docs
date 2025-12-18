@@ -1,15 +1,16 @@
 [< Software](../software_shortlist.md)  
 # git  
-category: tools  
+category: https://ghostscript.com  
 ## Homepage  
+[https://git-scm.com](https://git-scm.com)  
 [https://git-scm.com/](https://git-scm.com/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | git/2.41.0-gcccore-12.3.0-nodocs | 2.41.0 | GCCcore-12.3.0 |  |  
- | git/2.32.0-gcccore-10.3.0-nodocs | 2.32.0 | GCCcore-10.3.0 |  |  
  | git/2.36.0-gcccore-11.3.0-nodocs | 2.36.0 | GCCcore-11.3.0 |  |  
+ | git/2.32.0-gcccore-10.3.0-nodocs | 2.32.0 | GCCcore-10.3.0 |  |  
+ | git/2.41.0-gcccore-12.3.0-nodocs | 2.41.0 | GCCcore-12.3.0 |  |  
  | git/2.45.1-gcccore-13.3.0 | 2.45.1 | GCCcore-13.3.0 |  |  
   
 Git is a free and open source distributed version control system designed

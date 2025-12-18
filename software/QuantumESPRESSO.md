@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # QuantumESPRESSO  
-category: chem  
+category: https://www.plumed.org  
 ## Homepage  
 [https://www.quantum-espresso.org](https://www.quantum-espresso.org)  
 ## Installed versions  

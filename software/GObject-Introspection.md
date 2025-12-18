@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GObject-Introspection  
-category: devel  
+category: https://www.doxygen.org  
 ## Homepage  
 [https://gi.readthedocs.io/en/latest/](https://gi.readthedocs.io/en/latest/)  
 ## Installed versions  
@@ -8,8 +8,8 @@ category: devel
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
  | gobject-introspection/.1.68.0-gcccore-10.3.0 | 1.68.0 | GCCcore-10.3.0 |  |  
- | gobject-introspection/.1.72.0-gcccore-11.3.0 | 1.72.0 | GCCcore-11.3.0 |  |  
  | gobject-introspection/.1.76.1-gcccore-12.3.0 | 1.76.1 | GCCcore-12.3.0 |  |  
+ | gobject-introspection/.1.72.0-gcccore-11.3.0 | 1.72.0 | GCCcore-11.3.0 |  |  
   
 GObject introspection is a middleware layer between C libraries
  (using GObject) and language bindings. The C library can be scanned at

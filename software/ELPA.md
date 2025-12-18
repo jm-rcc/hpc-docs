@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # ELPA  
-category: math  
+category: https://eigen.tuxfamily.org  
 ## Homepage  
 [https://elpa.mpcdf.mpg.de](https://elpa.mpcdf.mpg.de)  
 ## Installed versions  

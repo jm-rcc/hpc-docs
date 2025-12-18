@@ -1,14 +1,15 @@
 [< Software](../software_shortlist.md)  
 # Nextflow  
-category: tools  
+category: https://pypi.python.org/pypi/networkx  
 ## Homepage  
 [https://www.%(namelower)s.io/](https://www.%(namelower)s.io/)  
+[https://www.nextflow.io/](https://www.nextflow.io/)  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | nextflow/23.04.2 | 23.04.2 |  |  |  
  | nextflow/25.04.6 | 25.04.6 |  |  |  
+ | nextflow/23.04.2 | 23.04.2 |  |  |  
  | nextflow/22.10.1 | 22.10.1 |  |  |  
   
 Nextflow is a reactive workflow framework and a programming DSL

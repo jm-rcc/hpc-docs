@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # cppy  
-category: tools  
+category: https://savannah.gnu.org/projects/cpio/  
 ## Homepage  
 [https://github.com/nucleic/cppy](https://github.com/nucleic/cppy)  
 ## Installed versions  

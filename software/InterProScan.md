@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # InterProScan  
-category: bio  
+category: http://huttenhower.sph.harvard.edu/humann  
 ## Homepage  
 [https://www.ebi.ac.uk/interpro/](https://www.ebi.ac.uk/interpro/)  
 ## Installed versions  

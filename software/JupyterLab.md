@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # JupyterLab  
-category: tools  
+category: https://jupyter.org/  
 ## Homepage  
 [https://jupyter.org/](https://jupyter.org/)  
 ## Installed versions  

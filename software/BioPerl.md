@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BioPerl  
-category: bio  
+category: https://metacpan.org/pod/Bio::SearchIO::hmmer3  
 ## Homepage  
 [https://bioperl.org/](https://bioperl.org/)  
 ## Installed versions  

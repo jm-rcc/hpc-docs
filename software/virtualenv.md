@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # virtualenv  
-category: tools  
+category: https://www.kernel.org/pub/linux/utils/util-linux  
 ## Homepage  
 [https://github.com/pypa/virtualenv](https://github.com/pypa/virtualenv)  
 ## Installed versions  

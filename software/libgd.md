@@ -1,7 +1,8 @@
 [< Software](../software_shortlist.md)  
 # libgd  
-category: lib  
+category: https://sourceware.org/libffi/  
 ## Homepage  
+[https://libgd.github.io](https://libgd.github.io)  
 [https://libgd.github.io/](https://libgd.github.io/)  
 ## Installed versions  
   

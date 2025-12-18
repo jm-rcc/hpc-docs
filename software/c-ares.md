@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # c-ares  
-category: lib  
+category: https://github.com/google/brunsli/  
 ## Homepage  
 [https://c-ares.org/](https://c-ares.org/)  
 ## Installed versions  

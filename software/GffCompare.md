@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GffCompare  
-category: bio  
+category: https://yanglab.westlake.edu.cn/software/gcta/  
 ## Homepage  
 [https://ccb.jhu.edu/software/stringtie/gffcompare.shtml](https://ccb.jhu.edu/software/stringtie/gffcompare.shtml)  
 ## Installed versions  

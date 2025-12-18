@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Guile  
-category: lang  
+category: https://github.com/fribidi/fribidi  
 ## Homepage  
 [https://www.gnu.org/software/guile/](https://www.gnu.org/software/guile/)  
 ## Installed versions  
