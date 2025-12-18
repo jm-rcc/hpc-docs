@@ -1,14 +1,14 @@
-[< Software](software_shortlist)  
+[< Software](../software_shortlist)  
 # make  
 ## Installed versions  
   
 |A|b|c|  
 |:---|:---:|:---:|  
- | make/.4.4.1-gcccore-14.2.0 | (version) | (toolchain) |  
  | make/.4.3-gcccore-10.3.0 | (version) | (toolchain) |  
  | make/.4.4.1-gcccore-13.3.0 | (version) | (toolchain) |  
- | make/.4.4.1-gcccore-12.3.0 | (version) | (toolchain) |  
  | make/.4.3-gcccore-11.3.0 | (version) | (toolchain) |  
+ | make/.4.4.1-gcccore-14.2.0 | (version) | (toolchain) |  
+ | make/.4.4.1-gcccore-12.3.0 | (version) | (toolchain) |  
 >GNU version of make utility  
   
   

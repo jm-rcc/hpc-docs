@@ -1,4 +1,4 @@
-[< Software](software_shortlist)  
+[< Software](../software_shortlist)  
 # h5py  
 ## Installed versions  
   

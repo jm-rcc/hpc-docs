@@ -1,11 +1,11 @@
-[< Software](software_shortlist)  
+[< Software](../software_shortlist)  
 # Qhull  
 ## Installed versions  
   
 |A|b|c|  
 |:---|:---:|:---:|  
- | qhull/.2020.2-gcccore-12.3.0 | (version) | (toolchain) |  
  | qhull/.2020.2-gcccore-11.3.0 | (version) | (toolchain) |  
+ | qhull/.2020.2-gcccore-12.3.0 | (version) | (toolchain) |  
  | qhull/2020.2-gcccore-12.3.0 | (version) | (toolchain) |  
  | qhull/.2020.2-gcccore-10.3.0 | (version) | (toolchain) |  
 >Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,  

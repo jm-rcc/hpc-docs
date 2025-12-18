@@ -1,4 +1,4 @@
-[< Software](software_shortlist)  
+[< Software](../software_shortlist)  
 # at-spi2-core  
 ## Installed versions  
   

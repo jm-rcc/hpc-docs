@@ -1,4 +1,4 @@
-[< Software](software_shortlist)  
+[< Software](../software_shortlist)  
 # QIIME2  
 ## Installed versions  
   

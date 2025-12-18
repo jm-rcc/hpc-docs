@@ -1,11 +1,11 @@
-[< Software](software_shortlist)  
+[< Software](../software_shortlist)  
 # jbigkit  
 ## Installed versions  
   
 |A|b|c|  
 |:---|:---:|:---:|  
- | jbigkit/2.1-gcccore-10.3.0 | (version) | (toolchain) |  
  | jbigkit/2.1-gcccore-11.3.0 | (version) | (toolchain) |  
+ | jbigkit/2.1-gcccore-10.3.0 | (version) | (toolchain) |  
  | jbigkit/2.1-gcccore-12.3.0 | (version) | (toolchain) |  
 >JBIG-KIT is a software implementation of the JBIG1 data  
 > compression standard (ITU-T T.82), which was designed for bi-level image  
