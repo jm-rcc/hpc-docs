@@ -1,6 +1,7 @@
 # MDI  
 |Installed versions:|  
-|mdi/1.4.26-gompi-2023a|  
+| ---- |  
+| mdi/1.4.26-gompi-2023a |  
   
 ## Description  
 The MolSSI Driver Interface (MDI) project provides a

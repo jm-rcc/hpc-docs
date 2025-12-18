@@ -1,7 +1,8 @@
 # MaxQuant  
 |Installed versions:|  
-|maxquant/.2.2.0.0-gcccore-11.3.0.bak_20251013214505_2034437|  
-|maxquant/2.2.0.0-gcccore-11.3.0|  
+| ---- |  
+| maxquant/.2.2.0.0-gcccore-11.3.0.bak_20251013214505_2034437 |  
+| maxquant/2.2.0.0-gcccore-11.3.0 |  
   
 ## Description  
 MaxQuant is a quantitative proteomics software package designed for analyzing large

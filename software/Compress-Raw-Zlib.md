@@ -1,6 +1,7 @@
 # Compress-Raw-Zlib  
 |Installed versions:|  
-|compress-raw-zlib/2.202-gcccore-11.3.0|  
+| ---- |  
+| compress-raw-zlib/2.202-gcccore-11.3.0 |  
   
 ## Description  
 Low-Level Interface to zlib or zlib-ng compression library  

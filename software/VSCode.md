@@ -1,6 +1,7 @@
 # VSCode  
 |Installed versions:|  
-|vscode/1.87.0|  
+| ---- |  
+| vscode/1.87.0 |  
   
 ## Description  
 Visual Studio Code is a lightweight but powerful source code editor 

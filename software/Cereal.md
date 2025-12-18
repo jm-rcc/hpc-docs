@@ -1,6 +1,7 @@
 # Cereal  
 |Installed versions:|  
-|cereal/1.3.0|  
+| ---- |  
+| cereal/1.3.0 |  
   
 ## Description  
 cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly

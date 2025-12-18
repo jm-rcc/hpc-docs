@@ -1,10 +1,11 @@
 # foss  
 |Installed versions:|  
-|foss/2021a|  
-|foss/2022a|  
-|foss/2023a|  
-|foss/2024a|  
-|foss/2025a|  
+| ---- |  
+| foss/2021a |  
+| foss/2022a |  
+| foss/2023a |  
+| foss/2024a |  
+| foss/2025a |  
   
 ## Description  
 GNU Compiler Collection (GCC) based compiler toolchain, including

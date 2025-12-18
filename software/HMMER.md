@@ -1,7 +1,8 @@
 # HMMER  
 |Installed versions:|  
-|hmmer/3.3.2-gompi-2021a|  
-|hmmer/3.3.2-gompi-2022a|  
+| ---- |  
+| hmmer/3.3.2-gompi-2021a |  
+| hmmer/3.3.2-gompi-2022a |  
   
 ## Description  
 HMMER is used for searching sequence databases for homologs

@@ -1,6 +1,7 @@
 # Bowtie  
 |Installed versions:|  
-|bowtie/1.3.1-gcc-11.3.0|  
+| ---- |  
+| bowtie/1.3.1-gcc-11.3.0 |  
   
 ## Description  
 Bowtie is an ultrafast, memory-efficient short read aligner.

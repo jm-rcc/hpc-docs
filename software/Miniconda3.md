@@ -1,7 +1,8 @@
 # Miniconda3  
 |Installed versions:|  
-|miniconda3/23.9.0-0|  
-|miniconda3/4.12.0|  
+| ---- |  
+| miniconda3/23.9.0-0 |  
+| miniconda3/4.12.0 |  
   
 ## Description  
 Miniconda is a free minimal installer for conda. It is a small,

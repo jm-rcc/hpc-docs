@@ -1,6 +1,7 @@
 # VTK  
 |Installed versions:|  
-|vtk/9.3.0-foss-2023a|  
+| ---- |  
+| vtk/9.3.0-foss-2023a |  
   
 ## Description  
 The Visualization Toolkit (VTK) is an open-source, freely available software system for

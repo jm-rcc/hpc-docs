@@ -1,6 +1,7 @@
 # fastahack  
 |Installed versions:|  
-|fastahack/1.0.0-gcccore-10.3.0|  
+| ---- |  
+| fastahack/1.0.0-gcccore-10.3.0 |  
   
 ## Description  
 Utilities for indexing and sequence extraction from FASTA files.  

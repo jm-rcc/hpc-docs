@@ -1,6 +1,7 @@
 # smithwaterman  
 |Installed versions:|  
-|smithwaterman/20160702-gcccore-10.3.0|  
+| ---- |  
+| smithwaterman/20160702-gcccore-10.3.0 |  
   
 ## Description  
 smith-waterman-gotoh alignment algorithm.  

@@ -1,6 +1,7 @@
 # Bio-DB-HTS  
 |Installed versions:|  
-|bio-db-hts/3.01-gcc-11.3.0|  
+| ---- |  
+| bio-db-hts/3.01-gcc-11.3.0 |  
   
 ## Description  
 Read files using HTSlib including BAM/CRAM, Tabix and BCF database files  

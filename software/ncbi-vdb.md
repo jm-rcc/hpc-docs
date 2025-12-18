@@ -1,7 +1,8 @@
 # ncbi-vdb  
 |Installed versions:|  
-|ncbi-vdb/2.10.9-gompi-2021a|  
-|ncbi-vdb/3.0.2-gompi-2022a|  
+| ---- |  
+| ncbi-vdb/2.10.9-gompi-2021a |  
+| ncbi-vdb/3.0.2-gompi-2022a |  
   
 ## Description  
 The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for

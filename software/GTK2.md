@@ -1,6 +1,7 @@
 # GTK2  
 |Installed versions:|  
-|gtk2/2.24.33-gcccore-11.3.0|  
+| ---- |  
+| gtk2/2.24.33-gcccore-11.3.0 |  
   
 ## Description  
 The GTK+ 2 package contains libraries used for creating graphical user interfaces for applications.  

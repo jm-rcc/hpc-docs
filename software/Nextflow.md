@@ -1,8 +1,9 @@
 # Nextflow  
 |Installed versions:|  
-|nextflow/22.10.1|  
-|nextflow/23.04.2|  
-|nextflow/25.04.6|  
+| ---- |  
+| nextflow/22.10.1 |  
+| nextflow/23.04.2 |  
+| nextflow/25.04.6 |  
   
 ## Description  
 Nextflow is a reactive workflow framework and a programming DSL

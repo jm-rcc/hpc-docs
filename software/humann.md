@@ -1,6 +1,7 @@
 # humann  
 |Installed versions:|  
-|humann/3.6-foss-2022a|  
+| ---- |  
+| humann/3.6-foss-2022a |  
   
 ## Description  
 HUMAnN v3 is a pipeline for efficiently

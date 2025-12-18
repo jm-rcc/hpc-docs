@@ -1,6 +1,7 @@
 # pplacer  
 |Installed versions:|  
-|pplacer/1.1.alpha19|  
+| ---- |  
+| pplacer/1.1.alpha19 |  
   
 ## Description  
 Pplacer places query sequences on a fixed reference phylogenetic tree to maximize phylogenetic

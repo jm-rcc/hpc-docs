@@ -1,6 +1,7 @@
 # QIIME2  
 |Installed versions:|  
-|qiime2/2022.8|  
+| ---- |  
+| qiime2/2022.8 |  
   
 ## Description  
 QIIME is an open-source bioinformatics pipeline for performing microbiome analysis

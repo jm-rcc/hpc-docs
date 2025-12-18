@@ -1,6 +1,7 @@
 # gffread  
 |Installed versions:|  
-|gffread/0.12.7-gcccore-10.3.0|  
+| ---- |  
+| gffread/0.12.7-gcccore-10.3.0 |  
   
 ## Description  
 GFF/GTF parsing utility providing format conversions,

@@ -1,7 +1,8 @@
 # OpenSSL  
 |Installed versions:|  
-|openssl/1.1|  
-|openssl/3|  
+| ---- |  
+| openssl/1.1 |  
+| openssl/3 |  
   
 ## Description  
 The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
