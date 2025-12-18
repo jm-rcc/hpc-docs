@@ -2,10 +2,10 @@
 # Boost.Python  
 ## Installed versions  
   
-| A | b | c |
-|:---|:---:|:---:|
- | boost.python/1.79.0-gcc-11.3.0 | (version) | (toolchain) |
- | boost.python/1.76.0-gcc-10.3.0 | (version) | (toolchain) |
+| A | b | c |  
+| :--- | :---: | :---: |  
+ | boost.python/1.79.0-gcc-11.3.0 | (version) | (toolchain) |  
+ | boost.python/1.76.0-gcc-10.3.0 | (version) | (toolchain) |  
 >Boost.Python is a C++ library which enables seamless interoperability between C++  
 > and the Python programming language.  
   

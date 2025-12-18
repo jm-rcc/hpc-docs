@@ -2,10 +2,10 @@
 # kim-api  
 ## Installed versions  
   
-| A | b | c |
-|:---|:---:|:---:|
- | kim-api/2.2.1-gcc-10.3.0 | (version) | (toolchain) |
- | kim-api/2.3.0-gcc-12.3.0 | (version) | (toolchain) |
+| A | b | c |  
+| :--- | :---: | :---: |  
+ | kim-api/2.2.1-gcc-10.3.0 | (version) | (toolchain) |  
+ | kim-api/2.3.0-gcc-12.3.0 | (version) | (toolchain) |  
 >Open Knowledgebase of Interatomic Models.    
 >    
 >KIM is an API and OpenKIM is a collection of interatomic models (potentials) for  

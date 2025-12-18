@@ -2,9 +2,9 @@
 # BeautifulSoup  
 ## Installed versions  
   
-| A | b | c |
-|:---|:---:|:---:|
- | beautifulsoup/4.10.0-gcccore-11.3.0 | (version) | (toolchain) |
+| A | b | c |  
+| :--- | :---: | :---: |  
+ | beautifulsoup/4.10.0-gcccore-11.3.0 | (version) | (toolchain) |  
 >Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.  
   
   

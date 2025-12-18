@@ -2,9 +2,9 @@
 # VSCode  
 ## Installed versions  
   
-| A | b | c |
-|:---|:---:|:---:|
- | vscode/1.87.0 | (version) | (toolchain) |
+| A | b | c |  
+| :--- | :---: | :---: |  
+ | vscode/1.87.0 | (version) | (toolchain) |  
 >Visual Studio Code is a lightweight but powerful source code editor   
 >    which runs on your desktop and is available for Windows, macOS and   
 >    Linux. It comes with built-in support for JavaScript, TypeScript and   

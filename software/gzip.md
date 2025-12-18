@@ -2,12 +2,12 @@
 # gzip  
 ## Installed versions  
   
-| A | b | c |
-|:---|:---:|:---:|
- | gzip/1.13-gcccore-13.3.0 | (version) | (toolchain) |
- | gzip/1.12-gcccore-11.3.0 | (version) | (toolchain) |
- | gzip/1.12-gcccore-12.3.0 | (version) | (toolchain) |
- | gzip/1.10-gcccore-10.3.0 | (version) | (toolchain) |
+| A | b | c |  
+| :--- | :---: | :---: |  
+ | gzip/1.10-gcccore-10.3.0 | (version) | (toolchain) |  
+ | gzip/1.12-gcccore-12.3.0 | (version) | (toolchain) |  
+ | gzip/1.13-gcccore-13.3.0 | (version) | (toolchain) |  
+ | gzip/1.12-gcccore-11.3.0 | (version) | (toolchain) |  
 >gzip (GNU zip) is a popular data compression program as a replacement for compress  
   
   

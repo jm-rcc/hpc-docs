@@ -2,12 +2,12 @@
 # imkl-FFTW  
 ## Installed versions  
   
-| A | b | c |
-|:---|:---:|:---:|
- | imkl-fftw/2022.1.0-iimpi-2022a | (version) | (toolchain) |
- | imkl-fftw/2025.1.0-iimpi-2025a | (version) | (toolchain) |
- | imkl-fftw/2024.2.0-iimpi-2024a | (version) | (toolchain) |
- | imkl-fftw/2023.1.0-iimpi-2023a | (version) | (toolchain) |
+| A | b | c |  
+| :--- | :---: | :---: |  
+ | imkl-fftw/2024.2.0-iimpi-2024a | (version) | (toolchain) |  
+ | imkl-fftw/2022.1.0-iimpi-2022a | (version) | (toolchain) |  
+ | imkl-fftw/2025.1.0-iimpi-2025a | (version) | (toolchain) |  
+ | imkl-fftw/2023.1.0-iimpi-2023a | (version) | (toolchain) |  
 >FFTW interfaces using Intel oneAPI Math Kernel Library  
   
   

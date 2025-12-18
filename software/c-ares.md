@@ -2,9 +2,9 @@
 # c-ares  
 ## Installed versions  
   
-| A | b | c |
-|:---|:---:|:---:|
- | c-ares/.1.18.1-gcccore-11.3.0 | (version) | (toolchain) |
+| A | b | c |  
+| :--- | :---: | :---: |  
+ | c-ares/.1.18.1-gcccore-11.3.0 | (version) | (toolchain) |  
 >c-ares is a C library for asynchronous DNS requests (including name resolves)  
   
   
