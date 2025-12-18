@@ -1,2 +1,27 @@
 # Miniconda3  
-Placeholder page.  
+Installed versions:  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+miniconda3/4.12.0  
+miniconda3/23.9.0-0  
+  
+[description/whatis]  
+[url]  

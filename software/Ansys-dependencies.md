@@ -1,2 +1,16 @@
 # Ansys-dependencies  
-Placeholder page.  
+Installed versions:  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+ansys-dependencies/2023-gcc-11.3.0  
+  
+[description/whatis]  
+[url]  

@@ -1,2 +1,24 @@
 # Perl-bundle-CPAN  
-Placeholder page.  
+Installed versions:  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.38.2-gcccore-13.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+perl-bundle-cpan/5.36.1-gcccore-12.3.0  
+  
+[description/whatis]  
+[url]  

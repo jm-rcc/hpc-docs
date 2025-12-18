@@ -1,2 +1,46 @@
 # freetype  
-Placeholder page.  
+Installed versions:  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.2-gcccore-13.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+freetype/.2.10.4-gcccore-10.3.0  
+freetype/.2.12.1-gcccore-11.3.0  
+freetype/.2.13.0-gcccore-12.3.0  
+  
+[description/whatis]  
+[url]  

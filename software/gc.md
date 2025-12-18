@@ -1,2 +1,16 @@
 # gc  
-Placeholder page.  
+Installed versions:  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+gc/.8.2.2-gcccore-11.3.0  
+  
+[description/whatis]  
+[url]  
