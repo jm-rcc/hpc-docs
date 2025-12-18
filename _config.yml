@@ -5,9 +5,6 @@
 title: HPC docs
 description: Documentation on Bunya and data storage
 
-url: "https://jm-rcc.github.io" # hpc-docs
-baseurl: ""
-
 # Build settings
 markdown: kramdown
 kramdown:
