@@ -2,8 +2,7 @@
 ## Installed versions  
  - hmmer/3.3.2-gompi-2022a  (version), (toolchain)  
  - hmmer/3.3.2-gompi-2021a  (version), (toolchain)  
-### Description  
-HMMER is used for searching sequence databases for homologs
+>HMMER is used for searching sequence databases for homologs
  of protein sequences, and for making protein sequence alignments. It
  implements methods using probabilistic models called profile hidden Markov
  models (profile HMMs).  Compared to BLAST, FASTA, and other sequence

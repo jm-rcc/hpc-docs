@@ -2,8 +2,7 @@
 ## Installed versions  
  - mono/.6.12.0.122-gcccore-11.3.0.bak_20251013214443_2034437  (version), (toolchain)  
  - mono/6.12.0.122-gcccore-11.3.0  (version), (toolchain)  
-### Description  
-An open source, cross-platform, implementation of C# and the CLR that is
+>An open source, cross-platform, implementation of C# and the CLR that is
  binary compatible with Microsoft.NET.  
   
 ## Homepage  

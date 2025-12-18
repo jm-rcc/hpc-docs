@@ -2,8 +2,7 @@
 ## Installed versions  
  - kraken2/2.1.2-gompi-2022a  (version), (toolchain)  
  - kraken2/2.1.2-gompi-2021a  (version), (toolchain)  
-### Description  
-Kraken is a system for assigning taxonomic labels to short DNA sequences,
+>Kraken is a system for assigning taxonomic labels to short DNA sequences,
  usually obtained through metagenomic studies. Previous attempts by other
  bioinformatics software to accomplish this task have often used sequence
  alignment or machine learning techniques that were quite slow, leading to

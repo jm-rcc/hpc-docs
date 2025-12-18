@@ -1,8 +1,7 @@
 # SRA-Toolkit  
 ## Installed versions  
  - sra-toolkit/3.0.3-gompi-2022a  (version), (toolchain)  
-### Description  
-The SRA Toolkit, and the source-code SRA System Development
+>The SRA Toolkit, and the source-code SRA System Development
  Kit (SDK), will allow you to programmatically access data housed within SRA
  and convert it from the SRA format  
   

@@ -2,8 +2,7 @@
 ## Installed versions  
  - bbmap/39.01-gcc-11.3.0  (version), (toolchain)  
  - bbmap/38.96-gcc-10.3.0  (version), (toolchain)  
-### Description  
-BBMap short read aligner, and other bioinformatic tools.  
+>BBMap short read aligner, and other bioinformatic tools.  
   
 ## Homepage  
 [https://sourceforge.net/projects/bbmap/](https://sourceforge.net/projects/bbmap/)  

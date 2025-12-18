@@ -1,8 +1,7 @@
 # MDI  
 ## Installed versions  
  - mdi/1.4.26-gompi-2023a  (version), (toolchain)  
-### Description  
-The MolSSI Driver Interface (MDI) project provides a
+>The MolSSI Driver Interface (MDI) project provides a
 standardized API for fast, on-the-fly communication between computational
 chemistry codes. This greatly simplifies the process of implementing
 methods that require the cooperation of multiple software packages and

@@ -1,8 +1,7 @@
 # libidn  
 ## Installed versions  
  - libidn/.1.36-gcccore-10.3.0  (version), (toolchain)  
-### Description  
-GNU Libidn is a fully documented implementation of the Stringprep, Punycode and IDNA specifications.
+>GNU Libidn is a fully documented implementation of the Stringprep, Punycode and IDNA specifications.
 Libidn's purpose is to encode and decode internationalized domain names.  
   
 ## Homepage  
