@@ -6,10 +6,8 @@
  - expat/.2.6.2-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-Expat is an XML parser library written in C. It is a stream-oriented parser  
-  
-in which an application registers handlers for things the parser might find  
-  
+Expat is an XML parser library written in C. It is a stream-oriented parser
+in which an application registers handlers for things the parser might find
 in the XML document (like start tags).  
 ## Homepage  
 [https://libexpat.github.io](https://libexpat.github.io)  

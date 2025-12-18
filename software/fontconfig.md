@@ -6,8 +6,7 @@
  - fontconfig/.2.15.0-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-Fontconfig is a library designed to provide system-wide font configuration,  
-  
+Fontconfig is a library designed to provide system-wide font configuration,
  customization and application access.  
 ## Homepage  
 [https://www.freedesktop.org/wiki/Software/fontconfig/](https://www.freedesktop.org/wiki/Software/fontconfig/)  

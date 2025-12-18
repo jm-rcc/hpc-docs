@@ -7,8 +7,7 @@
  - blis/1.1-gcc-14.2.0  (version), (toolchain)  
   
 ## Description  
-BLIS is a portable software framework for instantiating high-performance  
-  
+BLIS is a portable software framework for instantiating high-performance
 BLAS-like dense linear algebra libraries.  
 ## Homepage  
 [https://github.com/flame/blis/](https://github.com/flame/blis/)  

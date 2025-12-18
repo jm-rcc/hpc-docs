@@ -7,8 +7,7 @@
  - pkgconf/.2.3.0-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-pkgconf is a program which helps to configure compiler and linker flags for development libraries.  
-  
+pkgconf is a program which helps to configure compiler and linker flags for development libraries.
  It is similar to pkg-config from freedesktop.org.  
 ## Homepage  
 [https://github.com/pkgconf/pkgconf](https://github.com/pkgconf/pkgconf)  

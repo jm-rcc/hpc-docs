@@ -12,8 +12,7 @@
  - python/3.9.5-gcccore-10.3.0-bare  (version), (toolchain)  
   
 ## Description  
-Python is a programming language that lets you work more quickly and integrate your systems  
-  
+Python is a programming language that lets you work more quickly and integrate your systems
  more effectively.  
 ## Homepage  
 [https://python.org/](https://python.org/)  

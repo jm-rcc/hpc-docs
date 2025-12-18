@@ -6,8 +6,7 @@
  - lmdb/0.9.29-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
-LMDB is a fast, memory-efficient database. With memory-mapped files, it has the read performance  
-  
+LMDB is a fast, memory-efficient database. With memory-mapped files, it has the read performance
  of a pure in-memory database while retaining the persistence of standard disk-based databases.  
 ## Homepage  
 [https://symas.com/lmdb](https://symas.com/lmdb)  

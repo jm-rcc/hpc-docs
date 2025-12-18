@@ -5,8 +5,7 @@
  - nss/.3.89.1-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Network Security Services (NSS) is a set of libraries designed to support cross-platform development  
-  
+Network Security Services (NSS) is a set of libraries designed to support cross-platform development
  of security-enabled client and server applications.  
 ## Homepage  
 [https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS)  

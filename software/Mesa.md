@@ -6,8 +6,7 @@
  - mesa/.24.1.3-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-Mesa is an open-source implementation of the OpenGL specification -  
-  
+Mesa is an open-source implementation of the OpenGL specification -
  a system for rendering interactive 3D graphics.  
 ## Homepage  
 [https://www.mesa3d.org/](https://www.mesa3d.org/)  

@@ -4,8 +4,7 @@
  - cutadapt/4.2-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
-Cutadapt finds and removes adapter sequences, primers, poly-A tails and  
-  
+Cutadapt finds and removes adapter sequences, primers, poly-A tails and
  other types of unwanted sequence from your high-throughput sequencing reads.  
 ## Homepage  
 [https://opensource.scilifelab.se/projects/cutadapt/](https://opensource.scilifelab.se/projects/cutadapt/)  

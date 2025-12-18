@@ -5,10 +5,8 @@
  - gsl/2.7-gcc-12.3.0  (version), (toolchain)  
   
 ## Description  
-The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.  
-  
- The library provides a wide range of mathematical routines such as random number generators, special functions  
-  
+The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.
+ The library provides a wide range of mathematical routines such as random number generators, special functions
  and least-squares fitting.  
 ## Homepage  
 [https://www.gnu.org/software/gsl/](https://www.gnu.org/software/gsl/)  

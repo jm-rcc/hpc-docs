@@ -4,10 +4,8 @@
  - quast/5.2.0-foss-2022a  (version), (toolchain)  
   
 ## Description  
-QUAST evaluates genome assemblies by computing various metrics.  
-  
-It works both with and without reference genomes. The tool accepts multiple  
-  
+QUAST evaluates genome assemblies by computing various metrics.
+It works both with and without reference genomes. The tool accepts multiple
 assemblies, thus is suitable for comparison.  
 ## Homepage  
 [https://github.com/ablab/quast](https://github.com/ablab/quast)  

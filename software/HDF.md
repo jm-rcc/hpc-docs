@@ -5,8 +5,7 @@
  - hdf/4.2.16-2-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-HDF (also known as HDF4) is a library and multi-object file format for  
-  
+HDF (also known as HDF4) is a library and multi-object file format for
  storing and managing data between machines.  
 ## Homepage  
 [https://support.hdfgroup.org/products/hdf4/](https://support.hdfgroup.org/products/hdf4/)  

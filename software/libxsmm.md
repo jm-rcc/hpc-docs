@@ -4,8 +4,7 @@
  - libxsmm/1.17-gcc-11.3.0  (version), (toolchain)  
   
 ## Description  
-LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications  
-  
+LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications
 targeting Intel Architecture (x86).  
 ## Homepage  
 [https://github.com/libxsmm/libxsmm](https://github.com/libxsmm/libxsmm)  

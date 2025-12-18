@@ -14,10 +14,8 @@
  - flex/2.6.4-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Flex (Fast Lexical Analyzer) is a tool for generating scanners. A scanner,  
-  
- sometimes called a tokenizer, is a program which recognizes lexical patterns  
-  
+Flex (Fast Lexical Analyzer) is a tool for generating scanners. A scanner,
+ sometimes called a tokenizer, is a program which recognizes lexical patterns
  in text.  
 ## Homepage  
 [http://flex.sourceforge.net/](http://flex.sourceforge.net/)  

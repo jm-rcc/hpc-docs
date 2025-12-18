@@ -4,8 +4,7 @@
  - ncbi-vdb/3.0.2-gompi-2022a  (version), (toolchain)  
   
 ## Description  
-The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for  
-  
+The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for
  using data in the INSDC Sequence Read Archives.  
 ## Homepage  
 [https://github.com/ncbi/ncbi-vdb](https://github.com/ncbi/ncbi-vdb)  

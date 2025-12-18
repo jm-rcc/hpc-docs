@@ -6,8 +6,7 @@
  - samtools/1.18-gcc-12.3.0  (version), (toolchain)  
   
 ## Description  
-SAM Tools provide various utilities for manipulating alignments in the SAM format,  
-  
+SAM Tools provide various utilities for manipulating alignments in the SAM format,
  including sorting, merging, indexing and generating alignments in a per-position format.  
 ## Homepage  
 [https://www.htslib.org/](https://www.htslib.org/)  

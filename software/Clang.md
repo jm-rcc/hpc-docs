@@ -6,8 +6,7 @@
  - clang/18.1.8-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-C, C++, Objective-C compiler, based on LLVM.  Does not  
-  
+C, C++, Objective-C compiler, based on LLVM.  Does not
  include C++ standard library -- use libstdc++ from GCC.  
 ## Homepage  
 [https://clang.llvm.org/](https://clang.llvm.org/)  

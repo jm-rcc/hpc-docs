@@ -5,8 +5,7 @@
  - nextflow/25.04.6  (version), (toolchain)  
   
 ## Description  
-Nextflow is a reactive workflow framework and a programming DSL  
-  
+Nextflow is a reactive workflow framework and a programming DSL
  that eases writing computational pipelines with complex data  
 ## Homepage  
 [https://www.%(namelower)s.io/](https://www.%(namelower)s.io/)  

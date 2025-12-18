@@ -5,12 +5,9 @@
  - gdal/3.7.1-foss-2023a  (version), (toolchain)  
   
 ## Description  
-GDAL is a translator library for raster geospatial data formats that is released under an X/MIT style  
-  
- Open Source license by the Open Source Geospatial Foundation. As a library, it presents a single abstract data model  
-  
- to the calling application for all supported formats. It also comes with a variety of useful commandline utilities for  
-  
+GDAL is a translator library for raster geospatial data formats that is released under an X/MIT style
+ Open Source license by the Open Source Geospatial Foundation. As a library, it presents a single abstract data model
+ to the calling application for all supported formats. It also comes with a variety of useful commandline utilities for
  data translation and processing.  
 ## Homepage  
 [https://www.gdal.org](https://www.gdal.org)  

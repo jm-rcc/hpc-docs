@@ -7,10 +7,8 @@
  - libffi/.3.4.5-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
-The libffi library provides a portable, high level programming interface to  
-  
- various calling conventions. This allows a programmer to call any function  
-  
+The libffi library provides a portable, high level programming interface to
+ various calling conventions. This allows a programmer to call any function
  specified by a call interface description at run-time.  
 ## Homepage  
 [https://sourceware.org/libffi/](https://sourceware.org/libffi/)  

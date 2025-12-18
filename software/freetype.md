@@ -6,14 +6,10 @@
  - freetype/.2.13.2-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-FreeType 2 is a software font engine that is designed to be small, efficient,  
-  
- highly customizable, and portable while capable of producing high-quality  
-  
- output (glyph images). It can be used in graphics libraries, display servers,  
-  
- font conversion tools, text image generation tools, and many other products  
-  
+FreeType 2 is a software font engine that is designed to be small, efficient,
+ highly customizable, and portable while capable of producing high-quality
+ output (glyph images). It can be used in graphics libraries, display servers,
+ font conversion tools, text image generation tools, and many other products
  as well.  
 ## Homepage  
 [https://www.freetype.org](https://www.freetype.org)  

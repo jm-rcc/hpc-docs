@@ -4,8 +4,7 @@
  - libxslt/1.1.38-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Libxslt is the XSLT C library developed for the GNOME project  
-  
+Libxslt is the XSLT C library developed for the GNOME project
  (but usable outside of the Gnome platform).  
 ## Homepage  
 [http://xmlsoft.org/](http://xmlsoft.org/)  

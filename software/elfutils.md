@@ -4,8 +4,7 @@
  - elfutils/0.187-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
-The elfutils project provides libraries and tools for ELF files  
-  
+The elfutils project provides libraries and tools for ELF files
  and DWARF data.  
 ## Homepage  
 [https://elfutils.org/](https://elfutils.org/)  

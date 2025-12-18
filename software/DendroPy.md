@@ -4,10 +4,8 @@
  - dendropy/4.5.2-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
-A Python library for phylogenetics and phylogenetic computing:  
-  
-reading, writing, simulation, processing and manipulation of phylogenetic trees  
-  
+A Python library for phylogenetics and phylogenetic computing:
+reading, writing, simulation, processing and manipulation of phylogenetic trees
 (phylogenies) and characters.  
 ## Homepage  
 [https://dendropy.org/](https://dendropy.org/)  

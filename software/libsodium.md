@@ -4,8 +4,7 @@
  - libsodium/.1.0.18-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
-Sodium is a modern, easy-to-use software library for encryption, decryption,  
-  
+Sodium is a modern, easy-to-use software library for encryption, decryption,
  signatures, password hashing and more.  
 ## Homepage  
 [https://doc.libsodium.org/](https://doc.libsodium.org/)  

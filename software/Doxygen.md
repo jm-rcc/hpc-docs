@@ -6,10 +6,8 @@
  - doxygen/.1.9.7-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Doxygen is a documentation system for C++, C, Java, Objective-C, Python,  
-  
- IDL (Corba and Microsoft flavors), Fortran, VHDL, PHP, C#, and to some  
-  
+Doxygen is a documentation system for C++, C, Java, Objective-C, Python,
+ IDL (Corba and Microsoft flavors), Fortran, VHDL, PHP, C#, and to some
  extent D.  
 ## Homepage  
 [https://www.doxygen.org](https://www.doxygen.org)  

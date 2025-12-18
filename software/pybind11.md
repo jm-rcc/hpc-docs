@@ -5,8 +5,7 @@
  - pybind11/2.9.2-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
-pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa,  
-  
+pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa,
  mainly to create Python bindings of existing C++ code.  
 ## Homepage  
 [https://pybind11.readthedocs.io](https://pybind11.readthedocs.io)  

@@ -4,8 +4,7 @@
  - cudnn/8.9.2.26-cuda-12.2.0  (version), (toolchain)  
   
 ## Description  
-The NVIDIA CUDA Deep Neural Network library (cuDNN) is  
-  
+The NVIDIA CUDA Deep Neural Network library (cuDNN) is
 a GPU-accelerated library of primitives for deep neural networks.  
 ## Homepage  
 [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)  

@@ -6,8 +6,7 @@
  - gmp/.6.3.0-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-GMP is a free library for arbitrary precision arithmetic, operating on signed  
-  
+GMP is a free library for arbitrary precision arithmetic, operating on signed
  integers, rational numbers, and floating point numbers.  
 ## Homepage  
 [https://gmplib.org/](https://gmplib.org/)  

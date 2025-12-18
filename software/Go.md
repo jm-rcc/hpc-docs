@@ -6,8 +6,7 @@
  - go/1.23.6  (version), (toolchain)  
   
 ## Description  
-Go is an open source programming language that makes it easy to build  
-  
+Go is an open source programming language that makes it easy to build
  simple, reliable, and efficient software.  
 ## Homepage  
 [https://www.golang.org](https://www.golang.org)  

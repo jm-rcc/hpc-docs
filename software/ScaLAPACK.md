@@ -7,8 +7,7 @@
  - scalapack/2.2.2-gompi-2025a-fb  (version), (toolchain)  
   
 ## Description  
-The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines  
-  
+The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines
  redesigned for distributed memory MIMD parallel computers.  
 ## Homepage  
 [https://www.netlib.org/scalapack/](https://www.netlib.org/scalapack/)  

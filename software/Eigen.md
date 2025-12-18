@@ -5,8 +5,7 @@
  - eigen/.3.4.0-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
-Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers,  
-  
+Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers,
  and related algorithms.  
 ## Homepage  
 [https://eigen.tuxfamily.org](https://eigen.tuxfamily.org)  

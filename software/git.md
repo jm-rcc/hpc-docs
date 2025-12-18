@@ -6,8 +6,7 @@
  - git/2.45.1-gcccore-13.3.0  (version), (toolchain)  
   
 ## Description  
-Git is a free and open source distributed version control system designed  
-  
+Git is a free and open source distributed version control system designed
 to handle everything from small to very large projects with speed and efficiency.  
 ## Homepage  
 [https://git-scm.com/](https://git-scm.com/)  

@@ -5,8 +5,7 @@
  - networkx/.3.1-gfbf-2023a  (version), (toolchain)  
   
 ## Description  
-NetworkX is a Python package for the creation, manipulation,  
-  
+NetworkX is a Python package for the creation, manipulation,
 and study of the structure, dynamics, and functions of complex networks.  
 ## Homepage  
 [https://pypi.python.org/pypi/networkx](https://pypi.python.org/pypi/networkx)  
