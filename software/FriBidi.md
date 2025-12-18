@@ -5,5 +5,6 @@
  - fribidi/.1.0.12-gcccore-12.3.0  (version), (toolchain)  
 >The Free Implementation of the Unicode Bidirectional Algorithm.  
   
+  
 ## Homepage  
 [https://github.com/fribidi/fribidi](https://github.com/fribidi/fribidi)  
