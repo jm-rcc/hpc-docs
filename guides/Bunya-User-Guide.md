@@ -559,8 +559,8 @@ QoS are used to control access to resources and apply sustainable limits.<br>
 * onBunya Accelerated Desktops with 2 or 3 GPUs will be submitted with the gpu QoS.
 * gpu still requires that at least one GPU is requested for the job as the default for number of GPUs is zero.
 T* he max of H100 GPUs is 4 across all QoS and paritions
-
-
+  
+  
 | QOS |  Partitions |  Access| Priority | All User Group limit | User limits |
 |:---|:---|:---:|:---:|:---|:---|
 |||||||
@@ -572,6 +572,7 @@ T* he max of H100 GPUs is 4 across all QoS and paritions
 | sxm | gpu_sxm | approved users | 10 | none | 192 CPUs, <br> 1 T CPU memory, <br> 4 GPUs, <br> 4 jobs running, <br> 50 jobs submitted |
 |sdf | gpu_rocm| approved users | 10 | none | 256 CPUs, <br> 2 T CPU memory, <br> 8 GPUs |
 | viz | general, <br> gpu_viz| onBunya only | 30 | none | 1 day,<br> 192 CPUs (96 CPU per job), <br> 500G per job, <br> 2 GPUs (1 GPU per job), <br> 2 running jobs, <br> 20 jobs submitted | 
+  
 <br>
 
 ## Available partitions and nodes
