@@ -1,14 +1,28 @@
 <nav class="breadcrumbs" aria-label="Breadcrumb">
-  <ol>
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+      <a href="{{ site.baseurl }}/" itemprop="item">
+        <span itemprop="name">Home</span>
+      </a>
+      <meta itemprop="position" content="1" />
+    </li>
     {% assign crumbs = page.url | split: '/' %}
     {% assign crumb_path = '' %}
+    {% assign position = 2 %}
     {% for crumb in crumbs offset: 1 %}
-      {% if forloop.last %}
-        <li aria-current="page">{{ page.title | default: crumb | replace: '-', ' ' | capitalize }}</li>
-      {% else %}
+      {% if crumb != '' %}
         {% assign crumb_path = crumb_path | append: '/' | append: crumb %}
-        <li><a href="{{ site.baseurl }}{{ crumb_path }}">{{ crumb | replace: '-', ' ' | capitalize }}</a></li>
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+          {% if forloop.last %}
+            <span itemprop="name" aria-current="page">{{ page.title | default: crumb | replace: '-', ' ' | replace: '_', ' ' | capitalize }}</span>
+          {% else %}
+            <a href="{{ site.baseurl }}{{ crumb_path }}" itemprop="item">
+              <span itemprop="name">{{ crumb | replace: '-', ' ' | replace: '_', ' ' | capitalize }}</span>
+            </a>
+          {% endif %}
+          <meta itemprop="position" content="{{ position }}" />
+        </li>
+        {% assign position = position | plus: 1 %}
       {% endif %}
     {% endfor %}
   </ol>
