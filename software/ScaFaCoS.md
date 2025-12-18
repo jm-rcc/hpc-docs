@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # ScaFaCoS  
+category: math  
 ## Homepage  
 [http://www.scafacos.de/](http://www.scafacos.de/)  
-`category: math`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
   
 ScaFaCoS is a library of scalable fast coulomb solvers.  
   
+----  
   

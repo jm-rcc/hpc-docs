@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Beagle  
+category: bio  
 ## Homepage  
 [https://faculty.washington.edu/browning/beagle/beagle.html](https://faculty.washington.edu/browning/beagle/beagle.html)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 Beagle is a software package for phasing genotypes and for imputing
  ungenotyped markers.  
   
+----  
   

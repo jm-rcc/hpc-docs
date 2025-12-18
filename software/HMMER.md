@@ -1,14 +1,14 @@
 [< Software](../software_shortlist.md)  
 # HMMER  
+category: bio  
 ## Homepage  
 [http://hmmer.org/](http://hmmer.org/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | hmmer/3.3.2-gompi-2022a | 3.3.2 | gompi-2022a |  |  
  | hmmer/3.3.2-gompi-2021a | 3.3.2 | gompi-2021a |  |  
+ | hmmer/3.3.2-gompi-2022a | 3.3.2 | gompi-2022a |  |  
   
 HMMER is used for searching sequence databases for homologs
  of protein sequences, and for making protein sequence alignments. It
@@ -20,4 +20,5 @@ HMMER is used for searching sequence databases for homologs
  past, this strength came at significant computational expense, but in the new
  HMMER3 project, HMMER is now essentially as fast as BLAST.  
   
+----  
   

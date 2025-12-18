@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # rjags  
+category: math  
 ## Homepage  
 [https://cran.r-project.org/web/packages/rjags](https://cran.r-project.org/web/packages/rjags)  
-`category: math`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 The rjags package is an interface to the JAGS library.  
   
+----  
   

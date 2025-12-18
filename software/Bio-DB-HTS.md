@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Bio-DB-HTS  
+category: bio  
 ## Homepage  
 [https://metacpan.org/release/Bio-DB-HTS](https://metacpan.org/release/Bio-DB-HTS)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Read files using HTSlib including BAM/CRAM, Tabix and BCF database files  
   
+----  
   

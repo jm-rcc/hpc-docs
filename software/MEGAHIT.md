@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # MEGAHIT  
+category: bio  
 ## Homepage  
 [https://github.com/voutcn/megahit](https://github.com/voutcn/megahit)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 An ultra-fast single-node solution for large and complex
 metagenomics assembly via succinct de Bruijn graph  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # SRA-Toolkit  
+category: bio  
 ## Homepage  
 [https://github.com/ncbi/sra-tools](https://github.com/ncbi/sra-tools)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ The SRA Toolkit, and the source-code SRA System Development
  Kit (SDK), will allow you to programmatically access data housed within SRA
  and convert it from the SRA format  
   
+----  
   

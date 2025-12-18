@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # BioPerl  
+category: bio  
 ## Homepage  
 [https://bioperl.org/](https://bioperl.org/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 Bioperl is the product of a community effort to produce Perl code which is useful in biology.
  Examples include Sequence objects, Alignment objects and database searching objects.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # VEP  
+category: bio  
 ## Homepage  
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -15,4 +15,5 @@ Variant Effect Predictor (VEP) determines the effect of your
  Includes EnsEMBL-XS, which provides pre-compiled replacements for frequently
  used routines in VEP.  
   
+----  
   

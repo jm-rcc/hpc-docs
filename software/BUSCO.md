@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # BUSCO  
+category: bio  
 ## Homepage  
 [https://busco.ezlab.org/](https://busco.ezlab.org/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
   
 BUSCO: assessing genome assembly and annotation completeness with single-copy orthologs  
   
+----  
   

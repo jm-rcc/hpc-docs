@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # QUAST  
+category: bio  
 ## Homepage  
 [https://github.com/ablab/quast](https://github.com/ablab/quast)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -14,4 +14,5 @@ QUAST evaluates genome assemblies by computing various metrics.
 It works both with and without reference genomes. The tool accepts multiple
 assemblies, thus is suitable for comparison.  
   
+----  
   

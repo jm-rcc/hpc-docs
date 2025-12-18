@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # prokka  
+category: bio  
 ## Homepage  
 [https://www.vicbioinformatics.com/software.prokka.shtml](https://www.vicbioinformatics.com/software.prokka.shtml)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
   
 Prokka is a software tool for the rapid annotation of prokaryotic genomes.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # CP2K  
+category: chem  
 ## Homepage  
 [https://www.cp2k.org/](https://www.cp2k.org/)  
-`category: chem`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -15,4 +15,5 @@ CP2K is a freely available (GPL) program, written in Fortran 95, to perform atom
  methods such as e.g. density functional theory (DFT) using a mixed Gaussian and plane waves approach (GPW), and
  classical pair and many-body potentials.  
   
+----  
   

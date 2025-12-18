@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # DIRAC  
+category: chem  
 ## Homepage  
 [http://www.diracprogram.org](http://www.diracprogram.org)  
-`category: chem`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations  
   
+----  
   

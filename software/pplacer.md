@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # pplacer  
+category: bio  
 ## Homepage  
 [http://matsen.fhcrc.org/pplacer/](http://matsen.fhcrc.org/pplacer/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ Pplacer places query sequences on a fixed reference phylogenetic tree to maximiz
  likelihood or posterior probability according to a reference alignment. Pplacer is designed to be fast, to give
  useful information about uncertainty, and to offer advanced visualization and downstream analysis.  
   
+----  
   

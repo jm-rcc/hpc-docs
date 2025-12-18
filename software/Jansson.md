@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Jansson  
+category: data  
 ## Homepage  
 [https://www.digip.org/jansson/](https://www.digip.org/jansson/)  
-`category: data`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -18,4 +18,5 @@ Jansson is a C library for encoding, decoding and manipulating JSON data.
  * Full Unicode support (UTF-8)
  * Extensive test suite  
   
+----  
   

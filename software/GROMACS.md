@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # GROMACS  
+category: bio  
 ## Homepage  
 [https://www.gromacs.org](https://www.gromacs.org)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -19,6 +19,7 @@ for both single and double precision.
 It also contains the gmxapi extension for the single precision MPI build
 next to PLUMED.  
   
+----  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
@@ -33,6 +34,7 @@ for both single and double precision.
   
 It also contains the gmxapi extension for the single precision MPI build.  
   
+----  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
@@ -47,4 +49,5 @@ for both single and double precision.
   
 It also contains the gmxapi extension for the single precision MPI build.  
   
+----  
   

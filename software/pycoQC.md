@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # pycoQC  
+category: bio  
 ## Homepage  
 [https://tleonardi.github.io/pycoQC](https://tleonardi.github.io/pycoQC)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 PycoQC computes metrics and generates interactive QC plots for
  Oxford Nanopore technologies sequencing data.  
   
+----  
   

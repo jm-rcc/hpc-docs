@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # SeqLib  
+category: bio  
 ## Homepage  
 [https://github.com/walaj/SeqLib](https://github.com/walaj/SeqLib)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 C++ interface to HTSlib, BWA-MEM and Fermi.  
   
+----  
   

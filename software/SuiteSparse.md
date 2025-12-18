@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # SuiteSparse  
+category: numlib  
 ## Homepage  
 [https://faculty.cse.tamu.edu/davis/suitesparse.html](https://faculty.cse.tamu.edu/davis/suitesparse.html)  
-`category: numlib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
   
 SuiteSparse is a collection of libraries manipulate sparse matrices.  
   
+----  
   

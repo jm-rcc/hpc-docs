@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # HISAT2  
+category: bio  
 ## Homepage  
 [https://daehwankimlab.github.io/hisat2](https://daehwankimlab.github.io/hisat2)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads
  (both DNA and RNA) against the general human population (as well as against a single reference genome).  
   
+----  
   

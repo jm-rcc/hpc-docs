@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # elfutils  
+category: lib  
 ## Homepage  
 [https://elfutils.org/](https://elfutils.org/)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 The elfutils project provides libraries and tools for ELF files
  and DWARF data.  
   
+----  
   

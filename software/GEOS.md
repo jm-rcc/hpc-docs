@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # GEOS  
+category: math  
 ## Homepage  
 [https://trac.osgeo.org/geos](https://trac.osgeo.org/geos)  
-`category: math`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
   
 GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS)  
   
+----  
   

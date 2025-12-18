@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Voro++  
+category: math  
 ## Homepage  
 [http://math.lbl.gov/voro++/](http://math.lbl.gov/voro++/)  
-`category: math`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -16,4 +16,5 @@ computing the Voronoi cell for each particle individually. It is particularly we
 rely on cell-based statistics, where features of Voronoi cells (eg. volume, centroid, number of faces) can be used
 to analyze a system of particles.  
   
+----  
   

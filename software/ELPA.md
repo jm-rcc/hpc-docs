@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # ELPA  
+category: math  
 ## Homepage  
 [https://elpa.mpcdf.mpg.de](https://elpa.mpcdf.mpg.de)  
-`category: math`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,6 +11,7 @@
   
 Eigenvalue SoLvers for Petaflop-Applications .  
   
+----  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
@@ -18,4 +19,5 @@ Eigenvalue SoLvers for Petaflop-Applications .
   
 Eigenvalue SoLvers for Petaflop-Applications.  
   
+----  
   

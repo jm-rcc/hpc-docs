@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # CFITSIO  
+category: lib  
 ## Homepage  
 [http://heasarc.gsfc.nasa.gov/fitsio/](http://heasarc.gsfc.nasa.gov/fitsio/)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 CFITSIO is a library of C and Fortran subroutines for reading and writing data files in
 FITS (Flexible Image Transport System) data format.  
   
+----  
   

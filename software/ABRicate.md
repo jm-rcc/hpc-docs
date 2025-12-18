@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # ABRicate  
+category: bio  
 ## Homepage  
 [https://github.com/tseemann/abricate](https://github.com/tseemann/abricate)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Mass screening of contigs for antimicrobial and virulence genes  
   
+----  
   

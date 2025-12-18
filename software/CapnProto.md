@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # CapnProto  
+category: bio  
 ## Homepage  
 [https://capnproto.org](https://capnproto.org)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.  
   
+----  
   

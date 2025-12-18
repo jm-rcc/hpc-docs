@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # FastANI  
+category: bio  
 ## Homepage  
 [https://github.com/ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -15,4 +15,5 @@ FastANI is developed for fast alignment-free computation of
  genomes. FastANI supports pairwise comparison of both complete and draft
  genome assemblies.  
   
+----  
   

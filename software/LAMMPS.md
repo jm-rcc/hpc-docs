@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # LAMMPS  
+category: chem  
 ## Homepage  
 [https://www.lammps.org](https://www.lammps.org)  
-`category: chem`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -21,4 +21,5 @@ parallel using message-passing techniques and a spatial-decomposition of the
 simulation domain. The code is designed to be easy to modify or extend with new
 functionality.  
   
+----  
   

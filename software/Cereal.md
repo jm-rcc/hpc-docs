@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Cereal  
+category: lib  
 ## Homepage  
 [https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -14,4 +14,5 @@ turns them into different representations, such as compact binary encodings, XML
 fast, light-weight, and easy to extend - it has no external dependencies and can be easily bundled with other code or
 used standalone.  
   
+----  
   

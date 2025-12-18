@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # hifiasm  
+category: bio  
 ## Homepage  
 [https://github.com/chhylp123/hifiasm](https://github.com/chhylp123/hifiasm)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.  
   
+----  
   

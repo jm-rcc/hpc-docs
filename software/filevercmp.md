@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # filevercmp  
+category: lib  
 ## Homepage  
 [https://github.com/ekg/filevercmp](https://github.com/ekg/filevercmp)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 filevercmp function as in sort --version-sort.  
   
+----  
   

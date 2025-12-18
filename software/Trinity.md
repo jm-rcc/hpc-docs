@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Trinity  
+category: bio  
 ## Homepage  
 [https://trinityrnaseq.github.io](https://trinityrnaseq.github.io)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ Trinity represents a novel method for the efficient and robust de novo reconstru
  of transcriptomes from RNA-Seq data. Trinity combines three independent software modules: Inchworm,
  Chrysalis, and Butterfly, applied sequentially to process large volumes of RNA-Seq reads.  
   
+----  
   

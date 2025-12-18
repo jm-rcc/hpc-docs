@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Compress-Raw-Zlib  
+category: lib  
 ## Homepage  
 [https://metacpan.org/pod/Compress::Raw::Zlib](https://metacpan.org/pod/Compress::Raw::Zlib)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Low-Level Interface to zlib or zlib-ng compression library  
   
+----  
   

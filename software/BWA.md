@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # BWA  
+category: bio  
 ## Homepage  
 [http://bio-bwa.sourceforge.net/](http://bio-bwa.sourceforge.net/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,6 +12,7 @@
 Burrows-Wheeler Aligner (BWA) is an efficient program that aligns
  relatively short nucleotide sequences against a long reference sequence such as the human genome.  
   
+----  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
@@ -21,4 +22,5 @@ Burrows-Wheeler Aligner (BWA) is an efficient program that aligns relatively
  short nucleotide sequences against a long reference sequence such as the human
  genome.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # AUGUSTUS  
+category: bio  
 ## Homepage  
 [https://bioinf.uni-greifswald.de/augustus/](https://bioinf.uni-greifswald.de/augustus/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
   
 AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences  
   
+----  
   

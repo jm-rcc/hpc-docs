@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Bowtie2  
+category: bio  
 ## Homepage  
 [https://bowtie-bio.sourceforge.net/bowtie2/index.shtml](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -16,4 +16,5 @@ Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads
  Bowtie 2 indexes the genome with an FM Index to keep its memory footprint small: for the human genome,
  its memory footprint is typically around 3.2 GB. Bowtie 2 supports gapped, local, and paired-end alignment modes.  
   
+----  
   

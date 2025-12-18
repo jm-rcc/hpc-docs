@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # InterProScan  
+category: bio  
 ## Homepage  
 [https://www.ebi.ac.uk/interpro/](https://www.ebi.ac.uk/interpro/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ InterProScan is a sequence analysis application (nucleotide and protein sequence
  different protein signature recognition methods into one resource [code only: libraries and external binaries
  but no data].  
   
+----  
   

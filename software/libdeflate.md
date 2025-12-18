@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # libdeflate  
+category: system  
 ## Homepage  
 [https://github.com/ebiggers/libdeflate](https://github.com/ebiggers/libdeflate)  
-`category: system`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
   
 Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.  
   
+----  
   

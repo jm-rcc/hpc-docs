@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Bio-SearchIO-hmmer  
+category: bio  
 ## Homepage  
 [https://metacpan.org/pod/Bio::SearchIO::hmmer3](https://metacpan.org/pod/Bio::SearchIO::hmmer3)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 Code to parse output from hmmsearch, hmmscan, phmmer and nhmmer, compatible
 with both version 2 and version 3 of the HMMER package from http://hmmer.org.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # DBD-mysql  
+category: data  
 ## Homepage  
 [https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm](https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm)  
-`category: data`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Perl binding for MySQL  
   
+----  
   

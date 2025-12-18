@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # MariaDB  
+category: data  
 ## Homepage  
 [https://mariadb.org/](https://mariadb.org/)  
-`category: data`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 MariaDB is an enhanced, drop-in replacement for MySQL.
 Included engines: myISAM, Aria, InnoDB, RocksDB, TokuDB, OQGraph, Mroonga.  
   
+----  
   

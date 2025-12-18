@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # double-conversion  
+category: lib  
 ## Homepage  
 [https://github.com/google/double-conversion](https://github.com/google/double-conversion)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
   
 Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.  
   
+----  
   

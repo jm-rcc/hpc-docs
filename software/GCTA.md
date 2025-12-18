@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # GCTA  
+category: bio  
 ## Homepage  
 [https://yanglab.westlake.edu.cn/software/gcta/](https://yanglab.westlake.edu.cn/software/gcta/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -14,4 +14,5 @@ GCTA (Genome-wide Complex Trait Analysis) is a software package, which was
  by all genome-wide SNPs for a complex trait but has been extensively extended
  for many other analyses of data from genome-wide association studies (GWASs).  
   
+----  
   

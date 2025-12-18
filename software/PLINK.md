@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # PLINK  
+category: bio  
 ## Homepage  
 [https://www.cog-genomics.org/plink/2.0/](https://www.cog-genomics.org/plink/2.0/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Whole-genome association analysis toolset  
   
+----  
   

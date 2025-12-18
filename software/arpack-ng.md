@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # arpack-ng  
+category: numlib  
 ## Homepage  
 [https://github.com/opencollab/arpack-ng](https://github.com/opencollab/arpack-ng)  
-`category: numlib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 ARPACK is a collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.  
   
+----  
   

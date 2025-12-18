@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # CheckM  
+category: bio  
 ## Homepage  
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,
  single cells, or metagenomes.  
   
+----  
   

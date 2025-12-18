@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # alsa-lib  
+category: lib  
 ## Homepage  
 [https://www.alsa-project.org](https://www.alsa-project.org)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionality
  to the Linux operating system.  
   
+----  
   

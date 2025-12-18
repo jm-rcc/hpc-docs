@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # HTSeq  
+category: bio  
 ## Homepage  
 [https://github.com/simon-anders/htseq](https://github.com/simon-anders/htseq)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 HTSeq is a Python library to facilitate processing and analysis
  of data from high-throughput sequencing (HTS) experiments.  
   
+----  
   

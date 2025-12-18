@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # FastTree  
+category: bio  
 ## Homepage  
 [http://www.microbesonline.org/fasttree/](http://www.microbesonline.org/fasttree/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ FastTree infers approximately-maximum-likelihood phylogenetic trees from alignme
  or protein sequences. FastTree can handle alignments with up to a million of sequences in a reasonable amount of
  time and memory.  
   
+----  
   

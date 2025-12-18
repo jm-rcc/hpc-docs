@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # PLUMED  
+category: chem  
 ## Homepage  
 [https://www.plumed.org](https://www.plumed.org)  
-`category: chem`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -17,4 +17,5 @@ PLUMED is an open source library for free energy calculations in molecular syste
  state of the art methods such as metadynamics, umbrella sampling and Jarzynski-equation based steered MD.
  The software, written in C++, can be easily interfaced with both fortran and C/C++ codes.  
   
+----  
   

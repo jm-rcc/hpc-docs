@@ -1,14 +1,14 @@
 [< Software](../software_shortlist.md)  
 # kim-api  
+category: chem  
 ## Homepage  
 [https://openkim.org/](https://openkim.org/)  
-`category: chem`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | kim-api/2.2.1-gcc-10.3.0 | 2.2.1 | GCC-10.3.0 |  |  
  | kim-api/2.3.0-gcc-12.3.0 | 2.3.0 | GCC-12.3.0 |  |  
+ | kim-api/2.2.1-gcc-10.3.0 | 2.2.1 | GCC-10.3.0 |  |  
   
 Open Knowledgebase of Interatomic Models.  
   
@@ -23,4 +23,5 @@ or
     kim-api-collections-management install user OpenKIM
 to install them all.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # QIIME2  
+category: bio  
 ## Homepage  
 [http://qiime2.org/](http://qiime2.org/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 QIIME is an open-source bioinformatics pipeline for performing microbiome analysis
  from raw DNA sequencing data.  
   
+----  
   

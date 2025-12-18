@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Brunsli  
+category: lib  
 ## Homepage  
 [https://github.com/google/brunsli/](https://github.com/google/brunsli/)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Brunsli is a lossless JPEG repacking library.  
   
+----  
   

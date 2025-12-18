@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # c-ares  
+category: lib  
 ## Homepage  
 [https://c-ares.org/](https://c-ares.org/)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 c-ares is a C library for asynchronous DNS requests (including name resolves)  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # VCFtools  
+category: bio  
 ## Homepage  
 [https://vcftools.github.io](https://vcftools.github.io)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -14,4 +14,5 @@ The aim of VCFtools is to provide
  easily accessible methods for working with complex
  genetic variation data in the form of VCF files.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # NGS  
+category: bio  
 ## Homepage  
 [https://github.com/ncbi/ngs](https://github.com/ncbi/ngs)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 NGS is a new, domain-specific API for accessing reads, alignments and pileups
 produced from Next Generation Sequencing.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Trimmomatic  
+category: bio  
 ## Homepage  
 [http://www.usadellab.org/cms/?page=trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ Trimmomatic performs a variety of useful trimming tasks for illumina
  paired-end and single ended data.The selection of trimming steps and their associated
  parameters are supplied on the command line.  
   
+----  
   

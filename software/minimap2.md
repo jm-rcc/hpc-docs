@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # minimap2  
+category: bio  
 ## Homepage  
 [https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -19,4 +19,5 @@ test data sets, minimap2 is over 20 times faster than most other
 long-read aligners. It will replace BWA-MEM for long reads and contig
 alignment.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # AOCL-BLAS  
+category: numlib  
 ## Homepage  
 [https://github.com/amd/blis](https://github.com/amd/blis)  
-`category: numlib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 AOCL-BLAS is AMD's optimized version of
                  BLAS targeted for AMD EPYC and Ryzen CPUs.  
   
+----  
   

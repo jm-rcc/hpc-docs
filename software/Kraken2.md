@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Kraken2  
+category: bio  
 ## Homepage  
 [https://github.com/DerrickWood/kraken2/wiki](https://github.com/DerrickWood/kraken2/wiki)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -18,4 +18,5 @@ Kraken is a system for assigning taxonomic labels to short DNA sequences,
  programs. Kraken aims to achieve high sensitivity and high speed by
  utilizing exact alignments of k-mers and a novel classification algorithm.  
   
+----  
   

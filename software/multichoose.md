@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # multichoose  
+category: bio  
 ## Homepage  
 [https://github.com/ekg/multichoose](https://github.com/ekg/multichoose)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 generate multiset combinations (n multichoose k).  
   
+----  
   

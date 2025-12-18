@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # SEPP  
+category: bio  
 ## Homepage  
 [https://github.com/smirarab/sepp](https://github.com/smirarab/sepp)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 SATe-enabled Phylogenetic Placement - addresses the problem of phylogenetic
 placement of short reads into reference alignments and trees.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # fermi-lite  
+category: bio  
 ## Homepage  
 [https://github.com/lh3/fermi-lite](https://github.com/lh3/fermi-lite)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Standalone C library for assembling Illumina short reads in small regions.  
   
+----  
   

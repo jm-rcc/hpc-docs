@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # GTDB-Tk  
+category: bio  
 ## Homepage  
 [https://github.com/Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.  
   
+----  
   

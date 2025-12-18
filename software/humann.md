@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # humann  
+category: bio  
 ## Homepage  
 [http://huttenhower.sph.harvard.edu/humann](http://huttenhower.sph.harvard.edu/humann)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -19,4 +19,5 @@ Sequencing a metagenome typically produces millions
  functional profiling answers the question:
  What are the microbes in my community-of-interest doing (or capable of doing)?  
   
+----  
   

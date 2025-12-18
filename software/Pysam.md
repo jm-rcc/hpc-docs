@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Pysam  
+category: bio  
 ## Homepage  
 [https://github.com/pysam-developers/pysam](https://github.com/pysam-developers/pysam)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 Pysam is a python module for reading and manipulating Samfiles.
  It's a lightweight wrapper of the samtools C-API. Pysam also includes an interface for tabix.  
   
+----  
   

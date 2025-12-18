@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # fastahack  
+category: bio  
 ## Homepage  
 [https://github.com/ekg/fastahack](https://github.com/ekg/fastahack)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Utilities for indexing and sequence extraction from FASTA files.  
   
+----  
   

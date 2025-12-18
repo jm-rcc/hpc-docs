@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # KronaTools  
+category: bio  
 ## Homepage  
 [https://github.com/marbl/Krona/wiki/KronaTools](https://github.com/marbl/Krona/wiki/KronaTools)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 Krona Tools is a set of scripts to create Krona charts from
 several Bioinformatics tools as well as from text and XML files.  
   
+----  
   

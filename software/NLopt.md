@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # NLopt  
+category: numlib  
 ## Homepage  
 [http://ab-initio.mit.edu/wiki/index.php/NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)  
-`category: numlib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -14,4 +14,5 @@ NLopt is a free/open-source library for nonlinear optimization,
  providing a common interface for a number of different free optimization routines
  available online as well as original implementations of various other algorithms.  
   
+----  
   

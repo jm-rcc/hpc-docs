@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # picard  
+category: bio  
 ## Homepage  
 [https://broadinstitute.github.io/picard/](https://broadinstitute.github.io/picard/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 A set of tools (in Java) for working with next generation sequencing data in the BAM format.  
   
+----  
   

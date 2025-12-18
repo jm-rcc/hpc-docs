@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # BEDTools  
+category: bio  
 ## Homepage  
 [https://bedtools.readthedocs.io/](https://bedtools.readthedocs.io/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -15,4 +15,5 @@ The BEDTools utilities allow one to address common genomics tasks such as findin
 computing coverage.
 The utilities are largely based on four widely-used file formats: BED, GFF/GTF, VCF, and SAM/BAM.  
   
+----  
   

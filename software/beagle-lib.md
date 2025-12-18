@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # beagle-lib  
+category: numlib  
 ## Homepage  
 [https://github.com/beagle-dev/beagle-lib](https://github.com/beagle-dev/beagle-lib)  
-`category: numlib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 beagle-lib is a high-performance library that can perform the core calculations at the heart of most
  Bayesian and Maximum Likelihood phylogenetics packages.  
   
+----  
   

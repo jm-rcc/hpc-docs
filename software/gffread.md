@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # gffread  
+category: bio  
 ## Homepage  
 [https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread](https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 GFF/GTF parsing utility providing format conversions,
 region filtering, FASTA sequence extraction and more.  
   
+----  
   

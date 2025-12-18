@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Flye  
+category: bio  
 ## Homepage  
 [https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 Flye is a de novo assembler for long and noisy reads, such as those produced by PacBio
  and Oxford Nanopore Technologies.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # GMAP-GSNAP  
+category: bio  
 ## Homepage  
 [http://research-pub.gene.com/gmap/](http://research-pub.gene.com/gmap/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 GMAP: A Genomic Mapping and Alignment Program for mRNA and EST Sequences
  GSNAP: Genomic Short-read Nucleotide Alignment Program  
   
+----  
   

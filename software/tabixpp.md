@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # tabixpp  
+category: bio  
 ## Homepage  
 [https://github.com/ekg/tabixpp](https://github.com/ekg/tabixpp)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 C++ wrapper to tabix indexer  
   
+----  
   

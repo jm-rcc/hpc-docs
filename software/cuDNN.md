@@ -1,16 +1,17 @@
 [< Software](../software_shortlist.md)  
 # cuDNN  
+category: numlib  
 ## Homepage  
 [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)  
-`category: numlib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
 | :--- | :--- | :--- | :--- |  
- | cudnn/8.9.2.26-cuda-12.2.0 | 8.9.2.26 |  |  |  
  | cudnn/8.4.1.50-cuda-11.7.0 | 8.4.1.50 |  |  |  
+ | cudnn/8.9.2.26-cuda-12.2.0 | 8.9.2.26 |  |  |  
   
 The NVIDIA CUDA Deep Neural Network library (cuDNN) is
 a GPU-accelerated library of primitives for deep neural networks.  
   
+----  
   

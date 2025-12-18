@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # OpenPGM  
+category: system  
 ## Homepage  
 [https://code.google.com/p/openpgm/](https://code.google.com/p/openpgm/)  
-`category: system`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -18,4 +18,5 @@ OpenPGM is an open source implementation of the Pragmatic General Multicast
  for ensuring all data is received, absolving the sender of reception
  responsibility.  
   
+----  
   

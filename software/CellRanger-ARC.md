@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # CellRanger-ARC  
+category: bio  
 ## Homepage  
 [https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -16,4 +16,5 @@ Cell Ranger ARC is a set of analysis pipelines that process
  the very same cell, we are able to perform analyses that link chromatin
  accessibility and gene expression.  
   
+----  
   

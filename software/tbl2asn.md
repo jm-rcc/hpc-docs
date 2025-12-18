@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # tbl2asn  
+category: bio  
 ## Homepage  
 [https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/](https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 Tbl2asn is a command-line program that automates the creation of
  sequence records for submission to GenBank  
   
+----  
   

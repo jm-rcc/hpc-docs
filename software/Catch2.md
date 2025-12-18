@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Catch2  
+category: lib  
 ## Homepage  
 [https://github.com/catchorg/Catch2](https://github.com/catchorg/Catch2)  
-`category: lib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ A modern, C++-native, header-only,
  test framework for unit-tests, TDD and BDD
  - using C++11, C++14, C++17 and later  
   
+----  
   

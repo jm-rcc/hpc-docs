@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # CheckM-Database  
+category: data  
 ## Homepage  
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
-`category: data`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -14,4 +14,5 @@ single cells, or metagenomes.
   
 This is the corresponding database.  
   
+----  
   

@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # UDUNITS  
+category: phys  
 ## Homepage  
 [https://www.unidata.ucar.edu/software/udunits/](https://www.unidata.ucar.edu/software/udunits/)  
-`category: phys`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@
 UDUNITS supports conversion of unit specifications between formatted and binary forms,
  arithmetic manipulation of units, and conversion of values between compatible scales of measurement.  
   
+----  
   

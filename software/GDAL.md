@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # GDAL  
+category: data  
 ## Homepage  
 [https://www.gdal.org](https://www.gdal.org)  
-`category: data`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -16,4 +16,5 @@ GDAL is a translator library for raster geospatial data formats that is released
  to the calling application for all supported formats. It also comes with a variety of useful commandline utilities for
  data translation and processing.  
   
+----  
   

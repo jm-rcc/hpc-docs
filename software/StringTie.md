@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # StringTie  
+category: bio  
 ## Homepage  
 [https://ccb.jhu.edu/software/stringtie/](https://ccb.jhu.edu/software/stringtie/)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 StringTie is a fast and highly efficient assembler of RNA-Seq alignments into potential transcripts  
   
+----  
   

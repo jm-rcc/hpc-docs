@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # GffCompare  
+category: bio  
 ## Homepage  
 [https://ccb.jhu.edu/software/stringtie/gffcompare.shtml](https://ccb.jhu.edu/software/stringtie/gffcompare.shtml)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 GffCompare provides classification and reference annotation mapping and
  matching statistics for RNA-Seq assemblies (transfrags) or other generic GFF/GTF files.  
   
+----  
   

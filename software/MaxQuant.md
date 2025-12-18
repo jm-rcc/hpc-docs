@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # MaxQuant  
+category: bio  
 ## Homepage  
 [https://maxquant.org/maxquant](https://maxquant.org/maxquant)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -14,4 +14,5 @@ MaxQuant is a quantitative proteomics software package designed for analyzing la
  mass-spectrometric data sets. It is specifically aimed at high-resolution MS data. Several labeling
  techniques as well as label-free quantification are supported.  
   
+----  
   

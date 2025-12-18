@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # vcflib  
+category: bio  
 ## Homepage  
 [https://github.com/vcflib/vcflib](https://github.com/vcflib/vcflib)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ vcflib provides methods to manipulate and interpret sequence variation as it can
  described by VCF. The Variant Call Format (VCF) is a flat-file, tab-delimited textual format intended
  to concisely describe reference-indexed genetic variations between individuals.  
   
+----  
   

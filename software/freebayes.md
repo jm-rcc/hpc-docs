@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # freebayes  
+category: bio  
 ## Homepage  
 [https://github.com/freebayes/freebayes](https://github.com/freebayes/freebayes)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Bayesian haplotype-based genetic polymorphism discovery and genotyping.  
   
+----  
   

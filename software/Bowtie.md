@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Bowtie  
+category: bio  
 ## Homepage  
 [http://bowtie-bio.sourceforge.net/index.shtml](http://bowtie-bio.sourceforge.net/index.shtml)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 Bowtie is an ultrafast, memory-efficient short read aligner.
  It aligns short DNA sequences (reads) to the human genome.  
   
+----  
   

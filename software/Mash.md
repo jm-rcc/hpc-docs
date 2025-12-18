@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # Mash  
+category: bio  
 ## Homepage  
 [http://mash.readthedocs.org](http://mash.readthedocs.org)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Fast genome and metagenome distance estimation using MinHash  
   
+----  
   

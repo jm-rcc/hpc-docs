@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # LAPACK  
+category: numlib  
 ## Homepage  
 [https://www.netlib.org/lapack/](https://www.netlib.org/lapack/)  
-`category: numlib`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -13,4 +13,5 @@ LAPACK is written in Fortran90 and provides routines for solving systems of
  simultaneous linear equations, least-squares solutions of linear systems of equations, eigenvalue
  problems, and singular value problems.  
   
+----  
   

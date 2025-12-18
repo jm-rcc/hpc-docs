@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # fastp  
+category: bio  
 ## Homepage  
 [https://github.com/OpenGene/fastp](https://github.com/OpenGene/fastp)  
-`category: bio`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -12,4 +12,5 @@
 A tool designed to provide fast all-in-one preprocessing for FastQ files.
  This tool is developed in C++ with multithreading supported to afford high performance.  
   
+----  
   

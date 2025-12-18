@@ -1,8 +1,8 @@
 [< Software](../software_shortlist.md)  
 # BeautifulSoup  
+category: data  
 ## Homepage  
 [https://www.crummy.com/software/BeautifulSoup](https://www.crummy.com/software/BeautifulSoup)  
-`category: data`  
 ## Installed versions  
   
 | Module | Version | Toolchain | Options |  
@@ -11,4 +11,5 @@
   
 Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.  
   
+----  
   
