@@ -2,6 +2,8 @@
 # tmux  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | tmux/3.5a | (version) | (toolchain) |  
 >tmux is a terminal multiplexer: it enables a number of  
 >terminals to be created, accessed, and controlled from a single screen. tmux  

@@ -2,6 +2,8 @@
 # cppy  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | cppy/1.1.0-gcccore-10.3.0 | (version) | (toolchain) |  
  | cppy/1.2.1-gcccore-11.3.0 | (version) | (toolchain) |  
 >A small C++ header library which makes it easier to write  

@@ -2,6 +2,8 @@
 # EasyBuild  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | easybuild/5.1.0 | (version) | (toolchain) |  
  | easybuild/5.1.1 | (version) | (toolchain) |  
 >EasyBuild is a software build and installation framework  

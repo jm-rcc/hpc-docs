@@ -2,8 +2,10 @@
 # NLopt  
 ## Installed versions  
   
- | nlopt/2.7.0-gcccore-10.3.0 | (version) | (toolchain) |  
+|A|b|c|  
+|:---|:---:|:---:|  
  | nlopt/2.7.1-gcccore-11.3.0 | (version) | (toolchain) |  
+ | nlopt/2.7.0-gcccore-10.3.0 | (version) | (toolchain) |  
 >NLopt is a free/open-source library for nonlinear optimization,  
 > providing a common interface for a number of different free optimization routines  
 > available online as well as original implementations of various other algorithms.  

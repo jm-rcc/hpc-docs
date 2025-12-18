@@ -2,6 +2,8 @@
 # CellRanger  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | cellranger/7.1.0 | (version) | (toolchain) |  
 >Cell Ranger is a set of analysis pipelines that process Chromium  
 > single-cell RNA-seq output to align reads, generate gene-cell matrices and perform  

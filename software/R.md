@@ -2,6 +2,8 @@
 # R  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | r/4.1.0-foss-2021a | (version) | (toolchain) |  
  | r/4.2.1-foss-2022a | (version) | (toolchain) |  
  | r/4.2.1-foss-2021a | (version) | (toolchain) |  

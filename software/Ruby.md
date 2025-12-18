@@ -2,6 +2,8 @@
 # Ruby  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | ruby/3.0.1-gcccore-10.3.0 | (version) | (toolchain) |  
  | ruby/3.0.5-gcccore-11.3.0 | (version) | (toolchain) |  
 >Ruby is a dynamic, open source programming language with  

@@ -2,6 +2,8 @@
 # pigz  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | pigz/2.6-gcccore-10.3.0 | (version) | (toolchain) |  
  | pigz/2.7-gcccore-11.3.0 | (version) | (toolchain) |  
 >pigz, which stands for parallel implementation of gzip, is a fully  

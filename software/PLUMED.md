@@ -2,8 +2,10 @@
 # PLUMED  
 ## Installed versions  
   
- | plumed/2.8.1-foss-2022a | (version) | (toolchain) |  
+|A|b|c|  
+|:---|:---:|:---:|  
  | plumed/2.7.2-foss-2021a | (version) | (toolchain) |  
+ | plumed/2.8.1-foss-2022a | (version) | (toolchain) |  
  | plumed/2.9.0-foss-2023a | (version) | (toolchain) |  
 >PLUMED is an open source library for free energy calculations in molecular systems which  
 > works together with some of the most popular molecular dynamics engines. Free energy calculations can be  

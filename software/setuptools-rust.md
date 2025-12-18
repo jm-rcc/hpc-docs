@@ -2,6 +2,8 @@
 # setuptools-rust  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | setuptools-rust/1.6.0-gcccore-12.3.0 | (version) | (toolchain) |  
 >setuptools-rust is a plugin for setuptools to build Rust Python extensions  
 >implemented with PyO3 or rust-cpython.  

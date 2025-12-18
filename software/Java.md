@@ -2,6 +2,8 @@
 # Java  
 ## Installed versions  
   
+|A|b|c|  
+|:---|:---:|:---:|  
  | java/11.0.27 | (version) | (toolchain) |  
  | java/21.0.7 | (version) | (toolchain) |  
  | java/11.0.18 | (version) | (toolchain) |  
