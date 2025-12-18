@@ -1,7 +1,7 @@
 # CP2K  
 ## Installed versions  
- - cp2k/8.2-foss-2021a  
- - cp2k/9.1-foss-2022a  
+ - cp2k/8.2-foss-2021a  (version), (toolchain)  
+ - cp2k/9.1-foss-2022a  (version), (toolchain)  
   
 ## Description  
 CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular

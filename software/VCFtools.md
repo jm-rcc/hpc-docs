@@ -1,7 +1,7 @@
 # VCFtools  
 ## Installed versions  
- - vcftools/0.1.16-gcc-10.3.0  
- - vcftools/0.1.16-gcc-11.3.0  
+ - vcftools/0.1.16-gcc-10.3.0  (version), (toolchain)  
+ - vcftools/0.1.16-gcc-11.3.0  (version), (toolchain)  
   
 ## Description  
 The aim of VCFtools is to provide

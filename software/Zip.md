@@ -1,6 +1,6 @@
 # Zip  
 ## Installed versions  
- - zip/3.0-gcccore-11.3.0  
+ - zip/3.0-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 Zip is a compression and file packaging/archive utility.

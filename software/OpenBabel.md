@@ -1,7 +1,7 @@
 # OpenBabel  
 ## Installed versions  
- - openbabel/3.1.1-gompi-2021a  
- - openbabel/3.1.1-gompi-2022a  
+ - openbabel/3.1.1-gompi-2021a  (version), (toolchain)  
+ - openbabel/3.1.1-gompi-2022a  (version), (toolchain)  
   
 ## Description  
 Open Babel is a chemical toolbox designed to speak the many

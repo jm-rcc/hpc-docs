@@ -1,6 +1,6 @@
 # Cython  
 ## Installed versions  
- - cython/3.0.8-gcccore-12.3.0  
+ - cython/3.0.8-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
 Cython is an optimising static compiler for both the Python programming

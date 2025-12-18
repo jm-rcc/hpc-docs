@@ -1,7 +1,7 @@
 # Biopython  
 ## Installed versions  
- - biopython/1.79-foss-2021a  
- - biopython/1.79-foss-2022a  
+ - biopython/1.79-foss-2021a  (version), (toolchain)  
+ - biopython/1.79-foss-2022a  (version), (toolchain)  
   
 ## Description  
 Biopython is a set of freely available tools for biological

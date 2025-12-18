@@ -1,6 +1,6 @@
 # MAFFT  
 ## Installed versions  
- - mafft/7.490-gcc-10.3.0-with-extensions  
+ - mafft/7.490-gcc-10.3.0-with-extensions  (version), (toolchain)  
   
 ## Description  
 MAFFT is a multiple sequence alignment program for unix-like operating systems.

@@ -1,6 +1,6 @@
 # GCTA  
 ## Installed versions  
- - gcta/1.94.0beta-gfbf-2022a  
+ - gcta/1.94.0beta-gfbf-2022a  (version), (toolchain)  
   
 ## Description  
 GCTA (Genome-wide Complex Trait Analysis) is a software package, which was

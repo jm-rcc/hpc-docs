@@ -1,7 +1,7 @@
 # FastQC  
 ## Installed versions  
- - fastqc/.0.11.9-java-11.bak_20251013200142_1777895  
- - fastqc/0.11.9-java-11  
+ - fastqc/.0.11.9-java-11.bak_20251013200142_1777895  (version), (toolchain)  
+ - fastqc/0.11.9-java-11  (version), (toolchain)  
   
 ## Description  
 FastQC is a quality control application for high throughput

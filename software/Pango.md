@@ -1,8 +1,8 @@
 # Pango  
 ## Installed versions  
- - pango/.1.48.5-gcccore-10.3.0  
- - pango/.1.50.14-gcccore-12.3.0  
- - pango/.1.50.7-gcccore-11.3.0  
+ - pango/.1.48.5-gcccore-10.3.0  (version), (toolchain)  
+ - pango/.1.50.14-gcccore-12.3.0  (version), (toolchain)  
+ - pango/.1.50.7-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 Pango is a library for laying out and rendering of text, with an emphasis on internationalization.

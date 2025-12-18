@@ -1,7 +1,7 @@
 # ATK  
 ## Installed versions  
- - atk/.2.38.0-gcccore-11.3.0  
- - atk/.2.38.0-gcccore-12.3.0  
+ - atk/.2.38.0-gcccore-11.3.0  (version), (toolchain)  
+ - atk/.2.38.0-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
 ATK provides the set of accessibility interfaces that are implemented by other

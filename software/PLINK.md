@@ -1,6 +1,6 @@
 # PLINK  
 ## Installed versions  
- - plink/2.00a3.6-gcc-11.3.0  
+ - plink/2.00a3.6-gcc-11.3.0  (version), (toolchain)  
   
 ## Description  
 Whole-genome association analysis toolset  

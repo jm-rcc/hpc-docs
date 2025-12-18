@@ -1,6 +1,6 @@
 # JupyterLab  
 ## Installed versions  
- - jupyterlab/3.5.0-gcccore-11.3.0  
+ - jupyterlab/3.5.0-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 JupyterLab is the next-generation user interface for Project Jupyter offering all the familiar

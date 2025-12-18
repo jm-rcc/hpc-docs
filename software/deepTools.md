@@ -1,7 +1,7 @@
 # deepTools  
 ## Installed versions  
- - deeptools/3.5.0-foss-2021a  
- - deeptools/3.5.2-foss-2022a  
+ - deeptools/3.5.0-foss-2021a  (version), (toolchain)  
+ - deeptools/3.5.2-foss-2022a  (version), (toolchain)  
   
 ## Description  
 deepTools is a suite of python tools particularly developed for the efficient analysis of

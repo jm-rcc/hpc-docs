@@ -1,8 +1,8 @@
 # Java  
 ## Installed versions  
- - java/11.0.18  
- - java/11.0.27  
- - java/21.0.7  
+ - java/11.0.18  (version), (toolchain)  
+ - java/11.0.27  (version), (toolchain)  
+ - java/21.0.7  (version), (toolchain)  
   
 ## Description  
 Java Platform, Standard Edition (Java SE) lets you develop and deploy

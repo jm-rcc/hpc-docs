@@ -1,10 +1,10 @@
 # FFTW  
 ## Installed versions  
- - fftw/3.3.10-gcc-11.3.0  
- - fftw/3.3.10-gcc-12.3.0  
- - fftw/3.3.10-gcc-13.3.0  
- - fftw/3.3.10-gcc-14.2.0  
- - fftw/3.3.9-gompi-2021a  
+ - fftw/3.3.10-gcc-11.3.0  (version), (toolchain)  
+ - fftw/3.3.10-gcc-12.3.0  (version), (toolchain)  
+ - fftw/3.3.10-gcc-13.3.0  (version), (toolchain)  
+ - fftw/3.3.10-gcc-14.2.0  (version), (toolchain)  
+ - fftw/3.3.9-gompi-2021a  (version), (toolchain)  
   
 ## Description  
 FFTW is a C subroutine library for computing the discrete Fourier transform (DFT)

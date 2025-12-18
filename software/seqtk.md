@@ -1,7 +1,7 @@
 # seqtk  
 ## Installed versions  
- - seqtk/1.3-gcc-10.3.0  
- - seqtk/1.3-gcc-11.3.0  
+ - seqtk/1.3-gcc-10.3.0  (version), (toolchain)  
+ - seqtk/1.3-gcc-11.3.0  (version), (toolchain)  
   
 ## Description  
 Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.

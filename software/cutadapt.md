@@ -1,7 +1,7 @@
 # cutadapt  
 ## Installed versions  
- - cutadapt/3.4-gcccore-10.3.0  
- - cutadapt/4.2-gcccore-11.3.0  
+ - cutadapt/3.4-gcccore-10.3.0  (version), (toolchain)  
+ - cutadapt/4.2-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 Cutadapt finds and removes adapter sequences, primers, poly-A tails and

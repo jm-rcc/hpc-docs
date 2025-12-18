@@ -1,6 +1,6 @@
 # intervaltree  
 ## Installed versions  
- - intervaltree/0.1-gcccore-10.3.0  
+ - intervaltree/0.1-gcccore-10.3.0  (version), (toolchain)  
   
 ## Description  
 An interval tree can be used to efficiently find a set of numeric intervals

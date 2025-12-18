@@ -1,7 +1,7 @@
 # DB  
 ## Installed versions  
- - db/18.1.40-gcccore-10.3.0  
- - db/18.1.40-gcccore-11.3.0  
+ - db/18.1.40-gcccore-10.3.0  (version), (toolchain)  
+ - db/18.1.40-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 Berkeley DB enables the development of custom data management

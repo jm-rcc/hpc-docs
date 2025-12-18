@@ -1,6 +1,6 @@
 # tmux  
 ## Installed versions  
- - tmux/3.5a  
+ - tmux/3.5a  (version), (toolchain)  
   
 ## Description  
 tmux is a terminal multiplexer: it enables a number of

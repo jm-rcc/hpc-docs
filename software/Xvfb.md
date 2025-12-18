@@ -1,7 +1,7 @@
 # Xvfb  
 ## Installed versions  
- - xvfb/1.20.11-gcccore-10.3.0  
- - xvfb/21.1.3-gcccore-11.3.0  
+ - xvfb/1.20.11-gcccore-10.3.0  (version), (toolchain)  
+ - xvfb/21.1.3-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 Xvfb is an X server that can run on machines with no display hardware and no physical input devices.

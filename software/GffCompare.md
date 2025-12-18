@@ -1,6 +1,6 @@
 # GffCompare  
 ## Installed versions  
- - gffcompare/0.12.2-gcc-10.3.0  
+ - gffcompare/0.12.2-gcc-10.3.0  (version), (toolchain)  
   
 ## Description  
 GffCompare provides classification and reference annotation mapping and

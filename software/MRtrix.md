@@ -1,6 +1,6 @@
 # MRtrix  
 ## Installed versions  
- - mrtrix/3.0.3-foss-2021a  
+ - mrtrix/3.0.3-foss-2021a  (version), (toolchain)  
   
 ## Description  
 MRtrix provides a set of tools to perform diffusion-weighted MR white-matter tractography in a manner

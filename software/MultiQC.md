@@ -1,7 +1,7 @@
 # MultiQC  
 ## Installed versions  
- - multiqc/1.11-foss-2021a  
- - multiqc/1.14-foss-2022a  
+ - multiqc/1.11-foss-2021a  (version), (toolchain)  
+ - multiqc/1.14-foss-2022a  (version), (toolchain)  
   
 ## Description  
 Aggregate results from bioinformatics analyses across many samples into a single report.

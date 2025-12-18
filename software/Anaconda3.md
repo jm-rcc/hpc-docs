@@ -1,7 +1,7 @@
 # Anaconda3  
 ## Installed versions  
- - anaconda3/2022.05  
- - anaconda3/2023.09-0  
+ - anaconda3/2022.05  (version), (toolchain)  
+ - anaconda3/2023.09-0  (version), (toolchain)  
   
 ## Description  
 Built to complement the rich, open source Python community,

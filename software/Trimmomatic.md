@@ -1,6 +1,6 @@
 # Trimmomatic  
 ## Installed versions  
- - trimmomatic/0.39-java-11  
+ - trimmomatic/0.39-java-11  (version), (toolchain)  
   
 ## Description  
 Trimmomatic performs a variety of useful trimming tasks for illumina

@@ -1,7 +1,7 @@
 # SEPP  
 ## Installed versions  
- - sepp/4.5.0-foss-2021a  
- - sepp/4.5.1-foss-2022a  
+ - sepp/4.5.0-foss-2021a  (version), (toolchain)  
+ - sepp/4.5.1-foss-2022a  (version), (toolchain)  
   
 ## Description  
 SATe-enabled Phylogenetic Placement - addresses the problem of phylogenetic

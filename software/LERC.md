@@ -1,6 +1,6 @@
 # LERC  
 ## Installed versions  
- - lerc/4.0.0-gcccore-12.3.0  
+ - lerc/4.0.0-gcccore-12.3.0  (version), (toolchain)  
   
 ## Description  
 LERC is an open-source image or raster format which supports rapid encoding and decoding

@@ -1,6 +1,6 @@
 # GTDB-Tk  
 ## Installed versions  
- - gtdb-tk/2.0.0-foss-2021a  
+ - gtdb-tk/2.0.0-foss-2021a  (version), (toolchain)  
   
 ## Description  
 A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.  

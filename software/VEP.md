@@ -1,6 +1,6 @@
 # VEP  
 ## Installed versions  
- - vep/107-gcc-11.3.0  
+ - vep/107-gcc-11.3.0  (version), (toolchain)  
   
 ## Description  
 Variant Effect Predictor (VEP) determines the effect of your

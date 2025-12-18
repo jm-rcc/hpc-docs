@@ -1,9 +1,9 @@
 # UCC  
 ## Installed versions  
- - ucc/1.3.0-gcccore-11.3.0  
- - ucc/1.3.0-gcccore-12.3.0  
- - ucc/1.3.0-gcccore-13.3.0  
- - ucc/1.3.0-gcccore-14.2.0  
+ - ucc/1.3.0-gcccore-11.3.0  (version), (toolchain)  
+ - ucc/1.3.0-gcccore-12.3.0  (version), (toolchain)  
+ - ucc/1.3.0-gcccore-13.3.0  (version), (toolchain)  
+ - ucc/1.3.0-gcccore-14.2.0  (version), (toolchain)  
   
 ## Description  
 UCC (Unified Collective Communication) is a collective

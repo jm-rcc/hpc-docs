@@ -1,7 +1,7 @@
 # METIS  
 ## Installed versions  
- - metis/5.1.0-gcccore-10.3.0  
- - metis/5.1.0-gcccore-11.3.0  
+ - metis/5.1.0-gcccore-10.3.0  (version), (toolchain)  
+ - metis/5.1.0-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 METIS is a set of serial programs for partitioning graphs, partitioning

@@ -1,6 +1,6 @@
 # p11-kit  
 ## Installed versions  
- - p11-kit/.0.24.1-gcccore-11.3.0  
+ - p11-kit/.0.24.1-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 Provides a way to load and enumerate PKCS#11 modules.

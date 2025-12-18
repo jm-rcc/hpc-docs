@@ -1,7 +1,7 @@
 # pyBigWig  
 ## Installed versions  
- - pybigwig/0.3.18-foss-2021a  
- - pybigwig/0.3.18-foss-2022a  
+ - pybigwig/0.3.18-foss-2021a  (version), (toolchain)  
+ - pybigwig/0.3.18-foss-2022a  (version), (toolchain)  
   
 ## Description  
 A python extension, written in C, for quick access to bigBed

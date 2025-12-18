@@ -1,7 +1,7 @@
 # prodigal  
 ## Installed versions  
- - prodigal/2.6.3-gcccore-10.3.0  
- - prodigal/2.6.3-gcccore-11.3.0  
+ - prodigal/2.6.3-gcccore-10.3.0  (version), (toolchain)  
+ - prodigal/2.6.3-gcccore-11.3.0  (version), (toolchain)  
   
 ## Description  
 Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)

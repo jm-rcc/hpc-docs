@@ -1,10 +1,10 @@
 # GCCcore  
 ## Installed versions  
- - gcccore/.10.3.0  
- - gcccore/.11.3.0  
- - gcccore/.12.3.0  
- - gcccore/.13.3.0  
- - gcccore/.14.2.0  
+ - gcccore/.10.3.0  (version), (toolchain)  
+ - gcccore/.11.3.0  (version), (toolchain)  
+ - gcccore/.12.3.0  (version), (toolchain)  
+ - gcccore/.13.3.0  (version), (toolchain)  
+ - gcccore/.14.2.0  (version), (toolchain)  
   
 ## Description  
 The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, and Ada,
