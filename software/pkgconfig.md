@@ -7,7 +7,7 @@ Category: devel
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [pkgconfig 1.5.4](../modules/pkgconfig/1.5.4-gcccore-10.3.0-python.md) | GCCcore-10.3.0 |  |  
+ | [pkgconfig 1.5.4](../modules/pkgconfig-1.5.4-gcccore-10.3.0-python.md) | GCCcore-10.3.0 |  |  
   
 pkgconfig is a Python module to interface with the pkg-config command line tool  
   

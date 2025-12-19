@@ -8,9 +8,9 @@ Category: vis
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Gdk-Pixbuf 2.42.8](../modules/gdk-pixbuf/.2.42.8-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [Gdk-Pixbuf 2.42.6](../modules/gdk-pixbuf/.2.42.6-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
- | [Gdk-Pixbuf 2.42.10](../modules/gdk-pixbuf/.2.42.10-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [Gdk-Pixbuf 2.42.8](../modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [Gdk-Pixbuf 2.42.6](../modules/gdk-pixbuf-.2.42.6-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [Gdk-Pixbuf 2.42.10](../modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
   
 The Gdk Pixbuf is a toolkit for image loading and pixel buffer manipulation.
  It is used by GTK+ 2 and GTK+ 3 to load and manipulate images. In the past it

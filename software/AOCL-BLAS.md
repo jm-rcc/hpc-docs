@@ -7,7 +7,7 @@ Category: numlib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [AOCL-BLAS 5.0](../modules/aocl-blas/5.0-gcc-14.2.0.md) | GCC-14.2.0 |  |  
+ | [AOCL-BLAS 5.0](../modules/aocl-blas-5.0-gcc-14.2.0.md) | GCC-14.2.0 |  |  
   
 AOCL-BLAS is AMD's optimized version of
                  BLAS targeted for AMD EPYC and Ryzen CPUs.  

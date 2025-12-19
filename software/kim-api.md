@@ -7,8 +7,8 @@ Category: chem
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [kim-api 2.3.0](../modules/kim-api/2.3.0-gcc-12.3.0.md) | GCC-12.3.0 |  |  
- | [kim-api 2.2.1](../modules/kim-api/2.2.1-gcc-10.3.0.md) | GCC-10.3.0 |  |  
+ | [kim-api 2.3.0](../modules/kim-api-2.3.0-gcc-12.3.0.md) | GCC-12.3.0 |  |  
+ | [kim-api 2.2.1](../modules/kim-api-2.2.1-gcc-10.3.0.md) | GCC-10.3.0 |  |  
   
 Open Knowledgebase of Interatomic Models.  
   

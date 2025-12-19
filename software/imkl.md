@@ -7,11 +7,11 @@ Category: numlib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [imkl 2025.1.0](../modules/imkl/2025.1.0.md) |  |  |  
- | [imkl 2024.2.0](../modules/imkl/2024.2.0.md) |  |  |  
- | [imkl 2023.1.0](../modules/imkl/2023.1.0.md) |  |  |  
- | [imkl 2022.1.0](../modules/imkl/2022.1.0.md) |  |  |  
- | [imkl 2021.2.0](../modules/imkl/2021.2.0-iimpi-2021a.md) | iimpi-2021a |  |  
+ | [imkl 2025.1.0](../modules/imkl-2025.1.0.md) |  |  |  
+ | [imkl 2024.2.0](../modules/imkl-2024.2.0.md) |  |  |  
+ | [imkl 2023.1.0](../modules/imkl-2023.1.0.md) |  |  |  
+ | [imkl 2022.1.0](../modules/imkl-2022.1.0.md) |  |  |  
+ | [imkl 2021.2.0](../modules/imkl-2021.2.0-iimpi-2021a.md) | iimpi-2021a |  |  
   
 Intel oneAPI Math Kernel Library  
   

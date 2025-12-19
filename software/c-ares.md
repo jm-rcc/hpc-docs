@@ -7,7 +7,7 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [c-ares 1.18.1](../modules/c-ares/.1.18.1-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
+ | [c-ares 1.18.1](../modules/c-ares-.1.18.1-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
   
 c-ares is a C library for asynchronous DNS requests (including name resolves)  
   

@@ -7,7 +7,7 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [ngtcp2 0.7.0](../modules/ngtcp2/.0.7.0-gcc-11.3.0.md) | GCC-11.3.0 | pic: True |  
+ | [ngtcp2 0.7.0](../modules/ngtcp2-.0.7.0-gcc-11.3.0.md) | GCC-11.3.0 | pic: True |  
   
 'Call it TCP/2. One More Time.'  
   

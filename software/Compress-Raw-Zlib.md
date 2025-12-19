@@ -7,7 +7,7 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Compress-Raw-Zlib 2.202](../modules/compress-raw-zlib/2.202-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [Compress-Raw-Zlib 2.202](../modules/compress-raw-zlib-2.202-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Low-Level Interface to zlib or zlib-ng compression library  
   

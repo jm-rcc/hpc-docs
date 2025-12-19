@@ -7,8 +7,8 @@ Category: tools
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [IPython 8.5.0](../modules/ipython/.8.5.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [IPython 7.25.0](../modules/ipython/.7.25.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [IPython 8.5.0](../modules/ipython-.8.5.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [IPython 7.25.0](../modules/ipython-.7.25.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 IPython provides a rich architecture for interactive computing with:
  Powerful interactive shells (terminal and Qt-based).

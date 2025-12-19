@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [fastahack 1.0.0](../modules/fastahack/1.0.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [fastahack 1.0.0](../modules/fastahack-1.0.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 Utilities for indexing and sequence extraction from FASTA files.  
   

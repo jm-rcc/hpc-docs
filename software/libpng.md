@@ -7,10 +7,10 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [libpng 1.6.43](../modules/libpng/.1.6.43-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True |  
- | [libpng 1.6.39](../modules/libpng/.1.6.39-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [libpng 1.6.37](../modules/libpng/.1.6.37-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [libpng 1.6.37](../modules/libpng/.1.6.37-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [libpng 1.6.43](../modules/libpng-.1.6.43-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True |  
+ | [libpng 1.6.39](../modules/libpng-.1.6.39-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
+ | [libpng 1.6.37](../modules/libpng-.1.6.37-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
+ | [libpng 1.6.37](../modules/libpng-.1.6.37-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
   
 libpng is the official PNG reference library  
   

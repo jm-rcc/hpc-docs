@@ -7,8 +7,8 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [graphite2 1.3.14](../modules/graphite2/1.3.14-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [graphite2 1.3.14](../modules/graphite2/1.3.14-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [graphite2 1.3.14](../modules/graphite2-1.3.14-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [graphite2 1.3.14](../modules/graphite2-1.3.14-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Graphite is a "smart font" system developed specifically to
  handle the complexities of lesser-known languages of the world.  

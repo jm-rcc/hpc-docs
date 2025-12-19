@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [pyBigWig 0.3.18](../modules/pybigwig/0.3.18-foss-2022a.md) | foss-2022a |  |  
- | [pyBigWig 0.3.18](../modules/pybigwig/0.3.18-foss-2021a.md) | foss-2021a |  |  
+ | [pyBigWig 0.3.18](../modules/pybigwig-0.3.18-foss-2022a.md) | foss-2022a |  |  
+ | [pyBigWig 0.3.18](../modules/pybigwig-0.3.18-foss-2021a.md) | foss-2021a |  |  
   
 A python extension, written in C, for quick access to bigBed
  files and access to and creation of bigWig files.  

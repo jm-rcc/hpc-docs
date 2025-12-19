@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [humann 3.6](../modules/humann/3.6-foss-2022a.md) | foss-2022a |  |  
+ | [humann 3.6](../modules/humann-3.6-foss-2022a.md) | foss-2022a |  |  
   
 HUMAnN v3 is a pipeline for efficiently
  and accurately determining the coverage and abundance

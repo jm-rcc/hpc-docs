@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [MultiQC 1.14](../modules/multiqc/1.14-foss-2022a.md) | foss-2022a |  |  
+ | [MultiQC 1.14](../modules/multiqc-1.14-foss-2022a.md) | foss-2022a |  |  
   
 Aggregate results from bioinformatics analyses across many samples into a single report.  
   
@@ -18,7 +18,7 @@ Aggregate results from bioinformatics analyses across many samples into a single
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [MultiQC 1.11](../modules/multiqc/1.11-foss-2021a.md) | foss-2021a |  |  
+ | [MultiQC 1.11](../modules/multiqc-1.11-foss-2021a.md) | foss-2021a |  |  
   
 Aggregate results from bioinformatics analyses across many samples into a single
  report.  

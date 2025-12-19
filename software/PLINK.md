@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [PLINK 2.00a3.6](../modules/plink/2.00a3.6-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [PLINK 2.00a3.6](../modules/plink-2.00a3.6-gcc-11.3.0.md) | GCC-11.3.0 |  |  
   
 Whole-genome association analysis toolset  
   

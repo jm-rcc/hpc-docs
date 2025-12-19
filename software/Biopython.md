@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Biopython 1.79](../modules/biopython/1.79-foss-2022a.md) | foss-2022a |  |  
- | [Biopython 1.79](../modules/biopython/1.79-foss-2021a.md) | foss-2021a |  |  
+ | [Biopython 1.79](../modules/biopython-1.79-foss-2022a.md) | foss-2022a |  |  
+ | [Biopython 1.79](../modules/biopython-1.79-foss-2021a.md) | foss-2021a |  |  
   
 Biopython is a set of freely available tools for biological
  computation written in Python by an international team of developers. It is

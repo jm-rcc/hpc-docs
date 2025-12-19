@@ -7,7 +7,7 @@ Category: data
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [BeautifulSoup 4.10.0](../modules/beautifulsoup/4.10.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [BeautifulSoup 4.10.0](../modules/beautifulsoup-4.10.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.  
   

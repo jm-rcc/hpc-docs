@@ -7,7 +7,7 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [glib-networking 2.72.1](../modules/glib-networking/.2.72.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [glib-networking 2.72.1](../modules/glib-networking-.2.72.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Network extensions for GLib  
   

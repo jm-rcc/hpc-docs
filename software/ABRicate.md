@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [ABRicate 1.0.0](../modules/abricate/1.0.0-gompi-2021a.md) | gompi-2021a |  |  
+ | [ABRicate 1.0.0](../modules/abricate-1.0.0-gompi-2021a.md) | gompi-2021a |  |  
   
 Mass screening of contigs for antimicrobial and virulence genes  
   

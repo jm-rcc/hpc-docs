@@ -7,7 +7,7 @@ Category: devel
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [VSCode 1.87.0](../modules/vscode/1.87.0.md) | system-system |  |  
+ | [VSCode 1.87.0](../modules/vscode-1.87.0.md) | system-system |  |  
   
 Visual Studio Code is a lightweight but powerful source code editor 
     which runs on your desktop and is available for Windows, macOS and 

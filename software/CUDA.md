@@ -7,11 +7,11 @@ Category: system
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [CUDA 12.6.0](../modules/cuda/12.6.0.md) |  |  |  
- | [CUDA 12.2.0](../modules/cuda/12.2.0.md) |  |  |  
- | [CUDA 12.1.1](../modules/cuda/12.1.1.md) |  |  |  
- | [CUDA 11.8.0](../modules/cuda/11.8.0.md) |  |  |  
- | [CUDA 11.7.0](../modules/cuda/11.7.0.md) |  |  |  
+ | [CUDA 12.6.0](../modules/cuda-12.6.0.md) |  |  |  
+ | [CUDA 12.2.0](../modules/cuda-12.2.0.md) |  |  |  
+ | [CUDA 12.1.1](../modules/cuda-12.1.1.md) |  |  |  
+ | [CUDA 11.8.0](../modules/cuda-11.8.0.md) |  |  |  
+ | [CUDA 11.7.0](../modules/cuda-11.7.0.md) |  |  |  
   
 CUDA (formerly Compute Unified Device Architecture) is a parallel
  computing platform and programming model created by NVIDIA and implemented by the

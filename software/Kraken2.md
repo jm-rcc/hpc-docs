@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Kraken2 2.1.2](../modules/kraken2/2.1.2-gompi-2022a.md) | gompi-2022a | openmp: True, cstd: c++11 |  
- | [Kraken2 2.1.2](../modules/kraken2/2.1.2-gompi-2021a.md) | gompi-2021a | openmp: True, cstd: c++11 |  
+ | [Kraken2 2.1.2](../modules/kraken2-2.1.2-gompi-2022a.md) | gompi-2022a | openmp: True, cstd: c++11 |  
+ | [Kraken2 2.1.2](../modules/kraken2-2.1.2-gompi-2021a.md) | gompi-2021a | openmp: True, cstd: c++11 |  
   
 Kraken is a system for assigning taxonomic labels to short DNA sequences,
  usually obtained through metagenomic studies. Previous attempts by other

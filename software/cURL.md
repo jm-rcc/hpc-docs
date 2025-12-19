@@ -7,11 +7,11 @@ Category: tools
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [cURL 8.7.1](../modules/curl/.8.7.1-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
- | [cURL 8.11.1](../modules/curl/.8.11.1-gcccore-14.2.0.md) | GCCcore-14.2.0 |  |  
- | [cURL 8.0.1](../modules/curl/.8.0.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [cURL 7.83.0](../modules/curl/.7.83.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [cURL 7.76.0](../modules/curl/.7.76.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [cURL 8.7.1](../modules/curl-.8.7.1-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
+ | [cURL 8.11.1](../modules/curl-.8.11.1-gcccore-14.2.0.md) | GCCcore-14.2.0 |  |  
+ | [cURL 8.0.1](../modules/curl-.8.0.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [cURL 7.83.0](../modules/curl-.7.83.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [cURL 7.76.0](../modules/curl-.7.76.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 libcurl is a free and easy-to-use client-side URL transfer library,
  supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP,

@@ -8,9 +8,9 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [ICU 73.2](../modules/icu/.73.2-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [ICU 71.1](../modules/icu/.71.1-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [ICU 69.1](../modules/icu/.69.1-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [ICU 73.2](../modules/icu-.73.2-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
+ | [ICU 71.1](../modules/icu-.71.1-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
+ | [ICU 69.1](../modules/icu-.69.1-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
   
 ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization
  support for software applications.  

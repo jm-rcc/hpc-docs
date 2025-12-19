@@ -7,8 +7,8 @@ Category: devel
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [ZeroMQ 4.3.4](../modules/zeromq/.4.3.4-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [ZeroMQ 4.3.4](../modules/zeromq/.4.3.4-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [ZeroMQ 4.3.4](../modules/zeromq-.4.3.4-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [ZeroMQ 4.3.4](../modules/zeromq-.4.3.4-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.
  It gives you sockets that carry atomic messages across various transports like in-process,

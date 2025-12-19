@@ -7,9 +7,9 @@ Category: vis
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [pixman 0.42.2](../modules/pixman/.0.42.2-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [pixman 0.40.0](../modules/pixman/.0.40.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [pixman 0.40.0](../modules/pixman/.0.40.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [pixman 0.42.2](../modules/pixman-.0.42.2-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [pixman 0.40.0](../modules/pixman-.0.40.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [pixman 0.40.0](../modules/pixman-.0.40.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 Pixman is a low-level software library for pixel manipulation, providing
  features such as image compositing and trapezoid rasterization. Important

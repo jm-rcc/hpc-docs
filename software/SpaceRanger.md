@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [SpaceRanger 2.1.0](../modules/spaceranger/2.1.0-gcc-11.3.0.md) | GCC-11.3.0 |  |  
- | [SpaceRanger 2.0.1](../modules/spaceranger/2.0.1-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [SpaceRanger 2.1.0](../modules/spaceranger-2.1.0-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [SpaceRanger 2.0.1](../modules/spaceranger-2.0.1-gcc-11.3.0.md) | GCC-11.3.0 |  |  
   
 Space Ranger is a set of analysis pipelines that process Visium spatial RNA-seq output
 and brightfield microscope images in order to detect tissue, align reads, generate feature-spot matrices,

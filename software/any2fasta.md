@@ -7,7 +7,7 @@ Category: tools
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [any2fasta 0.4.2](../modules/any2fasta/0.4.2-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [any2fasta 0.4.2](../modules/any2fasta-0.4.2-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 Convert various sequence formats to FASTA  
   

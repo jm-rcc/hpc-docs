@@ -7,9 +7,9 @@ Category: vis
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [cairo 1.17.8](../modules/cairo/.1.17.8-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [cairo 1.17.4](../modules/cairo/.1.17.4-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [cairo 1.16.0](../modules/cairo/.1.16.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [cairo 1.17.8](../modules/cairo-.1.17.8-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [cairo 1.17.4](../modules/cairo-.1.17.4-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [cairo 1.16.0](../modules/cairo-.1.16.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 Cairo is a 2D graphics library with support for multiple output devices.
  Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers,

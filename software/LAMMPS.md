@@ -7,9 +7,9 @@ Category: chem
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [LAMMPS 2Aug2023_update2](../modules/lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md) | foss-2023a | openmp: True, usempi: True |  
- | [LAMMPS 2Aug2023_update2](../modules/lammps/2aug2023_update2-foss-2023a-kokkos.md) | foss-2023a | openmp: True, usempi: True |  
- | [LAMMPS 23Jun2022](../modules/lammps/23jun2022-foss-2021a-kokkos.md) | foss-2021a | openmp: True, usempi: True |  
+ | [LAMMPS 2Aug2023_update2](../modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md) | foss-2023a | openmp: True, usempi: True |  
+ | [LAMMPS 2Aug2023_update2](../modules/lammps-2aug2023_update2-foss-2023a-kokkos.md) | foss-2023a | openmp: True, usempi: True |  
+ | [LAMMPS 23Jun2022](../modules/lammps-23jun2022-foss-2021a-kokkos.md) | foss-2021a | openmp: True, usempi: True |  
   
 LAMMPS is a classical molecular dynamics code, and an acronym
 for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has

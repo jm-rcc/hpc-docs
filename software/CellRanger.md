@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [CellRanger 7.1.0](../modules/cellranger/7.1.0.md) |  |  |  
+ | [CellRanger 7.1.0](../modules/cellranger-7.1.0.md) |  |  |  
   
 Cell Ranger is a set of analysis pipelines that process Chromium
  single-cell RNA-seq output to align reads, generate gene-cell matrices and perform

@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [HMMER 3.3.2](../modules/hmmer/3.3.2-gompi-2022a.md) | gompi-2022a |  |  
- | [HMMER 3.3.2](../modules/hmmer/3.3.2-gompi-2021a.md) | gompi-2021a |  |  
+ | [HMMER 3.3.2](../modules/hmmer-3.3.2-gompi-2022a.md) | gompi-2022a |  |  
+ | [HMMER 3.3.2](../modules/hmmer-3.3.2-gompi-2021a.md) | gompi-2021a |  |  
   
 HMMER is used for searching sequence databases for homologs
  of protein sequences, and for making protein sequence alignments. It

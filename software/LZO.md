@@ -7,7 +7,7 @@ Category: devel
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [LZO 2.10](../modules/lzo/2.10-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
+ | [LZO 2.10](../modules/lzo-2.10-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
   
 Portable lossless data compression library  
   

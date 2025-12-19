@@ -7,8 +7,8 @@ Category: devel
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Autoconf 2.71](../modules/autoconf/.2.71-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
- | [Autoconf 2.71](../modules/autoconf/.2.71.md) |  |  |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71.md) |  |  |  
   
 Autoconf is an extensible package of M4 macros that produce shell scripts
  to automatically configure software source code packages. These scripts can adapt the
@@ -20,10 +20,10 @@ Autoconf is an extensible package of M4 macros that produce shell scripts
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Autoconf 2.72](../modules/autoconf/.2.72-gcccore-14.2.0.md) | GCCcore-14.2.0 |  |  
- | [Autoconf 2.72](../modules/autoconf/.2.72-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
- | [Autoconf 2.71](../modules/autoconf/.2.71-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [Autoconf 2.71](../modules/autoconf/.2.71-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [Autoconf 2.72](../modules/autoconf-.2.72-gcccore-14.2.0.md) | GCCcore-14.2.0 |  |  
+ | [Autoconf 2.72](../modules/autoconf-.2.72-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Autoconf is an extensible package of M4 macros that produce shell scripts
  to automatically configure software source code packages. These scripts can

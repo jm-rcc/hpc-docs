@@ -7,7 +7,7 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [psutil 6.0.0](../modules/psutil/6.0.0-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
+ | [psutil 6.0.0](../modules/psutil-6.0.0-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
   
 A cross-platform process and system utilities module for Python  
   

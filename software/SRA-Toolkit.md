@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [SRA-Toolkit 3.0.3](../modules/sra-toolkit/3.0.3-gompi-2022a.md) | gompi-2022a | extra_cflags: -DH5_USE_110_API |  
+ | [SRA-Toolkit 3.0.3](../modules/sra-toolkit-3.0.3-gompi-2022a.md) | gompi-2022a | extra_cflags: -DH5_USE_110_API |  
   
 The SRA Toolkit, and the source-code SRA System Development
  Kit (SDK), will allow you to programmatically access data housed within SRA

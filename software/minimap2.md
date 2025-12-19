@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [minimap2 2.24](../modules/minimap2/2.24-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [minimap2 2.24](../modules/minimap2-2.24-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Minimap2 is a fast sequence mapping and alignment
 program that can find overlaps between long noisy reads, or map long

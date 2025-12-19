@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [GATK 4.3.0.0](../modules/gatk/4.3.0.0-gcccore-11.3.0-java-11.md) | GCCcore-11.3.0 |  |  
- | [GATK 4.3.0.0](../modules/gatk/.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437.md) | GCCcore-11.3.0 |  |  
+ | [GATK 4.3.0.0](../modules/gatk-4.3.0.0-gcccore-11.3.0-java-11.md) | GCCcore-11.3.0 |  |  
+ | [GATK 4.3.0.0](../modules/gatk-.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437.md) | GCCcore-11.3.0 |  |  
   
 The Genome Analysis Toolkit or GATK is a software package developed at the Broad Institute
  to analyse next-generation resequencing data. The toolkit offers a wide variety of tools,

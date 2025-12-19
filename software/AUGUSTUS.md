@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [AUGUSTUS 3.5.0](../modules/augustus/3.5.0-foss-2022a.md) | foss-2022a |  |  
- | [AUGUSTUS 3.4.0](../modules/augustus/3.4.0-foss-2021a.md) | foss-2021a |  |  
+ | [AUGUSTUS 3.5.0](../modules/augustus-3.5.0-foss-2022a.md) | foss-2022a |  |  
+ | [AUGUSTUS 3.4.0](../modules/augustus-3.4.0-foss-2021a.md) | foss-2021a |  |  
   
 AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences  
   

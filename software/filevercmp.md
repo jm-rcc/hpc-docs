@@ -7,7 +7,7 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [filevercmp 20191210](../modules/filevercmp/20191210-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [filevercmp 20191210](../modules/filevercmp-20191210-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 filevercmp function as in sort --version-sort.  
   

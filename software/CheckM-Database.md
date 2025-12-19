@@ -7,7 +7,7 @@ Category: data
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [CheckM-Database 2015_01_16](../modules/checkm-database/2015_01_16.md) |  |  |  
+ | [CheckM-Database 2015_01_16](../modules/checkm-database-2015_01_16.md) |  |  |  
   
 CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,
 single cells, or metagenomes.  

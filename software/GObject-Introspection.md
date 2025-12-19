@@ -7,9 +7,9 @@ Category: devel
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [GObject-Introspection 1.76.1](../modules/gobject-introspection/.1.76.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [GObject-Introspection 1.72.0](../modules/gobject-introspection/.1.72.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [GObject-Introspection 1.68.0](../modules/gobject-introspection/.1.68.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [GObject-Introspection 1.76.1](../modules/gobject-introspection-.1.76.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [GObject-Introspection 1.72.0](../modules/gobject-introspection-.1.72.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [GObject-Introspection 1.68.0](../modules/gobject-introspection-.1.68.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 GObject introspection is a middleware layer between C libraries
  (using GObject) and language bindings. The C library can be scanned at

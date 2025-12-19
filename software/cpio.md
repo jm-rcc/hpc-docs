@@ -7,7 +7,7 @@ Category: tools
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [cpio 2.14](../modules/cpio/2.14-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [cpio 2.14](../modules/cpio-2.14-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 The cpio package contains tools for archiving.  
   

@@ -7,8 +7,8 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [libpsl 0.21.5](../modules/libpsl/.0.21.5-gcccore-14.2.0.md) | GCCcore-14.2.0 |  |  
- | [libpsl 0.21.1](../modules/libpsl/.0.21.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [libpsl 0.21.5](../modules/libpsl-.0.21.5-gcccore-14.2.0.md) | GCCcore-14.2.0 |  |  
+ | [libpsl 0.21.1](../modules/libpsl-.0.21.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 C library for the Public Suffix List  
   

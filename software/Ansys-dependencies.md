@@ -7,7 +7,7 @@ Category: tools
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Ansys-dependencies 2023](../modules/ansys-dependencies/2023-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [Ansys-dependencies 2023](../modules/ansys-dependencies-2023-gcc-11.3.0.md) | GCC-11.3.0 |  |  
   
 A collection of software to meet the requirements of Ansys.  
   

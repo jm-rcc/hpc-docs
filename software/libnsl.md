@@ -7,7 +7,7 @@ Category: devel
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [libnsl 1.3.0](../modules/libnsl/1.3.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [libnsl 1.3.0](../modules/libnsl-1.3.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 The libnsl package contains the public client interface for NIS(YP).  
   

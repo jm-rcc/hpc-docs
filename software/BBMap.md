@@ -7,8 +7,8 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [BBMap 39.01](../modules/bbmap/39.01-gcc-11.3.0.md) | GCC-11.3.0 |  |  
- | [BBMap 38.96](../modules/bbmap/38.96-gcc-10.3.0.md) | GCC-10.3.0 |  |  
+ | [BBMap 39.01](../modules/bbmap-39.01-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [BBMap 38.96](../modules/bbmap-38.96-gcc-10.3.0.md) | GCC-10.3.0 |  |  
   
 BBMap short read aligner, and other bioinformatic tools.  
   

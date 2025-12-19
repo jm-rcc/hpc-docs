@@ -7,9 +7,9 @@ Category: vis
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [JasPer 4.0.0](../modules/jasper/.4.0.0-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [JasPer 2.0.33](../modules/jasper/.2.0.33-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [JasPer 2.0.28](../modules/jasper/.2.0.28-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [JasPer 4.0.0](../modules/jasper-.4.0.0-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
+ | [JasPer 2.0.33](../modules/jasper-.2.0.33-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
+ | [JasPer 2.0.28](../modules/jasper-.2.0.28-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
   
 The JasPer Project is an open-source initiative to provide a free
  software-based reference implementation of the codec specified in

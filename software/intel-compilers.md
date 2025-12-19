@@ -7,10 +7,10 @@ Category: compiler
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [intel-compilers 2024.2.0](../modules/intel-compilers/2024.2.0.md) |  |  |  
- | [intel-compilers 2023.1.0](../modules/intel-compilers/2023.1.0.md) |  |  |  
- | [intel-compilers 2022.1.0](../modules/intel-compilers/2022.1.0.md) |  |  |  
- | [intel-compilers 2021.2.0](../modules/intel-compilers/2021.2.0.md) |  |  |  
+ | [intel-compilers 2024.2.0](../modules/intel-compilers-2024.2.0.md) |  |  |  
+ | [intel-compilers 2023.1.0](../modules/intel-compilers-2023.1.0.md) |  |  |  
+ | [intel-compilers 2022.1.0](../modules/intel-compilers-2022.1.0.md) |  |  |  
+ | [intel-compilers 2021.2.0](../modules/intel-compilers-2021.2.0.md) |  |  |  
   
 Intel C, C++ & Fortran compilers (classic and oneAPI)  
   
@@ -18,7 +18,7 @@ Intel C, C++ & Fortran compilers (classic and oneAPI)
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [intel-compilers 2025.1.1](../modules/intel-compilers/2025.1.1.md) |  |  |  
+ | [intel-compilers 2025.1.1](../modules/intel-compilers-2025.1.1.md) |  |  |  
   
 Intel C, C++ & Fortran compilers  
   

@@ -7,8 +7,8 @@ Category: system
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [OpenSSL 3](../modules/openssl/3.md) |  |  |  
- | [OpenSSL 1.1](../modules/openssl/1.1.md) |  |  |  
+ | [OpenSSL 3](../modules/openssl-3.md) |  |  |  
+ | [OpenSSL 1.1](../modules/openssl-1.1.md) |  |  |  
   
 The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
  and Open Source toolchain implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1)

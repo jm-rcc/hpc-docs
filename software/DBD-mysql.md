@@ -7,7 +7,7 @@ Category: data
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [DBD-mysql 4.050](../modules/dbd-mysql/4.050-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [DBD-mysql 4.050](../modules/dbd-mysql-4.050-gcc-11.3.0.md) | GCC-11.3.0 |  |  
   
 Perl binding for MySQL  
   

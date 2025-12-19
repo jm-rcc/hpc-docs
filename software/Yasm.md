@@ -7,9 +7,9 @@ Category: lang
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Yasm 1.3.0](../modules/yasm/1.3.0-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [Yasm 1.3.0](../modules/yasm/1.3.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [Yasm 1.3.0](../modules/yasm/1.3.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [Yasm 1.3.0](../modules/yasm-1.3.0-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [Yasm 1.3.0](../modules/yasm-1.3.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [Yasm 1.3.0](../modules/yasm-1.3.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 Yasm: Complete rewrite of the NASM assembler with BSD license  
   

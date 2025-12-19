@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [GTDB-Tk 2.0.0](../modules/gtdb-tk/2.0.0-foss-2021a.md) | foss-2021a |  |  
+ | [GTDB-Tk 2.0.0](../modules/gtdb-tk-2.0.0-foss-2021a.md) | foss-2021a |  |  
   
 A toolkit for assigning objective taxonomic classifications to bacterial and archaeal genomes.  
   

@@ -7,8 +7,8 @@ Category: lib
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [GitPython 3.1.27](../modules/gitpython/3.1.27-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [GitPython 3.1.18](../modules/gitpython/3.1.18-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [GitPython 3.1.27](../modules/gitpython-3.1.27-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [GitPython 3.1.18](../modules/gitpython-3.1.18-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 GitPython is a python library used to interact with Git repositories  
   

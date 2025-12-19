@@ -7,7 +7,7 @@ Category: bio
   
 | Version | Toolchain | Options |  
 | :--------- | :--- | :--- |  
- | [Bio-DB-HTS 3.01](../modules/bio-db-hts/3.01-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [Bio-DB-HTS 3.01](../modules/bio-db-hts-3.01-gcc-11.3.0.md) | GCC-11.3.0 |  |  
   
 Read files using HTSlib including BAM/CRAM, Tabix and BCF database files  
   
