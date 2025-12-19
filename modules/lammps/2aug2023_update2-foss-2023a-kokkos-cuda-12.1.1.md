@@ -21,5 +21,8 @@ chem
 {'name': 'foss', 'version': '2023a'}  
 ##toolchainopts  
 {'openmp': True, 'usempi': True}  
+##dependencies  
+[('CMake', '3.26.3'), ('pkgconf', '1.9.5'), ('archspec', '0.2.5')]  
 Use the command `module load lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1` to load the module on Bunya.  
 ## Dependencies  
+data['dependencies']  
