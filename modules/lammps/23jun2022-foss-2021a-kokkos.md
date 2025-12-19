@@ -18,9 +18,7 @@ functionality.
 ----  
 Use the command **`module load lammps/23jun2022-foss-2021a-kokkos`** to load the module on Bunya.  
 ## Available on architecture types  
-- {arch}  
-- {arch}  
+- epyc3  
+- epyc4  
 ## Dependencies  
-('CMake', '3.20.1')  
-('pkg-config', '0.29.2')  
-('archspec', '0.1.2')  
+[('CMake', '3.20.1'), ('pkg-config', '0.29.2'), ('archspec', '0.1.2')]  

@@ -2,8 +2,8 @@
 # LibTIFF  
 Category: lib  
 ## Homepage  
-[https://libtiff.maptools.org/](https://libtiff.maptools.org/)  
 [https://libtiff.gitlab.io/libtiff/](https://libtiff.gitlab.io/libtiff/)  
+[https://libtiff.maptools.org/](https://libtiff.maptools.org/)  
 ## Installed versions  
   
 | Version | Toolchain | Options |  

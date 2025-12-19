@@ -18,10 +18,8 @@ functionality.
 ----  
 Use the command **`module load lammps/2aug2023_update2-foss-2023a-kokkos`** to load the module on Bunya.  
 ## Available on architecture types  
-- {arch}  
-- {arch}  
-- {arch}  
+- epyc3  
+- epyc4  
+- xeonsp4  
 ## Dependencies  
-('CMake', '3.26.3')  
-('pkgconf', '1.9.5')  
-('archspec', '0.2.5')  
+[('CMake', '3.26.3'), ('pkgconf', '1.9.5'), ('archspec', '0.2.5')]  
