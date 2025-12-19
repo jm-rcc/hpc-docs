@@ -20,6 +20,7 @@ functionality.
 {'openmp': True, 'usempi': True}  
   
   
+### Usage  
 Use the command **`module load lammps/2aug2023_update2-foss-2023a-kokkos`** to load the module on Bunya.  
   
 ## Available on architecture types  
