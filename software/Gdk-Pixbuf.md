@@ -2,8 +2,8 @@
 # Gdk-Pixbuf  
 Category: vis  
 ## Homepage  
-[https://docs.gtk.org/gdk-pixbuf/](https://docs.gtk.org/gdk-pixbuf/)  
 [https://developer.gnome.org/gdk-pixbuf/stable/](https://developer.gnome.org/gdk-pixbuf/stable/)  
+[https://docs.gtk.org/gdk-pixbuf/](https://docs.gtk.org/gdk-pixbuf/)  
 ## Installed versions  
   
 | Version | Toolchain | Options |  
