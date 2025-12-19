@@ -2,8 +2,8 @@
 # OpenBLAS  
 Category: numlib  
 ## Homepage  
-[https://xianyi.github.com/OpenBLAS/](https://xianyi.github.com/OpenBLAS/)  
 [https://www.openblas.net/](https://www.openblas.net/)  
+[https://xianyi.github.com/OpenBLAS/](https://xianyi.github.com/OpenBLAS/)  
 [http://www.openblas.net/](http://www.openblas.net/)  
 ## Installed versions  
   
