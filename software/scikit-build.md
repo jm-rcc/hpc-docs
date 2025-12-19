@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # scikit-build  
-Category: lib  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://scikit-build.readthedocs.io/en/latest](https://scikit-build.readthedocs.io/en/latest)  
 ## Installed versions  

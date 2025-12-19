@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PLUMED  
-Category: chem  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://www.plumed.org](https://www.plumed.org)  
 ## Installed versions  

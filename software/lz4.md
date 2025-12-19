@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # lz4  
-Category: lib  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://lz4.github.io/lz4/](https://lz4.github.io/lz4/)  
 ## Installed versions  

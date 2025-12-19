@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libtasn1  
-Category: lib  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://www.gnu.org/software/libtasn1/](https://www.gnu.org/software/libtasn1/)  
 ## Installed versions  

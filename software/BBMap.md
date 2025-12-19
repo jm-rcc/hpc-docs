@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BBMap  
-Category: bio  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://sourceforge.net/projects/bbmap/](https://sourceforge.net/projects/bbmap/)  
 ## Installed versions  

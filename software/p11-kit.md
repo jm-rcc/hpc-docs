@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # p11-kit  
-Category: lib  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://p11-glue.freedesktop.org/p11-kit.html](https://p11-glue.freedesktop.org/p11-kit.html)  
 ## Installed versions  

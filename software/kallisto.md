@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # kallisto  
-Category: bio  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://pachterlab.github.io/kallisto/](https://pachterlab.github.io/kallisto/)  
 ## Installed versions  

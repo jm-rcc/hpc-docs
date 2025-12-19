@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Boost  
-Category: devel  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://www.boost.org/](https://www.boost.org/)  
 ## Installed versions  

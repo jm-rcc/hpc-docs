@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Anaconda3  
-Category: lang  
+Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
 [https://www.anaconda.com](https://www.anaconda.com)  
 ## Installed versions  
