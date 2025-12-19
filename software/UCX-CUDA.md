@@ -5,9 +5,9 @@ Category: lib
 [http://www.openucx.org/](http://www.openucx.org/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1 | 1.14.1 | GCCcore-12.3.0 | pic: True |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [UCX-CUDA 1.14.1](../modules/ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1.md) | GCCcore-12.3.0 | pic: True |  
   
 Unified Communication X
 An open-source production grade communication framework for data centric

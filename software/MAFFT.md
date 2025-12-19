@@ -5,9 +5,9 @@ Category: bio
 [https://mafft.cbrc.jp/alignment/software/source.html](https://mafft.cbrc.jp/alignment/software/source.html)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | mafft/7.490-gcc-10.3.0-with-extensions | 7.490 | GCC-10.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [MAFFT 7.490](../modules/mafft/7.490-gcc-10.3.0-with-extensions.md) | GCC-10.3.0 |  |  
   
 MAFFT is a multiple sequence alignment program for unix-like operating systems.
 It offers a range of multiple alignment methods, L-INS-i (accurate; for alignment

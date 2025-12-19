@@ -5,9 +5,9 @@ Category: chem
 [https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | mdi/1.4.26-gompi-2023a | 1.4.26 | gompi-2023a |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [MDI 1.4.26](../modules/mdi/1.4.26-gompi-2023a.md) | gompi-2023a |  |  
   
 The MolSSI Driver Interface (MDI) project provides a
 standardized API for fast, on-the-fly communication between computational

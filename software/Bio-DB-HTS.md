@@ -5,9 +5,9 @@ Category: bio
 [https://metacpan.org/release/Bio-DB-HTS](https://metacpan.org/release/Bio-DB-HTS)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | bio-db-hts/3.01-gcc-11.3.0 | 3.01 | GCC-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [Bio-DB-HTS 3.01](../modules/bio-db-hts/3.01-gcc-11.3.0.md) | GCC-11.3.0 |  |  
   
 Read files using HTSlib including BAM/CRAM, Tabix and BCF database files  
   

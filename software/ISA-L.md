@@ -5,10 +5,10 @@ Category: lib
 [https://github.com/intel/isa-l](https://github.com/intel/isa-l)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | isa-l/2.30.0-gcccore-11.3.0 | 2.30.0 | GCCcore-11.3.0 |  |  
- | isa-l/2.30.0-gcccore-10.3.0 | 2.30.0 | GCCcore-10.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [ISA-L 2.30.0](../modules/isa-l/2.30.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [ISA-L 2.30.0](../modules/isa-l/2.30.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 Intelligent Storage Acceleration Library  
   

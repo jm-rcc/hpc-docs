@@ -5,10 +5,10 @@ Category: bio
 [https://github.com/bbuchfink/diamond](https://github.com/bbuchfink/diamond)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | diamond/2.1.0-gcc-11.3.0 | 2.1.0 | GCC-11.3.0 |  |  
- | diamond/2.0.13-gcc-10.3.0 | 2.0.13 | GCC-10.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [DIAMOND 2.1.0](../modules/diamond/2.1.0-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [DIAMOND 2.0.13](../modules/diamond/2.0.13-gcc-10.3.0.md) | GCC-10.3.0 |  |  
   
 Accelerated BLAST compatible local sequence aligner  
   

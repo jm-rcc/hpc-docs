@@ -5,9 +5,9 @@ Category: lib
 [http://heasarc.gsfc.nasa.gov/fitsio/](http://heasarc.gsfc.nasa.gov/fitsio/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | cfitsio/4.3.0-gcccore-12.3.0 | 4.3.0 | GCCcore-12.3.0 | pic: True |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [CFITSIO 4.3.0](../modules/cfitsio/4.3.0-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
   
 CFITSIO is a library of C and Fortran subroutines for reading and writing data files in
 FITS (Flexible Image Transport System) data format.  

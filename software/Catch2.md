@@ -5,9 +5,9 @@ Category: lib
 [https://github.com/catchorg/Catch2](https://github.com/catchorg/Catch2)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | catch2/2.13.9-gcccore-12.3.0 | 2.13.9 | GCCcore-12.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [Catch2 2.13.9](../modules/catch2/2.13.9-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
   
 A modern, C++-native, header-only,
  test framework for unit-tests, TDD and BDD

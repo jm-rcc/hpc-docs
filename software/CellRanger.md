@@ -5,9 +5,9 @@ Category: bio
 [https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | cellranger/7.1.0 | 7.1.0 |  |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [CellRanger 7.1.0](../modules/cellranger/7.1.0.md) |  |  |  
   
 Cell Ranger is a set of analysis pipelines that process Chromium
  single-cell RNA-seq output to align reads, generate gene-cell matrices and perform

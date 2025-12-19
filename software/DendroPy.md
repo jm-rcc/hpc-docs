@@ -2,14 +2,14 @@
 # DendroPy  
 Category: bio  
 ## Homepage  
-[https://dendropy.org/](https://dendropy.org/)  
 [https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
+[https://dendropy.org/](https://dendropy.org/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | dendropy/4.5.2-gcccore-11.3.0 | 4.5.2 | GCCcore-11.3.0 |  |  
- | dendropy/4.5.2-gcccore-10.3.0 | 4.5.2 | GCCcore-10.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [DendroPy 4.5.2](../modules/dendropy/4.5.2-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [DendroPy 4.5.2](../modules/dendropy/4.5.2-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 A Python library for phylogenetics and phylogenetic computing:
 reading, writing, simulation, processing and manipulation of phylogenetic trees

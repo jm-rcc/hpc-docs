@@ -5,9 +5,9 @@ Category: lib
 [https://github.com/google/brunsli/](https://github.com/google/brunsli/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | brunsli/0.1-gcccore-12.3.0 | 0.1 | GCCcore-12.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [Brunsli 0.1](../modules/brunsli/0.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
   
 Brunsli is a lossless JPEG repacking library.  
   

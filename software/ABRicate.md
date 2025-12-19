@@ -5,9 +5,9 @@ Category: bio
 [https://github.com/tseemann/abricate](https://github.com/tseemann/abricate)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | abricate/1.0.0-gompi-2021a | 1.0.0 | gompi-2021a |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [ABRicate 1.0.0](../modules/abricate/1.0.0-gompi-2021a.md) | gompi-2021a |  |  
   
 Mass screening of contigs for antimicrobial and virulence genes  
   

@@ -5,10 +5,10 @@ Category: vis
 [https://developer.gnome.org/gtk3/stable/](https://developer.gnome.org/gtk3/stable/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | gtk3/3.24.37-gcccore-12.3.0 | 3.24.37 | GCCcore-12.3.0 |  |  
- | gtk3/3.24.33-gcccore-11.3.0 | 3.24.33 | GCCcore-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [GTK3 3.24.37](../modules/gtk3/3.24.37-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [GTK3 3.24.33](../modules/gtk3/3.24.33-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 GTK+ is the primary library used to construct user interfaces in GNOME. It
  provides all the user interface controls, or widgets, used in a common

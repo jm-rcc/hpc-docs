@@ -5,10 +5,10 @@ Category: bio
 [https://daehwankimlab.github.io/hisat2](https://daehwankimlab.github.io/hisat2)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | hisat2/2.2.1-gompi-2022a | 2.2.1 | gompi-2022a |  |  
- | hisat2/2.2.1-gompi-2021a | 2.2.1 | gompi-2021a |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [HISAT2 2.2.1](../modules/hisat2/2.2.1-gompi-2022a.md) | gompi-2022a |  |  
+ | [HISAT2 2.2.1](../modules/hisat2/2.2.1-gompi-2021a.md) | gompi-2021a |  |  
   
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads
  (both DNA and RNA) against the general human population (as well as against a single reference genome).  

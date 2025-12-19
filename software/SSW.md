@@ -5,9 +5,9 @@ Category: lib
 [https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library](https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | ssw/1.1-gcccore-10.3.0 | 1.1 | GCCcore-10.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [SSW 1.1](../modules/ssw/1.1-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
  Single-Instruction Multiple-Data (SIMD) instructions to parallelize the algorithm at the

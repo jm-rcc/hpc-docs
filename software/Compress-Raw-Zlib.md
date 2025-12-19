@@ -5,9 +5,9 @@ Category: lib
 [https://metacpan.org/pod/Compress::Raw::Zlib](https://metacpan.org/pod/Compress::Raw::Zlib)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | compress-raw-zlib/2.202-gcccore-11.3.0 | 2.202 | GCCcore-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [Compress-Raw-Zlib 2.202](../modules/compress-raw-zlib/2.202-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Low-Level Interface to zlib or zlib-ng compression library  
   

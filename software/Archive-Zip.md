@@ -5,9 +5,9 @@ Category: tools
 [https://metacpan.org/pod/Archive::Zip](https://metacpan.org/pod/Archive::Zip)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | archive-zip/1.68-gcccore-11.3.0 | 1.68 | GCCcore-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [Archive-Zip 1.68](../modules/archive-zip/1.68-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Provide an interface to ZIP archive files.  
   

@@ -5,10 +5,10 @@ Category: bio
 [http://hmmer.org/](http://hmmer.org/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | hmmer/3.3.2-gompi-2022a | 3.3.2 | gompi-2022a |  |  
- | hmmer/3.3.2-gompi-2021a | 3.3.2 | gompi-2021a |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [HMMER 3.3.2](../modules/hmmer/3.3.2-gompi-2022a.md) | gompi-2022a |  |  
+ | [HMMER 3.3.2](../modules/hmmer/3.3.2-gompi-2021a.md) | gompi-2021a |  |  
   
 HMMER is used for searching sequence databases for homologs
  of protein sequences, and for making protein sequence alignments. It

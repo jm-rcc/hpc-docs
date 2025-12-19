@@ -5,10 +5,10 @@ Category: tools
 [https://github.com/nucleic/cppy](https://github.com/nucleic/cppy)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | cppy/1.2.1-gcccore-11.3.0 | 1.2.1 | GCCcore-11.3.0 |  |  
- | cppy/1.1.0-gcccore-10.3.0 | 1.1.0 | GCCcore-10.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [cppy 1.2.1](../modules/cppy/1.2.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [cppy 1.1.0](../modules/cppy/1.1.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 A small C++ header library which makes it easier to write
 Python extension modules. The primary feature is a PyObject smart pointer

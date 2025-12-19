@@ -5,10 +5,10 @@ Category: math
 [https://karypis.github.io/glaros/projects/gp.html](https://karypis.github.io/glaros/projects/gp.html)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | metis/5.1.0-gcccore-11.3.0 | 5.1.0 | GCCcore-11.3.0 | pic: True |  
- | metis/5.1.0-gcccore-10.3.0 | 5.1.0 | GCCcore-10.3.0 | pic: True |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [METIS 5.1.0](../modules/metis/5.1.0-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
+ | [METIS 5.1.0](../modules/metis/5.1.0-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
   
 METIS is a set of serial programs for partitioning graphs, partitioning
  finite element meshes, and producing fill reducing orderings for sparse

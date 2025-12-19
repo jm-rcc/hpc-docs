@@ -5,9 +5,9 @@ Category: bio
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | vep/107-gcc-11.3.0 | 107 | GCC-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [VEP 107](../modules/vep/107-gcc-11.3.0.md) | GCC-11.3.0 |  |  
   
 Variant Effect Predictor (VEP) determines the effect of your
  variants (SNPs, insertions, deletions, CNVs or structural variants) on genes,

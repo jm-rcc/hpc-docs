@@ -5,9 +5,9 @@ Category: lib
 [https://github.com/ekg/smithwaterman](https://github.com/ekg/smithwaterman)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | smithwaterman/20160702-gcccore-10.3.0 | 20160702 | GCCcore-10.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [smithwaterman 20160702](../modules/smithwaterman/20160702-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
   
 smith-waterman-gotoh alignment algorithm.  
   

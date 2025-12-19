@@ -5,9 +5,9 @@ Category: lib
 [https://github.com/ngtcp2/nghttp3](https://github.com/ngtcp2/nghttp3)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | nghttp3/.0.6.0-gcccore-11.3.0 | 0.6.0 | GCCcore-11.3.0 | pic: True |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [nghttp3 0.6.0](../modules/nghttp3/.0.6.0-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
   
 nghttp3 is an implementation of RFC 9114 HTTP/3
 mapping over QUIC and RFC 9204 QPACK in C.

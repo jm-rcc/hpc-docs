@@ -5,9 +5,9 @@ Category: bio
 [https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | cellranger-arc/2.0.2 | 2.0.2 |  |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [CellRanger-ARC 2.0.2](../modules/cellranger-arc/2.0.2.md) |  |  |  
   
 Cell Ranger ARC is a set of analysis pipelines that process
  Chromium Single Cell Multiome ATAC + Gene Expression sequencing data to generate a

@@ -5,13 +5,13 @@ Category: toolchain
 [https://software.intel.com/parallel-studio-xe](https://software.intel.com/parallel-studio-xe)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | iimpi/2025a | 2025a |  |  |  
- | iimpi/2024a | 2024a |  |  |  
- | iimpi/2023a | 2023a |  |  |  
- | iimpi/2022a | 2022a |  |  |  
- | iimpi/2021a | 2021a |  |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [iimpi 2025a](../modules/iimpi/2025a.md) |  |  |  
+ | [iimpi 2024a](../modules/iimpi/2024a.md) |  |  |  
+ | [iimpi 2023a](../modules/iimpi/2023a.md) |  |  |  
+ | [iimpi 2022a](../modules/iimpi/2022a.md) |  |  |  
+ | [iimpi 2021a](../modules/iimpi/2021a.md) |  |  |  
   
 Intel C/C++ and Fortran compilers, alongside Intel MPI.  
   

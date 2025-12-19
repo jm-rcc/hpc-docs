@@ -5,9 +5,9 @@ Category: bio
 [https://github.com/marbl/Krona/wiki/KronaTools](https://github.com/marbl/Krona/wiki/KronaTools)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | kronatools/2.8.1-gcccore-11.3.0 | 2.8.1 | GCCcore-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [KronaTools 2.8.1](../modules/kronatools/2.8.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Krona Tools is a set of scripts to create Krona charts from
 several Bioinformatics tools as well as from text and XML files.  

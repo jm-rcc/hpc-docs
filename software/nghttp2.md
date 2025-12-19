@@ -5,9 +5,9 @@ Category: lib
 [https://github.com/nghttp2/nghttp2](https://github.com/nghttp2/nghttp2)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | nghttp2/.1.48.0-gcc-11.3.0 | 1.48.0 | GCC-11.3.0 | pic: True |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [nghttp2 1.48.0](../modules/nghttp2/.1.48.0-gcc-11.3.0.md) | GCC-11.3.0 | pic: True |  
   
 This is an implementation of the Hypertext Transfer Protocol version 2 in C.  
   

@@ -5,9 +5,9 @@ Category: lib
 [https://www.opus-codec.org/](https://www.opus-codec.org/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | libopus/1.3.1-gcccore-11.3.0 | 1.3.1 | GCCcore-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [libopus 1.3.1](../modules/libopus/1.3.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive
  speech and music transmission over the Internet, but is also intended for storage and streaming applications. It is

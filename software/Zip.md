@@ -5,9 +5,9 @@ Category: tools
 [http://www.info-zip.org/Zip.html](http://www.info-zip.org/Zip.html)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | zip/3.0-gcccore-11.3.0 | 3.0 | GCCcore-11.3.0 |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [Zip 3.0](../modules/zip/3.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
   
 Zip is a compression and file packaging/archive utility.
 Although highly compatible both with PKWARE's PKZIP and PKUNZIP

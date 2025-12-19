@@ -5,13 +5,13 @@ Category: compiler
 [https://gcc.gnu.org/](https://gcc.gnu.org/)  
 ## Installed versions  
   
-| Module | Version | Toolchain | Options |  
-| :--- | :--- | :--- | :--- |  
- | gcccore/.14.2.0 | 14.2.0 |  |  |  
- | gcccore/.13.3.0 | 13.3.0 |  |  |  
- | gcccore/.12.3.0 | 12.3.0 |  |  |  
- | gcccore/.11.3.0 | 11.3.0 |  |  |  
- | gcccore/.10.3.0 | 10.3.0 |  |  |  
+| Version | Toolchain | Options |  
+| :--------- | :--- | :--- |  
+ | [GCCcore 14.2.0](../modules/gcccore/.14.2.0.md) |  |  |  
+ | [GCCcore 13.3.0](../modules/gcccore/.13.3.0.md) |  |  |  
+ | [GCCcore 12.3.0](../modules/gcccore/.12.3.0.md) |  |  |  
+ | [GCCcore 11.3.0](../modules/gcccore/.11.3.0.md) |  |  |  
+ | [GCCcore 10.3.0](../modules/gcccore/.10.3.0.md) |  |  |  
   
 The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Java, and Ada,
  as well as libraries for these languages (libstdc++, libgcj,...).  
