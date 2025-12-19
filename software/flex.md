@@ -2,8 +2,8 @@
 # flex  
 Category: lang  
 ## Homepage  
-[https://github.com/westes/flex](https://github.com/westes/flex)  
 [http://flex.sourceforge.net/](http://flex.sourceforge.net/)  
+[https://github.com/westes/flex](https://github.com/westes/flex)  
 ## Installed versions  
   
 | Version | Toolchain | Options |  

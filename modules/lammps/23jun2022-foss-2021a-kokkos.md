@@ -1,0 +1,26 @@
+# LAMMPS 23Jun2022  
+(chem)  
+  
+LAMMPS is a classical molecular dynamics code, and an acronym
+for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has
+potentials for solid-state materials (metals, semiconductors) and soft matter
+(biomolecules, polymers) and coarse-grained or mesoscopic systems. It can be
+used to model atoms or, more generically, as a parallel particle simulator at
+the atomic, meso, or continuum scale. LAMMPS runs on single processors or in
+parallel using message-passing techniques and a spatial-decomposition of the
+simulation domain. The code is designed to be easy to modify or extend with new
+functionality.  
+----  
+### Toolchain  
+{'name': 'foss', 'version': '2021a'}  
+### Toolchain Options  
+{'openmp': True, 'usempi': True}  
+----  
+Use the command **`module load lammps/23jun2022-foss-2021a-kokkos`** to load the module on Bunya.  
+## Available on architecture types  
+- {arch}  
+- {arch}  
+## Dependencies  
+('CMake', '3.20.1')  
+('pkg-config', '0.29.2')  
+('archspec', '0.1.2')  
