@@ -2,8 +2,8 @@
 # xorg-macros  
 Category: devel  
 ## Homepage  
-[https://gitlab.freedesktop.org/xorg/util/macros](https://gitlab.freedesktop.org/xorg/util/macros)  
 [https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  
+[https://gitlab.freedesktop.org/xorg/util/macros](https://gitlab.freedesktop.org/xorg/util/macros)  
 ## Installed versions  
   
 | Version | Toolchain | Options |  
