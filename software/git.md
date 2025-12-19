@@ -2,8 +2,8 @@
 # git  
 Category: tools  
 ## Homepage  
-[https://git-scm.com](https://git-scm.com)  
 [https://git-scm.com/](https://git-scm.com/)  
+[https://git-scm.com](https://git-scm.com)  
 ## Installed versions  
   
 | Version | Toolchain | Options |  

@@ -2,8 +2,8 @@
 # MUMmer  
 Category: bio  
 ## Homepage  
-[http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
 [https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
+[http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
 ## Installed versions  
   
 | Version | Toolchain | Options |  
