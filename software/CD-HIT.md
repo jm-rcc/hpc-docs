@@ -2,8 +2,8 @@
 # CD-HIT  
 Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
-[http://weizhongli-lab.org/cd-hit/](http://weizhongli-lab.org/cd-hit/)  
 [https://github.com/weizhongli/cdhit/wiki](https://github.com/weizhongli/cdhit/wiki)  
+[http://weizhongli-lab.org/cd-hit/](http://weizhongli-lab.org/cd-hit/)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

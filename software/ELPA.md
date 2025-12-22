@@ -7,7 +7,7 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
   
 | Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [ELPA 2021.05.001](../modules/elpa-2021.05.001-foss-2021a.md) | foss-2021a | openmp: True, usempi: True | elpa/2021.05.001-foss-2021a |  
+ | [ELPA 2021.05.001](../modules/elpa-2021.05.001-foss-2021a.md) | foss-2021a | openmp: True, <br>usempi: True | elpa/2021.05.001-foss-2021a |  
   
 Eigenvalue SoLvers for Petaflop-Applications .  
   
@@ -15,7 +15,7 @@ Eigenvalue SoLvers for Petaflop-Applications .
   
 | Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [ELPA 2021.11.001](../modules/elpa-2021.11.001-foss-2022a.md) | foss-2022a | openmp: True, usempi: True | elpa/2021.11.001-foss-2022a |  
+ | [ELPA 2021.11.001](../modules/elpa-2021.11.001-foss-2022a.md) | foss-2022a | openmp: True, <br>usempi: True | elpa/2021.11.001-foss-2022a |  
   
 Eigenvalue SoLvers for Petaflop-Applications.  
   

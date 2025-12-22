@@ -7,7 +7,7 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
   
 | Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [CapnProto 0.9.1](../modules/capnproto-0.9.1-gcccore-10.3.0.md) | GCCcore-10.3.0 | cstd: c++17, lowopt: True | capnproto/0.9.1-gcccore-10.3.0 |  
+ | [CapnProto 0.9.1](../modules/capnproto-0.9.1-gcccore-10.3.0.md) | GCCcore-10.3.0 | cstd: c++17, <br>lowopt: True | capnproto/0.9.1-gcccore-10.3.0 |  
   
 Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.  
   

@@ -7,8 +7,8 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
   
 | Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Kraken2 2.1.2](../modules/kraken2-2.1.2-gompi-2022a.md) | gompi-2022a | openmp: True, cstd: c++11 | kraken2/2.1.2-gompi-2022a |  
- | [Kraken2 2.1.2](../modules/kraken2-2.1.2-gompi-2021a.md) | gompi-2021a | openmp: True, cstd: c++11 | kraken2/2.1.2-gompi-2021a |  
+ | [Kraken2 2.1.2](../modules/kraken2-2.1.2-gompi-2022a.md) | gompi-2022a | openmp: True, <br>cstd: c++11 | kraken2/2.1.2-gompi-2022a |  
+ | [Kraken2 2.1.2](../modules/kraken2-2.1.2-gompi-2021a.md) | gompi-2021a | openmp: True, <br>cstd: c++11 | kraken2/2.1.2-gompi-2021a |  
   
 Kraken is a system for assigning taxonomic labels to short DNA sequences,
  usually obtained through metagenomic studies. Previous attempts by other

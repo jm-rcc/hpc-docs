@@ -7,9 +7,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
   
 | Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [LAMMPS 2Aug2023_update2-kokkos-CUDA-12.1.1](../modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md) | foss-2023a | openmp: True, usempi: True | lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1 |  
- | [LAMMPS 2Aug2023_update2-kokkos](../modules/lammps-2aug2023_update2-foss-2023a-kokkos.md) | foss-2023a | openmp: True, usempi: True | lammps/2aug2023_update2-foss-2023a-kokkos |  
- | [LAMMPS 23Jun2022-kokkos](../modules/lammps-23jun2022-foss-2021a-kokkos.md) | foss-2021a | openmp: True, usempi: True | lammps/23jun2022-foss-2021a-kokkos |  
+ | [LAMMPS 2Aug2023_update2-kokkos-CUDA-12.1.1](../modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md) | foss-2023a | openmp: True, <br>usempi: True | lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1 |  
+ | [LAMMPS 2Aug2023_update2-kokkos](../modules/lammps-2aug2023_update2-foss-2023a-kokkos.md) | foss-2023a | openmp: True, <br>usempi: True | lammps/2aug2023_update2-foss-2023a-kokkos |  
+ | [LAMMPS 23Jun2022-kokkos](../modules/lammps-23jun2022-foss-2021a-kokkos.md) | foss-2021a | openmp: True, <br>usempi: True | lammps/23jun2022-foss-2021a-kokkos |  
   
 LAMMPS is a classical molecular dynamics code, and an acronym
 for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has

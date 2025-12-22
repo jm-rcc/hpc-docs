@@ -2,8 +2,8 @@
 # DendroPy  
 Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
-[https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
 [https://dendropy.org/](https://dendropy.org/)  
+[https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

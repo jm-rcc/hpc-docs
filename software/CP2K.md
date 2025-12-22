@@ -7,8 +7,8 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
   
 | Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [CP2K 9.1](../modules/cp2k-9.1-foss-2022a.md) | foss-2022a | pic: True, openmp: True | cp2k/9.1-foss-2022a |  
- | [CP2K 8.2](../modules/cp2k-8.2-foss-2021a.md) | foss-2021a | pic: True, openmp: True | cp2k/8.2-foss-2021a |  
+ | [CP2K 9.1](../modules/cp2k-9.1-foss-2022a.md) | foss-2022a | pic: True, <br>openmp: True | cp2k/9.1-foss-2022a |  
+ | [CP2K 8.2](../modules/cp2k-8.2-foss-2021a.md) | foss-2021a | pic: True, <br>openmp: True | cp2k/8.2-foss-2021a |  
   
 CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
  simulations of solid state, liquid, molecular and biological systems. It provides a general framework for different
