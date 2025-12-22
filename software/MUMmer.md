@@ -6,10 +6,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [MUMmer 4.0.0rc1](../modules/mummer-4.0.0rc1-gcccore-11.3.0.md) | GCCcore-11.3.0 | openmp: True |  
- | [MUMmer 3.23](../modules/mummer-3.23-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [MUMmer 4.0.0rc1](../modules/mummer-4.0.0rc1-gcccore-11.3.0.md) | GCCcore-11.3.0 | openmp: True | mummer/4.0.0rc1-gcccore-11.3.0 |  
+ | [MUMmer 3.23](../modules/mummer-3.23-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | mummer/3.23-gcccore-10.3.0 |  
   
 MUMmer is a system for rapidly aligning entire genomes,
  whether in complete or draft form. AMOS makes use of it.  

@@ -5,12 +5,12 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://portal.hdfgroup.org/display/support](https://portal.hdfgroup.org/display/support)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [HDF5 1.14.6](../modules/hdf5-1.14.6-iimpi-2023a.md) | iimpi-2023a | pic: True, usempi: True |  
- | [HDF5 1.14.0](../modules/hdf5-1.14.0-gompi-2023a.md) | gompi-2023a | pic: True, usempi: True |  
- | [HDF5 1.12.2](../modules/hdf5-1.12.2-gompi-2022a.md) | gompi-2022a | pic: True, usempi: True |  
- | [HDF5 1.10.7](../modules/hdf5-1.10.7-gompi-2021a.md) | gompi-2021a | pic: True, usempi: True |  
+ | [HDF5 1.14.6](../modules/hdf5-1.14.6-iimpi-2023a.md) | iimpi-2023a | pic: True, usempi: True | hdf5/1.14.6-iimpi-2023a |  
+ | [HDF5 1.14.0](../modules/hdf5-1.14.0-gompi-2023a.md) | gompi-2023a | pic: True, usempi: True | hdf5/1.14.0-gompi-2023a |  
+ | [HDF5 1.12.2](../modules/hdf5-1.12.2-gompi-2022a.md) | gompi-2022a | pic: True, usempi: True | hdf5/1.12.2-gompi-2022a |  
+ | [HDF5 1.10.7](../modules/hdf5-1.10.7-gompi-2021a.md) | gompi-2021a | pic: True, usempi: True | hdf5/1.10.7-gompi-2021a |  
   
 HDF5 is a data model, library, and file format for storing and managing data.
  It supports an unlimited variety of datatypes, and is designed for flexible

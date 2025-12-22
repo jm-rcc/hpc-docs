@@ -6,11 +6,11 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://docs.gtk.org/gdk-pixbuf/](https://docs.gtk.org/gdk-pixbuf/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Gdk-Pixbuf 2.42.8](../modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [Gdk-Pixbuf 2.42.6](../modules/gdk-pixbuf-.2.42.6-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
- | [Gdk-Pixbuf 2.42.10](../modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [Gdk-Pixbuf 2.42.8](../modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | gdk-pixbuf/2.42.8-gcccore-11.3.0 |  
+ | [Gdk-Pixbuf 2.42.6](../modules/gdk-pixbuf-.2.42.6-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | gdk-pixbuf/2.42.6-gcccore-10.3.0 |  
+ | [Gdk-Pixbuf 2.42.10](../modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md) | GCCcore-12.3.0 |  | gdk-pixbuf/2.42.10-gcccore-12.3.0 |  
   
 The Gdk Pixbuf is a toolkit for image loading and pixel buffer manipulation.
  It is used by GTK+ 2 and GTK+ 3 to load and manipulate images. In the past it

@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://hmmer.org/](http://hmmer.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [HMMER 3.3.2](../modules/hmmer-3.3.2-gompi-2022a.md) | gompi-2022a |  |  
- | [HMMER 3.3.2](../modules/hmmer-3.3.2-gompi-2021a.md) | gompi-2021a |  |  
+ | [HMMER 3.3.2](../modules/hmmer-3.3.2-gompi-2022a.md) | gompi-2022a |  | hmmer/3.3.2-gompi-2022a |  
+ | [HMMER 3.3.2](../modules/hmmer-3.3.2-gompi-2021a.md) | gompi-2021a |  | hmmer/3.3.2-gompi-2021a |  
   
 HMMER is used for searching sequence databases for homologs
  of protein sequences, and for making protein sequence alignments. It

@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.gnu.org/software/libtasn1/](https://www.gnu.org/software/libtasn1/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [libtasn1 4.19.0](../modules/libtasn1-.4.19.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [libtasn1 4.19.0](../modules/libtasn1-.4.19.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | libtasn1/4.19.0-gcccore-11.3.0 |  
   
 Libtasn1 is the ASN.1 library used by GnuTLS, GNU Shishi and
  some other packages. It was written by Fabio Fiorina, and has been shipped as

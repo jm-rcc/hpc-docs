@@ -5,11 +5,11 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://nodejs.org](https://nodejs.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [nodejs 18.17.1](../modules/nodejs-.18.17.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [nodejs 16.15.1](../modules/nodejs-.16.15.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [nodejs 14.17.0](../modules/nodejs-.14.17.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [nodejs 18.17.1](../modules/nodejs-.18.17.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  | nodejs/18.17.1-gcccore-12.3.0 |  
+ | [nodejs 16.15.1](../modules/nodejs-.16.15.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | nodejs/16.15.1-gcccore-11.3.0 |  
+ | [nodejs 14.17.0](../modules/nodejs-.14.17.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | nodejs/14.17.0-gcccore-10.3.0 |  
   
 Node.js is a platform built on Chrome's JavaScript runtime
  for easily building fast, scalable network applications. Node.js uses an

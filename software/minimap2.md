@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [minimap2 2.24](../modules/minimap2-2.24-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [minimap2 2.24](../modules/minimap2-2.24-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | minimap2/2.24-gcccore-11.3.0 |  
   
 Minimap2 is a fast sequence mapping and alignment
 program that can find overlaps between long noisy reads, or map long

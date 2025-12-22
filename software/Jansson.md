@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.digip.org/jansson/](https://www.digip.org/jansson/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Jansson 2.14](../modules/jansson-2.14-gcc-11.3.0.md) | GCC-11.3.0 |  |  
- | [Jansson 2.14](../modules/jansson-.2.14-gcc-11.3.0.bak_20251013214429_2034437.md) | GCC-11.3.0 |  |  
+ | [Jansson 2.14](../modules/jansson-2.14-gcc-11.3.0.md) | GCC-11.3.0 |  | jansson/2.14-gcc-11.3.0 |  
+ | [Jansson 2.14](../modules/jansson-.2.14-gcc-11.3.0.bak_20251013214429_2034437.md) | GCC-11.3.0 |  | jansson/2.14-gcc-11.3.0 |  
   
 Jansson is a C library for encoding, decoding and manipulating JSON data.
  Its main features and design principles are:

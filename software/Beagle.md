@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://faculty.washington.edu/browning/beagle/beagle.html](https://faculty.washington.edu/browning/beagle/beagle.html)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Beagle 5.4.](../modules/beagle-5.4.22jul22.46e-java-11.md) |  |  |  
+ | [Beagle 5.4.22Jul22.46e-Java-11](../modules/beagle-5.4.22jul22.46e-java-11.md) | system-system |  | beagle/5.4.22jul22.46e-java-11 |  
   
 Beagle is a software package for phasing genotypes and for imputing
  ungenotyped markers.  

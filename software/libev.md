@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://software.schmorp.de/pkg/libev.html](http://software.schmorp.de/pkg/libev.html)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [libev 4.33](../modules/libev-.4.33-gcc-11.3.0.md) | GCC-11.3.0 | pic: True |  
+ | [libev 4.33](../modules/libev-.4.33-gcc-11.3.0.md) | GCC-11.3.0 | pic: True | libev/4.33-gcc-11.3.0 |  
   
 A full-featured and high-performance (see benchmark)
 event loop that is loosely modelled after libevent, but without its

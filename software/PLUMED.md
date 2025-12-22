@@ -5,11 +5,11 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.plumed.org](https://www.plumed.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [PLUMED 2.9.0](../modules/plumed-2.9.0-foss-2023a.md) | foss-2023a | usempi: True |  
- | [PLUMED 2.8.1](../modules/plumed-2.8.1-foss-2022a.md) | foss-2022a | usempi: True |  
- | [PLUMED 2.7.2](../modules/plumed-2.7.2-foss-2021a.md) | foss-2021a | usempi: True |  
+ | [PLUMED 2.9.0](../modules/plumed-2.9.0-foss-2023a.md) | foss-2023a | usempi: True | plumed/2.9.0-foss-2023a |  
+ | [PLUMED 2.8.1](../modules/plumed-2.8.1-foss-2022a.md) | foss-2022a | usempi: True | plumed/2.8.1-foss-2022a |  
+ | [PLUMED 2.7.2](../modules/plumed-2.7.2-foss-2021a.md) | foss-2021a | usempi: True | plumed/2.7.2-foss-2021a |  
   
 PLUMED is an open source library for free energy calculations in molecular systems which
  works together with some of the most popular molecular dynamics engines. Free energy calculations can be

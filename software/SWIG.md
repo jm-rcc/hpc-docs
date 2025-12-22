@@ -5,11 +5,11 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://www.swig.org/](http://www.swig.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [SWIG 4.1.1](../modules/swig-.4.1.1-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [SWIG 4.0.2](../modules/swig-.4.0.2-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [SWIG 4.0.2](../modules/swig-.4.0.2-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [SWIG 4.1.1](../modules/swig-.4.1.1-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | swig/4.1.1-gcccore-12.3.0 |  
+ | [SWIG 4.0.2](../modules/swig-.4.0.2-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | swig/4.0.2-gcccore-11.3.0 |  
+ | [SWIG 4.0.2](../modules/swig-.4.0.2-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | swig/4.0.2-gcccore-10.3.0 |  
   
 SWIG is a software development tool that connects programs written in C and C++ with
  a variety of high-level programming languages.  

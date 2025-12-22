@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://huttenhower.sph.harvard.edu/humann](http://huttenhower.sph.harvard.edu/humann)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [humann 3.6](../modules/humann-3.6-foss-2022a.md) | foss-2022a |  |  
+ | [humann 3.6](../modules/humann-3.6-foss-2022a.md) | foss-2022a |  | humann/3.6-foss-2022a |  
   
 HUMAnN v3 is a pipeline for efficiently
  and accurately determining the coverage and abundance

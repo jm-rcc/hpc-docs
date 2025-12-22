@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://github.com/tmux/tmux/](https://github.com/tmux/tmux/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [tmux 3.5a](../modules/tmux-3.5a.md) |  |  |  
+ | [tmux 3.5a](../modules/tmux-3.5a.md) | system-system |  | tmux/3.5a |  
   
 tmux is a terminal multiplexer: it enables a number of
 terminals to be created, accessed, and controlled from a single screen. tmux

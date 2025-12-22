@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://math.lbl.gov/voro++/](http://math.lbl.gov/voro++/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Voro++ 0.4.6](../modules/voro++-0.4.6-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [Voro++ 0.4.6](../modules/voro++-0.4.6-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [Voro++ 0.4.6](../modules/voro++-0.4.6-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | voro++/0.4.6-gcccore-12.3.0 |  
+ | [Voro++ 0.4.6](../modules/voro++-0.4.6-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | voro++/0.4.6-gcccore-10.3.0 |  
   
 Voro++ is a software library for carrying out three-dimensional computations of the Voronoi
 tessellation. A distinguishing feature of the Voro++ library is that it carries out cell-based calculations,

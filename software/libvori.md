@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://brehm-research.de/libvori.php](https://brehm-research.de/libvori.php)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [libvori 220621](../modules/libvori-220621-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [libvori 220621](../modules/libvori-220621-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | libvori/220621-gcccore-11.3.0 |  
   
 C++ library implementing the Voronoi integration as well as the compressed bqb
 file format. The present version of libvori is a very early development

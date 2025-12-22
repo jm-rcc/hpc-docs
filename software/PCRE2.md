@@ -5,11 +5,11 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.pcre.org/](https://www.pcre.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [PCRE2 10.42](../modules/pcre2-10.42-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [PCRE2 10.40](../modules/pcre2-10.40-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [PCRE2 10.36](../modules/pcre2-10.36-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [PCRE2 10.42](../modules/pcre2-10.42-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | pcre2/10.42-gcccore-12.3.0 |  
+ | [PCRE2 10.40](../modules/pcre2-10.40-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | pcre2/10.40-gcccore-11.3.0 |  
+ | [PCRE2 10.36](../modules/pcre2-10.36-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | pcre2/10.36-gcccore-10.3.0 |  
   
 The PCRE library is a set of functions that implement regular expression pattern matching using the same syntax
  and semantics as Perl 5.  

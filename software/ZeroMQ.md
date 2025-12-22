@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.zeromq.org/](https://www.zeromq.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [ZeroMQ 4.3.4](../modules/zeromq-.4.3.4-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [ZeroMQ 4.3.4](../modules/zeromq-.4.3.4-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [ZeroMQ 4.3.4](../modules/zeromq-.4.3.4-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | zeromq/4.3.4-gcccore-11.3.0 |  
+ | [ZeroMQ 4.3.4](../modules/zeromq-.4.3.4-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | zeromq/4.3.4-gcccore-10.3.0 |  
   
 ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.
  It gives you sockets that carry atomic messages across various transports like in-process,

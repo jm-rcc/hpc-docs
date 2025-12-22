@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.vicbioinformatics.com/software.prokka.shtml](https://www.vicbioinformatics.com/software.prokka.shtml)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [prokka 1.14.5](../modules/prokka-1.14.5-gompi-2022a.md) | gompi-2022a |  |  
- | [prokka 1.14.5](../modules/prokka-1.14.5-gompi-2021a.md) | gompi-2021a |  |  
+ | [prokka 1.14.5](../modules/prokka-1.14.5-gompi-2022a.md) | gompi-2022a |  | prokka/1.14.5-gompi-2022a |  
+ | [prokka 1.14.5](../modules/prokka-1.14.5-gompi-2021a.md) | gompi-2021a |  | prokka/1.14.5-gompi-2021a |  
   
 Prokka is a software tool for the rapid annotation of prokaryotic genomes.  
   

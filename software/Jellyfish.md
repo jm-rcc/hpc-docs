@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://www.genome.umd.edu/jellyfish.html](http://www.genome.umd.edu/jellyfish.html)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Jellyfish 2.3.0](../modules/jellyfish-2.3.0-gcc-11.3.0.md) | GCC-11.3.0 |  |  
- | [Jellyfish 2.3.0](../modules/jellyfish-2.3.0-gcc-10.3.0.md) | GCC-10.3.0 |  |  
+ | [Jellyfish 2.3.0](../modules/jellyfish-2.3.0-gcc-11.3.0.md) | GCC-11.3.0 |  | jellyfish/2.3.0-gcc-11.3.0 |  
+ | [Jellyfish 2.3.0](../modules/jellyfish-2.3.0-gcc-10.3.0.md) | GCC-10.3.0 |  | jellyfish/2.3.0-gcc-10.3.0 |  
   
 Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.  
   

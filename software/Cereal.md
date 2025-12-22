@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Cereal 1.3.0](../modules/cereal-1.3.0.md) |  |  |  
+ | [Cereal 1.3.0](../modules/cereal-1.3.0.md) | system-system |  | cereal/1.3.0 |  
   
 cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly
 turns them into different representations, such as compact binary encodings, XML, or JSON. cereal was designed to be

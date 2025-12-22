@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.bioinformatics.babraham.ac.uk/projects/fastqc/](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [FastQC 0.11.9](../modules/fastqc-0.11.9-java-11.md) |  |  |  
- | [FastQC 0.11.9](../modules/fastqc-.0.11.9-java-11.bak_20251013200142_1777895.md) |  |  |  
+ | [FastQC 0.11.9-Java-11](../modules/fastqc-0.11.9-java-11.md) | system-system |  | fastqc/0.11.9-java-11 |  
+ | [FastQC 0.11.9-Java-11](../modules/fastqc-.0.11.9-java-11.bak_20251013200142_1777895.md) | system-system |  | fastqc/0.11.9-java-11 |  
   
 FastQC is a quality control application for high throughput
 sequence data. It reads in sequence data in a variety of formats and can either

@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://www.diracprogram.org](http://www.diracprogram.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [DIRAC 25.0](../modules/dirac-25.0-intel-2023a-int64.md) | intel-2023a | usempi: True, i8: True, oneapi: False |  
+ | [DIRAC 25.0-int64](../modules/dirac-25.0-intel-2023a-int64.md) | intel-2023a | usempi: True, i8: True, oneapi: False | dirac/25.0-intel-2023a-int64 |  
   
 DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations  
   

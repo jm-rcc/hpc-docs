@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [VSCode 1.87.0](../modules/vscode-1.87.0.md) | system-system |  |  
+ | [VSCode 1.87.0](../modules/vscode-1.87.0.md) | system-system |  | vscode/1.87.0 |  
   
 Visual Studio Code is a lightweight but powerful source code editor 
     which runs on your desktop and is available for Windows, macOS and 

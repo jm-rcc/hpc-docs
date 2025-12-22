@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [MDI 1.4.26](../modules/mdi-1.4.26-gompi-2023a.md) | gompi-2023a |  |  
+ | [MDI 1.4.26](../modules/mdi-1.4.26-gompi-2023a.md) | gompi-2023a |  | mdi/1.4.26-gompi-2023a |  
   
 The MolSSI Driver Interface (MDI) project provides a
 standardized API for fast, on-the-fly communication between computational

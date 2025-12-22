@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://code.google.com/p/openpgm/](https://code.google.com/p/openpgm/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [OpenPGM 5.2.122](../modules/openpgm-.5.2.122-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [OpenPGM 5.2.122](../modules/openpgm-.5.2.122-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [OpenPGM 5.2.122](../modules/openpgm-.5.2.122-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | openpgm/5.2.122-gcccore-11.3.0 |  
+ | [OpenPGM 5.2.122](../modules/openpgm-.5.2.122-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | openpgm/5.2.122-gcccore-10.3.0 |  
   
 OpenPGM is an open source implementation of the Pragmatic General Multicast
  (PGM) specification in RFC 3208 available at www.ietf.org. PGM is a reliable

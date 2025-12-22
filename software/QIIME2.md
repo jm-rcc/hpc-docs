@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [http://qiime2.org/](http://qiime2.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [QIIME2 2022.8](../modules/qiime2-2022.8.md) |  |  |  
+ | [QIIME2 2022.8](../modules/qiime2-2022.8.md) | system-system |  | qiime2/2022.8 |  
   
 QIIME is an open-source bioinformatics pipeline for performing microbiome analysis
  from raw DNA sequencing data.  

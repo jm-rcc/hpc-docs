@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.opus-codec.org/](https://www.opus-codec.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [libopus 1.3.1](../modules/libopus-1.3.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [libopus 1.3.1](../modules/libopus-1.3.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | libopus/1.3.1-gcccore-11.3.0 |  
   
 Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive
  speech and music transmission over the Internet, but is also intended for storage and streaming applications. It is

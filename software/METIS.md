@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://karypis.github.io/glaros/projects/gp.html](https://karypis.github.io/glaros/projects/gp.html)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [METIS 5.1.0](../modules/metis-5.1.0-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [METIS 5.1.0](../modules/metis-5.1.0-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [METIS 5.1.0](../modules/metis-5.1.0-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | metis/5.1.0-gcccore-11.3.0 |  
+ | [METIS 5.1.0](../modules/metis-5.1.0-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | metis/5.1.0-gcccore-10.3.0 |  
   
 METIS is a set of serial programs for partitioning graphs, partitioning
  finite element meshes, and producing fill reducing orderings for sparse

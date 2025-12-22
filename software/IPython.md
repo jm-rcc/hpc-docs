@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://ipython.org/index.html](https://ipython.org/index.html)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [IPython 8.5.0](../modules/ipython-.8.5.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [IPython 7.25.0](../modules/ipython-.7.25.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [IPython 8.5.0](../modules/ipython-.8.5.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | ipython/8.5.0-gcccore-11.3.0 |  
+ | [IPython 7.25.0](../modules/ipython-.7.25.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | ipython/7.25.0-gcccore-10.3.0 |  
   
 IPython provides a rich architecture for interactive computing with:
  Powerful interactive shells (terminal and Qt-based).

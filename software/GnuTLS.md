@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.gnutls.org](https://www.gnutls.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [GnuTLS 3.7.8](../modules/gnutls-3.7.8-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [GnuTLS 3.7.8](../modules/gnutls-3.7.8-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | gnutls/3.7.8-gcccore-11.3.0 |  
   
 GnuTLS is a secure communications library implementing the SSL, TLS
  and DTLS protocols and technologies around them. It provides a simple

@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.mpfr.org](https://www.mpfr.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [MPFR 4.1.0](../modules/mpfr-4.1.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [MPFR 4.1.0](../modules/mpfr-4.1.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [MPFR 4.1.0](../modules/mpfr-4.1.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | mpfr/4.1.0-gcccore-11.3.0 |  
+ | [MPFR 4.1.0](../modules/mpfr-4.1.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | mpfr/4.1.0-gcccore-10.3.0 |  
   
 The MPFR library is a C library for multiple-precision floating-point
  computations with correct rounding.  

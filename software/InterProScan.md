@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.ebi.ac.uk/interpro/](https://www.ebi.ac.uk/interpro/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [InterProScan 5.55-88.0](../modules/interproscan-5.55-88.0-foss-2021a.md) | foss-2021a |  |  
+ | [InterProScan 5.55-88.0](../modules/interproscan-5.55-88.0-foss-2021a.md) | foss-2021a |  | interproscan/5.55-88.0-foss-2021a |  
   
 InterProScan is a sequence analysis application (nucleotide and protein sequences) that combines
  different protein signature recognition methods into one resource [code only: libraries and external binaries

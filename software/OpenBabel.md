@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://openbabel.org](https://openbabel.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [OpenBabel 3.1.1](../modules/openbabel-3.1.1-gompi-2022a.md) | gompi-2022a | pic: True, optarch: mavx2 |  
- | [OpenBabel 3.1.1](../modules/openbabel-3.1.1-gompi-2021a.md) | gompi-2021a | pic: True, optarch: mavx2 |  
+ | [OpenBabel 3.1.1](../modules/openbabel-3.1.1-gompi-2022a.md) | gompi-2022a | pic: True, optarch: mavx2 | openbabel/3.1.1-gompi-2022a |  
+ | [OpenBabel 3.1.1](../modules/openbabel-3.1.1-gompi-2021a.md) | gompi-2021a | pic: True, optarch: mavx2 | openbabel/3.1.1-gompi-2021a |  
   
 Open Babel is a chemical toolbox designed to speak the many
  languages of chemical data. It's an open, collaborative project allowing anyone

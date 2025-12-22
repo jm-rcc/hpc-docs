@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://bowtie-bio.sourceforge.net/bowtie2/index.shtml](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Bowtie2 2.4.5](../modules/bowtie2-2.4.5-gcc-11.3.0.md) | GCC-11.3.0 | pic: True |  
- | [Bowtie2 2.4.4](../modules/bowtie2-2.4.4-gcc-10.3.0.md) | GCC-10.3.0 | pic: True |  
+ | [Bowtie2 2.4.5](../modules/bowtie2-2.4.5-gcc-11.3.0.md) | GCC-11.3.0 | pic: True | bowtie2/2.4.5-gcc-11.3.0 |  
+ | [Bowtie2 2.4.4](../modules/bowtie2-2.4.4-gcc-10.3.0.md) | GCC-10.3.0 | pic: True | bowtie2/2.4.4-gcc-10.3.0 |  
   
 Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads
  to long reference sequences. It is particularly good at aligning reads of about 50 up to 100s or 1,000s

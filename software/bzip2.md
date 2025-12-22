@@ -5,13 +5,13 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://sourceware.org/bzip2](https://sourceware.org/bzip2)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-14.2.0.md) | GCCcore-14.2.0 | pic: True |  
- | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True |  
- | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-14.2.0.md) | GCCcore-14.2.0 | pic: True | bzip2/1.0.8-gcccore-14.2.0 |  
+ | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True | bzip2/1.0.8-gcccore-13.3.0 |  
+ | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | bzip2/1.0.8-gcccore-12.3.0 |  
+ | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | bzip2/1.0.8-gcccore-11.3.0 |  
+ | [bzip2 1.0.8](../modules/bzip2-.1.0.8-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | bzip2/1.0.8-gcccore-10.3.0 |  
   
 bzip2 is a freely available, patent free, high-quality data compressor. It
  typically compresses files to within 10% to 15% of the best available

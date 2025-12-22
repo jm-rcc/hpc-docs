@@ -5,13 +5,13 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://github.com/numactl/numactl](https://github.com/numactl/numactl)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [numactl 2.0.19](../modules/numactl-.2.0.19-gcccore-14.2.0.md) | GCCcore-14.2.0 | pic: True |  
- | [numactl 2.0.18](../modules/numactl-.2.0.18-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True |  
- | [numactl 2.0.16](../modules/numactl-.2.0.16-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [numactl 2.0.14](../modules/numactl-.2.0.14-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [numactl 2.0.14](../modules/numactl-.2.0.14-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [numactl 2.0.19](../modules/numactl-.2.0.19-gcccore-14.2.0.md) | GCCcore-14.2.0 | pic: True | numactl/2.0.19-gcccore-14.2.0 |  
+ | [numactl 2.0.18](../modules/numactl-.2.0.18-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True | numactl/2.0.18-gcccore-13.3.0 |  
+ | [numactl 2.0.16](../modules/numactl-.2.0.16-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | numactl/2.0.16-gcccore-12.3.0 |  
+ | [numactl 2.0.14](../modules/numactl-.2.0.14-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | numactl/2.0.14-gcccore-11.3.0 |  
+ | [numactl 2.0.14](../modules/numactl-.2.0.14-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | numactl/2.0.14-gcccore-10.3.0 |  
   
 The numactl program allows you to run your application program on specific
  cpu's and memory nodes. It does this by supplying a NUMA memory policy to

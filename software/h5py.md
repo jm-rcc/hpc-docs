@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.h5py.org/](https://www.h5py.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [h5py 3.2.1](../modules/h5py-3.2.1-foss-2021a.md) | foss-2021a | usempi: True |  
+ | [h5py 3.2.1](../modules/h5py-3.2.1-foss-2021a.md) | foss-2021a | usempi: True | h5py/3.2.1-foss-2021a |  
   
 HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical Data Format library,
  version 5. HDF5 is a versatile, mature scientific software library designed for the fast, flexible storage of enormous

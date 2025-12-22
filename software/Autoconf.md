@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
- | [Autoconf 2.71](../modules/autoconf-.2.71.md) |  |  |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | autoconf/2.71-gcccore-10.3.0 |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71.md) | system-system |  | autoconf/2.71 |  
   
 Autoconf is an extensible package of M4 macros that produce shell scripts
  to automatically configure software source code packages. These scripts can adapt the
@@ -18,12 +18,12 @@ Autoconf is an extensible package of M4 macros that produce shell scripts
   
 ----  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Autoconf 2.72](../modules/autoconf-.2.72-gcccore-14.2.0.md) | GCCcore-14.2.0 |  |  
- | [Autoconf 2.72](../modules/autoconf-.2.72-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
- | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [Autoconf 2.72](../modules/autoconf-.2.72-gcccore-14.2.0.md) | GCCcore-14.2.0 |  | autoconf/2.72-gcccore-14.2.0 |  
+ | [Autoconf 2.72](../modules/autoconf-.2.72-gcccore-13.3.0.md) | GCCcore-13.3.0 |  | autoconf/2.72-gcccore-13.3.0 |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-12.3.0.md) | GCCcore-12.3.0 |  | autoconf/2.71-gcccore-12.3.0 |  
+ | [Autoconf 2.71](../modules/autoconf-.2.71-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | autoconf/2.71-gcccore-11.3.0 |  
   
 Autoconf is an extensible package of M4 macros that produce shell scripts
  to automatically configure software source code packages. These scripts can

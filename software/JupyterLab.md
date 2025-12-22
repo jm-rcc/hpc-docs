@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://jupyter.org/](https://jupyter.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [JupyterLab 3.5.0](../modules/jupyterlab-3.5.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
+ | [JupyterLab 3.5.0](../modules/jupyterlab-3.5.0-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | jupyterlab/3.5.0-gcccore-11.3.0 |  
   
 JupyterLab is the next-generation user interface for Project Jupyter offering all the familiar
  building blocks of the classic Jupyter Notebook (notebook, terminal, text editor, file browser, rich outputs,

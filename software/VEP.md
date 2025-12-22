@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [VEP 107](../modules/vep-107-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [VEP 107](../modules/vep-107-gcc-11.3.0.md) | GCC-11.3.0 |  | vep/107-gcc-11.3.0 |  
   
 Variant Effect Predictor (VEP) determines the effect of your
  variants (SNPs, insertions, deletions, CNVs or structural variants) on genes,

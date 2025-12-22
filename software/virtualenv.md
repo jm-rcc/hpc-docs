@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://github.com/pypa/virtualenv](https://github.com/pypa/virtualenv)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [virtualenv 20.23.1](../modules/virtualenv-20.23.1-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
+ | [virtualenv 20.23.1](../modules/virtualenv-20.23.1-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | virtualenv/20.23.1-gcccore-12.3.0 |  
   
 A tool for creating isolated virtual python environments.  
   

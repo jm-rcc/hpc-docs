@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://github.com/schrodinger/maeparser](https://github.com/schrodinger/maeparser)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [maeparser 1.3.0](../modules/maeparser-1.3.0-gompi-2022a.md) | gompi-2022a |  |  
- | [maeparser 1.3.0](../modules/maeparser-1.3.0-gompi-2021a.md) | gompi-2021a |  |  
+ | [maeparser 1.3.0](../modules/maeparser-1.3.0-gompi-2022a.md) | gompi-2022a |  | maeparser/1.3.0-gompi-2022a |  
+ | [maeparser 1.3.0](../modules/maeparser-1.3.0-gompi-2021a.md) | gompi-2021a |  | maeparser/1.3.0-gompi-2021a |  
   
 maeparser is a parser for Schrodinger Maestro files.  
   

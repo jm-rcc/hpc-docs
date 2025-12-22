@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://wayland.freedesktop.org/](https://wayland.freedesktop.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Wayland 1.23.0](../modules/wayland-1.23.0-gcccore-13.3.0.md) | GCCcore-13.3.0 |  |  
- | [Wayland 1.22.0](../modules/wayland-1.22.0-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [Wayland 1.23.0](../modules/wayland-1.23.0-gcccore-13.3.0.md) | GCCcore-13.3.0 |  | wayland/1.23.0-gcccore-13.3.0 |  
+ | [Wayland 1.22.0](../modules/wayland-1.22.0-gcccore-12.3.0.md) | GCCcore-12.3.0 |  | wayland/1.22.0-gcccore-12.3.0 |  
   
 Wayland is a project to define a protocol for a compositor to talk to
  its clients as well as a library implementation of the protocol.  The

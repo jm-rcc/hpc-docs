@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.lua.org/](https://www.lua.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Lua 5.4.4](../modules/lua-5.4.4-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [Lua 5.4.3](../modules/lua-5.4.3-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [Lua 5.4.4](../modules/lua-5.4.4-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | lua/5.4.4-gcccore-11.3.0 |  
+ | [Lua 5.4.3](../modules/lua-5.4.3-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | lua/5.4.3-gcccore-10.3.0 |  
   
 Lua is a powerful, fast, lightweight, embeddable scripting language.
  Lua combines simple procedural syntax with powerful data description constructs based

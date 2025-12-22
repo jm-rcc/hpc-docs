@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://xerces.apache.org/xerces-c/](https://xerces.apache.org/xerces-c/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Xerces-C++ 3.2.4](../modules/xerces-c++-3.2.4-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
+ | [Xerces-C++ 3.2.4](../modules/xerces-c++-3.2.4-gcccore-12.3.0.md) | GCCcore-12.3.0 |  | xerces-c++/3.2.4-gcccore-12.3.0 |  
   
 Xerces-C++ is a validating XML parser written in a portable
 subset of C++. Xerces-C++ makes it easy to give your application the ability to

@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://metacpan.org/release/Bio-DB-HTS](https://metacpan.org/release/Bio-DB-HTS)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Bio-DB-HTS 3.01](../modules/bio-db-hts-3.01-gcc-11.3.0.md) | GCC-11.3.0 |  |  
+ | [Bio-DB-HTS 3.01](../modules/bio-db-hts-3.01-gcc-11.3.0.md) | GCC-11.3.0 |  | bio-db-hts/3.01-gcc-11.3.0 |  
   
 Read files using HTSlib including BAM/CRAM, Tabix and BCF database files  
   

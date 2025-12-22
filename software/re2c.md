@@ -2,15 +2,15 @@
 # re2c  
 Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
 ## Homepage  
-[https://re2c.org/](https://re2c.org/)  
 [https://re2c.org](https://re2c.org)  
+[https://re2c.org/](https://re2c.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [re2c 3.1](../modules/re2c-3.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  |  
- | [re2c 2.2](../modules/re2c-2.2-gcccore-11.3.0.md) | GCCcore-11.3.0 |  |  
- | [re2c 2.1.1](../modules/re2c-2.1.1-gcccore-10.3.0.md) | GCCcore-10.3.0 |  |  
+ | [re2c 3.1](../modules/re2c-3.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  | re2c/3.1-gcccore-12.3.0 |  
+ | [re2c 2.2](../modules/re2c-2.2-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | re2c/2.2-gcccore-11.3.0 |  
+ | [re2c 2.1.1](../modules/re2c-2.1.1-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | re2c/2.1.1-gcccore-10.3.0 |  
   
 re2c is a free and open-source lexer generator for C and C++. Its main goal is generating
 fast lexers: at least as fast as their reasonably optimized hand-coded counterparts. Instead of using

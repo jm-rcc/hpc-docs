@@ -5,10 +5,10 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://www.openssl.org/](https://www.openssl.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [OpenSSL 3](../modules/openssl-3.md) |  |  |  
- | [OpenSSL 1.1](../modules/openssl-1.1.md) |  |  |  
+ | [OpenSSL 3](../modules/openssl-3.md) | system-system |  | openssl/3 |  
+ | [OpenSSL 1.1](../modules/openssl-1.1.md) | system-system |  | openssl/1.1 |  
   
 The OpenSSL Project is a collaborative effort to develop a robust, commercial-grade, full-featured,
  and Open Source toolchain implementing the Secure Sockets Layer (SSL v2/v3) and Transport Layer Security (TLS v1)

@@ -5,9 +5,9 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://julialang.org](https://julialang.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Julia 1.8.2](../modules/julia-1.8.2-linux-x86_64.md) |  |  |  
+ | [Julia 1.8.2-linux-x86_64](../modules/julia-1.8.2-linux-x86_64.md) | system-system |  | julia/1.8.2-linux-x86_64 |  
   
 Julia is a high-level, high-performance dynamic programming language for numerical computing  
   

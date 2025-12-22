@@ -5,11 +5,11 @@ Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all
 [https://support.hdfgroup.org/doc_resource/SZIP/](https://support.hdfgroup.org/doc_resource/SZIP/)  
 ## Installed versions  
   
-| Version | Toolchain | Options |  
+| Version | Toolchain | Options | Module |  
 | :--------- | :--- | :--- |  
- | [Szip 2.1.1](../modules/szip-.2.1.1-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True |  
- | [Szip 2.1.1](../modules/szip-.2.1.1-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True |  
- | [Szip 2.1.1](../modules/szip-.2.1.1-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True |  
+ | [Szip 2.1.1](../modules/szip-.2.1.1-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | szip/2.1.1-gcccore-12.3.0 |  
+ | [Szip 2.1.1](../modules/szip-.2.1.1-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | szip/2.1.1-gcccore-11.3.0 |  
+ | [Szip 2.1.1](../modules/szip-.2.1.1-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | szip/2.1.1-gcccore-10.3.0 |  
   
 Szip compression software, providing lossless compression of scientific data  
   
