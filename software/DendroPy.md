@@ -2,8 +2,8 @@
 # DendroPy  
 Category: bio  
 ## Homepage  
-[https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
 [https://dendropy.org/](https://dendropy.org/)  
+[https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

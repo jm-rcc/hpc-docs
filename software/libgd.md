@@ -2,8 +2,8 @@
 # libgd  
 Category: lib  
 ## Homepage  
-[https://libgd.github.io](https://libgd.github.io)  
 [https://libgd.github.io/](https://libgd.github.io/)  
+[https://libgd.github.io](https://libgd.github.io)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

@@ -2,8 +2,8 @@
 # ICU  
 Category: lib  
 ## Homepage  
-[https://icu-project.org/](https://icu-project.org/)  
 [https://icu.unicode.org](https://icu.unicode.org)  
+[https://icu-project.org/](https://icu-project.org/)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  
