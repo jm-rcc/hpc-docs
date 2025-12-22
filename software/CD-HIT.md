@@ -2,8 +2,8 @@
 # CD-HIT  
 Category: bio  
 ## Homepage  
-[https://github.com/weizhongli/cdhit/wiki](https://github.com/weizhongli/cdhit/wiki)  
 [http://weizhongli-lab.org/cd-hit/](http://weizhongli-lab.org/cd-hit/)  
+[https://github.com/weizhongli/cdhit/wiki](https://github.com/weizhongli/cdhit/wiki)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

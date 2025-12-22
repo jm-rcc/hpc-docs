@@ -2,8 +2,8 @@
 # jemalloc  
 Category: lib  
 ## Homepage  
-[http://jemalloc.net](http://jemalloc.net)  
 [https://jemalloc.net](https://jemalloc.net)  
+[http://jemalloc.net](http://jemalloc.net)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

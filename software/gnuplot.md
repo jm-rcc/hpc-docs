@@ -2,8 +2,8 @@
 # gnuplot  
 Category: vis  
 ## Homepage  
-[http://gnuplot.sourceforge.net](http://gnuplot.sourceforge.net)  
 [http://gnuplot.sourceforge.net/](http://gnuplot.sourceforge.net/)  
+[http://gnuplot.sourceforge.net](http://gnuplot.sourceforge.net)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  
