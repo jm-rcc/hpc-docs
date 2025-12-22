@@ -1,2983 +1,3406 @@
 # Software Modules on Bunya  
-### ABRicate  
   
-1.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ABRicate | . |  .
   
-### alsa-lib  
+ABRicate 1.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.2.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Anaconda3  
+alsa-lib | . |  .
   
-2022.05 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+alsa-lib 1.2.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023.09-0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Ansys-dependencies  
+Anaconda3 | . |  .
   
-2023 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Anaconda3 2022.05 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### ant  
+Anaconda3 2023.09-0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.10.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
   
-1.10.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100   
+Ansys-dependencies | . |  .
   
-### any2fasta  
+Ansys-dependencies 2023 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.4.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### AOCL-BLAS  
+ant | . |  .
   
-5.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+ant 1.10.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### Archive-Zip  
+ant 1.10.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.68 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### archspec  
+any2fasta | . |  .
   
-0.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+any2fasta 0.4.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.2.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-0.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4   
+AOCL-BLAS | . |  .
   
-### Armadillo  
+AOCL-BLAS 5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-12.6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
   
-### arpack-ng  
+Archive-Zip | . |  .
   
-3.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+Archive-Zip 1.68 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### at-spi2-atk  
   
-2.38.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+archspec | . |  .
   
-2.38.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+archspec 0.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### at-spi2-core  
+archspec 0.2.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.49.91 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+archspec 0.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.44.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### ATK  
+Armadillo | . |  .
   
-2.38.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Armadillo 12.6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.38.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### AUGUSTUS  
+arpack-ng | . |  .
   
-3.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+arpack-ng 3.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### Autoconf  
+at-spi2-atk | . |  .
   
-2.71 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+at-spi2-atk 2.38.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.72 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+at-spi2-atk 2.38.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.71 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.71 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+at-spi2-core | . |  .
   
-2.72 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+at-spi2-core 2.44.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.71 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+at-spi2-core 2.49.91 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Automake  
   
-1.16.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ATK | . |  .
   
-1.16.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ATK 2.38.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.17 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+ATK 2.38.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.16.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.16.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+AUGUSTUS | . |  .
   
-1.16.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+AUGUSTUS 3.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Autotools  
+AUGUSTUS 3.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-20220317 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-20210128 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autoconf | . |  .
   
-20231222 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autoconf 2.71 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20220317 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autoconf 2.71 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20240712 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+Autoconf 2.72 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20220317 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autoconf 2.71 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BamTools  
+Autoconf 2.71 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autoconf 2.72 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### BBMap  
+Automake | . |  .
   
-39.01 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Automake 1.16.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-38.96 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Automake 1.16.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BCFtools  
+Automake 1.16.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Automake 1.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.15.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Automake 1.16.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Automake 1.16.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.15.1 |  | epyc3 mi210   
   
-### bcl2fastq2  
+Autotools | . |  .
   
-2.20.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autotools 20231222 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Beagle  
+Autotools 20220317 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.4.22Jul22.46e |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autotools 20240712 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### beagle-lib  
+Autotools 20220317 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Autotools 20220317 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+Autotools 20210128 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BeautifulSoup  
   
-4.10.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BamTools | . |  .
   
-### BEDTools  
+BamTools 2.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.30.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BamTools 2.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.30.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### binutils  
+BBMap | . |  .
   
-2.35 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BBMap 39.01 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.38 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BBMap 38.96 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.38 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.40 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BCFtools | . |  .
   
-2.42 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+BCFtools 1.15.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.42 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BCFtools 1.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.36.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BCFtools 1.15.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-2.40 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BCFtools 1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.42 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.36.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+bcl2fastq2 | . |  .
   
-### Bio-DB-HTS  
+bcl2fastq2 2.20.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.01 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Bio-SearchIO-hmmer  
+Beagle | . |  .
   
-1.7.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Beagle 5.4.22Jul22.46e |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.7.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### BioPerl  
+beagle-lib | . |  .
   
-1.7.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+beagle-lib 3.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.7.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+beagle-lib 4.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Biopython  
   
-1.79 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BeautifulSoup | . |  .
   
-1.79 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+BeautifulSoup 4.10.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Bison  
   
-3.8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BEDTools | . |  .
   
-3.8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BEDTools 2.30.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.8.2 |  | epyc3 a100 epyc3 l40 epyc3 epyc4 a16 epyc4 xeonsp4 h100   
+BEDTools 2.30.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.7.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+binutils | . |  .
   
-3.8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+binutils 2.38 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BLAST  
+binutils 2.42 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.11.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+binutils 2.35 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BLAST+  
+binutils 2.40 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.11.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+binutils 2.40 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.13.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+binutils 2.42 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### BLAT  
+binutils 2.36.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
+binutils 2.42 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BLIS  
+binutils 2.38 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+binutils 2.36.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bio-DB-HTS | . |  .
   
-0.8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Bio-DB-HTS 3.01 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Boost  
+Bio-SearchIO-hmmer | . |  .
   
-1.82.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bio-SearchIO-hmmer 1.7.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.76.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bio-SearchIO-hmmer 1.7.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.79.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Boost.Python  
+BioPerl | . |  .
   
-1.76.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BioPerl 1.7.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.79.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BioPerl 1.7.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Bowtie  
   
-1.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
+Biopython | . |  .
   
-### Bowtie2  
+Biopython 1.79 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.4.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Biopython 1.79 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.4.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Brotli  
+Bison | . |  .
   
-1.0.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bison 3.7.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bison 3.8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bison 3.8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+Bison 3.8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Brunsli  
+Bison 3.8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+Bison 3.8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BUSCO  
   
-5.4.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+BLAST | . |  .
   
-5.4.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLAST 2.11.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### BWA  
   
-0.7.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLAST+ | . |  .
   
-0.7.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLAST+ 2.11.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### bzip2  
+BLAST+ 2.13.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.0.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLAT | . |  .
   
-1.0.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLAT 3.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.8 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-1.0.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLIS | . |  .
   
-### c-ares  
+BLIS 1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.18.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLIS 0.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### cairo  
+BLIS 1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.17.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLIS 0.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.17.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BLIS 0.8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.16.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### canu  
+Boost | . |  .
   
-2.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Boost 1.79.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Boost 1.82.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### CapnProto  
+Boost 1.76.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.9.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### Catch2  
+Boost.Python | . |  .
   
-2.13.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Boost.Python 1.76.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### CD-HIT  
+Boost.Python 1.79.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bowtie | . |  .
   
-### CellRanger  
+Bowtie 1.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-7.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### CellRanger-ARC  
+Bowtie2 | . |  .
   
-2.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Bowtie2 2.4.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Cereal  
+Bowtie2 2.4.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
   
-### cffi  
+Brotli | . |  .
   
-1.15.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Brotli 1.0.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### CFITSIO  
+Brotli 1.0.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+Brotli 1.0.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### CheckM  
+Brotli 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.1.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-1.2.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Brunsli | . |  .
   
-### CheckM-Database  
+Brunsli 0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2015_01_16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Clang  
+BUSCO | . |  .
   
-13.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+BUSCO 5.4.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-18.1.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+BUSCO 5.4.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-12.0.1 |  | epyc3 epyc4 xeonsp4   
   
-15.0.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+BWA | . |  .
   
-### CMake  
+BWA 0.7.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.18.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
+BWA 0.7.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.23.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.26.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+bzip2 | . |  .
   
-3.31.3 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+bzip2 1.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.12.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
+bzip2 1.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.20.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+bzip2 1.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.24.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+bzip2 1.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.29.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+bzip2 1.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Compress-Raw-Zlib  
   
-2.202 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+c-ares | . |  .
   
-### CoordgenLibs  
+c-ares 1.18.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+cairo | . |  .
   
-### CP2K  
+cairo 1.17.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-9.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+cairo 1.16.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+cairo 1.17.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### cpio  
   
-2.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+canu | . |  .
   
-### cppy  
+canu 2.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+canu 2.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### cryptography  
+CapnProto | . |  .
   
-41.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CapnProto 0.9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### CUDA  
   
-12.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+Catch2 | . |  .
   
-12.6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+Catch2 2.13.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-11.7.0 |  | epyc3 a100 epyc3 l40   
   
-11.8.0 |  | epyc3 a100 epyc3 l40   
+CD-HIT | . |  .
   
-12.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+CD-HIT 4.8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### cuDNN  
+CD-HIT 4.8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.9.2.26 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
   
-8.4.1.50 |  | epyc3 a100 epyc3 l40   
+CellRanger | . |  .
   
-### CUnit  
+CellRanger 7.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1-3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### cURL  
+CellRanger-ARC | . |  .
   
-7.76.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CellRanger-ARC 2.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-8.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Cereal | . |  .
   
-7.83.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Cereal 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.11.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-### cutadapt  
+cffi | . |  .
   
-4.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+cffi 1.15.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Cython  
+CFITSIO | . |  .
   
-3.0.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CFITSIO 4.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### DB  
   
-18.1.40 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CheckM | . |  .
   
-18.1.40 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CheckM 1.2.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### DB_File  
+CheckM 1.1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.856 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.858 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CheckM-Database | . |  .
   
-### DBD-mysql  
+CheckM-Database 2015_01_16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.050 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### DBus  
+Clang | . |  .
   
-1.13.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Clang 13.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.14.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Clang 18.1.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.15.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Clang 12.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### deepTools  
+Clang 15.0.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-3.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CMake | . |  .
   
-### DendroPy  
+CMake 3.23.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CMake 3.29.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+CMake 3.20.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### DIAMOND  
+CMake 3.31.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.0.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CMake 3.26.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CMake 3.24.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### DIRAC  
+CMake 3.12.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-25.0 |  | epyc3 epyc4   
+CMake 3.18.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### double-conversion  
   
-3.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Compress-Raw-Zlib | . |  .
   
-3.1.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Compress-Raw-Zlib 2.202 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
   
-### Doxygen  
+CoordgenLibs | . |  .
   
-1.9.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CoordgenLibs 3.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.9.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CoordgenLibs 3.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.11.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
   
-1.9.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CP2K | . |  .
   
-### EasyBuild  
+CP2K 8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-5.1.0 |  | epyc3 a100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CP2K 9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.1.1 |  | epyc3 h100   
   
-### Eigen  
+cpio | . |  .
   
-3.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+cpio 2.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.3.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+cppy | . |  .
   
-### elfutils  
+cppy 1.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.185 |  | epyc3 epyc4 xeonsp4   
+cppy 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-0.187 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### ELPA  
+cryptography | . |  .
   
-2021.05.001 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4   
+cryptography 41.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021.11.001 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### expat  
+CUDA | . |  .
   
-2.4.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CUDA 12.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.2.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CUDA 12.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CUDA 12.6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+CUDA 11.8.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65)   
   
-### fastahack  
+CUDA 11.7.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65)   
   
-1.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### FastANI  
+cuDNN | . |  .
   
-1.33 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+cuDNN 8.4.1.50 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65)   
   
-### fastp  
+cuDNN 8.9.2.26 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.23.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### FastQC  
+CUnit | . |  .
   
-0.11.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+CUnit 2.1-3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.11.9 |  | epyc3 mi210   
   
-### FastTree  
+cURL | . |  .
   
-2.1.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+cURL 8.11.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### fermi-lite  
+cURL 7.76.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20190320 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+cURL 8.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### FFmpeg  
+cURL 7.83.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+cURL 8.7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.3.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### ffnvcodec  
+cutadapt | . |  .
   
-12.0.16.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+cutadapt 3.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-11.1.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+cutadapt 4.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### FFTW  
   
-3.3.10 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+Cython | . |  .
   
-3.3.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Cython 3.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.3.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.3.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100   
+DB | . |  .
   
-3.3.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DB 18.1.40 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### FFTW.MPI  
+DB 18.1.40 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.3.10 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-3.3.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DB_File | . |  .
   
-3.3.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DB_File 1.856 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.3.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DB_File 1.858 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### file  
   
-5.40 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DBD-mysql | . |  .
   
-5.43 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DBD-mysql 4.050 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### filevercmp  
   
-20191210 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+DBus | . |  .
   
-### FLAC  
+DBus 1.14.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DBus 1.13.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+DBus 1.15.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### flex  
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+deepTools | . |  .
   
-2.6.4 |  | epyc3 mi210   
+deepTools 3.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+deepTools 3.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.6.4 |  | epyc3 mi210   
+DendroPy | . |  .
   
-2.6.4 |  | epyc3 mi210   
+DendroPy 4.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DendroPy 4.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.6.4 |  | epyc3 a100 epyc3 l40 epyc3 epyc4 a16 epyc4 xeonsp4 h100   
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DIAMOND | . |  .
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DIAMOND 2.0.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DIAMOND 2.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### FlexiBLAS  
+DIRAC | . |  .
   
-3.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+DIRAC 25.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.4.5 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-3.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+double-conversion | . |  .
   
-3.4.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+double-conversion 3.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.0.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+double-conversion 3.1.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### flit  
+double-conversion 3.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Flye  
+Doxygen | . |  .
   
-2.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Doxygen 1.9.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### fontconfig  
+Doxygen 1.9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.13.93 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Doxygen 1.11.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.15.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+Doxygen 1.9.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.14.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.14.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+EasyBuild | . |  .
   
-### foss  
+EasyBuild 5.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+EasyBuild 5.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-2022a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2023a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Eigen | . |  .
   
-2024a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Eigen 3.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2025a |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+Eigen 3.3.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### freebayes  
+Eigen 3.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### freetype  
+elfutils | . |  .
   
-2.10.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+elfutils 0.185 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.13.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+elfutils 0.187 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.13.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.12.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ELPA | . |  .
   
-### FriBidi  
+ELPA 2021.05.001 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.0.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ELPA 2021.11.001 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.0.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+expat | . |  .
   
-### fsom  
+expat 2.4.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20141119 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+expat 2.6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### GATK  
+expat 2.2.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.3.0.0 |  | epyc3 mi210   
+expat 2.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.3.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### gc  
+fastahack | . |  .
   
-8.2.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+fastahack 1.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### GCC  
   
-11.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FastANI | . |  .
   
-10.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FastANI 1.33 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-14.2.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-12.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+fastp | . |  .
   
-13.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+fastp 0.23.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### GCCcore  
   
-13.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FastQC | . |  .
   
-11.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FastQC 0.11.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-14.2.0 |  | epyc3 a100 epyc3 l40 epyc3 epyc4 a16 epyc4 xeonsp4 h100   
+FastQC 0.11.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-10.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-12.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FastTree | . |  .
   
-### GCTA  
+FastTree 2.1.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.94.0beta |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### GDAL  
+fermi-lite | . |  .
   
-3.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+fermi-lite 20190320 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
   
-3.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFmpeg | . |  .
   
-### Gdk-Pixbuf  
+FFmpeg 4.3.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.42.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFmpeg 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.42.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.42.6 |  | epyc3 h100   
+ffnvcodec | . |  .
   
-### GDRCopy  
+ffnvcodec 11.1.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+ffnvcodec 12.0.16.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### GEOS  
   
-3.9.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+FFTW | . |  .
   
-3.12.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+FFTW 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.10.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFTW 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### gettext  
+FFTW 3.3.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.22.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+FFTW 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.21 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFTW 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.21 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-0.21 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFTW.MPI | . |  .
   
-0.21.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFTW.MPI 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.21.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFTW.MPI 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.22.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FFTW.MPI 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### gfbf  
+FFTW.MPI 3.3.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2022a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+file | . |  .
   
-### GffCompare  
+file 5.40 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.12.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+file 5.43 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### gffread  
   
-0.12.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+filevercmp | . |  .
   
-### Ghostscript  
+filevercmp 20191210 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-9.56.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-10.01.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FLAC | . |  .
   
-9.54.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+FLAC 1.3.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### giflib  
+FLAC 1.3.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+flex | . |  .
   
-### git  
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-2.41.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-2.45.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.36.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.32.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-### GitPython  
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.1.27 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.1.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### GLib  
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.72.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.68.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.77.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flex 2.6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### glib-networking  
   
-2.72.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FlexiBLAS | . |  .
   
-### GLPK  
+FlexiBLAS 3.4.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FlexiBLAS 3.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+FlexiBLAS 3.0.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### GMAP-GSNAP  
+FlexiBLAS 3.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023-02-17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
+FlexiBLAS 3.4.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### GMP  
   
-6.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+flit | . |  .
   
-6.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+flit 3.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-6.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+Flye | . |  .
   
-### gnuplot  
+Flye 2.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.4.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.4.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+fontconfig | . |  .
   
-### GnuTLS  
+fontconfig 2.14.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.7.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+fontconfig 2.15.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### Go  
+fontconfig 2.14.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.18.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+fontconfig 2.13.93 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.20.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.18.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+foss | . |  .
   
-1.23.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+foss 2025a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### GObject-Introspection  
+foss 2022a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.76.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+foss 2021a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.72.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+foss 2024a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.68.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+foss 2023a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### gompi  
   
-2022a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+freebayes | . |  .
   
-2025a |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+freebayes 1.3.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2022a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2021a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+freetype | . |  .
   
-2023a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+freetype 2.12.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2024a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+freetype 2.13.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2024a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+freetype 2.10.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+freetype 2.13.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### googletest  
+FriBidi | . |  .
   
-1.11.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+FriBidi 1.0.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.13.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+FriBidi 1.0.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### gperf  
+FriBidi 1.0.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+fsom | . |  .
   
-3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+fsom 20141119 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### graphite2  
+GATK | . |  .
   
-1.3.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GATK 4.3.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-1.3.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+GATK 4.3.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### groff  
   
-1.22.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gc | . |  .
   
-1.23.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+gc 8.2.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.22.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.22.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GCC | . |  .
   
-### GROMACS  
+GCC 10.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023.3 |  | epyc3 epyc4 xeonsp4   
+GCC 12.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021.3 |  | epyc3 epyc4   
+GCC 13.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+GCC 11.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### GSL  
+GCC 14.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GCCcore | . |  .
   
-2.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GCCcore 10.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### GTDB-Tk  
+GCCcore 13.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+GCCcore 12.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### GTK2  
+GCCcore 11.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.24.33 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GCCcore 14.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### GTK3  
   
-3.24.37 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GCTA | . |  .
   
-3.24.33 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GCTA 1.94.0beta |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Guile  
   
-3.0.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GDAL | . |  .
   
-### gzip  
+GDAL 3.7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GDAL 3.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GDAL 3.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+Gdk-Pixbuf | . |  .
   
-### h5py  
+Gdk-Pixbuf 2.42.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Gdk-Pixbuf 2.42.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-### HarfBuzz  
+Gdk-Pixbuf 2.42.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GDRCopy | . |  .
   
-4.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GDRCopy 2.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### hatchling  
   
-1.18.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GEOS | . |  .
   
-### HDF  
+GEOS 3.10.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.2.15 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GEOS 3.9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-4.2.15 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+GEOS 3.12.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.2.16-2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
   
-### HDF5  
+gettext | . |  .
   
-1.12.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gettext 0.21 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.14.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gettext 0.21.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.14.6 |  | epyc3 epyc4   
+gettext 0.21 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.10.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gettext 0.22.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### help2man  
+gettext 0.21.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.49.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gettext 0.21 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.49.3 |  | epyc3 a100 epyc3 l40 epyc3 epyc4 a16 epyc4 xeonsp4 h100   
+gettext 0.22.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.49.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.49.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gfbf | . |  .
   
-1.48.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gfbf 2022a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### hifiasm  
+gfbf 2023a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.16.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### hipSYCL  
+GffCompare | . |  .
   
-0.9.1 |  | epyc3 epyc4 xeonsp4   
+GffCompare 0.12.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### HISAT2  
   
-2.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gffread | . |  .
   
-2.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gffread 0.12.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### HMMER  
   
-3.3.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4   
+Ghostscript | . |  .
   
-3.3.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Ghostscript 9.54.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### HTSeq  
+Ghostscript 10.01.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Ghostscript 9.56.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### HTSlib  
   
-1.15.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+giflib | . |  .
   
-1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+giflib 5.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+giflib 5.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### humann  
   
-3.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+git | . |  .
   
-### hwloc  
+git 2.41.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+git 2.36.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.11.2 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+git 2.32.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.4.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+git 2.45.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.10.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.9.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GitPython | . |  .
   
-### hypothesis  
+GitPython 3.1.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-6.46.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GitPython 3.1.27 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.82.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-6.13.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+GLib | . |  .
   
-### ICU  
+GLib 2.72.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-73.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GLib 2.68.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-71.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GLib 2.77.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-69.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### iimpi  
+glib-networking | . |  .
   
-2021a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+glib-networking 2.72.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2024a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2025a |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+GLPK | . |  .
   
-2022a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GLPK 5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2023a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GLPK 5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### ImageMagick  
   
-7.1.0-37 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GMAP-GSNAP | . |  .
   
-7.0.11-14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+GMAP-GSNAP 2023-02-17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Imath  
   
-3.1.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+GMP | . |  .
   
-### imkl  
+GMP 6.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GMP 6.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GMP 6.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2022.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GMP 6.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2025.1.0 |  | epyc3 a100 epyc3 l40 epyc3 epyc4 a16 epyc4 xeonsp4 h100   
   
-2024.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gnuplot | . |  .
   
-### imkl-FFTW  
+gnuplot 5.4.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2022.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gnuplot 5.4.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2024.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GnuTLS | . |  .
   
-2025.1.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+GnuTLS 3.7.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### impi  
   
-2021.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Go | . |  .
   
-2021.15.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+Go 1.23.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021.6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Go 1.18.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Go 1.18.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021.13.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Go 1.20.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### intel  
   
-2021a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GObject-Introspection | . |  .
   
-2025a |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+GObject-Introspection 1.68.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2023a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GObject-Introspection 1.72.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2022a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GObject-Introspection 1.76.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2024a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### intel-compilers  
+gompi | . |  .
   
-2023.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gompi 2023a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2021.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gompi 2024a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2025.1.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+gompi 2023a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2022.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gompi 2021a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2024.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gompi 2022a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### InterProScan  
+gompi 2021a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.55-88.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+gompi 2022a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### intervaltree  
+gompi 2025a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+gompi 2024a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### intltool  
   
-0.51.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+googletest | . |  .
   
-0.51.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+googletest 1.13.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.51.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+googletest 1.11.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.51.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### IPython  
+gperf | . |  .
   
-8.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gperf 3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-7.25.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+gperf 3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### ISA-L  
+gperf 3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.30.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gperf 3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.30.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### JAGS  
+graphite2 | . |  .
   
-4.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+graphite2 1.3.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Jansson  
+graphite2 1.3.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.14 |  | epyc3 mi210   
   
-2.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+groff | . |  .
   
-### JasPer  
+groff 1.22.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.0.28 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+groff 1.23.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.0.33 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+groff 1.22.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+groff 1.22.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Java  
   
-21.0.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GROMACS | . |  .
   
-11.0.27 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GROMACS 2021.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-11.0.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
+GROMACS 2023.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### jbigkit  
+GROMACS 2023.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+GSL | . |  .
   
-2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GSL 2.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Jellyfish  
+GSL 2.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GSL 2.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### jemalloc  
+GTDB-Tk | . |  .
   
-5.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GTDB-Tk 2.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-5.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
   
-5.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+GTK2 | . |  .
   
-### json-c  
+GTK2 2.24.33 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
   
-### JsonCpp  
+GTK3 | . |  .
   
-1.9.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GTK3 3.24.33 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.9.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+GTK3 3.24.37 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Judy  
   
-1.0.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Guile | . |  .
   
-### Julia  
+Guile 3.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### jupyter-server  
+gzip | . |  .
   
-1.21.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gzip 1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### JupyterLab  
+gzip 1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+gzip 1.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### kallisto  
+gzip 1.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.48.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-0.48.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+h5py | . |  .
   
-### kim-api  
+h5py 3.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-2.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+HarfBuzz | . |  .
   
-### Kraken2  
+HarfBuzz 2.8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HarfBuzz 4.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HarfBuzz 5.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### KronaTools  
   
-2.8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hatchling | . |  .
   
-### LAME  
+hatchling 1.18.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.100 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.100 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+HDF | . |  .
   
-3.100 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+HDF 4.2.16-2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### LAMMPS  
+HDF 4.2.15 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2Aug2023_update2 |  | epyc3 epyc4 xeonsp4   
+HDF 4.2.15 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2Aug2023_update2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
   
-23Jun2022 |  | epyc3 epyc4   
+HDF5 | . |  .
   
-### LAPACK  
+HDF5 1.14.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.10.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HDF5 1.10.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### LERC  
+HDF5 1.14.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+HDF5 1.12.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libaec  
   
-1.0.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+help2man | . |  .
   
-### libaio  
+help2man 1.48.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.3.112 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+help2man 1.49.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### libarchive  
+help2man 1.49.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.6.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+help2man 1.49.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+help2man 1.49.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.7.7 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-3.7.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hifiasm | . |  .
   
-3.5.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hifiasm 0.16.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libcerf  
   
-2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hipSYCL | . |  .
   
-1.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hipSYCL 0.9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libde265  
   
-1.0.15 |  | epyc3 h100   
+HISAT2 | . |  .
   
-1.0.11 |  | epyc3 h100   
+HISAT2 2.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.8 |  | epyc3 h100   
+HISAT2 2.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libdeflate  
   
-1.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HMMER | . |  .
   
-1.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HMMER 3.3.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libdrm  
+HMMER 3.3.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.4.122 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
   
-2.4.110 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HTSeq | . |  .
   
-2.4.106 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HTSeq 2.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.4.115 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### libepoxy  
+HTSlib | . |  .
   
-1.5.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HTSlib 1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.5.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+HTSlib 1.15.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libev  
+HTSlib 1.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.33 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### libevent  
+humann | . |  .
   
-2.1.12 |  | epyc3 a100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+humann 3.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hwloc | . |  .
   
-2.1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hwloc 2.10.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.12 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+hwloc 2.11.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.1.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hwloc 2.9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libfabric  
+hwloc 2.4.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.15.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hwloc 2.7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.12.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.18.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hypothesis | . |  .
   
-2.0.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+hypothesis 6.82.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.21.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+hypothesis 6.46.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libffi  
+hypothesis 6.13.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.4.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ICU | . |  .
   
-3.4.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ICU 73.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.4.5 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+ICU 71.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.4.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ICU 69.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libgd  
   
-2.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+iimpi | . |  .
   
-2.3.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+iimpi 2023a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libgeotiff  
+iimpi 2025a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+iimpi 2024a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+iimpi 2022a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+iimpi 2021a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libgit2  
   
-1.7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ImageMagick | . |  .
   
-1.4.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ImageMagick 7.1.0-37 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+ImageMagick 7.0.11-14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### libGLU  
   
-9.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Imath | . |  .
   
-9.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Imath 3.1.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-9.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-9.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+imkl | . |  .
   
-9.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100   
+imkl 2025.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-9.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+imkl 2022.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libglvnd  
+imkl 2021.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+imkl 2023.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+imkl 2024.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.7.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+imkl-FFTW | . |  .
   
-### libheif  
+imkl-FFTW 2022.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.16.2 |  | epyc3 h100   
+imkl-FFTW 2023.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.12.0 |  | epyc3 h100   
+imkl-FFTW 2024.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.17.6 |  | epyc3 h100   
+imkl-FFTW 2025.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### libiconv  
   
-1.16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+impi | . |  .
   
-1.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+impi 2021.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+impi 2021.6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+impi 2021.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.18 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+impi 2021.15.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### libidn  
+impi 2021.13.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.36 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### libidn2  
+intel | . |  .
   
-2.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intel 2024a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.3.7 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+intel 2025a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.3.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intel 2021a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Libint  
+intel 2023a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.7.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intel 2022a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### libjpeg-turbo  
+intel-compilers | . |  .
   
-2.1.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intel-compilers 2022.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.5.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intel-compilers 2023.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+intel-compilers 2025.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.0.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intel-compilers 2024.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libnsl  
+intel-compilers 2021.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### libogg  
+InterProScan | . |  .
   
-1.3.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+InterProScan 5.55-88.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.3.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### libopus  
+intervaltree | . |  .
   
-1.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intervaltree 0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### libpciaccess  
   
-0.18.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+intltool | . |  .
   
-0.16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intltool 0.51.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.18.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intltool 0.51.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intltool 0.51.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+intltool 0.51.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libpng  
   
-1.6.37 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+IPython | . |  .
   
-1.6.37 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+IPython 8.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.6.39 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+IPython 7.25.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.6.43 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
   
-### libpsl  
+ISA-L | . |  .
   
-0.21.5 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+ISA-L 2.30.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.21.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ISA-L 2.30.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libreadline  
   
-8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+JAGS | . |  .
   
-8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+JAGS 4.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-8.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-8.2 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+Jansson | . |  .
   
-8.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Jansson 2.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libsndfile  
+Jansson 2.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-1.0.31 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+JasPer | . |  .
   
-### libsodium  
+JasPer 2.0.33 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+JasPer 4.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+JasPer 2.0.28 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### LibSoup  
   
-3.0.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Java | . |  .
   
-### libtasn1  
+Java 11.0.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.19.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Java 11.0.27 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### LibTIFF  
+Java 21.0.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+jbigkit | . |  .
   
-4.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+jbigkit 2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### libtirpc  
+jbigkit 2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+jbigkit 2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-1.3.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Jellyfish | . |  .
   
-### libtool  
+Jellyfish 2.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.5.4 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+Jellyfish 2.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.4.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.4.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+jemalloc | . |  .
   
-2.4.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+jemalloc 5.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.4.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+jemalloc 5.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.4.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+jemalloc 5.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libunistring  
   
-1.3 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+json-c | . |  .
   
-1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+json-c 0.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libunwind  
   
-1.6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+JsonCpp | . |  .
   
-1.8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+JsonCpp 1.9.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+JsonCpp 1.9.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### libvorbis  
+Judy | . |  .
   
-1.3.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Judy 1.0.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### libvori  
+Julia | . |  .
   
-220621 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Julia 1.8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libwebp  
   
-1.2.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+jupyter-server | . |  .
   
-### libxc  
+jupyter-server 1.21.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.2.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.1.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+JupyterLab | . |  .
   
-### libxml2  
+JupyterLab 3.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.9.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.11.4 |  | epyc3 mi210   
+kallisto | . |  .
   
-2.9.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+kallisto 0.48.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.9.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+kallisto 0.48.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.13.4 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-2.11.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+kim-api | . |  .
   
-2.11.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+kim-api 2.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.9.13 |  | epyc3 mi210   
+kim-api 2.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.12.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### libxslt  
+Kraken2 | . |  .
   
-1.1.34 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Kraken2 2.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.38 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+Kraken2 2.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libxsmm  
   
-1.16.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+KronaTools | . |  .
   
-1.17 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+KronaTools 2.8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### libyaml  
   
-0.2.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+LAME | . |  .
   
-0.2.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LAME 3.100 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### lit  
+LAME 3.100 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-18.1.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+LAME 3.100 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-18.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-18.1.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LAMMPS | . |  .
   
-18.1.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LAMMPS 2Aug2023_update2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### LittleCMS  
+LAMMPS 23Jun2022 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+LAMMPS 2Aug2023_update2 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.13.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### LLVM  
+LAPACK | . |  .
   
-18.1.8 |  | epyc3 a100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+LAPACK 3.10.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-16.0.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-16.0.6 |  | epyc3 h100 epyc4   
+LERC | . |  .
   
-11.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LERC 4.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-14.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-18.1.8 |  | epyc3 l40   
+libaec | . |  .
   
-### LMDB  
+libaec 1.0.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.9.28 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-0.9.29 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libaio | . |  .
   
-0.9.29 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libaio 0.3.112 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.9.29 |  | epyc3 mi210   
   
-### lpsolve  
+libarchive | . |  .
   
-5.5.2.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libarchive 3.6.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.5.2.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libarchive 3.6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Lua  
+libarchive 3.7.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.4.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libarchive 3.7.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-5.4.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libarchive 3.5.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### lxml  
   
-4.9.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libcerf | . |  .
   
-### lz4  
+libcerf 2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.9.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libcerf 1.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.9.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
   
-1.9.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libde265 | . |  .
   
-1.9.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libde265 1.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-### LZO  
+libde265 1.0.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-2.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libde265 1.0.15 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-### M4  
   
-1.4.19 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libdeflate | . |  .
   
-1.4.19 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libdeflate 1.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.4.19 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libdeflate 1.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.4.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.4.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libdrm | . |  .
   
-1.4.19 |  | epyc3 a100 epyc3 l40 epyc3 epyc4 a16 epyc4 xeonsp4 h100   
+libdrm 2.4.122 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.4.19 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libdrm 2.4.110 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### maeparser  
+libdrm 2.4.115 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libdrm 2.4.106 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### MAFFT  
+libepoxy | . |  .
   
-7.490 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libepoxy 1.5.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### make  
+libepoxy 1.5.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.4.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.4.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+libev | . |  .
   
-4.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libev 4.33 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.4.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libevent | . |  .
   
-### makeinfo  
+libevent 2.1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-6.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libevent 2.1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libevent 2.1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Mako  
+libevent 2.1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.2.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libevent 2.1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libevent 2.1.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
   
-1.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libfabric | . |  .
   
-### MariaDB  
+libfabric 1.12.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-10.9.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libfabric 1.15.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Mash  
+libfabric 1.21.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libfabric 2.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### matplotlib  
+libfabric 1.18.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.4.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libffi | . |  .
   
-### MaxQuant  
+libffi 3.4.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.2.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libffi 3.4.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.2.0.0 |  | epyc3 mi210   
+libffi 3.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### MDI  
+libffi 3.4.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.4.26 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+libffi 3.4.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### MEGAHIT  
   
-1.2.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libgd | . |  .
   
-1.2.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libgd 2.3.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Mesa  
+libgd 2.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-23.1.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-24.1.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+libgeotiff | . |  .
   
-21.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libgeotiff 1.6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-22.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libgeotiff 1.7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Meson  
+libgeotiff 1.7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.6.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+libgit2 | . |  .
   
-0.62.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libgit2 1.7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libgit2 1.4.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.58.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libgit2 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### MetaEuk  
   
-6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libGLU | . |  .
   
-5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libGLU 9.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### METIS  
+libGLU 9.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libGLU 9.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libGLU 9.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Miller  
+libGLU 9.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-6.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libGLU 9.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### Miniconda3  
   
-23.9.0-0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libglvnd | . |  .
   
-4.12.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libglvnd 1.6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### minimap2  
+libglvnd 1.3.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.24 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libglvnd 1.7.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### Mono  
+libglvnd 1.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.12.0.122 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-6.12.0.122 |  | epyc3 mi210   
+libheif | . |  .
   
-### motif  
+libheif 1.17.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-2.3.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libheif 1.12.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-### MPFR  
+libheif 1.16.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
   
-4.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-4.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libiconv | . |  .
   
-### mpi4py  
+libiconv 1.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.1.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+libiconv 1.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### MrBayes  
+libiconv 1.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.2.7a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4   
+libiconv 1.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.2.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+libiconv 1.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### MRtrix  
   
-3.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libidn | . |  .
   
-### multichoose  
+libidn 1.36 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### MultiQC  
+libidn2 | . |  .
   
-1.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libidn2 2.3.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libidn2 2.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### MUMmer  
+libidn2 2.3.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.23 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.0.0rc1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Libint | . |  .
   
-### NASM  
+Libint 2.6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.15.05 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Libint 2.7.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.16.03 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
   
-2.16.01 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libjpeg-turbo | . |  .
   
-2.15.05 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libjpeg-turbo 2.1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### ncbi-vdb  
+libjpeg-turbo 2.1.5.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.10.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libjpeg-turbo 3.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libjpeg-turbo 2.0.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### NCCL  
   
-2.18.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+libnsl | . |  .
   
-### ncurses  
+libnsl 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libogg | . |  .
   
-6.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libogg 1.3.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libogg 1.3.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-6.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-6.5 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+libopus | . |  .
   
-6.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libopus 1.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
   
-6.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpciaccess | . |  .
   
-### netCDF  
+libpciaccess 0.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.9.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpciaccess 0.18.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-4.8.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libpciaccess 0.18.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpciaccess 0.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### nettle  
+libpciaccess 0.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.7.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-3.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpng | . |  .
   
-### networkx  
+libpng 1.6.43 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.5.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libpng 1.6.39 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+libpng 1.6.37 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.8.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpng 1.6.37 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Nextflow  
   
-22.10.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpsl | . |  .
   
-25.04.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpsl 0.21.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-23.04.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libpsl 0.21.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### nghttp2  
   
-1.48.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libreadline | . |  .
   
-### nghttp3  
+libreadline 8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libreadline 8.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### NGS  
+libreadline 8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.10.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libreadline 8.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### ngtcp2  
+libreadline 8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.7.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Ninja  
+libsndfile | . |  .
   
-1.10.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libsndfile 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.12.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+libsndfile 1.0.31 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.10.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.11.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libsodium | . |  .
   
-1.12.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libsodium 1.0.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### nlohmann_json  
+libsodium 1.0.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.10.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.11.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+LibSoup | . |  .
   
-### NLopt  
+LibSoup 3.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.7.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-2.7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libtasn1 | . |  .
   
-### nodejs  
+libtasn1 4.19.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-16.15.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-18.17.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+LibTIFF | . |  .
   
-14.17.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+LibTIFF 4.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### NSPR  
+LibTIFF 4.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.35 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+LibTIFF 4.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-4.30 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.34 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libtirpc | . |  .
   
-### NSS  
+libtirpc 1.3.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.89.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+libtirpc 1.3.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.79 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libtirpc 1.3.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.65 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### numactl  
+libtool | . |  .
   
-2.0.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libtool 2.4.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.0.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libtool 2.4.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.0.19 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+libtool 2.4.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.0.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libtool 2.4.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.0.16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libtool 2.4.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### OpenBabel  
+libtool 2.5.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libunistring | . |  .
   
-### OpenBLAS  
+libunistring 1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.3.29 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+libunistring 1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.3.23 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-0.3.27 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libunwind | . |  .
   
-0.3.20 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libunwind 1.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.3.15 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libunwind 1.8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### OpenEXR  
+libunwind 1.6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.1.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+libunwind 1.6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### OpenJPEG  
   
-2.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+libvorbis | . |  .
   
-2.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libvorbis 1.3.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### OpenMPI  
+libvorbis 1.3.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.1.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libvori | . |  .
   
-4.1.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libvori 220621 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.0.7 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+libwebp | . |  .
   
-### OpenPGM  
+libwebp 1.2.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.2.122 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.2.122 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+libxc | . |  .
   
-### OpenSSL  
+libxc 5.1.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxc 5.2.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### p11-kit  
+libxml2 | . |  .
   
-0.24.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxml2 2.11.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Pandoc  
+libxml2 2.13.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxml2 2.11.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-### Pango  
+libxml2 2.9.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-1.50.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxml2 2.11.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.48.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxml2 2.9.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.50.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxml2 2.12.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### parallel  
+libxml2 2.9.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20210622 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxml2 2.9.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20220722 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### ParaView  
+libxslt | . |  .
   
-5.11.2 |  | epyc3 l40 epyc4 a16 epyc4 l40s   
+libxslt 1.1.34 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### patchelf  
+libxslt 1.1.38 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.18.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### PCRE  
+libxsmm | . |  .
   
-8.44 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxsmm 1.16.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-8.45 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libxsmm 1.17 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.45 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### PCRE2  
+libyaml | . |  .
   
-10.42 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libyaml 0.2.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-10.40 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+libyaml 0.2.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-10.36 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Perl  
+lit | . |  .
   
-5.36.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lit 18.1.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-5.34.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lit 18.1.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.40.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+lit 18.1.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.38.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lit 18.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.38.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.32.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LittleCMS | . |  .
   
-5.34.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LittleCMS 2.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-5.32.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LittleCMS 2.13.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Perl-bundle-CPAN  
   
-5.38.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+LLVM | . |  .
   
-5.36.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LLVM 18.1.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### picard  
+LLVM 18.1.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65)   
   
-2.25.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LLVM 14.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### pigz  
+LLVM 16.0.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LLVM 16.0.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LLVM 11.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Pillow  
   
-9.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LMDB | . |  .
   
-8.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+LMDB 0.9.29 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### pixman  
+LMDB 0.9.29 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.40.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LMDB 0.9.28 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.40.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LMDB 0.9.29 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-0.42.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### pkg-config  
+lpsolve | . |  .
   
-0.29.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lpsolve 5.5.2.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.29.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lpsolve 5.5.2.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### pkgconf  
   
-2.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Lua | . |  .
   
-1.8.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Lua 5.4.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.9.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Lua 5.4.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.3.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-1.8.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lxml | . |  .
   
-### pkgconfig  
+lxml 4.9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.5.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### PLINK  
+lz4 | . |  .
   
-2.00a3.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lz4 1.9.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### plotly.py  
+lz4 1.9.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.12.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+lz4 1.9.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-5.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+lz4 1.9.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### PLUMED  
   
-2.8.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+LZO | . |  .
   
-2.7.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+LZO 2.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
   
-### PMIx  
+M4 | . |  .
   
-5.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+M4 1.4.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.2.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+M4 1.4.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.0.6 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+M4 1.4.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.2.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+M4 1.4.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.1.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+M4 1.4.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### pocl  
+M4 1.4.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+M4 1.4.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### poetry  
+maeparser | . |  .
   
-1.5.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+maeparser 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### popt  
+maeparser 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.19 |  | epyc3 mi210   
   
-1.19 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MAFFT | . |  .
   
-### pplacer  
+MAFFT 7.490 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.alpha19 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### prodigal  
+make | . |  .
   
-2.6.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+make 4.4.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2.6.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+make 4.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### PROJ  
+make 4.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+make 4.4.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-9.0.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+make 4.4.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-9.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
   
-### prokka  
+makeinfo | . |  .
   
-1.14.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+makeinfo 6.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.14.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+makeinfo 6.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### PRRTE  
   
-3.0.8 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+Mako | . |  .
   
-3.0.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Mako 1.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### psutil  
+Mako 1.1.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.0.0 |  | epyc3 h100 epyc3 mi210   
+Mako 1.3.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### pyBigWig  
+Mako 1.2.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.3.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-0.3.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+MariaDB | . |  .
   
-### pybind11  
+MariaDB 10.9.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.11.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.9.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Mash | . |  .
   
-2.6.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Mash 2.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### pycoQC  
   
-2.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+matplotlib | . |  .
   
-### Pysam  
+matplotlib 3.4.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-0.16.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+matplotlib 3.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.19.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Python  
+MaxQuant | . |  .
   
-3.11.3 |  | epyc3 mi210   
+MaxQuant 2.2.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.10.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MaxQuant 2.2.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-3.13.1 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-3.9.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MDI | . |  .
   
-3.11.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MDI 1.4.26 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.12.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.9.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MEGAHIT | . |  .
   
-3.10.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MEGAHIT 1.2.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.7.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MEGAHIT 1.2.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.7.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Python-bundle-PyPI  
+Mesa | . |  .
   
-2023.06 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Mesa 23.1.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### python-isal  
+Mesa 24.1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-0.11.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Mesa 21.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Mesa 22.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### PyYAML  
   
-5.4.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Meson | . |  .
   
-6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Meson 0.62.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Qhull  
+Meson 0.58.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2020.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+Meson 1.6.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2020.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Meson 1.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2020.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Meson 1.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2020.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### QIIME2  
+MetaEuk | . |  .
   
-2022.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MetaEuk 5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### Qt5  
+MetaEuk 6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.15.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.15.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+METIS | . |  .
   
-5.15.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+METIS 5.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### QuantumESPRESSO  
+METIS 5.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-6.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3   
   
-7.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Miller | . |  .
   
-### QUAST  
+Miller 6.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-5.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Miniconda3 | . |  .
   
-### R  
+Miniconda3 4.12.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.3.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Miniconda3 23.9.0-0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-4.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+minimap2 | . |  .
   
-4.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+minimap2 2.24 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.2.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### RapidJSON  
+Mono | . |  .
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Mono 6.12.0.122 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Mono 6.12.0.122 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### re2c  
   
-2.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+motif | . |  .
   
-3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+motif 2.3.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### rjags  
+MPFR | . |  .
   
-4-10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+MPFR 4.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Ruby  
+MPFR 4.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.0.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+mpi4py | . |  .
   
-### Rust  
+mpi4py 3.1.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.52.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.60.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MrBayes | . |  .
   
-1.70.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MrBayes 3.2.7a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### Salmon  
+MrBayes 3.2.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.9.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 mi210 epyc4 xeonsp4   
   
-1.4.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+MRtrix | . |  .
   
-### SAMtools  
+MRtrix 3.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+multichoose | . |  .
   
-1.16.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+multichoose 1.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.18 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### ScaFaCoS  
+MultiQC | . |  .
   
-1.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+MultiQC 1.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+MultiQC 1.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-### ScaLAPACK  
   
-2.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+MUMmer | . |  .
   
-2.2.2 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+MUMmer 4.0.0rc1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+MUMmer 3.23 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NASM | . |  .
   
-### scikit-build  
+NASM 2.16.01 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.17.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NASM 2.15.05 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.11.1 |  | epyc3 epyc4   
+NASM 2.15.05 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### SciPy-bundle  
+NASM 2.16.03 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-2023.07 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2022.05 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ncbi-vdb | . |  .
   
-2021.05 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+ncbi-vdb 3.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### SDL2  
+ncbi-vdb 2.10.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.28.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
   
-2.0.22 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NCCL | . |  .
   
-### SEPP  
+NCCL 2.18.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-4.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-4.5.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ncurses | . |  .
   
-### SeqLib  
+ncurses 6.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.2.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+ncurses 6.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### seqtk  
+ncurses 6.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ncurses 6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ncurses 6.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### setuptools-rust  
+ncurses 6.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ncurses 6.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### smithwaterman  
+ncurses 6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20160702 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+ncurses 6.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### snakemake  
   
-6.6.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+netCDF | . |  .
   
-7.22.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+netCDF 4.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### snappy  
+netCDF 4.9.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.1.8 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+netCDF 4.8.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.1.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.1.10 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+nettle | . |  .
   
-### SpaceRanger  
+nettle 3.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+nettle 3.7.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### SPAdes  
+networkx | . |  .
   
-3.15.5 |  | epyc3 mi210   
+networkx 3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.15.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+networkx 2.8.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.15.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+networkx 2.5.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.15.3 |  | epyc3 mi210   
   
-### SpectrA  
+Nextflow | . |  .
   
-1.0.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Nextflow 25.04.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.1 |  | epyc3 h100   
+Nextflow 22.10.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### SQLite  
+Nextflow 23.04.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.47.2 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-3.42.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+nghttp2 | . |  .
   
-3.45.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+nghttp2 1.48.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.38.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-3.35.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+nghttp3 | . |  .
   
-### SRA-Toolkit  
+nghttp3 0.6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### SSW  
+NGS | . |  .
   
-1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+NGS 2.10.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### STAR  
   
-2.7.9a |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ngtcp2 | . |  .
   
-2.7.10b |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+ngtcp2 0.7.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### StringTie  
   
-2.1.7 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Ninja | . |  .
   
-### SuiteSparse  
+Ninja 1.11.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.13.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Ninja 1.10.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.10.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Ninja 1.10.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### SWIG  
+Ninja 1.12.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Ninja 1.12.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-4.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
   
-4.0.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+nlohmann_json | . |  .
   
-### Szip  
+nlohmann_json 3.10.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+nlohmann_json 3.11.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-2.1.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NLopt | . |  .
   
-### tabixpp  
+NLopt 2.7.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.1.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+NLopt 2.7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### tbb  
   
-2021.11.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+nodejs | . |  .
   
-2020.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+nodejs 14.17.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-2021.5.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+nodejs 16.15.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### tbl2asn  
+nodejs 18.17.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20230119 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-20220427 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NSPR | . |  .
   
-### Tcl  
+NSPR 4.34 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.6.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NSPR 4.30 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.6.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NSPR 4.35 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.6.16 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-8.6.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NSS | . |  .
   
-8.6.14 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NSS 3.89.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Tk  
+NSS 3.65 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.6.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+NSS 3.79 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-8.6.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-8.6.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+numactl | . |  .
   
-### Tkinter  
+numactl 2.0.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.10.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+numactl 2.0.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.11.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+numactl 2.0.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-3.9.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+numactl 2.0.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### tmux  
+numactl 2.0.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.5a |  | epyc3 a100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### tqdm  
+OpenBabel | . |  .
   
-4.61.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+OpenBabel 3.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Trimmomatic  
+OpenBabel 3.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.39 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### Trinity  
+OpenBLAS | . |  .
   
-2.9.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+OpenBLAS 0.3.29 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### UCC  
+OpenBLAS 0.3.15 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenBLAS 0.3.23 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenBLAS 0.3.27 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
+OpenBLAS 0.3.20 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### UCX  
+OpenEXR | . |  .
   
-1.14.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+OpenEXR 3.1.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.18.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-1.16.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenJPEG | . |  .
   
-1.16.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenJPEG 2.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.10.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenJPEG 2.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.16.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### UCX-CUDA  
+OpenMPI | . |  .
   
-1.14.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc4 a16 epyc4 l40s xeonsp4 h100   
+OpenMPI 4.1.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### UDUNITS  
+OpenMPI 5.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.2.28 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+OpenMPI 4.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.2.28 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenMPI 4.1.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### UnZip  
+OpenMPI 5.0.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenPGM | . |  .
   
-6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenPGM 5.2.122 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-6.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenPGM 5.2.122 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-6.0 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-### util-linux  
+OpenSSL | . |  .
   
-2.38 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenSSL 3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.36 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+OpenSSL 1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-2.40 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
   
-2.39 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+p11-kit | . |  .
   
-### vcflib  
+p11-kit 0.24.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.0.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### VCFtools  
+Pandoc | . |  .
   
-0.1.16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Pandoc 3.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.1.16 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### VEP  
+Pango | . |  .
   
-107 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Pango 1.50.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### virtualenv  
+Pango 1.48.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20.23.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Pango 1.50.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### VirtualGL  
   
-3.1.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+parallel | . |  .
   
-3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+parallel 20210622 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Voro++  
+parallel 20220722 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-0.4.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
   
-0.4.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+ParaView | . |  .
   
-### VSCode  
+ParaView 5.11.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836)   
   
-1.87.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### VTK  
+patchelf | . |  .
   
-9.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+patchelf 0.18.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Wayland  
   
-1.22.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PCRE | . |  .
   
-1.23.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+PCRE 8.45 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### wget  
+PCRE 8.45 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.21.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PCRE 8.44 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.21.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### X11  
+PCRE2 | . |  .
   
-20240607 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+PCRE2 10.42 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20230603 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PCRE2 10.40 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20210518 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PCRE2 10.36 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20220504 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### x264  
+Perl | . |  .
   
-20210414 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Perl 5.32.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-20230226 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+Perl 5.40.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### x265  
+Perl 5.38.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.5 |  | epyc3 h100   
+Perl 5.38.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+Perl 5.32.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+Perl 5.34.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### Xerces-C++  
+Perl 5.36.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-3.2.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 mi210 epyc4 xeonsp4   
+Perl 5.34.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### XML-LibXML  
   
-2.0207 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Perl-bundle-CPAN | . |  .
   
-2.0207 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Perl-bundle-CPAN 5.36.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### xorg-macros  
+Perl-bundle-CPAN 5.38.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.20.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.20.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+picard | . |  .
   
-1.19.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+picard 2.25.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.20.2 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-1.19.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+pigz | . |  .
   
-### Xvfb  
+pigz 2.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-21.1.3 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+pigz 2.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.20.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### xxd  
+Pillow | . |  .
   
-8.2.4220 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+Pillow 9.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-9.0.2112 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
+Pillow 8.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-8.2.4220 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
   
-### XZ  
+pixman | . |  .
   
-5.2.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+pixman 0.40.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.4.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+pixman 0.40.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.4.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+pixman 0.42.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-5.6.3 |  | epyc3 a100 epyc3 l40 epyc4 a16 xeonsp4 h100   
   
-5.2.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+pkg-config | . |  .
   
-### Yasm  
+pkg-config 0.29.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+pkg-config 0.29.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 xeonsp4 h100 xeonsp4   
   
-1.3.0 |  | epyc3 h100   
+pkgconf | . |  .
   
-### Z3  
+pkgconf 1.9.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.10.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+pkgconf 1.8.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.13.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+pkgconf 2.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.8.11 |  | epyc3 epyc4 xeonsp4   
+pkgconf 2.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-### ZeroMQ  
+pkgconf 1.8.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-4.3.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-4.3.4 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4   
+pkgconfig | . |  .
   
-### Zip  
+pkgconfig 1.5.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-3.0 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-### zlib  
+PLINK | . |  .
   
-1.2.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PLINK 2.00a3.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.2.12 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
   
-1.2.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+plotly.py | . |  .
   
-1.2.13 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+plotly.py 5.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+plotly.py 5.12.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.1 |  | epyc3   
   
-1.2.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PLUMED | . |  .
   
-1.2.11 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PLUMED 2.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.3.1 |  | epyc3 a100 epyc3 l40 epyc3 epyc4 a16 epyc4 xeonsp4 h100   
+PLUMED 2.7.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
   
-1.3.1 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PLUMED 2.8.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-### zstd  
   
-1.4.9 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PMIx | . |  .
   
-1.5.2 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PMIx 5.0.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
   
-1.5.5 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc3 epyc4 a16 epyc4 l40s epyc4 mi210 epyc4 xeonsp4 h100 xeonsp4   
+PMIx 5.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
-1.5.6 |  | epyc3 a100 epyc3 h100 epyc3 l40 epyc3 mi210 epyc4 a16 epyc4 l40s epyc4 mi210 xeonsp4 h100   
+PMIx 3.2.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+PMIx 4.1.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+PMIx 4.2.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+pocl | . |  .
+  
+pocl 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+pocl 1.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+poetry | . |  .
+  
+poetry 1.5.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+popt | . |  .
+  
+popt 1.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+popt 1.19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
+  
+  
+pplacer | . |  .
+  
+pplacer 1.1.alpha19 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+prodigal | . |  .
+  
+prodigal 2.6.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+prodigal 2.6.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+PROJ | . |  .
+  
+PROJ 9.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+PROJ 8.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+PROJ 9.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+prokka | . |  .
+  
+prokka 1.14.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+prokka 1.14.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+PRRTE | . |  .
+  
+PRRTE 3.0.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+PRRTE 3.0.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+  
+psutil | . |  .
+  
+psutil 6.0.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
+  
+  
+pyBigWig | . |  .
+  
+pyBigWig 0.3.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+pyBigWig 0.3.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+pybind11 | . |  .
+  
+pybind11 2.11.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+pybind11 2.6.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+pybind11 2.9.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+pycoQC | . |  .
+  
+pycoQC 2.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+Pysam | . |  .
+  
+Pysam 0.19.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Pysam 0.16.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+Python | . |  .
+  
+Python 3.9.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Python 3.12.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Python 2.7.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Python 3.10.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Python 3.9.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Python 3.11.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Python 2.7.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Python 3.11.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
+  
+Python 3.13.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+Python 3.10.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Python-bundle-PyPI | . |  .
+  
+Python-bundle-PyPI 2023.06 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+python-isal | . |  .
+  
+python-isal 0.11.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+python-isal 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+PyYAML | . |  .
+  
+PyYAML 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+PyYAML 5.4.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+Qhull | . |  .
+  
+Qhull 2020.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+Qhull 2020.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Qhull 2020.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Qhull 2020.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+QIIME2 | . |  .
+  
+QIIME2 2022.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Qt5 | . |  .
+  
+Qt5 5.15.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Qt5 5.15.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Qt5 5.15.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+QuantumESPRESSO | . |  .
+  
+QuantumESPRESSO 7.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+QuantumESPRESSO 6.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC)   
+  
+  
+QUAST | . |  .
+  
+QUAST 5.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+QUAST 5.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+R | . |  .
+  
+R 4.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+R 4.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+R 4.3.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+R 4.2.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+R 4.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+RapidJSON | . |  .
+  
+RapidJSON 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+RapidJSON 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+re2c | . |  .
+  
+re2c 2.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+re2c 3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+re2c 2.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+rjags | . |  .
+  
+rjags 4-10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+Ruby | . |  .
+  
+Ruby 3.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Ruby 3.0.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Rust | . |  .
+  
+Rust 1.60.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Rust 1.70.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Rust 1.52.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Salmon | . |  .
+  
+Salmon 1.9.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Salmon 1.4.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+SAMtools | . |  .
+  
+SAMtools 1.18 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SAMtools 1.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SAMtools 1.16.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SAMtools 1.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+ScaFaCoS | . |  .
+  
+ScaFaCoS 1.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+ScaFaCoS 1.0.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+ScaLAPACK | . |  .
+  
+ScaLAPACK 2.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+ScaLAPACK 2.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+ScaLAPACK 2.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+ScaLAPACK 2.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+ScaLAPACK 2.2.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+  
+scikit-build | . |  .
+  
+scikit-build 0.17.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+scikit-build 0.11.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+SciPy-bundle | . |  .
+  
+SciPy-bundle 2023.07 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SciPy-bundle 2022.05 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SciPy-bundle 2021.05 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+SDL2 | . |  .
+  
+SDL2 2.0.22 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SDL2 2.28.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SEPP | . |  .
+  
+SEPP 4.5.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SEPP 4.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+SeqLib | . |  .
+  
+SeqLib 1.2.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+seqtk | . |  .
+  
+seqtk 1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+seqtk 1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+setuptools-rust | . |  .
+  
+setuptools-rust 1.6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+smithwaterman | . |  .
+  
+smithwaterman 20160702 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+snakemake | . |  .
+  
+snakemake 7.22.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+snakemake 6.6.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+snappy | . |  .
+  
+snappy 1.1.10 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+snappy 1.1.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+snappy 1.1.8 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SpaceRanger | . |  .
+  
+SpaceRanger 2.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SpaceRanger 2.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SPAdes | . |  .
+  
+SPAdes 3.15.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SPAdes 3.15.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
+  
+SPAdes 3.15.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800)   
+  
+SPAdes 3.15.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SpectrA | . |  .
+  
+SpectrA 1.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
+  
+SpectrA 1.0.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SQLite | . |  .
+  
+SQLite 3.38.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SQLite 3.47.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+SQLite 3.42.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SQLite 3.35.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SQLite 3.45.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SRA-Toolkit | . |  .
+  
+SRA-Toolkit 3.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SSW | . |  .
+  
+SSW 1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+STAR | . |  .
+  
+STAR 2.7.9a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+STAR 2.7.10b |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+StringTie | . |  .
+  
+StringTie 2.1.7 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+SuiteSparse | . |  .
+  
+SuiteSparse 5.13.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SuiteSparse 5.10.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+SWIG | . |  .
+  
+SWIG 4.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SWIG 4.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+SWIG 4.0.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Szip | . |  .
+  
+Szip 2.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Szip 2.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Szip 2.1.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+tabixpp | . |  .
+  
+tabixpp 1.1.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+tbb | . |  .
+  
+tbb 2021.11.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+tbb 2021.5.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+tbb 2020.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+tbl2asn | . |  .
+  
+tbl2asn 20230119 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+tbl2asn 20220427 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Tcl | . |  .
+  
+Tcl 8.6.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Tcl 8.6.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Tcl 8.6.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Tcl 8.6.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+Tcl 8.6.14 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Tk | . |  .
+  
+Tk 8.6.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Tk 8.6.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Tk 8.6.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+Tkinter | . |  .
+  
+Tkinter 3.10.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Tkinter 3.11.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Tkinter 3.9.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+tmux | . |  .
+  
+tmux 3.5a |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+tqdm | . |  .
+  
+tqdm 4.61.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+Trimmomatic | . |  .
+  
+Trimmomatic 0.39 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Trinity | . |  .
+  
+Trinity 2.9.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+UCC | . |  .
+  
+UCC 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UCC 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+UCC 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UCC 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+UCX | . |  .
+  
+UCX 1.16.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UCX 1.16.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UCX 1.14.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+UCX 1.10.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UCX 1.16.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UCX 1.18.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+  
+UCX-CUDA | . |  .
+  
+UCX-CUDA 1.14.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+  
+UDUNITS | . |  .
+  
+UDUNITS 2.2.28 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UDUNITS 2.2.28 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+UnZip | . |  .
+  
+UnZip 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UnZip 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UnZip 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+UnZip 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+UnZip 6.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+util-linux | . |  .
+  
+util-linux 2.39 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+util-linux 2.38 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+util-linux 2.36 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+util-linux 2.40 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+  
+vcflib | . |  .
+  
+vcflib 1.0.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+VCFtools | . |  .
+  
+VCFtools 0.1.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+VCFtools 0.1.16 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+VEP | . |  .
+  
+VEP 107 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+virtualenv | . |  .
+  
+virtualenv 20.23.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+VirtualGL | . |  .
+  
+VirtualGL 3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+VirtualGL 3.1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+  
+Voro++ | . |  .
+  
+Voro++ 0.4.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+Voro++ 0.4.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+VSCode | . |  .
+  
+VSCode 1.87.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+VTK | . |  .
+  
+VTK 9.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Wayland | . |  .
+  
+Wayland 1.22.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Wayland 1.23.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+  
+wget | . |  .
+  
+wget 1.21.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+wget 1.21.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+X11 | . |  .
+  
+X11 20210518 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+X11 20220504 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+X11 20240607 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+X11 20230603 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+x264 | . |  .
+  
+x264 20210414 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+x264 20230226 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+x265 | . |  .
+  
+x265 3.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
+  
+x265 3.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+x265 3.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Xerces-C++ | . |  .
+  
+Xerces-C++ 3.2.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+XML-LibXML | . |  .
+  
+XML-LibXML 2.0207 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+XML-LibXML 2.0207 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+xorg-macros | . |  .
+  
+xorg-macros 1.19.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+xorg-macros 1.19.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+xorg-macros 1.20.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+xorg-macros 1.20.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+xorg-macros 1.20.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Xvfb | . |  .
+  
+Xvfb 1.20.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+Xvfb 21.1.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+xxd | . |  .
+  
+xxd 9.0.2112 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+xxd 8.2.4220 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+xxd 8.2.4220 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+  
+XZ | . |  .
+  
+XZ 5.6.3 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+XZ 5.2.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+XZ 5.4.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+XZ 5.2.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+XZ 5.4.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Yasm | . |  .
+  
+Yasm 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+Yasm 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Yasm 1.3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6)   
+  
+  
+Z3 | . |  .
+  
+Z3 4.10.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+Z3 4.13.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+Z3 4.8.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+ZeroMQ | . |  .
+  
+ZeroMQ 4.3.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)   
+  
+ZeroMQ 4.3.4 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+Zip | . |  .
+  
+Zip 3.0 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+zlib | . |  .
+  
+zlib 1.2.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zlib 1.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+zlib 1.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zlib 1.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zlib 1.2.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zlib 1.2.12 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zlib 1.3.1 |  | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC)   
+  
+zlib 1.2.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zlib 1.2.11 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zlib 1.2.13 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+  
+zstd | . |  .
+  
+zstd 1.5.6 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)   
+  
+zstd 1.5.2 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zstd 1.4.9 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
+  
+zstd 1.5.5 |  | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)   
   
