@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # jemalloc  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: lib  
 ## Homepage  
-[https://jemalloc.net](https://jemalloc.net)  
 [http://jemalloc.net](http://jemalloc.net)  
+[https://jemalloc.net](https://jemalloc.net)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libreadline  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: lib  
 ## Homepage  
 [https://tiswww.case.edu/php/chet/readline/rltop.html](https://tiswww.case.edu/php/chet/readline/rltop.html)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # setuptools-rust  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: tools  
 ## Homepage  
 [https://github.com/PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust)  
 ## Installed versions  

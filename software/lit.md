@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # lit  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: tools  
 ## Homepage  
 [https://llvm.org/docs/CommandGuide/lit.html](https://llvm.org/docs/CommandGuide/lit.html)  
 ## Installed versions  

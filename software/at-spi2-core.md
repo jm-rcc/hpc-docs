@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # at-spi2-core  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: vis  
 ## Homepage  
 [https://wiki.gnome.org/Accessibility](https://wiki.gnome.org/Accessibility)  
 ## Installed versions  

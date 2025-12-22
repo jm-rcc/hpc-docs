@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # bcl2fastq2  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: bio  
 ## Homepage  
 [https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)  
 ## Installed versions  

@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # MrBayes  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: bio  
 ## Homepage  
-[https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
 [http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  
+[https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

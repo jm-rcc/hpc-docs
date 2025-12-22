@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # MRtrix  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: bio  
 ## Homepage  
 [http://www.brain.org.au/software/index.html#mrtrix](http://www.brain.org.au/software/index.html#mrtrix)  
 ## Installed versions  

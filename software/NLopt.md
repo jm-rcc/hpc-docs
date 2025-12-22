@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # NLopt  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: numlib  
 ## Homepage  
 [http://ab-initio.mit.edu/wiki/index.php/NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)  
 ## Installed versions  

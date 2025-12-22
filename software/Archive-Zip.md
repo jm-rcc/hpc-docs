@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Archive-Zip  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: tools  
 ## Homepage  
 [https://metacpan.org/pod/Archive::Zip](https://metacpan.org/pod/Archive::Zip)  
 ## Installed versions  

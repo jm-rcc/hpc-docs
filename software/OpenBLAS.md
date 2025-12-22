@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # OpenBLAS  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: numlib  
 ## Homepage  
-[https://www.openblas.net/](https://www.openblas.net/)  
 [http://www.openblas.net/](http://www.openblas.net/)  
+[https://www.openblas.net/](https://www.openblas.net/)  
 [https://xianyi.github.com/OpenBLAS/](https://xianyi.github.com/OpenBLAS/)  
 ## Installed versions  
   

@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # LibTIFF  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: lib  
 ## Homepage  
-[https://libtiff.gitlab.io/libtiff/](https://libtiff.gitlab.io/libtiff/)  
 [https://libtiff.maptools.org/](https://libtiff.maptools.org/)  
+[https://libtiff.gitlab.io/libtiff/](https://libtiff.gitlab.io/libtiff/)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

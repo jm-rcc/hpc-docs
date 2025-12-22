@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # GATK  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: bio  
 ## Homepage  
 [https://www.broadinstitute.org/gatk/](https://www.broadinstitute.org/gatk/)  
 ## Installed versions  

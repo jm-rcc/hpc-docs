@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pkgconfig  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: devel  
 ## Homepage  
 [https://github.com/matze/pkgconfig](https://github.com/matze/pkgconfig)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # BLIS  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: numlib  
 ## Homepage  
 [https://github.com/flame/blis/](https://github.com/flame/blis/)  
 ## Installed versions  

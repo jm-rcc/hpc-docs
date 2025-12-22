@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # VEP  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: bio  
 ## Homepage  
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
 ## Installed versions  

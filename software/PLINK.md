@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # PLINK  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: bio  
 ## Homepage  
 [https://www.cog-genomics.org/plink/2.0/](https://www.cog-genomics.org/plink/2.0/)  
 ## Installed versions  

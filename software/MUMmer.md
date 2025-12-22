@@ -1,9 +1,9 @@
 [< Software](../software_shortlist.md)  
 # MUMmer  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: bio  
 ## Homepage  
-[https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
 [http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
+[https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  

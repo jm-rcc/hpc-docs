@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # parallel  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: tools  
 ## Homepage  
 [https://savannah.gnu.org/projects/parallel/](https://savannah.gnu.org/projects/parallel/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Perl-bundle-CPAN  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: lang  
 ## Homepage  
 [https://www.perl.org/](https://www.perl.org/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # pybind11  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: lib  
 ## Homepage  
 [https://pybind11.readthedocs.io](https://pybind11.readthedocs.io)  
 ## Installed versions  

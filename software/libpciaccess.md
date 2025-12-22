@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # libpciaccess  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: system  
 ## Homepage  
 [https://cgit.freedesktop.org/xorg/lib/libpciaccess/](https://cgit.freedesktop.org/xorg/lib/libpciaccess/)  
 ## Installed versions  

@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # Xvfb  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: vis  
 ## Homepage  
 [https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml)  
 ## Installed versions  

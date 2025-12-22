@@ -1,6 +1,6 @@
 [< Software](../software_shortlist.md)  
 # json-c  
-Category: ['gffcompare/0.12.2-gcc-10.3.0', '/sw/auto/rocky8d/xeonsp4/modules/all/gffcompare/0.12.2-gcc-10.3.0']  
+Category: lib  
 ## Homepage  
 [https://github.com/json-c/json-c](https://github.com/json-c/json-c)  
 ## Installed versions  
