@@ -1,4 +1,4 @@
 # Software Modules on Bunya  
   
-| ABRicate | . | . | . | 
+| ABRicate | Options | Arches | Module |  
 | ---- | ---- | ---- | ---- |  
