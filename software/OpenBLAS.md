@@ -2,8 +2,8 @@
 # OpenBLAS  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
 ## Homepage  
-[http://www.openblas.net/](http://www.openblas.net/)  
 [https://www.openblas.net/](https://www.openblas.net/)  
+[http://www.openblas.net/](http://www.openblas.net/)  
 [https://xianyi.github.com/OpenBLAS/](https://xianyi.github.com/OpenBLAS/)  
 ## Installed versions  
   
