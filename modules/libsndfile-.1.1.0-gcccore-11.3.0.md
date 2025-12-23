@@ -7,11 +7,11 @@ Libsndfile is a C library for reading and writing files containing sampled sound
   
   
 ## Homepage  
-The homepage for libsndfile 1.1.0 .  
+The homepage for libsndfile 1.1.0 
 [http://www.mega-nerd.com/libsndfile](http://www.mega-nerd.com/libsndfile)  
 ### Usage  
-To use the module on Bunya, load it with the command  
-  **`module load libsndfile/.1.1.0-gcccore-11.3.0`**.  
+To use the module on Bunya, load it with this command:  
+  **`module load libsndfile/.1.1.0-gcccore-11.3.0`**  
   
 ### Toolchain  
 GCCcore-11.3.0  
@@ -23409,3 +23409,4 @@ The following modules will load libsndfile as dependency.
 [hipSYCL 0.9.1  (GCC-10.3.0)] (hipsycl-0.9.1-gcc-10.3.0.md)  
 [hipSYCL 0.9.1  (GCC-10.3.0)] (hipsycl-0.9.1-gcc-10.3.0.md)  
 [hipSYCL 0.9.1  (GCC-10.3.0)] (hipsycl-0.9.1-gcc-10.3.0.md)  
+[< Software](../software_shortlist.md)  
