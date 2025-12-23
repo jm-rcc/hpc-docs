@@ -2,8 +2,8 @@
 # gnuplot  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
 ## Homepage  
-[http://gnuplot.sourceforge.net/](http://gnuplot.sourceforge.net/)  
 [http://gnuplot.sourceforge.net](http://gnuplot.sourceforge.net)  
+[http://gnuplot.sourceforge.net/](http://gnuplot.sourceforge.net/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 
