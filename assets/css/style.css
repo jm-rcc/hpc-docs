@@ -41,7 +41,7 @@
     --link-hover: #B08BC7;
     --code-bg: #2A2A2A;
     --table-stripe: #242424;
-    --thead: var(--neutral-dark);
+    --thead-background-color: var(--neutral-dark);
   }
 }
 
