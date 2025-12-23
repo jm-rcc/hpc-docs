@@ -2,8 +2,8 @@
 # LibTIFF  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
 ## Homepage  
-[https://libtiff.maptools.org/](https://libtiff.maptools.org/)  
 [https://libtiff.gitlab.io/libtiff/](https://libtiff.gitlab.io/libtiff/)  
+[https://libtiff.maptools.org/](https://libtiff.maptools.org/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

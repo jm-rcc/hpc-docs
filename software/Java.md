@@ -2,8 +2,8 @@
 # Java  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
 ## Homepage  
-[http://openjdk.java.net](http://openjdk.java.net)  
 [https://openjdk.org](https://openjdk.org)  
+[http://openjdk.java.net](http://openjdk.java.net)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 
