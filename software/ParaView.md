@@ -7,7 +7,7 @@
   
 | Version | Toolchain | Module | Architecture 
 | :--------- | :--- | :--- | ---: |  
- | ParaView 5.11.2 | foss-2023a | [paraview/5.11.2-foss-2023a](../modules/paraview-5.11.2-foss-2023a.md) | ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836)  |  
+ | ParaView 5.11.2 | foss-2023a | [paraview/5.11.2-foss-2023a](../modules/paraview-5.11.2-foss-2023a.md) | ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) <br> ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836)  |  
   
 ParaView is a scientific parallel visualizer.  
   
