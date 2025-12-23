@@ -2,8 +2,8 @@
 # Java  
 Category: lang  
 ## Homepage  
-[http://openjdk.java.net](http://openjdk.java.net)  
 [https://openjdk.org](https://openjdk.org)  
+[http://openjdk.java.net](http://openjdk.java.net)  
 ## Installed versions  
   
 | Version | Toolchain | Options | Module |  
