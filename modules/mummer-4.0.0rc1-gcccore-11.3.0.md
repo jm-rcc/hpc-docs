@@ -40,7 +40,4 @@ MUMmer depends on the following modules, and they will be loaded automatically w
   
 [gnuplot 5.4.4  (GCCcore-11.3.0)](gnuplot-.5.4.4-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load MUMmer as dependency.  
-  
   

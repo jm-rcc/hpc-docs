@@ -30,9 +30,6 @@ system-system
 - xeonsp4 h100  
   
   
-## Dependencies  
-CUDA depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

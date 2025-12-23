@@ -40,7 +40,4 @@ gfbf depends on the following modules, and they will be loaded automatically wit
 [FlexiBLAS 3.2.0  (GCC-11.3.0)](flexiblas-3.2.0-gcc-11.3.0.md)  
 [FFTW 3.3.10  (GCC-11.3.0)](fftw-3.3.10-gcc-11.3.0.md)  
   
-## Loaded by  
-The following modules will load gfbf as dependency.  
-  
   

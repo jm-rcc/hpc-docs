@@ -24,12 +24,6 @@ system-system
 - epyc3 h100  
   
   
-## Dependencies  
-EasyBuild depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
-  
-## Loaded by  
-The following modules will load EasyBuild as dependency.  
   
   

@@ -33,7 +33,4 @@ cuDNN depends on the following modules, and they will be loaded automatically wi
   
 [CUDA 12.2.0  (system-system)](cuda-12.2.0.md)  
   
-## Loaded by  
-The following modules will load cuDNN as dependency.  
-  
   

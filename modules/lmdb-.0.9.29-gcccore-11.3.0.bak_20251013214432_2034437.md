@@ -23,12 +23,6 @@ GCCcore-11.3.0
 - epyc3 mi210  
   
   
-## Dependencies  
-LMDB depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
-  
-## Loaded by  
-The following modules will load LMDB as dependency.  
   
   

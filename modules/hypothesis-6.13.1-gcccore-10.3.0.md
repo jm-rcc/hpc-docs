@@ -37,7 +37,4 @@ hypothesis depends on the following modules, and they will be loaded automatical
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load hypothesis as dependency.  
-  
   

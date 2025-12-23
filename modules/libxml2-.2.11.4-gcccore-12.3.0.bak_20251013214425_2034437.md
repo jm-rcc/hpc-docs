@@ -31,7 +31,4 @@ libxml2 depends on the following modules, and they will be loaded automatically 
 [XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load libxml2 as dependency.  
-  
   

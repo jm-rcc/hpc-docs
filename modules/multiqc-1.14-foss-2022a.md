@@ -43,7 +43,4 @@ MultiQC depends on the following modules, and they will be loaded automatically 
 [PyYAML 6.0  (GCCcore-11.3.0)](pyyaml-.6.0-gcccore-11.3.0.md)  
 [networkx 2.8.4  (foss-2022a)](networkx-.2.8.4-foss-2022a.md)  
   
-## Loaded by  
-The following modules will load MultiQC as dependency.  
-  
   

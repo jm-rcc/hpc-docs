@@ -37,7 +37,4 @@ Bowtie depends on the following modules, and they will be loaded automatically w
 [tbb 2021.5.0  (GCCcore-11.3.0)](tbb-2021.5.0-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Bowtie as dependency.  
-  
   

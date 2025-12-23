@@ -68,7 +68,4 @@ GDAL depends on the following modules, and they will be loaded automatically wit
 [OpenJPEG 2.5.0  (GCCcore-12.3.0)](openjpeg-2.5.0-gcccore-12.3.0.md)  
 [SWIG 4.1.1  (GCCcore-12.3.0)](swig-.4.1.1-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load GDAL as dependency.  
-  
   

@@ -41,7 +41,4 @@ Salmon depends on the following modules, and they will be loaded automatically w
 [XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Salmon as dependency.  
-  
   

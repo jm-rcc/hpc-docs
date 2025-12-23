@@ -38,7 +38,4 @@ lit depends on the following modules, and they will be loaded automatically with
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load lit as dependency.  
-  
   

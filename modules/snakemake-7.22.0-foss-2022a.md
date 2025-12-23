@@ -41,7 +41,4 @@ snakemake depends on the following modules, and they will be loaded automaticall
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-.8.5.0-gcccore-11.3.0.md)  
 [PyYAML 6.0  (GCCcore-11.3.0)](pyyaml-.6.0-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load snakemake as dependency.  
-  
   

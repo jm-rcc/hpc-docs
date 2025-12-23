@@ -41,7 +41,4 @@ VCFtools depends on the following modules, and they will be loaded automatically
 [HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load VCFtools as dependency.  
-  
   

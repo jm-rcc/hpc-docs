@@ -41,7 +41,4 @@ poetry depends on the following modules, and they will be loaded automatically w
 [cryptography 41.0.1  (GCCcore-12.3.0)](cryptography-41.0.1-gcccore-12.3.0.md)  
 [virtualenv 20.23.1  (GCCcore-12.3.0)](virtualenv-20.23.1-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load poetry as dependency.  
-  
   

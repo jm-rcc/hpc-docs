@@ -40,7 +40,4 @@ makeinfo depends on the following modules, and they will be loaded automatically
   
 [Perl 5.32.1 -minimal (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0-minimal.md)  
   
-## Loaded by  
-The following modules will load makeinfo as dependency.  
-  
   

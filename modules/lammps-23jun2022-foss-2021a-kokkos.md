@@ -56,7 +56,4 @@ LAMMPS depends on the following modules, and they will be loaded automatically w
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
 [tbb 2020.3  (GCCcore-10.3.0)](tbb-2020.3-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load LAMMPS as dependency.  
-  
   

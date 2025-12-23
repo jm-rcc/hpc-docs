@@ -42,7 +42,4 @@ GROMACS depends on the following modules, and they will be loaded automatically 
 [networkx 3.1  (gfbf-2023a)](networkx-.3.1-gfbf-2023a.md)  
 [mpi4py 3.1.4  (gompi-2023a)](mpi4py-3.1.4-gompi-2023a.md)  
   
-## Loaded by  
-The following modules will load GROMACS as dependency.  
-  
   

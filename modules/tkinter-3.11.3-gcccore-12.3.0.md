@@ -39,7 +39,4 @@ Tkinter depends on the following modules, and they will be loaded automatically 
 [Tk 8.6.13  (GCCcore-12.3.0)](tk-.8.6.13-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load Tkinter as dependency.  
-  
   

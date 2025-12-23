@@ -39,7 +39,4 @@ gettext depends on the following modules, and they will be loaded automatically 
   
 [ncurses 6.5  (system-system)](ncurses-.6.5.md)  
   
-## Loaded by  
-The following modules will load gettext as dependency.  
-  
   

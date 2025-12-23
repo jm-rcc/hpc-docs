@@ -49,7 +49,4 @@ GROMACS depends on the following modules, and they will be loaded automatically 
 [mpi4py 3.1.4  (gompi-2023a)](mpi4py-3.1.4-gompi-2023a.md)  
 [PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
   
-## Loaded by  
-The following modules will load GROMACS as dependency.  
-  
   

@@ -45,7 +45,4 @@ BUSCO depends on the following modules, and they will be loaded automatically wi
 [MetaEuk 5  (GCC-10.3.0)](metaeuk-5-gcc-10.3.0.md)  
 [BBMap 38.96  (GCC-10.3.0)](bbmap-38.96-gcc-10.3.0.md)  
   
-## Loaded by  
-The following modules will load BUSCO as dependency.  
-  
   

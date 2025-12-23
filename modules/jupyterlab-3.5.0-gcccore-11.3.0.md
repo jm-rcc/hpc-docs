@@ -42,7 +42,4 @@ JupyterLab depends on the following modules, and they will be loaded automatical
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-.8.5.0-gcccore-11.3.0.md)  
 [jupyter-server 1.21.0  (GCCcore-11.3.0)](jupyter-server-1.21.0-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load JupyterLab as dependency.  
-  
   

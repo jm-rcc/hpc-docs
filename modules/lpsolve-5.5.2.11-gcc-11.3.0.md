@@ -32,9 +32,6 @@ GCC-11.3.0
 - xeonsp4  
   
   
-## Dependencies  
-lpsolve depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

@@ -38,7 +38,4 @@ intltool depends on the following modules, and they will be loaded automatically
   
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load intltool as dependency.  
-  
   

@@ -36,7 +36,4 @@ Python depends on the following modules, and they will be loaded automatically w
 [libffi 3.4.4  (GCCcore-12.3.0)](libffi-.3.4.4-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Loaded by  
-The following modules will load Python as dependency.  
-  
   

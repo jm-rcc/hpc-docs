@@ -38,7 +38,4 @@ scikit-build depends on the following modules, and they will be loaded automatic
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load scikit-build as dependency.  
-  
   

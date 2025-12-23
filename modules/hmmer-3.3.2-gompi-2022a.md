@@ -40,9 +40,6 @@ gompi-2022a
 - xeonsp4  
   
   
-## Dependencies  
-HMMER depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

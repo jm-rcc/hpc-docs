@@ -44,7 +44,4 @@ GObject-Introspection depends on the following modules, and they will be loaded 
 [libffi 3.4.2  (GCCcore-11.3.0)](libffi-.3.4.2-gcccore-11.3.0.md)  
 [util-linux 2.38  (GCCcore-11.3.0)](util-linux-.2.38-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load GObject-Introspection as dependency.  
-  
   

@@ -40,7 +40,4 @@ cppy depends on the following modules, and they will be loaded automatically wit
   
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load cppy as dependency.  
-  
   

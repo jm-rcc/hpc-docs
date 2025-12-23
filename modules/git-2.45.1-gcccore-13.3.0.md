@@ -39,7 +39,4 @@ git depends on the following modules, and they will be loaded automatically with
 [Perl 5.38.2  (GCCcore-13.3.0)](perl-5.38.2-gcccore-13.3.0.md)  
 [OpenSSL 3  (system-system)](openssl-3.md)  
   
-## Loaded by  
-The following modules will load git as dependency.  
-  
   

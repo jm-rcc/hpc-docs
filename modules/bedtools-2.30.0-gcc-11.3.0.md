@@ -43,7 +43,4 @@ BEDTools depends on the following modules, and they will be loaded automatically
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
 [BamTools 2.5.2  (GCC-11.3.0)](bamtools-2.5.2-gcc-11.3.0.md)  
   
-## Loaded by  
-The following modules will load BEDTools as dependency.  
-  
   

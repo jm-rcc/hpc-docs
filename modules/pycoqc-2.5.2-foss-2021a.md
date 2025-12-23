@@ -41,7 +41,4 @@ pycoQC depends on the following modules, and they will be loaded automatically w
 [tqdm 4.61.2  (GCCcore-10.3.0)](tqdm-4.61.2-gcccore-10.3.0.md)  
 [Pysam 0.16.0.1  (GCC-10.3.0)](pysam-0.16.0.1-gcc-10.3.0.md)  
   
-## Loaded by  
-The following modules will load pycoQC as dependency.  
-  
   

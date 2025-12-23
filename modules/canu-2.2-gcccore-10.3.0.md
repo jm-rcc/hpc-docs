@@ -39,7 +39,4 @@ canu depends on the following modules, and they will be loaded automatically wit
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-.5.4.2-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load canu as dependency.  
-  
   

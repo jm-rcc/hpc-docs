@@ -42,7 +42,4 @@ SAMtools depends on the following modules, and they will be loaded automatically
 [XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
 [cURL 7.83.0  (GCCcore-11.3.0)](curl-.7.83.0-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load SAMtools as dependency.  
-  
   

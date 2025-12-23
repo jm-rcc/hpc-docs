@@ -41,7 +41,4 @@ Doxygen depends on the following modules, and they will be loaded automatically 
   
 [libiconv 1.16  (GCCcore-10.3.0)](libiconv-1.16-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load Doxygen as dependency.  
-  
   

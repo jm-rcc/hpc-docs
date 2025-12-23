@@ -41,7 +41,4 @@ UnZip depends on the following modules, and they will be loaded automatically wi
   
 [bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load UnZip as dependency.  
-  
   

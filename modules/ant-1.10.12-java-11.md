@@ -36,7 +36,4 @@ ant depends on the following modules, and they will be loaded automatically with
   
 [Java 11  (system-system)](java-11.md)  
   
-## Loaded by  
-The following modules will load ant as dependency.  
-  
   

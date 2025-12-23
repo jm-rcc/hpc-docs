@@ -46,7 +46,4 @@ Ghostscript depends on the following modules, and they will be loaded automatica
 [LibTIFF 4.5.0  (GCCcore-12.3.0)](libtiff-.4.5.0-gcccore-12.3.0.md)  
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load Ghostscript as dependency.  
-  
   

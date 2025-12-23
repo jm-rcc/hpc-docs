@@ -35,7 +35,4 @@ intel depends on the following modules, and they will be loaded automatically wi
 [imkl 2025.1.0  (system-system)](imkl-2025.1.0.md)  
 [imkl-FFTW 2025.1.0  (iimpi-2025a)](imkl-fftw-2025.1.0-iimpi-2025a.md)  
   
-## Loaded by  
-The following modules will load intel as dependency.  
-  
   

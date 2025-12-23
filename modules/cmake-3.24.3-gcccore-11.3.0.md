@@ -45,7 +45,4 @@ CMake depends on the following modules, and they will be loaded automatically wi
 [libarchive 3.6.1  (GCCcore-11.3.0)](libarchive-3.6.1-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Loaded by  
-The following modules will load CMake as dependency.  
-  
   

@@ -31,9 +31,6 @@ pic: True
 - xeonsp4 h100  
   
   
-## Dependencies  
-expat depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

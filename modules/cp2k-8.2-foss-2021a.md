@@ -43,7 +43,4 @@ CP2K depends on the following modules, and they will be loaded automatically wit
 [FFTW 3.3.9  (gompi-2021a)](fftw-3.3.9-gompi-2021a.md)  
 [PLUMED 2.7.2  (foss-2021a)](plumed-2.7.2-foss-2021a.md)  
   
-## Loaded by  
-The following modules will load CP2K as dependency.  
-  
   

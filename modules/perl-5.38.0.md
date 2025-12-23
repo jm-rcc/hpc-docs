@@ -40,7 +40,4 @@ Perl depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.13  (system-system)](zlib-.1.2.13.md)  
   
-## Loaded by  
-The following modules will load Perl as dependency.  
-  
   

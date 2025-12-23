@@ -28,7 +28,4 @@ SpectrA depends on the following modules, and they will be loaded automatically 
   
 [Eigen 3.4.0  (GCCcore-12.3.0)](eigen-.3.4.0-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load SpectrA as dependency.  
-  
   

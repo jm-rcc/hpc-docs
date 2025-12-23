@@ -32,7 +32,4 @@ gompi depends on the following modules, and they will be loaded automatically wi
 [GCC 14.2.0  (system-system)](gcc-14.2.0.md)  
 [OpenMPI 5.0.7  (GCC-14.2.0)](openmpi-5.0.7-gcc-14.2.0.md)  
   
-## Loaded by  
-The following modules will load gompi as dependency.  
-  
   

@@ -38,9 +38,6 @@ pic: True
 - epyc4  
   
   
-## Dependencies  
-OpenPGM depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

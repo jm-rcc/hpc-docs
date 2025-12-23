@@ -41,7 +41,4 @@ Clang depends on the following modules, and they will be loaded automatically wi
 [GMP 6.2.1  (GCCcore-11.3.0)](gmp-.6.2.1-gcccore-11.3.0.md)  
 [Z3 4.10.2  (GCCcore-11.3.0)](z3-4.10.2-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Clang as dependency.  
-  
   

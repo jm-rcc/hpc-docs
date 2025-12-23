@@ -44,7 +44,4 @@ GTDB-Tk depends on the following modules, and they will be loaded automatically 
 [Mash 2.3  (GCC-10.3.0)](mash-2.3-gcc-10.3.0.md)  
 [tqdm 4.61.2  (GCCcore-10.3.0)](tqdm-4.61.2-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load GTDB-Tk as dependency.  
-  
   

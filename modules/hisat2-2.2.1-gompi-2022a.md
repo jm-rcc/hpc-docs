@@ -39,7 +39,4 @@ HISAT2 depends on the following modules, and they will be loaded automatically w
 [ncbi-vdb 3.0.2  (gompi-2022a)](ncbi-vdb-3.0.2-gompi-2022a.md)  
 [SRA-Toolkit 3.0.3  (gompi-2022a)](sra-toolkit-3.0.3-gompi-2022a.md)  
   
-## Loaded by  
-The following modules will load HISAT2 as dependency.  
-  
   

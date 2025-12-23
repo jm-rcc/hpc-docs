@@ -31,7 +31,4 @@ DIRAC depends on the following modules, and they will be loaded automatically wi
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
 [HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
   
-## Loaded by  
-The following modules will load DIRAC as dependency.  
-  
   

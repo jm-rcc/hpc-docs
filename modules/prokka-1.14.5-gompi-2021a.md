@@ -42,7 +42,4 @@ prokka depends on the following modules, and they will be loaded automatically w
 [parallel 20210622  (GCCcore-10.3.0)](parallel-20210622-gcccore-10.3.0.md)  
 [tbl2asn 20230119 -linux64 (system-system)](tbl2asn-20230119-linux64.md)  
   
-## Loaded by  
-The following modules will load prokka as dependency.  
-  
   

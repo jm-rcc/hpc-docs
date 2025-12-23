@@ -49,7 +49,4 @@ OpenBabel depends on the following modules, and they will be loaded automaticall
 [maeparser 1.3.0  (gompi-2021a)](maeparser-1.3.0-gompi-2021a.md)  
 [CoordgenLibs 3.0.1  (gompi-2021a)](coordgenlibs-3.0.1-gompi-2021a.md)  
   
-## Loaded by  
-The following modules will load OpenBabel as dependency.  
-  
   

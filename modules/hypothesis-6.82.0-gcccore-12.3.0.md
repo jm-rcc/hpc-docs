@@ -40,7 +40,4 @@ hypothesis depends on the following modules, and they will be loaded automatical
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
 [Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load hypothesis as dependency.  
-  
   

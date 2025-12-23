@@ -30,9 +30,6 @@ GCCcore-12.3.0
 - xeonsp4  
   
   
-## Dependencies  
-libtirpc depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

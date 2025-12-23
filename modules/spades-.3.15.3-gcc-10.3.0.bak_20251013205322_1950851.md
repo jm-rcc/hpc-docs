@@ -30,7 +30,4 @@ SPAdes depends on the following modules, and they will be loaded automatically w
 [bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
 [libreadline 8.1  (GCCcore-10.3.0)](libreadline-.8.1-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load SPAdes as dependency.  
-  
   

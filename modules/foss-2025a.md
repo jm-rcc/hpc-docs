@@ -36,7 +36,4 @@ foss depends on the following modules, and they will be loaded automatically wit
 [FFTW.MPI 3.3.10  (gompi-2025a)](fftw.mpi-3.3.10-gompi-2025a.md)  
 [ScaLAPACK 2.2.2 -fb (gompi-2025a)](scalapack-2.2.2-gompi-2025a-fb.md)  
   
-## Loaded by  
-The following modules will load foss as dependency.  
-  
   

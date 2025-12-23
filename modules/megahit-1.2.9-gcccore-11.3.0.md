@@ -40,7 +40,4 @@ MEGAHIT depends on the following modules, and they will be loaded automatically 
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
 [gzip 1.12  (GCCcore-11.3.0)](gzip-1.12-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load MEGAHIT as dependency.  
-  
   

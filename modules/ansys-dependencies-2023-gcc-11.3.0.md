@@ -51,7 +51,4 @@ Ansys-dependencies depends on the following modules, and they will be loaded aut
 [SDL2 2.0.22  (GCCcore-11.3.0)](sdl2-2.0.22-gcccore-11.3.0.md)  
 [tbb 2021.5.0  (GCCcore-11.3.0)](tbb-2021.5.0-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Ansys-dependencies as dependency.  
-  
   

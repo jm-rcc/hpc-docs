@@ -40,7 +40,4 @@ ABRicate depends on the following modules, and they will be loaded automatically
 [BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
 [BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
   
-## Loaded by  
-The following modules will load ABRicate as dependency.  
-  
   

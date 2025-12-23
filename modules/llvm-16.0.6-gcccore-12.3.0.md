@@ -36,7 +36,4 @@ LLVM depends on the following modules, and they will be loaded automatically wit
 [ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load LLVM as dependency.  
-  
   

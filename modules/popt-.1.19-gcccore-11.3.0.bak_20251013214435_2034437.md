@@ -22,12 +22,6 @@ optarch: False
 - epyc3 mi210  
   
   
-## Dependencies  
-popt depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
-  
-## Loaded by  
-The following modules will load popt as dependency.  
   
   

@@ -36,7 +36,4 @@ libGLU depends on the following modules, and they will be loaded automatically w
   
 [Mesa 21.1.1  (GCCcore-10.3.0)](mesa-.21.1.1-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load libGLU as dependency.  
-  
   

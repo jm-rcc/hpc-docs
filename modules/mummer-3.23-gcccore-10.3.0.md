@@ -35,12 +35,6 @@ GCCcore-10.3.0
 - xeonsp4  
   
   
-## Dependencies  
-MUMmer depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
-  
-## Loaded by  
-The following modules will load MUMmer as dependency.  
   
   

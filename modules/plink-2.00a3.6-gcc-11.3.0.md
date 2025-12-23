@@ -39,7 +39,4 @@ PLINK depends on the following modules, and they will be loaded automatically wi
 [libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load PLINK as dependency.  
-  
   

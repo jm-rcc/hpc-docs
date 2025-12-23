@@ -25,9 +25,6 @@ GCCcore-14.2.0
 - xeonsp4 h100  
   
   
-## Dependencies  
-libiconv depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

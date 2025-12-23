@@ -41,7 +41,4 @@ HTSeq depends on the following modules, and they will be loaded automatically wi
 [SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
 [matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
   
-## Loaded by  
-The following modules will load HTSeq as dependency.  
-  
   

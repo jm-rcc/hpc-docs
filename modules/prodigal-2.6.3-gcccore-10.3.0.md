@@ -32,9 +32,6 @@ GCCcore-10.3.0
 - epyc4  
   
   
-## Dependencies  
-prodigal depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

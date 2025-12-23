@@ -37,7 +37,4 @@ picard depends on the following modules, and they will be loaded automatically w
   
 [Java 11  (system-system)](java-11.md)  
   
-## Loaded by  
-The following modules will load picard as dependency.  
-  
   

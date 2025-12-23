@@ -40,7 +40,4 @@ tmux depends on the following modules, and they will be loaded automatically wit
 [libevent 2.1.12  (system-system)](libevent-.2.1.12.md)  
 [ncurses 6.5  (system-system)](ncurses-.6.5.md)  
   
-## Loaded by  
-The following modules will load tmux as dependency.  
-  
   

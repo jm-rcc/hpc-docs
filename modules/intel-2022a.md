@@ -42,7 +42,4 @@ intel depends on the following modules, and they will be loaded automatically wi
 [imkl 2022.1.0  (system-system)](imkl-2022.1.0.md)  
 [imkl-FFTW 2022.1.0  (iimpi-2022a)](imkl-fftw-2022.1.0-iimpi-2022a.md)  
   
-## Loaded by  
-The following modules will load intel as dependency.  
-  
   

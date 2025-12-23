@@ -29,7 +29,4 @@ MaxQuant depends on the following modules, and they will be loaded automatically
   
 [Mono 6.12.0.122  (GCCcore-11.3.0)](mono-6.12.0.122-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load MaxQuant as dependency.  
-  
   

@@ -42,7 +42,4 @@ MRtrix depends on the following modules, and they will be loaded automatically w
 [FFTW 3.3.9  (gompi-2021a)](fftw-3.3.9-gompi-2021a.md)  
 [libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load MRtrix as dependency.  
-  
   

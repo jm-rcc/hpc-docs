@@ -39,7 +39,4 @@ HISAT2 depends on the following modules, and they will be loaded automatically w
 [NGS 2.10.9  (GCCcore-10.3.0)](ngs-2.10.9-gcccore-10.3.0.md)  
 [ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  
   
-## Loaded by  
-The following modules will load HISAT2 as dependency.  
-  
   

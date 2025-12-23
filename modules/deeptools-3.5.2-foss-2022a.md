@@ -43,7 +43,4 @@ deepTools depends on the following modules, and they will be loaded automaticall
 [Pysam 0.19.1  (GCC-11.3.0)](pysam-0.19.1-gcc-11.3.0.md)  
 [pyBigWig 0.3.18  (foss-2022a)](pybigwig-0.3.18-foss-2022a.md)  
   
-## Loaded by  
-The following modules will load deepTools as dependency.  
-  
   

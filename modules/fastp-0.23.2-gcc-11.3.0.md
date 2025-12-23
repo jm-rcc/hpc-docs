@@ -40,7 +40,4 @@ fastp depends on the following modules, and they will be loaded automatically wi
 [libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
 [ISA-L 2.30.0  (GCCcore-11.3.0)](isa-l-2.30.0-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load fastp as dependency.  
-  
   

@@ -30,12 +30,6 @@ GCCcore-13.3.0
 - xeonsp4 h100  
   
   
-## Dependencies  
-groff depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
-  
-## Loaded by  
-The following modules will load groff as dependency.  
   
   

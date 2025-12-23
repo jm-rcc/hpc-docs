@@ -49,7 +49,4 @@ Trinity depends on the following modules, and they will be loaded automatically 
 [SAMtools 1.13  (GCC-10.3.0)](samtools-1.13-gcc-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load Trinity as dependency.  
-  
   

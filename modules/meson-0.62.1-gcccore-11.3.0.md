@@ -38,7 +38,4 @@ Meson depends on the following modules, and they will be loaded automatically wi
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [Ninja 1.10.2  (GCCcore-11.3.0)](ninja-1.10.2-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Meson as dependency.  
-  
   

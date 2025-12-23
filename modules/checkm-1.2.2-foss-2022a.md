@@ -46,7 +46,4 @@ CheckM depends on the following modules, and they will be loaded automatically w
 [DendroPy 4.5.2  (GCCcore-11.3.0)](dendropy-4.5.2-gcccore-11.3.0.md)  
 [CheckM-Database 2015_01_16  (system-system)](checkm-database-2015_01_16.md)  
   
-## Loaded by  
-The following modules will load CheckM as dependency.  
-  
   

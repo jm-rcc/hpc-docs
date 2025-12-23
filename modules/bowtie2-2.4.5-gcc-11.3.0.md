@@ -43,7 +43,4 @@ Bowtie2 depends on the following modules, and they will be loaded automatically 
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Bowtie2 as dependency.  
-  
   

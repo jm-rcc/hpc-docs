@@ -46,7 +46,4 @@ Kraken2 depends on the following modules, and they will be loaded automatically 
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
 [wget 1.21.3  (GCCcore-11.3.0)](wget-1.21.3-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Kraken2 as dependency.  
-  
   

@@ -31,9 +31,6 @@ usempi: True
 - xeonsp4  
   
   
-## Dependencies  
-arpack-ng depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
   
 ## Loaded by  

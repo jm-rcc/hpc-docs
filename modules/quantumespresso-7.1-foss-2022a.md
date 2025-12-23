@@ -44,7 +44,4 @@ QuantumESPRESSO depends on the following modules, and they will be loaded automa
 [ELPA 2021.11.001  (foss-2022a)](elpa-2021.11.001-foss-2022a.md)  
 [libxc 5.2.3  (GCC-11.3.0)](libxc-.5.2.3-gcc-11.3.0.md)  
   
-## Loaded by  
-The following modules will load QuantumESPRESSO as dependency.  
-  
   

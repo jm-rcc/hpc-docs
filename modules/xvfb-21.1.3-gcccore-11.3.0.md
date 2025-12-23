@@ -44,7 +44,4 @@ Xvfb depends on the following modules, and they will be loaded automatically wit
 [libunwind 1.6.2  (GCCcore-11.3.0)](libunwind-.1.6.2-gcccore-11.3.0.md)  
 [XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
   
-## Loaded by  
-The following modules will load Xvfb as dependency.  
-  
   

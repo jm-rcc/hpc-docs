@@ -26,12 +26,6 @@ system-system
 - epyc3 l40  
   
   
-## Dependencies  
-CUDA depends on the following modules, and they will be loaded automatically with this module.  
-  
 (none)  
-  
-## Loaded by  
-The following modules will load CUDA as dependency.  
   
   

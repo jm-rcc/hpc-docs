@@ -31,7 +31,4 @@ iimpi depends on the following modules, and they will be loaded automatically wi
 [intel-compilers 2025.1.1  (system-system)](intel-compilers-2025.1.1.md)  
 [impi 2021.15.0  (intel-compilers-2025.1.1)](impi-2021.15.0-intel-compilers-2025.1.1.md)  
   
-## Loaded by  
-The following modules will load iimpi as dependency.  
-  
   

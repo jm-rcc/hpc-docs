@@ -43,7 +43,4 @@ QUAST depends on the following modules, and they will be loaded automatically wi
 [Java 11  (system-system)](java-11.md)  
 [Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
   
-## Loaded by  
-The following modules will load QUAST as dependency.  
-  
   

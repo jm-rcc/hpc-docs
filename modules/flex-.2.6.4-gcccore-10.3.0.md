@@ -41,7 +41,4 @@ flex depends on the following modules, and they will be loaded automatically wit
   
 [M4 1.4.18  (GCCcore-10.3.0)](m4-.1.4.18-gcccore-10.3.0.md)  
   
-## Loaded by  
-The following modules will load flex as dependency.  
-  
   

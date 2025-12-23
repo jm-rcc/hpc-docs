@@ -37,7 +37,4 @@ libxslt depends on the following modules, and they will be loaded automatically 
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
   
-## Loaded by  
-The following modules will load libxslt as dependency.  
-  
   

@@ -36,7 +36,4 @@ rjags depends on the following modules, and they will be loaded automatically wi
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [JAGS 4.3.0  (foss-2021a)](jags-4.3.0-foss-2021a.md)  
   
-## Loaded by  
-The following modules will load rjags as dependency.  
-  
   

@@ -35,7 +35,4 @@ Autotools depends on the following modules, and they will be loaded automaticall
 [Automake 1.17  (GCCcore-14.2.0)](automake-.1.17-gcccore-14.2.0.md)  
 [libtool 2.5.4  (GCCcore-14.2.0)](libtool-.2.5.4-gcccore-14.2.0.md)  
   
-## Loaded by  
-The following modules will load Autotools as dependency.  
-  
   

@@ -29,7 +29,4 @@ cuDNN depends on the following modules, and they will be loaded automatically wi
   
 [CUDA 11.7.0  (system-system)](cuda-11.7.0.md)  
   
-## Loaded by  
-The following modules will load cuDNN as dependency.  
-  
   
