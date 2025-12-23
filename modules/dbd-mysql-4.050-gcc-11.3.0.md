@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # DBD-mysql 4.050  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -42,7 +40,7 @@ DBD-mysql depends on the following modules, and they will be loaded automaticall
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load DBD-mysql as dependency.  
   
 [VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  

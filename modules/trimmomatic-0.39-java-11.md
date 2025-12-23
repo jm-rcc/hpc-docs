@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Trimmomatic 0.39 -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ Trimmomatic depends on the following modules, and they will be loaded automatica
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Trimmomatic as dependency.  
   
   

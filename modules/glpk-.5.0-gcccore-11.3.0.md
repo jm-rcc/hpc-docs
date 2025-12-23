@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GLPK 5.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -43,7 +41,7 @@ GLPK depends on the following modules, and they will be loaded automatically wit
   
 [GMP 6.2.1  (GCCcore-11.3.0)](gmp-.6.2.1-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GLPK as dependency.  
   
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  

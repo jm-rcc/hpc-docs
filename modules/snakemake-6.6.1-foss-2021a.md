@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # snakemake 6.6.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -41,7 +39,7 @@ snakemake depends on the following modules, and they will be loaded automaticall
 [GitPython 3.1.18  (GCCcore-10.3.0)](gitpython-3.1.18-gcccore-10.3.0.md)  
 [IPython 7.25.0  (GCCcore-10.3.0)](ipython-.7.25.0-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load snakemake as dependency.  
   
   

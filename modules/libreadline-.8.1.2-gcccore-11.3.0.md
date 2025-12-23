@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libreadline 8.1.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -46,7 +44,7 @@ libreadline depends on the following modules, and they will be loaded automatica
   
 [ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libreadline as dependency.  
   
 [Lua 5.4.4  (GCCcore-11.3.0)](lua-5.4.4-gcccore-11.3.0.md)  

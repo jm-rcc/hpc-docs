@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # NASM 2.16.03  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -36,7 +34,7 @@ NASM depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load NASM as dependency.  
   
 [libjpeg-turbo 3.0.1  (GCCcore-13.3.0)](libjpeg-turbo-3.0.1-gcccore-13.3.0.md)  

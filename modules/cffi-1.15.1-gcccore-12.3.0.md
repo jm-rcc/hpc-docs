@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # cffi 1.15.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -42,7 +40,7 @@ cffi depends on the following modules, and they will be loaded automatically wit
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load cffi as dependency.  
   
 [cryptography 41.0.1  (GCCcore-12.3.0)](cryptography-41.0.1-gcccore-12.3.0.md)  

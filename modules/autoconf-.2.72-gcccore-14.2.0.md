@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Autoconf 2.72  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -40,7 +38,7 @@ Autoconf depends on the following modules, and they will be loaded automatically
 [M4 1.4.19  (GCCcore-14.2.0)](m4-.1.4.19-gcccore-14.2.0.md)  
 [Perl 5.40.0  (GCCcore-14.2.0)](perl-5.40.0-gcccore-14.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Autoconf as dependency.  
   
 [Automake 1.17  (GCCcore-14.2.0)](automake-1.17-gcccore-14.2.0.md)  

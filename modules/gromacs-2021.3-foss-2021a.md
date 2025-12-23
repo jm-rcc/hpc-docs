@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GROMACS 2021.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ GROMACS depends on the following modules, and they will be loaded automatically 
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
 [networkx 2.5.1  (foss-2021a)](networkx-.2.5.1-foss-2021a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GROMACS as dependency.  
   
   

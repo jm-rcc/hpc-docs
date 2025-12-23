@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # maeparser 1.3.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ maeparser depends on the following modules, and they will be loaded automaticall
   
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load maeparser as dependency.  
   
 [CoordgenLibs 3.0.1  (gompi-2021a)](coordgenlibs-3.0.1-gompi-2021a.md)  

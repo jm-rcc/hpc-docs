@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # DendroPy 4.5.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ DendroPy depends on the following modules, and they will be loaded automatically
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load DendroPy as dependency.  
   
 [CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  

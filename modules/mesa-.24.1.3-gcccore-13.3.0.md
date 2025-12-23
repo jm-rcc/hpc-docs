@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Mesa 24.1.3  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -44,7 +42,7 @@ Mesa depends on the following modules, and they will be loaded automatically wit
 [X11 20240607  (GCCcore-13.3.0)](x11-.20240607-gcccore-13.3.0.md)  
 [Wayland 1.23.0  (GCCcore-13.3.0)](wayland-1.23.0-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Mesa as dependency.  
   
 [VirtualGL 3.1.3  (GCC-13.3.0)](virtualgl-3.1.3-gcc-13.3.0.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Tk 8.6.13  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -42,7 +40,7 @@ Tk depends on the following modules, and they will be loaded automatically with 
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Tk as dependency.  
   
 [R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  

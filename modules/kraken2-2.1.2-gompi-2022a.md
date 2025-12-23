@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Kraken2 2.1.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -48,7 +46,7 @@ Kraken2 depends on the following modules, and they will be loaded automatically 
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
 [wget 1.21.3  (GCCcore-11.3.0)](wget-1.21.3-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Kraken2 as dependency.  
   
   

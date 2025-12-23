@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GLib 2.72.1  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ GLib depends on the following modules, and they will be loaded automatically wit
 [PCRE 8.45  (GCCcore-11.3.0)](pcre-.8.45-gcccore-11.3.0.md)  
 [util-linux 2.38  (GCCcore-11.3.0)](util-linux-.2.38-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GLib as dependency.  
   
 [ATK 2.38.0  (GCCcore-11.3.0)](atk-2.38.0-gcccore-11.3.0.md)  

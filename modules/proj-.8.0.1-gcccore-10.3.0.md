@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PROJ 8.0.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ PROJ depends on the following modules, and they will be loaded automatically wit
 [cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PROJ as dependency.  
   
 [GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  

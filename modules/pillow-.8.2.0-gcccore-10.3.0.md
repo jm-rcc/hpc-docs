@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Pillow 8.2.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ Pillow depends on the following modules, and they will be loaded automatically w
 [LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-.4.2.0-gcccore-10.3.0.md)  
 [freetype 2.10.4  (GCCcore-10.3.0)](freetype-.2.10.4-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Pillow as dependency.  
   
 [matplotlib 3.4.2  (foss-2021a)](matplotlib-3.4.2-foss-2021a.md)  

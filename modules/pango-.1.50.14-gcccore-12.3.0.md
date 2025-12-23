@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Pango 1.50.14  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -45,7 +43,7 @@ Pango depends on the following modules, and they will be loaded automatically wi
 [HarfBuzz 5.3.1  (GCCcore-12.3.0)](harfbuzz-.5.3.1-gcccore-12.3.0.md)  
 [FriBidi 1.0.12  (GCCcore-12.3.0)](fribidi-.1.0.12-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Pango as dependency.  
   
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  

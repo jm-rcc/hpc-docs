@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Go 1.18.3  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -40,7 +38,7 @@ Go depends on the following modules, and they will be loaded automatically with 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Go as dependency.  
   
   

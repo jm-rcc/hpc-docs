@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # giflib 5.2.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ giflib depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load giflib as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

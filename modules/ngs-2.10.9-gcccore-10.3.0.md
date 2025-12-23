@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # NGS 2.10.9  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -40,7 +38,7 @@ NGS depends on the following modules, and they will be loaded automatically with
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load NGS as dependency.  
   
 [HISAT2 2.2.1  (gompi-2021a)](hisat2-2.2.1-gompi-2021a.md)  

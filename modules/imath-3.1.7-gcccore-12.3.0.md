@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Imath 3.1.7  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ Imath depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Imath as dependency.  
   
 [OpenEXR 3.1.7  (GCCcore-12.3.0)](openexr-3.1.7-gcccore-12.3.0.md)  

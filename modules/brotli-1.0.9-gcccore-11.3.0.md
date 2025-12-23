@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Brotli 1.0.9  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -43,7 +41,7 @@ Brotli depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Brotli as dependency.  
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  

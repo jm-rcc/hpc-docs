@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GCC 14.2.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -34,7 +32,7 @@ GCC depends on the following modules, and they will be loaded automatically with
 [GCCcore 14.2.0  (system-system)](gcccore-.14.2.0.md)  
 [binutils 2.42  (GCCcore-14.2.0)](binutils-.2.42-gcccore-14.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GCC as dependency.  
   
 [foss 2025a  (system-system)](foss-2025a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Miller 6.4.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ Miller depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Miller as dependency.  
   
   

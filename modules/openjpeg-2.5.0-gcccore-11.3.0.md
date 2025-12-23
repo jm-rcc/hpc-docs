@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # OpenJPEG 2.5.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -45,7 +43,7 @@ OpenJPEG depends on the following modules, and they will be loaded automatically
 [libpng 1.6.37  (GCCcore-11.3.0)](libpng-.1.6.37-gcccore-11.3.0.md)  
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load OpenJPEG as dependency.  
   
 [GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  

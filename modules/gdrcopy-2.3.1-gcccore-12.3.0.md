@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GDRCopy 2.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -34,7 +32,7 @@ GDRCopy depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GDRCopy as dependency.  
   
 [UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  

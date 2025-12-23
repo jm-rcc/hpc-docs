@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # groff 1.23.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -37,7 +35,7 @@ groff depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load groff as dependency.  
   
   

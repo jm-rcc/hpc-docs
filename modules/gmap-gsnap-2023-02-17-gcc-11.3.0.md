@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GMAP-GSNAP 2023-02-17  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -38,7 +36,7 @@ GMAP-GSNAP depends on the following modules, and they will be loaded automatical
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GMAP-GSNAP as dependency.  
   
   

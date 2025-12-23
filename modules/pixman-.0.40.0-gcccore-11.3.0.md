@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pixman 0.40.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ pixman depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pixman as dependency.  
   
 [ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  

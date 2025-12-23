@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GObject-Introspection 1.76.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -46,7 +44,7 @@ GObject-Introspection depends on the following modules, and they will be loaded 
 [libffi 3.4.4  (GCCcore-12.3.0)](libffi-.3.4.4-gcccore-12.3.0.md)  
 [util-linux 2.39  (GCCcore-12.3.0)](util-linux-.2.39-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GObject-Introspection as dependency.  
   
   

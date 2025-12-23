@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # RapidJSON 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ RapidJSON depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load RapidJSON as dependency.  
   
 [OpenBabel 3.1.1  (gompi-2021a)](openbabel-3.1.1-gompi-2021a.md)  

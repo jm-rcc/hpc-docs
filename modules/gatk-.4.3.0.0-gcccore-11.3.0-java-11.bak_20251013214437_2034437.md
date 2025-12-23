@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GATK 4.3.0.0 -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -34,7 +32,7 @@ GATK depends on the following modules, and they will be loaded automatically wit
 [Java 11  (system-system)](java-11.md)  
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GATK as dependency.  
   
   

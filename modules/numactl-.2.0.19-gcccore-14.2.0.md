@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # numactl 2.0.19  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -37,7 +35,7 @@ numactl depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load numactl as dependency.  
   
 [UCX 1.18.0  (GCCcore-14.2.0)](ucx-1.18.0-gcccore-14.2.0.md)  

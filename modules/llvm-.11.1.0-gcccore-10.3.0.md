@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LLVM 11.1.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -47,7 +45,7 @@ LLVM depends on the following modules, and they will be loaded automatically wit
 [ncurses 6.2  (GCCcore-10.3.0)](ncurses-.6.2-gcccore-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LLVM as dependency.  
   
 [Mesa 21.1.1  (GCCcore-10.3.0)](mesa-21.1.1-gcccore-10.3.0.md)  

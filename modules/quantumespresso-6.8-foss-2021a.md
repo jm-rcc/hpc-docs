@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # QuantumESPRESSO 6.8  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -39,7 +37,7 @@ QuantumESPRESSO depends on the following modules, and they will be loaded automa
 [ELPA 2021.05.001  (foss-2021a)](elpa-2021.05.001-foss-2021a.md)  
 [libxc 5.1.5  (GCC-10.3.0)](libxc-.5.1.5-gcc-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load QuantumESPRESSO as dependency.  
   
   

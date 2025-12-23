@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PCRE2 10.36  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -42,7 +40,7 @@ PCRE2 depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PCRE2 as dependency.  
   
 [GLib 2.68.2  (GCCcore-10.3.0)](glib-2.68.2-gcccore-10.3.0.md)  

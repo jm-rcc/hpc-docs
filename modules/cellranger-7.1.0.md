@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CellRanger 7.1.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ CellRanger depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CellRanger as dependency.  
   
   

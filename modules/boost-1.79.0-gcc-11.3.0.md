@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Boost 1.79.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -43,7 +41,7 @@ Boost depends on the following modules, and they will be loaded automatically wi
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
 [ICU 71.1  (GCCcore-11.3.0)](icu-.71.1-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Boost as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  

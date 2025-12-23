@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libde265 1.0.8  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -29,7 +27,7 @@ libde265 depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libde265 as dependency.  
   
 [libheif 1.12.0  (GCCcore-10.3.0)](libheif-1.12.0-gcccore-10.3.0.md)  

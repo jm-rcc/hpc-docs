@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PCRE 8.45  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -43,7 +41,7 @@ PCRE depends on the following modules, and they will be loaded automatically wit
 [bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PCRE as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

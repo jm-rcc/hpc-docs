@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # OpenBLAS 0.3.15  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -37,7 +35,7 @@ OpenBLAS depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load OpenBLAS as dependency.  
   
 [FlexiBLAS 3.0.4  (GCC-10.3.0)](flexiblas-3.0.4-gcc-10.3.0.md)  

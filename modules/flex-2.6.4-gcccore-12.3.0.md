@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # flex 2.6.4  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -43,7 +41,7 @@ flex depends on the following modules, and they will be loaded automatically wit
   
 [M4 1.4.19  (GCCcore-12.3.0)](m4-.1.4.19-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load flex as dependency.  
   
   

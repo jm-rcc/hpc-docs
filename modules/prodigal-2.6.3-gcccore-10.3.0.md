@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # prodigal 2.6.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ prodigal depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load prodigal as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # wget 1.21.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -44,7 +42,7 @@ wget depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load wget as dependency.  
   
 [Kraken2 2.1.2  (gompi-2021a)](kraken2-2.1.2-gompi-2021a.md)  

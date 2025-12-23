@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libwebp 1.2.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -45,7 +43,7 @@ libwebp depends on the following modules, and they will be loaded automatically 
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
 [giflib 5.2.1  (GCCcore-11.3.0)](giflib-.5.2.1-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libwebp as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libtirpc 1.3.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -37,7 +35,7 @@ libtirpc depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libtirpc as dependency.  
   
 [HDF 4.2.15  (GCCcore-10.3.0)](hdf-4.2.15-gcccore-10.3.0.md)  

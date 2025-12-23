@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Ruby 3.0.5  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -43,7 +41,7 @@ Ruby depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Ruby as dependency.  
   
   

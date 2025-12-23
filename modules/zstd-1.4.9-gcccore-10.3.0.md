@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # zstd 1.4.9  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -45,7 +43,7 @@ zstd depends on the following modules, and they will be loaded automatically wit
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
 [lz4 1.9.3  (GCCcore-10.3.0)](lz4-1.9.3-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load zstd as dependency.  
   
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # HarfBuzz 5.3.1  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -42,7 +40,7 @@ HarfBuzz depends on the following modules, and they will be loaded automatically
 [cairo 1.17.8  (GCCcore-12.3.0)](cairo-.1.17.8-gcccore-12.3.0.md)  
 [freetype 2.13.0  (GCCcore-12.3.0)](freetype-.2.13.0-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load HarfBuzz as dependency.  
   
 [Pango 1.50.14  (GCCcore-12.3.0)](pango-1.50.14-gcccore-12.3.0.md)  

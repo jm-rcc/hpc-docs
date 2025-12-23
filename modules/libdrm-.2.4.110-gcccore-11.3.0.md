@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libdrm 2.4.110  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ libdrm depends on the following modules, and they will be loaded automatically w
   
 [X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libdrm as dependency.  
   
 [Mesa 22.0.3  (GCCcore-11.3.0)](mesa-22.0.3-gcccore-11.3.0.md)  

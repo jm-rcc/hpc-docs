@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libiconv 1.17  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -36,7 +34,7 @@ libiconv depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libiconv as dependency.  
   
 [Doxygen 1.11.0  (GCCcore-13.3.0)](doxygen-1.11.0-gcccore-13.3.0.md)  

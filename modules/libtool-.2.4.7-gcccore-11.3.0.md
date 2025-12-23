@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libtool 2.4.7  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ libtool depends on the following modules, and they will be loaded automatically 
   
 [M4 1.4.19  (GCCcore-11.3.0)](m4-.1.4.19-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libtool as dependency.  
   
 [Autotools 20220317  (GCCcore-11.3.0)](autotools-20220317-gcccore-11.3.0.md)  

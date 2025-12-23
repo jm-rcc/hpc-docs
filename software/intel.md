@@ -1,4 +1,4 @@
-[< Software](../software_shortlist.md)  
+[List of Software](../software_shortlist.md)  
 # intel  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
 ## Homepage  

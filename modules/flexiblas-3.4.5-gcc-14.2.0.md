@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FlexiBLAS 3.4.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -35,7 +33,7 @@ FlexiBLAS depends on the following modules, and they will be loaded automaticall
   
 [OpenBLAS 0.3.29  (GCC-14.2.0)](openblas-0.3.29-gcc-14.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FlexiBLAS as dependency.  
   
 [ScaLAPACK 2.2.2 -fb (gompi-2025a)](scalapack-2.2.2-gompi-2025a-fb.md)  

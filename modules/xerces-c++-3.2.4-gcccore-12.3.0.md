@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Xerces-C++ 3.2.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ Xerces-C++ depends on the following modules, and they will be loaded automatical
   
 [cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Xerces-C++ as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

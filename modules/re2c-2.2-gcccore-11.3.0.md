@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # re2c 2.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -42,7 +40,7 @@ re2c depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load re2c as dependency.  
   
   

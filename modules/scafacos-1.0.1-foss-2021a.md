@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ScaFaCoS 1.0.1  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -38,7 +36,7 @@ ScaFaCoS depends on the following modules, and they will be loaded automatically
 [GMP 6.2.1  (GCCcore-10.3.0)](gmp-.6.2.1-gcccore-10.3.0.md)  
 [GSL 2.7  (GCC-10.3.0)](gsl-2.7-gcc-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ScaFaCoS as dependency.  
   
 [LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # arpack-ng 3.9.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -38,7 +36,7 @@ arpack-ng depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load arpack-ng as dependency.  
   
 [Armadillo 12.6.2  (foss-2023a)](armadillo-12.6.2-foss-2023a.md)  

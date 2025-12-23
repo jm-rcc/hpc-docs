@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # OpenBabel 3.1.1  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -51,7 +49,7 @@ OpenBabel depends on the following modules, and they will be loaded automaticall
 [maeparser 1.3.0  (gompi-2022a)](maeparser-1.3.0-gompi-2022a.md)  
 [CoordgenLibs 3.0.1  (gompi-2022a)](coordgenlibs-3.0.1-gompi-2022a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load OpenBabel as dependency.  
   
   

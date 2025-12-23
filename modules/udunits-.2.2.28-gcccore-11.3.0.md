@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # UDUNITS 2.2.28  
 ![Static Badge](https://img.shields.io/badge/class-phys-D7D1CC)  
   
@@ -40,7 +38,7 @@ UDUNITS depends on the following modules, and they will be loaded automatically 
   
 [expat 2.4.8  (GCCcore-11.3.0)](expat-.2.4.8-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load UDUNITS as dependency.  
   
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  

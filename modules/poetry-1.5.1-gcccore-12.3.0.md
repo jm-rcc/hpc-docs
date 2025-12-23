@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # poetry 1.5.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -43,7 +41,7 @@ poetry depends on the following modules, and they will be loaded automatically w
 [cryptography 41.0.1  (GCCcore-12.3.0)](cryptography-41.0.1-gcccore-12.3.0.md)  
 [virtualenv 20.23.1  (GCCcore-12.3.0)](virtualenv-20.23.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load poetry as dependency.  
   
   

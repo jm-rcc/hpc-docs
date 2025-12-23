@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # imkl-FFTW 2024.2.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -39,7 +37,7 @@ imkl-FFTW depends on the following modules, and they will be loaded automaticall
   
 [imkl 2024.2.0  (system-system)](imkl-2024.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load imkl-FFTW as dependency.  
   
 [intel 2024a  (system-system)](intel-2024a.md)  

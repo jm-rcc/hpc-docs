@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # python-isal 0.11.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ python-isal depends on the following modules, and they will be loaded automatica
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [ISA-L 2.30.0  (GCCcore-10.3.0)](isa-l-2.30.0-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load python-isal as dependency.  
   
 [cutadapt 3.4  (GCCcore-10.3.0)](cutadapt-3.4-gcccore-10.3.0.md)  

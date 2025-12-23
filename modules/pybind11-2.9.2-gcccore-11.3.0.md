@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pybind11 2.9.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ pybind11 depends on the following modules, and they will be loaded automatically
   
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pybind11 as dependency.  
   
 [SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  

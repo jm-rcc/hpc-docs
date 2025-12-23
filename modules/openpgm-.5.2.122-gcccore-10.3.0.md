@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # OpenPGM 5.2.122  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -45,7 +43,7 @@ OpenPGM depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load OpenPGM as dependency.  
   
 [ZeroMQ 4.3.4  (GCCcore-10.3.0)](zeromq-4.3.4-gcccore-10.3.0.md)  

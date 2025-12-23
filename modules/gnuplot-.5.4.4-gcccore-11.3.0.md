@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gnuplot 5.4.4  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -48,7 +46,7 @@ gnuplot depends on the following modules, and they will be loaded automatically 
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
 [Lua 5.4.4  (GCCcore-11.3.0)](lua-5.4.4-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gnuplot as dependency.  
   
 [MUMmer 4.0.0rc1  (GCCcore-11.3.0)](mummer-4.0.0rc1-gcccore-11.3.0.md)  

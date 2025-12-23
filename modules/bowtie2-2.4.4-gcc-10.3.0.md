@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Bowtie2 2.4.4  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -45,7 +43,7 @@ Bowtie2 depends on the following modules, and they will be loaded automatically 
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Bowtie2 as dependency.  
   
 [Trinity 2.9.1  (foss-2021a)](trinity-2.9.1-foss-2021a.md)  

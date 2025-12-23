@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CUDA 12.1.1  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -37,7 +35,7 @@ CUDA depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CUDA as dependency.  
   
 [GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  

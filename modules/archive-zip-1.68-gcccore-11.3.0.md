@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Archive-Zip 1.68  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -41,7 +39,7 @@ Archive-Zip depends on the following modules, and they will be loaded automatica
 [UnZip 6.0  (GCCcore-11.3.0)](unzip-6.0-gcccore-11.3.0.md)  
 [Zip 3.0  (GCCcore-11.3.0)](zip-3.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Archive-Zip as dependency.  
   
 [VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  

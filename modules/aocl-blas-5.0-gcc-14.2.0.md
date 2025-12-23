@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # AOCL-BLAS 5.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -33,7 +31,7 @@ AOCL-BLAS depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load AOCL-BLAS as dependency.  
   
   

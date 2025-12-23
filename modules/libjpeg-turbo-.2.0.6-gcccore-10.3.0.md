@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libjpeg-turbo 2.0.6  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -43,7 +41,7 @@ libjpeg-turbo depends on the following modules, and they will be loaded automati
   
 [NASM 2.15.05  (GCCcore-10.3.0)](nasm-.2.15.05-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libjpeg-turbo as dependency.  
   
 [BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  

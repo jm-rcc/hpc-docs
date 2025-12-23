@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # VTK 9.3.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -47,7 +45,7 @@ VTK depends on the following modules, and they will be loaded automatically with
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
 [Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load VTK as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  

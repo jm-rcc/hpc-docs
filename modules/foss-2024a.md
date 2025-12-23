@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # foss 2024a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -45,7 +43,7 @@ foss depends on the following modules, and they will be loaded automatically wit
 [FFTW.MPI 3.3.10  (gompi-2024a)](fftw.mpi-3.3.10-gompi-2024a.md)  
 [ScaLAPACK 2.2.0 -fb (gompi-2024a)](scalapack-2.2.0-gompi-2024a-fb.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load foss as dependency.  
   
   

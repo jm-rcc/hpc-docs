@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libopus 1.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ libopus depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libopus as dependency.  
   
 [libsndfile 1.1.0  (GCCcore-11.3.0)](libsndfile-1.1.0-gcccore-11.3.0.md)  

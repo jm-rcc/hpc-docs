@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BioPerl 1.7.8  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ BioPerl depends on the following modules, and they will be loaded automatically 
 [XML-LibXML 2.0207  (GCCcore-11.3.0)](xml-libxml-2.0207-gcccore-11.3.0.md)  
 [DB_File 1.858  (GCCcore-11.3.0)](db_file-1.858-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BioPerl as dependency.  
   
 [Bio-DB-HTS 3.01  (GCC-11.3.0)](bio-db-hts-3.01-gcc-11.3.0.md)  

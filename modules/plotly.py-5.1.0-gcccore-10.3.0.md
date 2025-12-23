@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # plotly.py 5.1.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -37,7 +35,7 @@ plotly.py depends on the following modules, and they will be loaded automaticall
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load plotly.py as dependency.  
   
 [deepTools 3.5.0  (foss-2021a)](deeptools-3.5.0-foss-2021a.md)  

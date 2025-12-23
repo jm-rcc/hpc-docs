@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SEPP 4.5.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ SEPP depends on the following modules, and they will be loaded automatically wit
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [DendroPy 4.5.2  (GCCcore-10.3.0)](dendropy-4.5.2-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SEPP as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  

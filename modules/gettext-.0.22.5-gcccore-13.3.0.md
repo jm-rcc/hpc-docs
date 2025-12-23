@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gettext 0.22.5  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -40,7 +38,7 @@ gettext depends on the following modules, and they will be loaded automatically 
 [ncurses 6.5  (GCCcore-13.3.0)](ncurses-.6.5-gcccore-13.3.0.md)  
 [libiconv 1.17  (GCCcore-13.3.0)](libiconv-1.17-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gettext as dependency.  
   
 [git 2.45.1  (GCCcore-13.3.0)](git-2.45.1-gcccore-13.3.0.md)  

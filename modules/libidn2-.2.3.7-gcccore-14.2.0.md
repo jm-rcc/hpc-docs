@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libidn2 2.3.7  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -32,7 +30,7 @@ libidn2 depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libidn2 as dependency.  
   
 [libpsl 0.21.5  (GCCcore-14.2.0)](libpsl-0.21.5-gcccore-14.2.0.md)  

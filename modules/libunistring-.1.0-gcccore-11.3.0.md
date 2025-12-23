@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libunistring 1.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ libunistring depends on the following modules, and they will be loaded automatic
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libunistring as dependency.  
   
 [Guile 3.0.8  (GCCcore-11.3.0)](guile-3.0.8-gcccore-11.3.0.md)  

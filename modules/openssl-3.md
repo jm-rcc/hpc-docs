@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # OpenSSL 3  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -41,7 +39,7 @@ OpenSSL depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load OpenSSL as dependency.  
   
 [CMake 3.29.3  (GCCcore-13.3.0)](cmake-3.29.3-gcccore-13.3.0.md)  

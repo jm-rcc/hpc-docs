@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Gdk-Pixbuf 2.42.10  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -48,7 +46,7 @@ Gdk-Pixbuf depends on the following modules, and they will be loaded automatical
 [LibTIFF 4.5.0  (GCCcore-12.3.0)](libtiff-.4.5.0-gcccore-12.3.0.md)  
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Gdk-Pixbuf as dependency.  
   
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  

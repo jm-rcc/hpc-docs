@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libaio 0.3.112  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ libaio depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libaio as dependency.  
   
   

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GMP 6.2.1  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -43,7 +41,7 @@ GMP depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GMP as dependency.  
   
 [BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  

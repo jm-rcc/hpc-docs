@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FastQC 0.11.9 -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -43,7 +41,7 @@ FastQC depends on the following modules, and they will be loaded automatically w
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FastQC as dependency.  
   
   

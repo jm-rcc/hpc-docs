@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -51,7 +49,7 @@ GROMACS depends on the following modules, and they will be loaded automatically 
 [mpi4py 3.1.4  (gompi-2023a)](mpi4py-3.1.4-gompi-2023a.md)  
 [PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GROMACS as dependency.  
   
   

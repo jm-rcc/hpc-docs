@@ -1,9 +1,9 @@
-[< Software](../software_shortlist.md)  
+[List of Software](../software_shortlist.md)  
 # flex  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
 ## Homepage  
-[https://github.com/westes/flex](https://github.com/westes/flex)  
 [http://flex.sourceforge.net/](http://flex.sourceforge.net/)  
+[https://github.com/westes/flex](https://github.com/westes/flex)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

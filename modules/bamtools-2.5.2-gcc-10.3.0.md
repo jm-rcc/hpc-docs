@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BamTools 2.5.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ BamTools depends on the following modules, and they will be loaded automatically
   
 [JsonCpp 1.9.4  (GCCcore-10.3.0)](jsoncpp-1.9.4-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BamTools as dependency.  
   
 [AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  

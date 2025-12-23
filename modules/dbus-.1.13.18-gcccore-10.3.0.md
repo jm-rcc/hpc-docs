@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # DBus 1.13.18  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -45,7 +43,7 @@ DBus depends on the following modules, and they will be loaded automatically wit
   
 [expat 2.2.9  (GCCcore-10.3.0)](expat-.2.2.9-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load DBus as dependency.  
   
 [Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  

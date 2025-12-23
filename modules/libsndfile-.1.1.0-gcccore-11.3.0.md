@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libsndfile 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -43,7 +41,7 @@ libsndfile depends on the following modules, and they will be loaded automatical
 [libopus 1.3.1  (GCCcore-11.3.0)](libopus-1.3.1-gcccore-11.3.0.md)  
 [LAME 3.100  (GCCcore-11.3.0)](lame-3.100-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libsndfile as dependency.  
   
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  

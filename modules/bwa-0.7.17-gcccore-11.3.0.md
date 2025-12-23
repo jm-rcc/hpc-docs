@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BWA 0.7.17  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -44,7 +42,7 @@ BWA depends on the following modules, and they will be loaded automatically with
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BWA as dependency.  
   
   

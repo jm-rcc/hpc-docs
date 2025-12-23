@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # NSS 3.79  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ NSS depends on the following modules, and they will be loaded automatically with
 [NSPR 4.34  (GCCcore-11.3.0)](nspr-.4.34-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load NSS as dependency.  
   
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  

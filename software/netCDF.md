@@ -1,4 +1,4 @@
-[< Software](../software_shortlist.md)  
+[List of Software](../software_shortlist.md)  
 # netCDF  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
 ## Homepage  

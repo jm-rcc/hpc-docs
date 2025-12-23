@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Biopython 1.79  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ Biopython depends on the following modules, and they will be loaded automaticall
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Biopython as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  

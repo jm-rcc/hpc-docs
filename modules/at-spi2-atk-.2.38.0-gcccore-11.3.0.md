@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # at-spi2-atk 2.38.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ at-spi2-atk depends on the following modules, and they will be loaded automatica
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
 [ATK 2.38.0  (GCCcore-11.3.0)](atk-.2.38.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load at-spi2-atk as dependency.  
   
 [GTK3 3.24.33  (GCCcore-11.3.0)](gtk3-3.24.33-gcccore-11.3.0.md)  

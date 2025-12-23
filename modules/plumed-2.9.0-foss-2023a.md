@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PLUMED 2.9.0  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -47,7 +45,7 @@ PLUMED depends on the following modules, and they will be loaded automatically w
 [SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
 [Boost 1.82.0  (GCC-12.3.0)](boost-1.82.0-gcc-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PLUMED as dependency.  
   
 [GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  

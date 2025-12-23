@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # zlib 1.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -36,7 +34,7 @@ zlib depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load zlib as dependency.  
   
 [CMake 3.31.3  (GCCcore-14.2.0)](cmake-3.31.3-gcccore-14.2.0.md)  

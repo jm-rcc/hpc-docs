@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # HDF 4.2.16-2  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -43,7 +41,7 @@ HDF depends on the following modules, and they will be loaded automatically with
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [libtirpc 1.3.3  (GCCcore-12.3.0)](libtirpc-1.3.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load HDF as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

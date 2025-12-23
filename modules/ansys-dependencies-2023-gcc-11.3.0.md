@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Ansys-dependencies 2023  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -53,7 +51,7 @@ Ansys-dependencies depends on the following modules, and they will be loaded aut
 [SDL2 2.0.22  (GCCcore-11.3.0)](sdl2-2.0.22-gcccore-11.3.0.md)  
 [tbb 2021.5.0  (GCCcore-11.3.0)](tbb-2021.5.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Ansys-dependencies as dependency.  
   
   

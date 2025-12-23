@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GitPython 3.1.27  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ GitPython depends on the following modules, and they will be loaded automaticall
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [git 2.36.0 -nodocs (GCCcore-11.3.0)](git-2.36.0-gcccore-11.3.0-nodocs.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GitPython as dependency.  
   
 [snakemake 7.22.0  (foss-2022a)](snakemake-7.22.0-foss-2022a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # at-spi2-core 2.49.91  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ at-spi2-core depends on the following modules, and they will be loaded automatic
 [DBus 1.15.4  (GCCcore-12.3.0)](dbus-.1.15.4-gcccore-12.3.0.md)  
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load at-spi2-core as dependency.  
   
 [at-spi2-atk 2.38.0  (GCCcore-12.3.0)](at-spi2-atk-2.38.0-gcccore-12.3.0.md)  

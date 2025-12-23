@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Wayland 1.22.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -48,7 +46,7 @@ Wayland depends on the following modules, and they will be loaded automatically 
 [expat 2.5.0  (GCCcore-12.3.0)](expat-.2.5.0-gcccore-12.3.0.md)  
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Wayland as dependency.  
   
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  

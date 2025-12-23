@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # xorg-macros 1.20.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -39,7 +37,7 @@ xorg-macros depends on the following modules, and they will be loaded automatica
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load xorg-macros as dependency.  
   
 [X11 20240607  (GCCcore-13.3.0)](x11-20240607-gcccore-13.3.0.md)  

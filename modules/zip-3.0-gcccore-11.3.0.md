@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Zip 3.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -42,7 +40,7 @@ Zip depends on the following modules, and they will be loaded automatically with
   
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Zip as dependency.  
   
 [Archive-Zip 1.68  (GCCcore-11.3.0)](archive-zip-1.68-gcccore-11.3.0.md)  

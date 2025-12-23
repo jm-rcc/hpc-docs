@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BioPerl 1.7.8  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ BioPerl depends on the following modules, and they will be loaded automatically 
 [XML-LibXML 2.0207  (GCCcore-10.3.0)](xml-libxml-2.0207-gcccore-10.3.0.md)  
 [DB_File 1.856  (GCCcore-10.3.0)](db_file-1.856-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BioPerl as dependency.  
   
 [ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gzip 1.12  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ gzip depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gzip as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  

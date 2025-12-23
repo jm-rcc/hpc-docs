@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # NSPR 4.30  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ NSPR depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load NSPR as dependency.  
   
 [NSS 3.65  (GCCcore-10.3.0)](nss-3.65-gcccore-10.3.0.md)  

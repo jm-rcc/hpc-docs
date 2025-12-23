@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # motif 2.3.8  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -45,7 +43,7 @@ motif depends on the following modules, and they will be loaded automatically wi
 [libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load motif as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  

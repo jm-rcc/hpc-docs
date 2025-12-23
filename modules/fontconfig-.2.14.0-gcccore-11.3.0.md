@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # fontconfig 2.14.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -44,7 +42,7 @@ fontconfig depends on the following modules, and they will be loaded automatical
 [freetype 2.12.1  (GCCcore-11.3.0)](freetype-.2.12.1-gcccore-11.3.0.md)  
 [util-linux 2.38  (GCCcore-11.3.0)](util-linux-.2.38-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load fontconfig as dependency.  
   
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  

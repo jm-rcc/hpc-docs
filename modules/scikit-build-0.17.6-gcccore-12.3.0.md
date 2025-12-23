@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # scikit-build 0.17.6  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ scikit-build depends on the following modules, and they will be loaded automatic
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load scikit-build as dependency.  
   
   

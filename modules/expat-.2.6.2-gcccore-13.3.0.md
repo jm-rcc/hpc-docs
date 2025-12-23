@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # expat 2.6.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -38,7 +36,7 @@ expat depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load expat as dependency.  
   
 [Perl-bundle-CPAN 5.38.2  (GCCcore-13.3.0)](perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  

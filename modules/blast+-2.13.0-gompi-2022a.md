@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BLAST+ 2.13.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -49,7 +47,7 @@ BLAST+ depends on the following modules, and they will be loaded automatically w
 [libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
 [LMDB 0.9.29  (GCCcore-11.3.0)](lmdb-.0.9.29-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BLAST+ as dependency.  
   
 [BUSCO 5.4.5  (foss-2022a)](busco-5.4.5-foss-2022a.md)  

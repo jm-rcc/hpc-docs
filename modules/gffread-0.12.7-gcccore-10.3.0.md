@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gffread 0.12.7  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -40,7 +38,7 @@ gffread depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gffread as dependency.  
   
   

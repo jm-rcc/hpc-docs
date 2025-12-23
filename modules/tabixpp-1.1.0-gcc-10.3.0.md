@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # tabixpp 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ tabixpp depends on the following modules, and they will be loaded automatically 
 [HTSlib 1.12  (GCC-10.3.0)](htslib-1.12-gcc-10.3.0.md)  
 [PCRE 8.44  (GCCcore-10.3.0)](pcre-.8.44-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load tabixpp as dependency.  
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  

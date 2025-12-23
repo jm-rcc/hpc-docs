@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Anaconda3 2022.05  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -42,7 +40,7 @@ Anaconda3 depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Anaconda3 as dependency.  
   
   

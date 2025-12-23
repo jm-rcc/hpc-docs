@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LibSoup 3.0.8  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -50,7 +48,7 @@ LibSoup depends on the following modules, and they will be loaded automatically 
 [glib-networking 2.72.1  (GCCcore-11.3.0)](glib-networking-.2.72.1-gcccore-11.3.0.md)  
 [Brotli 1.0.9  (GCCcore-11.3.0)](brotli-1.0.9-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LibSoup as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  

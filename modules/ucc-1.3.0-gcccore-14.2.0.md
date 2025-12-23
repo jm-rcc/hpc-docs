@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # UCC 1.3.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -35,7 +33,7 @@ UCC depends on the following modules, and they will be loaded automatically with
   
 [UCX 1.18.0  (GCCcore-14.2.0)](ucx-.1.18.0-gcccore-14.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load UCC as dependency.  
   
 [OpenMPI 5.0.7  (GCC-14.2.0)](openmpi-5.0.7-gcc-14.2.0.md)  

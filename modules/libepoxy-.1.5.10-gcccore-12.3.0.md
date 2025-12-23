@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libepoxy 1.5.10  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ libepoxy depends on the following modules, and they will be loaded automatically
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
 [Mesa 23.1.4  (GCCcore-12.3.0)](mesa-.23.1.4-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libepoxy as dependency.  
   
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  

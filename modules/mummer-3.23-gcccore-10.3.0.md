@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # MUMmer 3.23  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ MUMmer depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load MUMmer as dependency.  
   
   

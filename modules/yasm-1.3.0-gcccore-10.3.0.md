@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Yasm 1.3.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -37,7 +35,7 @@ Yasm depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Yasm as dependency.  
   
   

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # NASM 2.16.01  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -39,7 +37,7 @@ NASM depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load NASM as dependency.  
   
 [FFmpeg 6.0  (GCCcore-12.3.0)](ffmpeg-6.0-gcccore-12.3.0.md)  

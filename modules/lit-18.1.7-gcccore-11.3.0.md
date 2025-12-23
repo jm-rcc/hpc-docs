@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # lit 18.1.7  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -40,7 +38,7 @@ lit depends on the following modules, and they will be loaded automatically with
   
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load lit as dependency.  
   
   

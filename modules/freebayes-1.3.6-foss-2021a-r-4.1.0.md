@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # freebayes 1.3.6 -R-4.1.0 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -43,7 +41,7 @@ freebayes depends on the following modules, and they will be loaded automaticall
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load freebayes as dependency.  
   
   

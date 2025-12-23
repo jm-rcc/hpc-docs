@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # STAR 2.7.9a  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ STAR depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load STAR as dependency.  
   
   

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Ghostscript 9.54.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -45,7 +43,7 @@ Ghostscript depends on the following modules, and they will be loaded automatica
 [cairo 1.16.0  (GCCcore-10.3.0)](cairo-.1.16.0-gcccore-10.3.0.md)  
 [LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-.4.2.0-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Ghostscript as dependency.  
   
 [ImageMagick 7.0.11-14  (GCCcore-10.3.0)](imagemagick-7.0.11-14-gcccore-10.3.0.md)  

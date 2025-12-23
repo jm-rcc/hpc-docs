@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # googletest 1.11.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ googletest depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load googletest as dependency.  
   
   

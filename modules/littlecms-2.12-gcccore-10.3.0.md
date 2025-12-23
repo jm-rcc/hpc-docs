@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LittleCMS 2.12  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -38,7 +36,7 @@ LittleCMS depends on the following modules, and they will be loaded automaticall
   
 [libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LittleCMS as dependency.  
   
 [ImageMagick 7.0.11-14  (GCCcore-10.3.0)](imagemagick-7.0.11-14-gcccore-10.3.0.md)  

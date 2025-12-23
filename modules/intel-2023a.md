@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # intel 2023a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -44,7 +42,7 @@ intel depends on the following modules, and they will be loaded automatically wi
 [imkl 2023.1.0  (system-system)](imkl-2023.1.0.md)  
 [imkl-FFTW 2023.1.0  (iimpi-2023a)](imkl-fftw-2023.1.0-iimpi-2023a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load intel as dependency.  
   
   

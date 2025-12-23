@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # nlohmann_json 3.11.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -37,7 +35,7 @@ nlohmann_json depends on the following modules, and they will be loaded automati
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load nlohmann_json as dependency.  
   
 [PROJ 9.2.0  (GCCcore-12.3.0)](proj-9.2.0-gcccore-12.3.0.md)  

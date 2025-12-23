@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Miniconda3 23.9.0-0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -41,7 +39,7 @@ Miniconda3 depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Miniconda3 as dependency.  
   
   

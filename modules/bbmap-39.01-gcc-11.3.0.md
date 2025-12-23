@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BBMap 39.01  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ BBMap depends on the following modules, and they will be loaded automatically wi
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BBMap as dependency.  
   
 [BUSCO 5.4.5  (foss-2022a)](busco-5.4.5-foss-2022a.md)  

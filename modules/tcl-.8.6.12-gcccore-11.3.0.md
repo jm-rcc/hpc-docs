@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Tcl 8.6.12  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -43,7 +41,7 @@ Tcl depends on the following modules, and they will be loaded automatically with
   
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Tcl as dependency.  
   
 [SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-3.38.3-gcccore-11.3.0.md)  

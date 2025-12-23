@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SDL2 2.0.22  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ SDL2 depends on the following modules, and they will be loaded automatically wit
   
 [X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SDL2 as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  

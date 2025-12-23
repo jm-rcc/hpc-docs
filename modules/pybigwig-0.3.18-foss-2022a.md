@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pyBigWig 0.3.18  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -43,7 +41,7 @@ pyBigWig depends on the following modules, and they will be loaded automatically
 [NSS 3.79  (GCCcore-11.3.0)](nss-.3.79-gcccore-11.3.0.md)  
 [SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pyBigWig as dependency.  
   
 [deepTools 3.5.2  (foss-2022a)](deeptools-3.5.2-foss-2022a.md)  

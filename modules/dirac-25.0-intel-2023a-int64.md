@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # DIRAC 25.0 -int64 
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -33,7 +31,7 @@ DIRAC depends on the following modules, and they will be loaded automatically wi
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
 [HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load DIRAC as dependency.  
   
   

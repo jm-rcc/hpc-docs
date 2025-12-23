@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LLVM 18.1.8 -minimal 
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -37,7 +35,7 @@ LLVM depends on the following modules, and they will be loaded automatically wit
 [ncurses 6.5  (GCCcore-13.3.0)](ncurses-.6.5-gcccore-13.3.0.md)  
 [zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LLVM as dependency.  
   
   

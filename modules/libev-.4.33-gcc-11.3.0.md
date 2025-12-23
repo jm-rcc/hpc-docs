@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libev 4.33  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -43,7 +41,7 @@ libev depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libev as dependency.  
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  

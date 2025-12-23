@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GCTA 1.94.0beta  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -47,7 +45,7 @@ GCTA depends on the following modules, and they will be loaded automatically wit
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
 [GSL 2.7  (GCC-11.3.0)](gsl-2.7-gcc-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GCTA as dependency.  
   
   

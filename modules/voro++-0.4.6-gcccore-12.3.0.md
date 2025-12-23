@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Voro++ 0.4.6  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -42,7 +40,7 @@ Voro++ depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Voro++ as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  

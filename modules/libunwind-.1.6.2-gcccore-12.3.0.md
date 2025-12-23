@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libunwind 1.6.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -43,7 +41,7 @@ libunwind depends on the following modules, and they will be loaded automaticall
   
 [XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libunwind as dependency.  
   
 [Mesa 23.1.4  (GCCcore-12.3.0)](mesa-23.1.4-gcccore-12.3.0.md)  

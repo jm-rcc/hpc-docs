@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # giflib 5.2.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ giflib depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load giflib as dependency.  
   
 [libwebp 1.2.4  (GCCcore-11.3.0)](libwebp-1.2.4-gcccore-11.3.0.md)  

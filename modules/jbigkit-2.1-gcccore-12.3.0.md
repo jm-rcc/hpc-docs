@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # jbigkit 2.1  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -41,7 +39,7 @@ jbigkit depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load jbigkit as dependency.  
   
 [LibTIFF 4.5.0  (GCCcore-12.3.0)](libtiff-4.5.0-gcccore-12.3.0.md)  

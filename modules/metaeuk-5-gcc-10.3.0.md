@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # MetaEuk 5  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ MetaEuk depends on the following modules, and they will be loaded automatically 
 [bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load MetaEuk as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GLib 2.68.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ GLib depends on the following modules, and they will be loaded automatically wit
 [PCRE2 10.36  (GCCcore-10.3.0)](pcre2-10.36-gcccore-10.3.0.md)  
 [util-linux 2.36  (GCCcore-10.3.0)](util-linux-.2.36-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GLib as dependency.  
   
 [GObject-Introspection 1.68.0  (GCCcore-10.3.0)](gobject-introspection-1.68.0-gcccore-10.3.0.md)  

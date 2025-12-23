@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Qhull 2020.2  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -43,7 +41,7 @@ Qhull depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Qhull as dependency.  
   
 [matplotlib 3.4.2  (foss-2021a)](matplotlib-3.4.2-foss-2021a.md)  

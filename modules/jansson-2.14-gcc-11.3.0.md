@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Jansson 2.14  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -45,7 +43,7 @@ Jansson depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Jansson as dependency.  
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  

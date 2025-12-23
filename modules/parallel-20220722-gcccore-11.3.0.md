@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # parallel 20220722  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ parallel depends on the following modules, and they will be loaded automatically
   
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load parallel as dependency.  
   
 [prokka 1.14.5  (gompi-2022a)](prokka-1.14.5-gompi-2022a.md)  

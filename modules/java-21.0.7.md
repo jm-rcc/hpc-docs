@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Java 21.0.7  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -40,7 +38,7 @@ Java depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Java as dependency.  
   
   

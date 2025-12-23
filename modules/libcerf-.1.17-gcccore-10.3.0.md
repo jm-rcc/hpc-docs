@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libcerf 1.17  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -43,7 +41,7 @@ libcerf depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libcerf as dependency.  
   
 [gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-5.4.2-gcccore-10.3.0.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BUSCO 5.4.5  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -49,7 +47,7 @@ BUSCO depends on the following modules, and they will be loaded automatically wi
 [MetaEuk 6  (GCC-11.3.0)](metaeuk-6-gcc-11.3.0.md)  
 [BBMap 39.01  (GCC-11.3.0)](bbmap-39.01-gcc-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BUSCO as dependency.  
   
   

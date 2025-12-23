@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PCRE2 10.40  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -42,7 +40,7 @@ PCRE2 depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PCRE2 as dependency.  
   
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  

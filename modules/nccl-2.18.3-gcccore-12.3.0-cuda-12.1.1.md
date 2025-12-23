@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # NCCL 2.18.3 -CUDA-12.1.1 
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -36,7 +34,7 @@ NCCL depends on the following modules, and they will be loaded automatically wit
 [CUDA 12.1.1  (system-system)](cuda-12.1.1.md)  
 [UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load NCCL as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libxc 5.2.3  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -40,7 +38,7 @@ libxc depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libxc as dependency.  
   
 [CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  

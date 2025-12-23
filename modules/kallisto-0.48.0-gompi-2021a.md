@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # kallisto 0.48.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ kallisto depends on the following modules, and they will be loaded automatically
   
 [HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load kallisto as dependency.  
   
 [Trinity 2.9.1  (foss-2021a)](trinity-2.9.1-foss-2021a.md)  

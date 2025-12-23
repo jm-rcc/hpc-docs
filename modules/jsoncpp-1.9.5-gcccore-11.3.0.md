@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # JsonCpp 1.9.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ JsonCpp depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load JsonCpp as dependency.  
   
 [BamTools 2.5.2  (GCC-11.3.0)](bamtools-2.5.2-gcc-11.3.0.md)  

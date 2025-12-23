@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # AUGUSTUS 3.4.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -46,7 +44,7 @@ AUGUSTUS depends on the following modules, and they will be loaded automatically
 [BamTools 2.5.2  (GCC-10.3.0)](bamtools-2.5.2-gcc-10.3.0.md)  
 [SQLite 3.35.4  (GCCcore-10.3.0)](sqlite-.3.35.4-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load AUGUSTUS as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  

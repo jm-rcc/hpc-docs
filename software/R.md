@@ -1,4 +1,4 @@
-[< Software](../software_shortlist.md)  
+[List of Software](../software_shortlist.md)  
 # R  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
 ## Homepage  

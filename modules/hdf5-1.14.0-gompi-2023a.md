@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # HDF5 1.14.0  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -43,7 +41,7 @@ HDF5 depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [Szip 2.1.1  (GCCcore-12.3.0)](szip-.2.1.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load HDF5 as dependency.  
   
 [Armadillo 12.6.2  (foss-2023a)](armadillo-12.6.2-foss-2023a.md)  

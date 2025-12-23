@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Szip 2.1.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -41,7 +39,7 @@ Szip depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Szip as dependency.  
   
 [HDF 4.2.16-2  (GCCcore-12.3.0)](hdf-4.2.16-2-gcccore-12.3.0.md)  

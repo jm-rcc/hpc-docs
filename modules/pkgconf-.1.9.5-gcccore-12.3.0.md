@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pkgconf 1.9.5  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -40,7 +38,7 @@ pkgconf depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pkgconf as dependency.  
   
   

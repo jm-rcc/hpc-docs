@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Bio-DB-HTS 3.01  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ Bio-DB-HTS depends on the following modules, and they will be loaded automatical
 [BioPerl 1.7.8  (GCCcore-11.3.0)](bioperl-1.7.8-gcccore-11.3.0.md)  
 [HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Bio-DB-HTS as dependency.  
   
 [VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  

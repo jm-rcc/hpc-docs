@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Autoconf 2.71  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -43,7 +41,7 @@ Autoconf depends on the following modules, and they will be loaded automatically
   
 [M4 1.4.18  (system-system)](m4-.1.4.18.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Autoconf as dependency.  
   
 [Automake 1.16.5  (system-system)](automake-1.16.5.md)  

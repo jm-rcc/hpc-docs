@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # nghttp2 1.48.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -55,7 +53,7 @@ nghttp2 depends on the following modules, and they will be loaded automatically 
 [libev 4.33  (GCC-11.3.0)](libev-.4.33-gcc-11.3.0.md)  
 [c-ares 1.18.1  (GCCcore-11.3.0)](c-ares-.1.18.1-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load nghttp2 as dependency.  
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  

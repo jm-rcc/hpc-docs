@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # HMMER 3.3.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -47,7 +45,7 @@ HMMER depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load HMMER as dependency.  
   
 [BUSCO 5.4.5  (foss-2022a)](busco-5.4.5-foss-2022a.md)  

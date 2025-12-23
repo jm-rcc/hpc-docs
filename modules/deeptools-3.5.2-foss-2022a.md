@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # deepTools 3.5.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -45,7 +43,7 @@ deepTools depends on the following modules, and they will be loaded automaticall
 [Pysam 0.19.1  (GCC-11.3.0)](pysam-0.19.1-gcc-11.3.0.md)  
 [pyBigWig 0.3.18  (foss-2022a)](pybigwig-0.3.18-foss-2022a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load deepTools as dependency.  
   
   

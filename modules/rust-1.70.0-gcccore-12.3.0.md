@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Rust 1.70.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -40,7 +38,7 @@ Rust depends on the following modules, and they will be loaded automatically wit
   
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Rust as dependency.  
   
   

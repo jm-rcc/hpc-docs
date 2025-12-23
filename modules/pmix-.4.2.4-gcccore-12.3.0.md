@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PMIx 4.2.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -51,7 +49,7 @@ PMIx depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [hwloc 2.9.1  (GCCcore-12.3.0)](hwloc-.2.9.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PMIx as dependency.  
   
 [OpenMPI 4.1.5  (GCC-12.3.0)](openmpi-4.1.5-gcc-12.3.0.md)  

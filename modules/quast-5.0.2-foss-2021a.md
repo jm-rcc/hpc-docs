@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # QUAST 5.0.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -44,7 +42,7 @@ QUAST depends on the following modules, and they will be loaded automatically wi
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
 [wget 1.21.1  (GCCcore-10.3.0)](wget-1.21.1-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load QUAST as dependency.  
   
   

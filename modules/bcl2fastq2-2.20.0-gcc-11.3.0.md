@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # bcl2fastq2 2.20.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -43,7 +41,7 @@ bcl2fastq2 depends on the following modules, and they will be loaded automatical
 [libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load bcl2fastq2 as dependency.  
   
 [SpaceRanger 2.0.1  (GCC-11.3.0)](spaceranger-2.0.1-gcc-11.3.0.md)  

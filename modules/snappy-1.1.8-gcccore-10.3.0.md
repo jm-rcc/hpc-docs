@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # snappy 1.1.8  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ snappy depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load snappy as dependency.  
   
 [Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  

@@ -1,4 +1,4 @@
-[< Software](../software_shortlist.md)  
+[List of Software](../software_shortlist.md)  
 # CP2K  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
 ## Homepage  

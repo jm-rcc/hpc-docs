@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # beagle-lib 4.0.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -39,7 +37,7 @@ beagle-lib depends on the following modules, and they will be loaded automatical
 [Java 11  (system-system)](java-11.md)  
 [pocl 1.8  (GCC-11.3.0)](pocl-1.8-gcc-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load beagle-lib as dependency.  
   
 [MrBayes 3.2.7  (gompi-2022a)](mrbayes-3.2.7-gompi-2022a.md)  

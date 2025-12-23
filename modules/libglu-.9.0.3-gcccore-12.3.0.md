@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libGLU 9.0.3  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -39,7 +37,7 @@ libGLU depends on the following modules, and they will be loaded automatically w
   
 [Mesa 23.1.4  (GCCcore-12.3.0)](mesa-.23.1.4-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libGLU as dependency.  
   
 [Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  

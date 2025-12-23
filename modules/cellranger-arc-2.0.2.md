@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CellRanger-ARC 2.0.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -44,7 +42,7 @@ CellRanger-ARC depends on the following modules, and they will be loaded automat
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CellRanger-ARC as dependency.  
   
   

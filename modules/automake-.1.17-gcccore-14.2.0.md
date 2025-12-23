@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Automake 1.17  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -33,7 +31,7 @@ Automake depends on the following modules, and they will be loaded automatically
 [Autoconf 2.72  (GCCcore-14.2.0)](autoconf-.2.72-gcccore-14.2.0.md)  
 [Perl 5.40.0  (GCCcore-14.2.0)](perl-5.40.0-gcccore-14.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Automake as dependency.  
   
 [Autotools 20240712  (GCCcore-14.2.0)](autotools-20240712-gcccore-14.2.0.md)  

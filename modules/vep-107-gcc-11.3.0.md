@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # VEP 107  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -48,7 +46,7 @@ VEP depends on the following modules, and they will be loaded automatically with
 [Bio-DB-HTS 3.01  (GCC-11.3.0)](bio-db-hts-3.01-gcc-11.3.0.md)  
 [Compress-Raw-Zlib 2.202  (GCCcore-11.3.0)](compress-raw-zlib-2.202-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load VEP as dependency.  
   
   

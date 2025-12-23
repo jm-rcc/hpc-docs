@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SciPy-bundle 2023.07  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -42,7 +40,7 @@ SciPy-bundle depends on the following modules, and they will be loaded automatic
 [Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
 [pybind11 2.11.1  (GCCcore-12.3.0)](pybind11-2.11.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SciPy-bundle as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

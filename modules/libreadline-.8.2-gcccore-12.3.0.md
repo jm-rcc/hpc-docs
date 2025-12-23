@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libreadline 8.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -46,7 +44,7 @@ libreadline depends on the following modules, and they will be loaded automatica
   
 [ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libreadline as dependency.  
   
 [Perl-bundle-CPAN 5.36.1  (GCCcore-12.3.0)](perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  

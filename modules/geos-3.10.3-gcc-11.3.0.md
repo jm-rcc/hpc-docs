@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GEOS 3.10.3  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -39,7 +37,7 @@ GEOS depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GEOS as dependency.  
   
 [GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  

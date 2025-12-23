@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # fontconfig 2.13.93  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -44,7 +42,7 @@ fontconfig depends on the following modules, and they will be loaded automatical
 [freetype 2.10.4  (GCCcore-10.3.0)](freetype-.2.10.4-gcccore-10.3.0.md)  
 [util-linux 2.36  (GCCcore-10.3.0)](util-linux-.2.36-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load fontconfig as dependency.  
   
 [FFmpeg 4.3.2  (GCCcore-10.3.0)](ffmpeg-4.3.2-gcccore-10.3.0.md)  

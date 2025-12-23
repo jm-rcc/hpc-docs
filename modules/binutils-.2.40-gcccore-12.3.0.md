@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # binutils 2.40  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ binutils depends on the following modules, and they will be loaded automatically
   
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load binutils as dependency.  
   
 [GCC 12.3.0  (system-system)](gcc-12.3.0.md)  

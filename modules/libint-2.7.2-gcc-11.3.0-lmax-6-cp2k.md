@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Libint 2.7.2 -lmax-6-cp2k 
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -41,7 +39,7 @@ Libint depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Libint as dependency.  
   
 [CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Meson 1.4.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -40,7 +38,7 @@ Meson depends on the following modules, and they will be loaded automatically wi
 [Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
 [Ninja 1.12.1  (GCCcore-13.3.0)](ninja-1.12.1-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Meson as dependency.  
   
   

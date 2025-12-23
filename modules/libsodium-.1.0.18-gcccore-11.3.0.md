@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libsodium 1.0.18  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ libsodium depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libsodium as dependency.  
   
 [ZeroMQ 4.3.4  (GCCcore-11.3.0)](zeromq-4.3.4-gcccore-11.3.0.md)  

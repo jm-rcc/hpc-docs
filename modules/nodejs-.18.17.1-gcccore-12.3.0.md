@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # nodejs 18.17.1  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -42,7 +40,7 @@ nodejs depends on the following modules, and they will be loaded automatically w
 [ICU 73.2  (GCCcore-12.3.0)](icu-.73.2-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load nodejs as dependency.  
   
 [Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  

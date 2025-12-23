@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SpaceRanger 2.1.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ SpaceRanger depends on the following modules, and they will be loaded automatica
 [bcl2fastq2 2.20.0  (GCC-11.3.0)](bcl2fastq2-2.20.0-gcc-11.3.0.md)  
 [libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SpaceRanger as dependency.  
   
   

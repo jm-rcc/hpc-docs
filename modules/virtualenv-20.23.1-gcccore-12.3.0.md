@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # virtualenv 20.23.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ virtualenv depends on the following modules, and they will be loaded automatical
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load virtualenv as dependency.  
   
 [Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  

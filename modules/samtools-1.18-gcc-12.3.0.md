@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SAMtools 1.18  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -44,7 +42,7 @@ SAMtools depends on the following modules, and they will be loaded automatically
 [XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
 [cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SAMtools as dependency.  
   
   

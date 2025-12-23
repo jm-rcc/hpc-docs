@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # intltool 0.51.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -40,7 +38,7 @@ intltool depends on the following modules, and they will be loaded automatically
   
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load intltool as dependency.  
   
   

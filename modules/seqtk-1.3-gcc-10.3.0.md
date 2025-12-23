@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # seqtk 1.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -40,7 +38,7 @@ seqtk depends on the following modules, and they will be loaded automatically wi
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load seqtk as dependency.  
   
   

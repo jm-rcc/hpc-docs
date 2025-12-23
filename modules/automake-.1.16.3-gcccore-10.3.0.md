@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Automake 1.16.3  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -39,7 +37,7 @@ Automake depends on the following modules, and they will be loaded automatically
   
 [Autoconf 2.71  (GCCcore-10.3.0)](autoconf-.2.71-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Automake as dependency.  
   
 [Autotools 20210128  (GCCcore-10.3.0)](autotools-20210128-gcccore-10.3.0.md)  

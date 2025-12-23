@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ncurses 6.3  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -44,7 +42,7 @@ ncurses depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ncurses as dependency.  
   
 [gettext 0.21.1  (system-system)](gettext-0.21.1.md)  

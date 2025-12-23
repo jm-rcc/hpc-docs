@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # cuDNN 8.4.1.50 -CUDA-11.7.0 
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -31,7 +29,7 @@ cuDNN depends on the following modules, and they will be loaded automatically wi
   
 [CUDA 11.7.0  (system-system)](cuda-11.7.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load cuDNN as dependency.  
   
   

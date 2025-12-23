@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # parallel 20210622  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ parallel depends on the following modules, and they will be loaded automatically
   
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load parallel as dependency.  
   
 [freebayes 1.3.6 -R-4.1.0 (foss-2021a)](freebayes-1.3.6-foss-2021a-r-4.1.0.md)  

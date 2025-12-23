@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # DB_File 1.856  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -40,7 +38,7 @@ DB_File depends on the following modules, and they will be loaded automatically 
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [DB 18.1.40  (GCCcore-10.3.0)](db-18.1.40-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load DB_File as dependency.  
   
 [BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  

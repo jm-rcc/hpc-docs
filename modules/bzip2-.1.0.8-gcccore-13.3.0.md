@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # bzip2 1.0.8  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -44,7 +42,7 @@ bzip2 depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load bzip2 as dependency.  
   
 [CMake 3.29.3  (GCCcore-13.3.0)](cmake-3.29.3-gcccore-13.3.0.md)  

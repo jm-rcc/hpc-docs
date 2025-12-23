@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libidn2 2.3.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ libidn2 depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libidn2 as dependency.  
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  

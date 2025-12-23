@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # JAGS 4.3.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -38,7 +36,7 @@ JAGS depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load JAGS as dependency.  
   
 [rjags 4-10 -R-4.1.0 (foss-2021a)](rjags-4-10-foss-2021a-r-4.1.0.md)  

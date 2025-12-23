@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pplacer 1.1.alpha19  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ pplacer depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pplacer as dependency.  
   
 [CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  

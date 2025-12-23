@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Judy 1.0.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ Judy depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Judy as dependency.  
   
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  

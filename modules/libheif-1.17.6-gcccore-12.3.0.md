@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libheif 1.17.6  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -33,7 +31,7 @@ libheif depends on the following modules, and they will be loaded automatically 
 [x265 3.5  (GCCcore-12.3.0)](x265-3.5-gcccore-12.3.0.md)  
 [Gdk-Pixbuf 2.42.10  (GCCcore-12.3.0)](gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libheif as dependency.  
   
 [JasPer 4.0.0  (GCCcore-12.3.0)](jasper-4.0.0-gcccore-12.3.0.md)  

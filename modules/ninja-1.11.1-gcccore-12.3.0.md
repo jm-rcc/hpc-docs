@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Ninja 1.11.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ Ninja depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Ninja as dependency.  
   
 [Meson 1.1.1  (GCCcore-12.3.0)](meson-1.1.1-gcccore-12.3.0.md)  

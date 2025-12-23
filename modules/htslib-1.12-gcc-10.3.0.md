@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # HTSlib 1.12  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -43,7 +41,7 @@ HTSlib depends on the following modules, and they will be loaded automatically w
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
 [cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load HTSlib as dependency.  
   
 [AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  

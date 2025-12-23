@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # NLopt 2.7.1  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -41,7 +39,7 @@ NLopt depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load NLopt as dependency.  
   
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  

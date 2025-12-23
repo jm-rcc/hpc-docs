@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # UnZip 6.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -43,7 +41,7 @@ UnZip depends on the following modules, and they will be loaded automatically wi
   
 [bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load UnZip as dependency.  
   
   

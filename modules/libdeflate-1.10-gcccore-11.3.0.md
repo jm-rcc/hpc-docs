@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libdeflate 1.10  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -39,7 +37,7 @@ libdeflate depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libdeflate as dependency.  
   
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-4.3.0-gcccore-11.3.0.md)  

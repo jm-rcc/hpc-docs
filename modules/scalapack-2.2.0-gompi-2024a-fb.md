@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ScaLAPACK 2.2.0 -fb 
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -43,7 +41,7 @@ ScaLAPACK depends on the following modules, and they will be loaded automaticall
   
 [FlexiBLAS 3.4.4  (GCC-13.3.0)](flexiblas-3.4.4-gcc-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ScaLAPACK as dependency.  
   
 [foss 2024a  (system-system)](foss-2024a.md)  

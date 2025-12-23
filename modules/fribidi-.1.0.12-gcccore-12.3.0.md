@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FriBidi 1.0.12  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -41,7 +39,7 @@ FriBidi depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FriBidi as dependency.  
   
 [FFmpeg 6.0  (GCCcore-12.3.0)](ffmpeg-6.0-gcccore-12.3.0.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # fastahack 1.0.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -37,7 +35,7 @@ fastahack depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load fastahack as dependency.  
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  

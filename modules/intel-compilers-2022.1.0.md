@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # intel-compilers 2022.1.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -40,7 +38,7 @@ intel-compilers depends on the following modules, and they will be loaded automa
 [GCCcore 11.3.0  (system-system)](gcccore-.11.3.0.md)  
 [binutils 2.38  (GCCcore-11.3.0)](binutils-.2.38-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load intel-compilers as dependency.  
   
 [iimpi 2022a  (system-system)](iimpi-2022a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # UCX-CUDA 1.14.1 -CUDA-12.1.1 
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ UCX-CUDA depends on the following modules, and they will be loaded automatically
 [CUDA 12.1.1  (system-system)](cuda-12.1.1.md)  
 [GDRCopy 2.3.1  (GCCcore-12.3.0)](gdrcopy-2.3.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load UCX-CUDA as dependency.  
   
 [GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  

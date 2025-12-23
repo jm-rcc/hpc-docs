@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ant 1.10.9 -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -40,7 +38,7 @@ ant depends on the following modules, and they will be loaded automatically with
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ant as dependency.  
   
 [Trinity 2.9.1  (foss-2021a)](trinity-2.9.1-foss-2021a.md)  

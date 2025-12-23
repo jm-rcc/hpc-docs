@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # nettle 3.8  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ nettle depends on the following modules, and they will be loaded automatically w
   
 [GMP 6.2.1  (GCCcore-11.3.0)](gmp-.6.2.1-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load nettle as dependency.  
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  

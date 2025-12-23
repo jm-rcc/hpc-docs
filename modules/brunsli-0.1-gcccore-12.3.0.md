@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Brunsli 0.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -37,7 +35,7 @@ Brunsli depends on the following modules, and they will be loaded automatically 
   
 [Brotli 1.0.9  (GCCcore-12.3.0)](brotli-1.0.9-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Brunsli as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

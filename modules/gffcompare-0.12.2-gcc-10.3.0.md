@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GffCompare 0.12.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -40,7 +38,7 @@ GffCompare depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GffCompare as dependency.  
   
   

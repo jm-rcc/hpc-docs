@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # psutil 6.0.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -30,7 +28,7 @@ psutil depends on the following modules, and they will be loaded automatically w
   
 [Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load psutil as dependency.  
   
   

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gfbf 2023a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -42,7 +40,7 @@ gfbf depends on the following modules, and they will be loaded automatically wit
 [FlexiBLAS 3.3.1  (GCC-12.3.0)](flexiblas-3.3.1-gcc-12.3.0.md)  
 [FFTW 3.3.10  (GCC-12.3.0)](fftw-3.3.10-gcc-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gfbf as dependency.  
   
   

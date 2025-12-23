@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libevent 2.1.12  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -45,7 +43,7 @@ libevent depends on the following modules, and they will be loaded automatically
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libevent as dependency.  
   
 [OpenMPI 4.1.5  (GCC-12.3.0)](openmpi-4.1.5-gcc-12.3.0.md)  

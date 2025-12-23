@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gc 8.2.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ gc depends on the following modules, and they will be loaded automatically with 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gc as dependency.  
   
 [Guile 3.0.8  (GCCcore-11.3.0)](guile-3.0.8-gcccore-11.3.0.md)  

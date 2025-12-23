@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # JupyterLab 3.5.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -44,7 +42,7 @@ JupyterLab depends on the following modules, and they will be loaded automatical
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-.8.5.0-gcccore-11.3.0.md)  
 [jupyter-server 1.21.0  (GCCcore-11.3.0)](jupyter-server-1.21.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load JupyterLab as dependency.  
   
   

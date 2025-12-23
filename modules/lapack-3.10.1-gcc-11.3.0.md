@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LAPACK 3.10.1  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -41,7 +39,7 @@ LAPACK depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LAPACK as dependency.  
   
   

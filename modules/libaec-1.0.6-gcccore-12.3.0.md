@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libaec 1.0.6  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ libaec depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libaec as dependency.  
   
 [HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  

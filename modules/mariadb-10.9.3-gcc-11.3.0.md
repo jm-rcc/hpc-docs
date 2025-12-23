@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # MariaDB 10.9.3  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -51,7 +49,7 @@ MariaDB depends on the following modules, and they will be loaded automatically 
 [PCRE2 10.40  (GCCcore-11.3.0)](pcre2-10.40-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load MariaDB as dependency.  
   
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  

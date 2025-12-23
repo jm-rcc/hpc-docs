@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # nghttp3 0.6.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ nghttp3 depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load nghttp3 as dependency.  
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  

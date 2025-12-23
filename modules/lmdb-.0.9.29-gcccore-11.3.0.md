@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LMDB 0.9.29  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ LMDB depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LMDB as dependency.  
   
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  

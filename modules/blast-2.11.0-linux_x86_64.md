@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BLAST 2.11.0 -Linux_x86_64 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -40,7 +38,7 @@ BLAST depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BLAST as dependency.  
   
   

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FastTree 2.1.11  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ FastTree depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FastTree as dependency.  
   
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  

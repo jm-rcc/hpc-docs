@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # p11-kit 0.24.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -44,7 +42,7 @@ p11-kit depends on the following modules, and they will be loaded automatically 
 [libtasn1 4.19.0  (GCCcore-11.3.0)](libtasn1-.4.19.0-gcccore-11.3.0.md)  
 [libffi 3.4.2  (GCCcore-11.3.0)](libffi-.3.4.2-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load p11-kit as dependency.  
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  

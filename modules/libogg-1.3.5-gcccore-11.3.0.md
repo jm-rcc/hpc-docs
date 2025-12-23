@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libogg 1.3.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ libogg depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libogg as dependency.  
   
 [FLAC 1.3.4  (GCCcore-11.3.0)](flac-1.3.4-gcccore-11.3.0.md)  

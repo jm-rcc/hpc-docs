@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FastANI 1.33  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ FastANI depends on the following modules, and they will be loaded automatically 
 [GSL 2.7  (GCC-10.3.0)](gsl-2.7-gcc-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FastANI as dependency.  
   
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  

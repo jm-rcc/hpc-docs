@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gompi 2022a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -41,7 +39,7 @@ gompi depends on the following modules, and they will be loaded automatically wi
 [GCC 11.3.0  (system-system)](gcc-11.3.0.md)  
 [OpenMPI 4.1.4  (GCC-11.3.0)](openmpi-4.1.4-gcc-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gompi as dependency.  
   
   

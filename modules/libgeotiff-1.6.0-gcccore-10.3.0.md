@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libgeotiff 1.6.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ libgeotiff depends on the following modules, and they will be loaded automatical
 [LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-.4.2.0-gcccore-10.3.0.md)  
 [cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libgeotiff as dependency.  
   
 [GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  

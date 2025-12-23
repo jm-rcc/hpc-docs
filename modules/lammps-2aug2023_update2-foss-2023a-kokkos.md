@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LAMMPS 2Aug2023_update2 -kokkos 
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -61,7 +59,7 @@ LAMMPS depends on the following modules, and they will be loaded automatically w
 [tbb 2021.11.0  (GCCcore-12.3.0)](tbb-2021.11.0-gcccore-12.3.0.md)  
 [ScaFaCoS 1.0.4  (foss-2023a)](scafacos-1.0.4-foss-2023a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LAMMPS as dependency.  
   
   

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libunistring 1.3  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -33,7 +31,7 @@ libunistring depends on the following modules, and they will be loaded automatic
   
 [libiconv 1.18  (GCCcore-14.2.0)](libiconv-1.18-gcccore-14.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libunistring as dependency.  
   
 [libpsl 0.21.5  (GCCcore-14.2.0)](libpsl-0.21.5-gcccore-14.2.0.md)  

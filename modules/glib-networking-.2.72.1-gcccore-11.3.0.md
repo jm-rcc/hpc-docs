@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # glib-networking 2.72.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ glib-networking depends on the following modules, and they will be loaded automa
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
 [libidn2 2.3.2  (GCCcore-11.3.0)](libidn2-.2.3.2-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load glib-networking as dependency.  
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  

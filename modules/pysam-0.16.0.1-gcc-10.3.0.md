@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Pysam 0.16.0.1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ Pysam depends on the following modules, and they will be loaded automatically wi
 [cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Pysam as dependency.  
   
 [CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  

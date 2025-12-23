@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CUnit 2.1-3  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -39,7 +37,7 @@ CUnit depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CUnit as dependency.  
   
   

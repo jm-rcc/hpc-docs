@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # hatchling 1.18.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -40,7 +38,7 @@ hatchling depends on the following modules, and they will be loaded automaticall
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load hatchling as dependency.  
   
 [poetry 1.5.1  (GCCcore-12.3.0)](poetry-1.5.1-gcccore-12.3.0.md)  

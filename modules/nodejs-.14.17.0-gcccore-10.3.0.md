@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # nodejs 14.17.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -41,7 +39,7 @@ nodejs depends on the following modules, and they will be loaded automatically w
 [ICU 69.1  (GCCcore-10.3.0)](icu-.69.1-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load nodejs as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  

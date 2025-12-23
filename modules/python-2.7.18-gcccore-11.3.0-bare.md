@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Python 2.7.18 -bare 
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -46,7 +44,7 @@ Python depends on the following modules, and they will be loaded automatically w
 [SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-.3.38.3-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Python as dependency.  
   
   

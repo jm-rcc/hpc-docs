@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gettext 0.21  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -42,7 +40,7 @@ gettext depends on the following modules, and they will be loaded automatically 
 [libxml2 2.9.10  (GCCcore-10.3.0)](libxml2-.2.9.10-gcccore-10.3.0.md)  
 [ncurses 6.2  (GCCcore-10.3.0)](ncurses-.6.2-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gettext as dependency.  
   
 [GLib 2.68.2  (GCCcore-10.3.0)](glib-2.68.2-gcccore-10.3.0.md)  

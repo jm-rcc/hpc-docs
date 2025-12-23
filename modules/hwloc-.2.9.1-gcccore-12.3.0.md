@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # hwloc 2.9.1  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -50,7 +48,7 @@ hwloc depends on the following modules, and they will be loaded automatically wi
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
 [libpciaccess 0.17  (GCCcore-12.3.0)](libpciaccess-.0.17-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load hwloc as dependency.  
   
 [OpenMPI 4.1.5  (GCC-12.3.0)](openmpi-4.1.5-gcc-12.3.0.md)  

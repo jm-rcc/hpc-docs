@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SSW 1.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -45,7 +43,7 @@ SSW depends on the following modules, and they will be loaded automatically with
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SSW as dependency.  
   
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  

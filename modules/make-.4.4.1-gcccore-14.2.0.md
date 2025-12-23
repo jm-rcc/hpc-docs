@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # make 4.4.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -32,7 +30,7 @@ make depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load make as dependency.  
   
   

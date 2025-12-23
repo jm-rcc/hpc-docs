@@ -1,4 +1,4 @@
-[< Software](../software_shortlist.md)  
+[List of Software](../software_shortlist.md)  
 # OpenPGM  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
 ## Homepage  

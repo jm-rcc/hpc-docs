@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ICU 73.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ ICU depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ICU as dependency.  
   
 [Boost 1.82.0  (GCC-12.3.0)](boost-1.82.0-gcc-12.3.0.md)  

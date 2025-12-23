@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # IPython 7.25.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -43,7 +41,7 @@ IPython depends on the following modules, and they will be loaded automatically 
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [ZeroMQ 4.3.4  (GCCcore-10.3.0)](zeromq-.4.3.4-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load IPython as dependency.  
   
 [snakemake 6.6.1  (foss-2021a)](snakemake-6.6.1-foss-2021a.md)  

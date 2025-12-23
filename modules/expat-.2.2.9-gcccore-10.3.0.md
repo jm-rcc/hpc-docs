@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # expat 2.2.9  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -43,7 +41,7 @@ expat depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load expat as dependency.  
   
 [DBus 1.13.18  (GCCcore-10.3.0)](dbus-1.13.18-gcccore-10.3.0.md)  

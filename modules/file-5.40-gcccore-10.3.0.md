@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # file 5.40  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -40,7 +38,7 @@ file depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load file as dependency.  
   
 [ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GCCcore 12.3.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -40,7 +38,7 @@ GCCcore depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GCCcore as dependency.  
   
 [GCC 12.3.0  (system-system)](gcc-12.3.0.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pigz 2.7  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -44,7 +42,7 @@ pigz depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pigz as dependency.  
   
 [cutadapt 4.2  (GCCcore-11.3.0)](cutadapt-4.2-gcccore-11.3.0.md)  

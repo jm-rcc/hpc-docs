@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # intel 2021a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -43,7 +41,7 @@ intel depends on the following modules, and they will be loaded automatically wi
 [impi 2021.2.0  (intel-compilers-2021.2.0)](impi-2021.2.0-intel-compilers-2021.2.0.md)  
 [imkl 2021.2.0  (iimpi-2021a)](imkl-2021.2.0-iimpi-2021a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load intel as dependency.  
   
   

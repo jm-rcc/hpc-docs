@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # matplotlib 3.4.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -45,7 +43,7 @@ matplotlib depends on the following modules, and they will be loaded automatical
 [Pillow 8.2.0  (GCCcore-10.3.0)](pillow-.8.2.0-gcccore-10.3.0.md)  
 [Qhull 2020.2  (GCCcore-10.3.0)](qhull-.2020.2-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load matplotlib as dependency.  
   
 [CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  

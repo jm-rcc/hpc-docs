@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # JasPer 4.0.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -42,7 +40,7 @@ JasPer depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load JasPer as dependency.  
   
 [Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  

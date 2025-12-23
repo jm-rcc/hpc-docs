@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # MrBayes 3.2.7  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -39,7 +37,7 @@ MrBayes depends on the following modules, and they will be loaded automatically 
 [libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-.8.1.2-gcccore-11.3.0.md)  
 [beagle-lib 4.0.0  (GCC-11.3.0)](beagle-lib-4.0.0-gcc-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load MrBayes as dependency.  
   
   

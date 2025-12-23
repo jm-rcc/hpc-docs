@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # cairo 1.16.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -48,7 +46,7 @@ cairo depends on the following modules, and they will be loaded automatically wi
 [GLib 2.68.2  (GCCcore-10.3.0)](glib-.2.68.2-gcccore-10.3.0.md)  
 [X11 20210518  (GCCcore-10.3.0)](x11-.20210518-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load cairo as dependency.  
   
 [Ghostscript 9.54.0  (GCCcore-10.3.0)](ghostscript-9.54.0-gcccore-10.3.0.md)  

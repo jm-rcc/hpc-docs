@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Bison 3.8.2  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -35,7 +33,7 @@ Bison depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Bison as dependency.  
   
   

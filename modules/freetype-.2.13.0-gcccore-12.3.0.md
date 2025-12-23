@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # freetype 2.13.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -48,7 +46,7 @@ freetype depends on the following modules, and they will be loaded automatically
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [Brotli 1.0.9  (GCCcore-12.3.0)](brotli-1.0.9-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load freetype as dependency.  
   
 [FFmpeg 6.0  (GCCcore-12.3.0)](ffmpeg-6.0-gcccore-12.3.0.md)  

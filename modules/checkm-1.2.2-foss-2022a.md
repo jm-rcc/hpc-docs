@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CheckM 1.2.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -48,7 +46,7 @@ CheckM depends on the following modules, and they will be loaded automatically w
 [DendroPy 4.5.2  (GCCcore-11.3.0)](dendropy-4.5.2-gcccore-11.3.0.md)  
 [CheckM-Database 2015_01_16  (system-system)](checkm-database-2015_01_16.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CheckM as dependency.  
   
   

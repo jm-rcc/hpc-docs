@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # archspec 0.1.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -37,7 +35,7 @@ archspec depends on the following modules, and they will be loaded automatically
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load archspec as dependency.  
   
   

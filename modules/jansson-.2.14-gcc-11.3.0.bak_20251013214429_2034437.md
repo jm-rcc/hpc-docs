@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Jansson 2.14  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -35,7 +33,7 @@ Jansson depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Jansson as dependency.  
   
   

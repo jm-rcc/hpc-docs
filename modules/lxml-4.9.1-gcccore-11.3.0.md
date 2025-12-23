@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # lxml 4.9.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ lxml depends on the following modules, and they will be loaded automatically wit
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
 [libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load lxml as dependency.  
   
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-8.5.0-gcccore-11.3.0.md)  

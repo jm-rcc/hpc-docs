@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libffi 3.4.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -41,7 +39,7 @@ libffi depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libffi as dependency.  
   
 [GLib 2.77.1  (GCCcore-12.3.0)](glib-2.77.1-gcccore-12.3.0.md)  

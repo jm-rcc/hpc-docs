@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Bio-SearchIO-hmmer 1.7.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ Bio-SearchIO-hmmer depends on the following modules, and they will be loaded aut
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Bio-SearchIO-hmmer as dependency.  
   
 [prokka 1.14.5  (gompi-2021a)](prokka-1.14.5-gompi-2021a.md)  

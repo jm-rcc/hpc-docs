@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PLINK 2.00a3.6  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ PLINK depends on the following modules, and they will be loaded automatically wi
 [libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PLINK as dependency.  
   
   

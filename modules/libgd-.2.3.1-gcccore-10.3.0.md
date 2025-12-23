@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libgd 2.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ libgd depends on the following modules, and they will be loaded automatically wi
 [libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libgd as dependency.  
   
 [InterProScan 5.55-88.0  (foss-2021a)](interproscan-5.55-88.0-foss-2021a.md)  

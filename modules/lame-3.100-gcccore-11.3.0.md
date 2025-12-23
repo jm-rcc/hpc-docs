@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LAME 3.100  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -39,7 +37,7 @@ LAME depends on the following modules, and they will be loaded automatically wit
   
 [ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LAME as dependency.  
   
 [libsndfile 1.1.0  (GCCcore-11.3.0)](libsndfile-1.1.0-gcccore-11.3.0.md)  

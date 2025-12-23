@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pocl 1.8  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -42,7 +40,7 @@ pocl depends on the following modules, and they will be loaded automatically wit
 [libtool 2.4.7  (GCCcore-11.3.0)](libtool-.2.4.7-gcccore-11.3.0.md)  
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pocl as dependency.  
   
 [VirtualGL 3.1  (GCC-11.3.0)](virtualgl-3.1-gcc-11.3.0.md)  

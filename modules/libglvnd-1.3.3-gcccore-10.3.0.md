@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libglvnd 1.3.3  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ libglvnd depends on the following modules, and they will be loaded automatically
   
 [X11 20210518  (GCCcore-10.3.0)](x11-.20210518-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libglvnd as dependency.  
   
 [Mesa 21.1.1  (GCCcore-10.3.0)](mesa-21.1.1-gcccore-10.3.0.md)  

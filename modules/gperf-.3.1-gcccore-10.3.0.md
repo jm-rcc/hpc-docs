@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # gperf 3.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -45,7 +43,7 @@ gperf depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load gperf as dependency.  
   
   

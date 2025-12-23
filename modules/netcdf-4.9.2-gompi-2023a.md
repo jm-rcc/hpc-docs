@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # netCDF 4.9.2  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -47,7 +45,7 @@ netCDF depends on the following modules, and they will be loaded automatically w
 [bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load netCDF as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

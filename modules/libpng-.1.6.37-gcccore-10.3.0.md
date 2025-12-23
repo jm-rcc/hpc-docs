@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libpng 1.6.37  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ libpng depends on the following modules, and they will be loaded automatically w
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libpng as dependency.  
   
 [BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  

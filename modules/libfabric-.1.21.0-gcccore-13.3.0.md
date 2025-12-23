@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libfabric 1.21.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -44,7 +42,7 @@ libfabric depends on the following modules, and they will be loaded automaticall
   
 [numactl 2.0.18  (GCCcore-13.3.0)](numactl-.2.0.18-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libfabric as dependency.  
   
 [OpenMPI 5.0.3  (GCC-13.3.0)](openmpi-5.0.3-gcc-13.3.0.md)  

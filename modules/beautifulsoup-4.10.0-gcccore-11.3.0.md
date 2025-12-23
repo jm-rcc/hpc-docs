@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BeautifulSoup 4.10.0  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -39,7 +37,7 @@ BeautifulSoup depends on the following modules, and they will be loaded automati
   
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BeautifulSoup as dependency.  
   
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-8.5.0-gcccore-11.3.0.md)  

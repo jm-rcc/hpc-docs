@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # cURL 8.0.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -48,7 +46,7 @@ cURL depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load cURL as dependency.  
   
 [CFITSIO 4.3.0  (GCCcore-12.3.0)](cfitsio-4.3.0-gcccore-12.3.0.md)  

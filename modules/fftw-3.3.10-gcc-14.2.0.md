@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FFTW 3.3.10  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -33,7 +31,7 @@ FFTW depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FFTW as dependency.  
   
 [FFTW.MPI 3.3.10  (gompi-2025a)](fftw.mpi-3.3.10-gompi-2025a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ImageMagick 7.0.11-14  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -46,7 +44,7 @@ ImageMagick depends on the following modules, and they will be loaded automatica
 [pixman 0.40.0  (GCCcore-10.3.0)](pixman-.0.40.0-gcccore-10.3.0.md)  
 [FriBidi 1.0.10  (GCCcore-10.3.0)](fribidi-.1.0.10-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ImageMagick as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  

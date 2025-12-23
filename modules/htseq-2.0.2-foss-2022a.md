@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # HTSeq 2.0.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -43,7 +41,7 @@ HTSeq depends on the following modules, and they will be loaded automatically wi
 [SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
 [matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load HTSeq as dependency.  
   
   

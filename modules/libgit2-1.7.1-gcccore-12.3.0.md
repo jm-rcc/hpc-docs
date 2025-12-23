@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libgit2 1.7.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -42,7 +40,7 @@ libgit2 depends on the following modules, and they will be loaded automatically 
 [PCRE 8.45  (GCCcore-12.3.0)](pcre-.8.45-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libgit2 as dependency.  
   
 [R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  

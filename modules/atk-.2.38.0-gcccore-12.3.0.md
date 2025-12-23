@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ATK 2.38.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ ATK depends on the following modules, and they will be loaded automatically with
   
 [GLib 2.77.1  (GCCcore-12.3.0)](glib-.2.77.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ATK as dependency.  
   
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  

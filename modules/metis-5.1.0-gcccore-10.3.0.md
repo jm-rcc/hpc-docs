@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # METIS 5.1.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -43,7 +41,7 @@ METIS depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load METIS as dependency.  
   
 [SuiteSparse 5.10.1 -METIS-5.1.0 (foss-2021a)](suitesparse-5.10.1-foss-2021a-metis-5.1.0.md)  

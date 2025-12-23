@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # HTSlib 1.18  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -43,7 +41,7 @@ HTSlib depends on the following modules, and they will be loaded automatically w
 [XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
 [cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load HTSlib as dependency.  
   
 [BCFtools 1.18  (GCC-12.3.0)](bcftools-1.18-gcc-12.3.0.md)  

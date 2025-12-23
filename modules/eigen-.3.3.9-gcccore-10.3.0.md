@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Eigen 3.3.9  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -40,7 +38,7 @@ Eigen depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Eigen as dependency.  
   
 [LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  

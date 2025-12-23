@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PLUMED 2.7.2  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -46,7 +44,7 @@ PLUMED depends on the following modules, and they will be loaded automatically w
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PLUMED as dependency.  
   
 [CP2K 8.2  (foss-2021a)](cp2k-8.2-foss-2021a.md)  

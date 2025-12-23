@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FriBidi 1.0.12  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -41,7 +39,7 @@ FriBidi depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FriBidi as dependency.  
   
 [GTK3 3.24.33  (GCCcore-11.3.0)](gtk3-3.24.33-gcccore-11.3.0.md)  

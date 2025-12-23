@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GSL 2.7  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -42,7 +40,7 @@ GSL depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GSL as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libjpeg-turbo 2.1.5.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -43,7 +41,7 @@ libjpeg-turbo depends on the following modules, and they will be loaded automati
   
 [NASM 2.16.01  (GCCcore-12.3.0)](nasm-.2.16.01-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libjpeg-turbo as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  

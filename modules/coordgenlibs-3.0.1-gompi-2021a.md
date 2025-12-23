@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CoordgenLibs 3.0.1  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -40,7 +38,7 @@ CoordgenLibs depends on the following modules, and they will be loaded automatic
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
 [maeparser 1.3.0  (gompi-2021a)](maeparser-1.3.0-gompi-2021a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CoordgenLibs as dependency.  
   
 [OpenBabel 3.1.1  (gompi-2021a)](openbabel-3.1.1-gompi-2021a.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # BLAST+ 2.11.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -49,7 +47,7 @@ BLAST+ depends on the following modules, and they will be loaded automatically w
 [libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
 [LMDB 0.9.28  (GCCcore-10.3.0)](lmdb-.0.9.28-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load BLAST+ as dependency.  
   
 [ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  

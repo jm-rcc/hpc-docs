@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FFTW 3.3.10  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -40,7 +38,7 @@ FFTW depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FFTW as dependency.  
   
 [CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  

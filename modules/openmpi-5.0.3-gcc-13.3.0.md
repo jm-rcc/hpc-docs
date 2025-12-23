@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # OpenMPI 5.0.3  
 ![Static Badge](https://img.shields.io/badge/class-mpi-D7D1CC)  
   
@@ -46,7 +44,7 @@ OpenMPI depends on the following modules, and they will be loaded automatically 
 [PRRTE 3.0.5  (GCCcore-13.3.0)](prrte-3.0.5-gcccore-13.3.0.md)  
 [UCC 1.3.0  (GCCcore-13.3.0)](ucc-1.3.0-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load OpenMPI as dependency.  
   
 [foss 2024a  (system-system)](foss-2024a.md)  

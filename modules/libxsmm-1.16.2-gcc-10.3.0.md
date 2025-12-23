@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libxsmm 1.16.2  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -38,7 +36,7 @@ libxsmm depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libxsmm as dependency.  
   
 [CP2K 8.2  (foss-2021a)](cp2k-8.2-foss-2021a.md)  

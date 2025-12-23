@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libpsl 0.21.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ libpsl depends on the following modules, and they will be loaded automatically w
 [libidn2 2.3.2  (GCCcore-11.3.0)](libidn2-.2.3.2-gcccore-11.3.0.md)  
 [libunistring 1.0  (GCCcore-11.3.0)](libunistring-.1.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libpsl as dependency.  
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  

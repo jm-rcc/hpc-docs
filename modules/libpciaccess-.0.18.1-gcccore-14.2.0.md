@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libpciaccess 0.18.1  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -32,7 +30,7 @@ libpciaccess depends on the following modules, and they will be loaded automatic
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libpciaccess as dependency.  
   
 [hwloc 2.11.2  (GCCcore-14.2.0)](hwloc-2.11.2-gcccore-14.2.0.md)  

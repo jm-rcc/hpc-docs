@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # double-conversion 3.1.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ double-conversion depends on the following modules, and they will be loaded auto
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load double-conversion as dependency.  
   
 [Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  

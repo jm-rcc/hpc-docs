@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # lpsolve 5.5.2.11  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -39,7 +37,7 @@ lpsolve depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load lpsolve as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  

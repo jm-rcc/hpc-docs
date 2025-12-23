@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GMP 6.2.1  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -42,7 +40,7 @@ GMP depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GMP as dependency.  
   
 [ScaFaCoS 1.0.4  (foss-2023a)](scafacos-1.0.4-foss-2023a.md)  

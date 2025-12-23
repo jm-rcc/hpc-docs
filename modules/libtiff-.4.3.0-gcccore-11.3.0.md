@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # LibTIFF 4.3.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -44,7 +42,7 @@ LibTIFF depends on the following modules, and they will be loaded automatically 
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
 [libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load LibTIFF as dependency.  
   
 [GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  

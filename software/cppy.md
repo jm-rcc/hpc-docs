@@ -1,4 +1,4 @@
-[< Software](../software_shortlist.md)  
+[List of Software](../software_shortlist.md)  
 # cppy  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
 ## Homepage  

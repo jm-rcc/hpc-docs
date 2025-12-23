@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GMP 6.3.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -40,7 +38,7 @@ GMP depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GMP as dependency.  
   
 [Clang 18.1.8  (GCCcore-13.3.0)](clang-18.1.8-gcccore-13.3.0.md)  

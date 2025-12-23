@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ISA-L 2.30.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ ISA-L depends on the following modules, and they will be loaded automatically wi
   
 [NASM 2.15.05  (GCCcore-10.3.0)](nasm-.2.15.05-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ISA-L as dependency.  
   
 [python-isal 0.11.0  (GCCcore-10.3.0)](python-isal-0.11.0-gcccore-10.3.0.md)  

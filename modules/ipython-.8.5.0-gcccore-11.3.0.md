@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # IPython 8.5.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -47,7 +45,7 @@ IPython depends on the following modules, and they will be loaded automatically 
 [lxml 4.9.1  (GCCcore-11.3.0)](lxml-4.9.1-gcccore-11.3.0.md)  
 [BeautifulSoup 4.10.0  (GCCcore-11.3.0)](beautifulsoup-4.10.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load IPython as dependency.  
   
 [JupyterLab 3.5.0  (GCCcore-11.3.0)](jupyterlab-3.5.0-gcccore-11.3.0.md)  

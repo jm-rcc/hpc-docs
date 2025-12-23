@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CMake 3.26.3  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -47,7 +45,7 @@ CMake depends on the following modules, and they will be loaded automatically wi
 [libarchive 3.6.2  (GCCcore-12.3.0)](libarchive-3.6.2-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CMake as dependency.  
   
 [kim-api 2.3.0  (GCC-12.3.0)](kim-api-2.3.0-gcc-12.3.0.md)  

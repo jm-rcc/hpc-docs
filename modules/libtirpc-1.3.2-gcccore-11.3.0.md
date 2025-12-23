@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libtirpc 1.3.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ libtirpc depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libtirpc as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  

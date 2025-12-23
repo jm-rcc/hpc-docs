@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CP2K 8.2  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -45,7 +43,7 @@ CP2K depends on the following modules, and they will be loaded automatically wit
 [FFTW 3.3.9  (gompi-2021a)](fftw-3.3.9-gompi-2021a.md)  
 [PLUMED 2.7.2  (foss-2021a)](plumed-2.7.2-foss-2021a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CP2K as dependency.  
   
   

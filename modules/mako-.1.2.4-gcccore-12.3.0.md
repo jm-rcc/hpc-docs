@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Mako 1.2.4  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -39,7 +37,7 @@ Mako depends on the following modules, and they will be loaded automatically wit
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Mako as dependency.  
   
   

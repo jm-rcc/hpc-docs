@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Nextflow 25.04.6  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -40,7 +38,7 @@ Nextflow depends on the following modules, and they will be loaded automatically
   
 [Java 21  (system-system)](java-21.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Nextflow as dependency.  
   
   

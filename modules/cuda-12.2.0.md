@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # CUDA 12.2.0  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -37,7 +35,7 @@ CUDA depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load CUDA as dependency.  
   
 [cuDNN 8.9.2.26 -CUDA-12.2.0 (system-system)](cudnn-8.9.2.26-cuda-12.2.0.md)  

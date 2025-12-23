@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # vcflib 1.0.3 -R-4.1.0 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -52,7 +50,7 @@ vcflib depends on the following modules, and they will be loaded automatically w
 [multichoose 1.0.3  (GCCcore-10.3.0)](multichoose-1.0.3-gcccore-10.3.0.md)  
 [smithwaterman 20160702  (GCCcore-10.3.0)](smithwaterman-20160702-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load vcflib as dependency.  
   
 [freebayes 1.3.6 -R-4.1.0 (foss-2021a)](freebayes-1.3.6-foss-2021a-r-4.1.0.md)  

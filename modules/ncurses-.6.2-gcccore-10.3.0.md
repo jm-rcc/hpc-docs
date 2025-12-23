@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ncurses 6.2  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -44,7 +42,7 @@ ncurses depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ncurses as dependency.  
   
 [CMake 3.20.1  (GCCcore-10.3.0)](cmake-3.20.1-gcccore-10.3.0.md)  

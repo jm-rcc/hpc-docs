@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GCC 12.3.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -41,7 +39,7 @@ GCC depends on the following modules, and they will be loaded automatically with
 [GCCcore 12.3.0  (system-system)](gcccore-.12.3.0.md)  
 [binutils 2.40  (GCCcore-12.3.0)](binutils-.2.40-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GCC as dependency.  
   
 [foss 2023a  (system-system)](foss-2023a.md)  

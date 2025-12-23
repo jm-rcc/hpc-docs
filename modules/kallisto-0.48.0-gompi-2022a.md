@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # kallisto 0.48.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -42,7 +40,7 @@ kallisto depends on the following modules, and they will be loaded automatically
 [HDF5 1.12.2  (gompi-2022a)](hdf5-1.12.2-gompi-2022a.md)  
 [HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load kallisto as dependency.  
   
   

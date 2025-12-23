@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # UCX 1.14.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -38,7 +36,7 @@ UCX depends on the following modules, and they will be loaded automatically with
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [numactl 2.0.16  (GCCcore-12.3.0)](numactl-.2.0.16-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load UCX as dependency.  
   
 [UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  

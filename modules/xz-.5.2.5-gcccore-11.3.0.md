@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # XZ 5.2.5  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -39,7 +37,7 @@ XZ depends on the following modules, and they will be loaded automatically with 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load XZ as dependency.  
   
 [BCFtools 1.15.1  (GCC-11.3.0)](bcftools-1.15.1-gcc-11.3.0.md)  

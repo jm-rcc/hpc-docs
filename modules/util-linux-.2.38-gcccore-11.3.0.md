@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # util-linux 2.38  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -40,7 +38,7 @@ util-linux depends on the following modules, and they will be loaded automatical
 [ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load util-linux as dependency.  
   
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  

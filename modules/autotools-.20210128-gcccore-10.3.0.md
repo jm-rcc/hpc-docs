@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Autotools 20210128  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -44,7 +42,7 @@ Autotools depends on the following modules, and they will be loaded automaticall
 [Automake 1.16.3  (GCCcore-10.3.0)](automake-.1.16.3-gcccore-10.3.0.md)  
 [libtool 2.4.6  (GCCcore-10.3.0)](libtool-.2.4.6-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Autotools as dependency.  
   
   

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # libiconv 1.18  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -32,7 +30,7 @@ libiconv depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load libiconv as dependency.  
   
 [libunistring 1.3  (GCCcore-14.2.0)](libunistring-1.3-gcccore-14.2.0.md)  

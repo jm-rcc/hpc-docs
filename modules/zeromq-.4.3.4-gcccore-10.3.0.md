@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # ZeroMQ 4.3.4  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -44,7 +42,7 @@ ZeroMQ depends on the following modules, and they will be loaded automatically w
 [libsodium 1.0.18  (GCCcore-10.3.0)](libsodium-.1.0.18-gcccore-10.3.0.md)  
 [util-linux 2.36  (GCCcore-10.3.0)](util-linux-.2.36-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load ZeroMQ as dependency.  
   
 [IPython 7.25.0  (GCCcore-10.3.0)](ipython-7.25.0-gcccore-10.3.0.md)  

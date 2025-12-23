@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Doxygen 1.9.4  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -43,7 +41,7 @@ Doxygen depends on the following modules, and they will be loaded automatically 
   
 [libiconv 1.17  (GCCcore-11.3.0)](libiconv-1.17-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Doxygen as dependency.  
   
   

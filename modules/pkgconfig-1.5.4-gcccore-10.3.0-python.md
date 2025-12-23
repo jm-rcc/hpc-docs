@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pkgconfig 1.5.4 -python 
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -38,7 +36,7 @@ pkgconfig depends on the following modules, and they will be loaded automaticall
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [pkg-config 0.29.2  (GCCcore-10.3.0)](pkg-config-.0.29.2-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pkgconfig as dependency.  
   
   

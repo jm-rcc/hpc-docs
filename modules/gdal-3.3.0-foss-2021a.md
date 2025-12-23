@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GDAL 3.3.0  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -57,7 +55,7 @@ GDAL depends on the following modules, and they will be loaded automatically wit
 [HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
 [HDF 4.2.15  (GCCcore-10.3.0)](hdf-4.2.15-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GDAL as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  

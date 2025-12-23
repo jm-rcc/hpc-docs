@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GTK2 2.24.33  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ GTK2 depends on the following modules, and they will be loaded automatically wit
 [Gdk-Pixbuf 2.42.8  (GCCcore-11.3.0)](gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
 [Pango 1.50.7  (GCCcore-11.3.0)](pango-.1.50.7-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GTK2 as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  

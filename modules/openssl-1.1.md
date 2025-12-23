@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # OpenSSL 1.1  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -41,7 +39,7 @@ OpenSSL depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load OpenSSL as dependency.  
   
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  

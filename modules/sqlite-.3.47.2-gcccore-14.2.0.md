@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SQLite 3.47.2  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -33,7 +31,7 @@ SQLite depends on the following modules, and they will be loaded automatically w
 [libreadline 8.2  (GCCcore-14.2.0)](libreadline-.8.2-gcccore-14.2.0.md)  
 [Tcl 8.6.16  (GCCcore-14.2.0)](tcl-.8.6.16-gcccore-14.2.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SQLite as dependency.  
   
 [Python 3.13.1  (GCCcore-14.2.0)](python-3.13.1-gcccore-14.2.0.md)  

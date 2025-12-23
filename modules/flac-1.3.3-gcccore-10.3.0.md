@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # FLAC 1.3.3  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -38,7 +36,7 @@ FLAC depends on the following modules, and they will be loaded automatically wit
   
 [libogg 1.3.4  (GCCcore-10.3.0)](libogg-1.3.4-gcccore-10.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load FLAC as dependency.  
   
 [libsndfile 1.0.31  (GCCcore-10.3.0)](libsndfile-1.0.31-gcccore-10.3.0.md)  

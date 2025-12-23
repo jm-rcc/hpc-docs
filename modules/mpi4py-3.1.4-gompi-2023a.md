@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # mpi4py 3.1.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -39,7 +37,7 @@ mpi4py depends on the following modules, and they will be loaded automatically w
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load mpi4py as dependency.  
   
 [GROMACS 2023.3  (foss-2023a)](gromacs-2023.3-foss-2023a.md)  

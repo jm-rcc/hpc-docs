@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # kim-api 2.3.0  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -50,7 +48,7 @@ kim-api depends on the following modules, and they will be loaded automatically 
   
 [CMake 3.26.3  (GCCcore-12.3.0)](cmake-3.26.3-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load kim-api as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  

@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Perl 5.38.2  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -42,7 +40,7 @@ Perl depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Perl as dependency.  
   
 [Autoconf 2.72  (GCCcore-13.3.0)](autoconf-2.72-gcccore-13.3.0.md)  

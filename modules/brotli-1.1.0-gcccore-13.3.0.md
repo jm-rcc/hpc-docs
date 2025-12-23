@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Brotli 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ Brotli depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Brotli as dependency.  
   
 [freetype 2.13.2  (GCCcore-13.3.0)](freetype-2.13.2-gcccore-13.3.0.md)  

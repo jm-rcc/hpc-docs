@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # Python 3.13.1  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -41,7 +39,7 @@ Python depends on the following modules, and they will be loaded automatically w
 [libffi 3.4.5  (GCCcore-14.2.0)](libffi-.3.4.5-gcccore-14.2.0.md)  
 [OpenSSL 3  (system-system)](openssl-3.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load Python as dependency.  
   
 [Meson 1.6.1  (GCCcore-14.2.0)](meson-1.6.1-gcccore-14.2.0.md)  

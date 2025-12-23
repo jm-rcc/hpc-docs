@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # GROMACS 2023.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -44,7 +42,7 @@ GROMACS depends on the following modules, and they will be loaded automatically 
 [networkx 3.1  (gfbf-2023a)](networkx-.3.1-gfbf-2023a.md)  
 [mpi4py 3.1.4  (gompi-2023a)](mpi4py-3.1.4-gompi-2023a.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load GROMACS as dependency.  
   
   

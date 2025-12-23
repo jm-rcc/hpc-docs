@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # UCX 1.16.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -43,7 +41,7 @@ UCX depends on the following modules, and they will be loaded automatically with
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [numactl 2.0.16  (GCCcore-12.3.0)](numactl-.2.0.16-gcccore-12.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load UCX as dependency.  
   
 [OpenMPI 4.1.5  (GCC-12.3.0)](openmpi-4.1.5-gcc-12.3.0.md)  

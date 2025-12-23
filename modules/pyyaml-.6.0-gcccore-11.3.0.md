@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # PyYAML 6.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -40,7 +38,7 @@ PyYAML depends on the following modules, and they will be loaded automatically w
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [libyaml 0.2.5  (GCCcore-11.3.0)](libyaml-.0.2.5-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load PyYAML as dependency.  
   
 [MultiQC 1.14  (foss-2022a)](multiqc-1.14-foss-2022a.md)  

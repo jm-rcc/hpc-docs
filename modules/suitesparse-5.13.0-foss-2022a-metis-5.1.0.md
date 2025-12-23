@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # SuiteSparse 5.13.0 -METIS-5.1.0 
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -41,7 +39,7 @@ SuiteSparse depends on the following modules, and they will be loaded automatica
 [METIS 5.1.0  (GCCcore-11.3.0)](metis-5.1.0-gcccore-11.3.0.md)  
 [MPFR 4.1.0  (GCCcore-11.3.0)](mpfr-4.1.0-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load SuiteSparse as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  

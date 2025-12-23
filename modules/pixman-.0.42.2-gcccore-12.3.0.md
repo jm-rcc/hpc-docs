@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # pixman 0.42.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -43,7 +41,7 @@ pixman depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load pixman as dependency.  
   
 [cairo 1.17.8  (GCCcore-12.3.0)](cairo-1.17.8-gcccore-12.3.0.md)  

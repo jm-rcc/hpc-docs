@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # git 2.32.0 -nodocs 
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -44,7 +42,7 @@ git depends on the following modules, and they will be loaded automatically with
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load git as dependency.  
   
 [GitPython 3.1.18  (GCCcore-10.3.0)](gitpython-3.1.18-gcccore-10.3.0.md)  

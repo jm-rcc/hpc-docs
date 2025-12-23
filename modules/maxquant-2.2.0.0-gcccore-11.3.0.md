@@ -1,6 +1,4 @@
 [List of Software](../software_shortlist.md)  
-----  
-  
 # MaxQuant 2.2.0.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -41,7 +39,7 @@ MaxQuant depends on the following modules, and they will be loaded automatically
   
 [Mono 6.12.0.122  (GCCcore-11.3.0)](mono-6.12.0.122-gcccore-11.3.0.md)  
   
-## Dependended on  
+## Loaded by  
 The following modules will load MaxQuant as dependency.  
   
   
