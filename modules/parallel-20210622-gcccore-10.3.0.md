@@ -46,4 +46,4 @@ The following modules will load parallel as dependency.
 ## Other available modules  
 These other versions of parallel are available on Bunya.  
 [parallel/20220722-gcccore-11.3.0](../modules/parallel-20220722-gcccore-11.3.0.md)  
-  
+parallel/20210622-gcccore-10.3.0  

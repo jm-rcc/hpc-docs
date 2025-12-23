@@ -48,6 +48,4 @@ The following modules will load libgd as dependency.
 ## Other available modules  
 These other versions of libgd are available on Bunya.  
 [libgd/2.3.3-gcccore-11.3.0](../modules/libgd-.2.3.3-gcccore-11.3.0.md)  
-  
 [libgd/2.3.1-gcccore-10.3.0](../modules/libgd-.2.3.1-gcccore-10.3.0.md)  
-  

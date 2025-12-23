@@ -2,8 +2,8 @@
 # git  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
 ## Homepage  
-[https://git-scm.com/](https://git-scm.com/)  
 [https://git-scm.com](https://git-scm.com)  
+[https://git-scm.com/](https://git-scm.com/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

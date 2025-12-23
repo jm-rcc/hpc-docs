@@ -54,6 +54,5 @@ The following modules will load GSL as dependency.
 ## Other available modules  
 These other versions of GSL are available on Bunya.  
 [gsl/2.7-gcc-12.3.0](../modules/gsl-2.7-gcc-12.3.0.md)  
-  
 [gsl/2.7-gcc-11.3.0](../modules/gsl-2.7-gcc-11.3.0.md)  
-  
+gsl/2.7-gcc-10.3.0  

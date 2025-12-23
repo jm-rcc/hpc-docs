@@ -47,7 +47,3 @@ The following modules will load p11-kit as dependency.
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of p11-kit are available on Bunya.  
-[p11-kit/0.24.1-gcccore-11.3.0](../modules/p11-kit-.0.24.1-gcccore-11.3.0.md)  
-  

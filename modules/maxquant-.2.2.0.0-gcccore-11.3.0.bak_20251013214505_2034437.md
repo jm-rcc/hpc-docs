@@ -33,6 +33,4 @@ MaxQuant depends on the following modules, and they will be loaded automatically
 ## Other available modules  
 These other versions of MaxQuant are available on Bunya.  
 [maxquant/2.2.0.0-gcccore-11.3.0](../modules/maxquant-2.2.0.0-gcccore-11.3.0.md)  
-  
 [maxquant/2.2.0.0-gcccore-11.3.0](../modules/maxquant-.2.2.0.0-gcccore-11.3.0.bak_20251013214505_2034437.md)  
-  

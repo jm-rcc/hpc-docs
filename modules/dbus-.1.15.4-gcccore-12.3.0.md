@@ -53,8 +53,5 @@ The following modules will load DBus as dependency.
 ## Other available modules  
 These other versions of DBus are available on Bunya.  
 [dbus/1.15.4-gcccore-12.3.0](../modules/dbus-.1.15.4-gcccore-12.3.0.md)  
-  
 [dbus/1.14.0-gcccore-11.3.0](../modules/dbus-.1.14.0-gcccore-11.3.0.md)  
-  
 [dbus/1.13.18-gcccore-10.3.0](../modules/dbus-.1.13.18-gcccore-10.3.0.md)  
-  

@@ -65,20 +65,11 @@ The following modules will load ncurses as dependency.
 ## Other available modules  
 These other versions of ncurses are available on Bunya.  
 [ncurses/6.5-gcccore-14.2.0](../modules/ncurses-.6.5-gcccore-14.2.0.md)  
-  
 [ncurses/6.5-gcccore-13.3.0](../modules/ncurses-.6.5-gcccore-13.3.0.md)  
-  
 [ncurses/6.5](../modules/ncurses-.6.5.md)  
-  
 [ncurses/6.4-gcccore-12.3.0](../modules/ncurses-.6.4-gcccore-12.3.0.md)  
-  
 [ncurses/6.3-gcccore-11.3.0](../modules/ncurses-.6.3-gcccore-11.3.0.md)  
-  
 [ncurses/6.3](../modules/ncurses-.6.3.md)  
-  
 [ncurses/6.2-gcccore-10.3.0](../modules/ncurses-.6.2-gcccore-10.3.0.md)  
-  
 [ncurses/6.2](../modules/ncurses-.6.2.md)  
-  
 [ncurses/6.1](../modules/ncurses-.6.1.md)  
-  

@@ -54,6 +54,4 @@ The following modules will load gnuplot as dependency.
 ## Other available modules  
 These other versions of gnuplot are available on Bunya.  
 [gnuplot/5.4.4-gcccore-11.3.0](../modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-  
 [gnuplot/5.4.2-gcccore-10.3.0](../modules/gnuplot-.5.4.2-gcccore-10.3.0.md)  
-  

@@ -46,6 +46,4 @@ The following modules will load libsodium as dependency.
 ## Other available modules  
 These other versions of libsodium are available on Bunya.  
 [libsodium/1.0.18-gcccore-11.3.0](../modules/libsodium-.1.0.18-gcccore-11.3.0.md)  
-  
 [libsodium/1.0.18-gcccore-10.3.0](../modules/libsodium-.1.0.18-gcccore-10.3.0.md)  
-  

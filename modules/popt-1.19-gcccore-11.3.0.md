@@ -36,3 +36,7 @@ optarch: False
 (none)  
   
   
+## Other available modules  
+These other versions of popt are available on Bunya.  
+popt/1.19-gcccore-11.3.0  
+popt/1.19-gcccore-11.3.0  

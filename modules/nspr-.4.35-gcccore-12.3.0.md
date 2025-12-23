@@ -43,8 +43,5 @@ The following modules will load NSPR as dependency.
 ## Other available modules  
 These other versions of NSPR are available on Bunya.  
 [nspr/4.35-gcccore-12.3.0](../modules/nspr-.4.35-gcccore-12.3.0.md)  
-  
 [nspr/4.34-gcccore-11.3.0](../modules/nspr-.4.34-gcccore-11.3.0.md)  
-  
 [nspr/4.30-gcccore-10.3.0](../modules/nspr-.4.30-gcccore-10.3.0.md)  
-  

@@ -49,6 +49,4 @@ The following modules will load IPython as dependency.
 ## Other available modules  
 These other versions of IPython are available on Bunya.  
 [ipython/8.5.0-gcccore-11.3.0](../modules/ipython-.8.5.0-gcccore-11.3.0.md)  
-  
 [ipython/7.25.0-gcccore-10.3.0](../modules/ipython-.7.25.0-gcccore-10.3.0.md)  
-  

@@ -48,8 +48,6 @@ The following modules will load UCC as dependency.
 ## Other available modules  
 These other versions of UCC are available on Bunya.  
 [ucc/1.3.0-gcccore-14.2.0](../modules/ucc-1.3.0-gcccore-14.2.0.md)  
-  
 [ucc/1.3.0-gcccore-13.3.0](../modules/ucc-1.3.0-gcccore-13.3.0.md)  
-  
 [ucc/1.3.0-gcccore-12.3.0](../modules/ucc-1.3.0-gcccore-12.3.0.md)  
-  
+ucc/1.3.0-gcccore-11.3.0  

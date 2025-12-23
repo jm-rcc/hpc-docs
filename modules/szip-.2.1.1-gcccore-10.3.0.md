@@ -47,8 +47,5 @@ The following modules will load Szip as dependency.
 ## Other available modules  
 These other versions of Szip are available on Bunya.  
 [szip/2.1.1-gcccore-12.3.0](../modules/szip-.2.1.1-gcccore-12.3.0.md)  
-  
 [szip/2.1.1-gcccore-11.3.0](../modules/szip-.2.1.1-gcccore-11.3.0.md)  
-  
 [szip/2.1.1-gcccore-10.3.0](../modules/szip-.2.1.1-gcccore-10.3.0.md)  
-  

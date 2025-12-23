@@ -43,16 +43,9 @@ gettext depends on the following modules, and they will be loaded automatically 
 ## Other available modules  
 These other versions of gettext are available on Bunya.  
 [gettext/0.22.5-gcccore-13.3.0](../modules/gettext-.0.22.5-gcccore-13.3.0.md)  
-  
 [gettext/0.22.5](../modules/gettext-.0.22.5.md)  
-  
 [gettext/0.21.1-gcccore-12.3.0](../modules/gettext-.0.21.1-gcccore-12.3.0.md)  
-  
 [gettext/0.21.1](../modules/gettext-.0.21.1.md)  
-  
 [gettext/0.21-gcccore-11.3.0](../modules/gettext-.0.21-gcccore-11.3.0.md)  
-  
 [gettext/0.21-gcccore-10.3.0](../modules/gettext-.0.21-gcccore-10.3.0.md)  
-  
 [gettext/0.21](../modules/gettext-.0.21.md)  
-  

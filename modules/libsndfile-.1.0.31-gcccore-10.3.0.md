@@ -46,6 +46,4 @@ The following modules will load libsndfile as dependency.
 ## Other available modules  
 These other versions of libsndfile are available on Bunya.  
 [libsndfile/1.1.0-gcccore-11.3.0](../modules/libsndfile-.1.1.0-gcccore-11.3.0.md)  
-  
 [libsndfile/1.0.31-gcccore-10.3.0](../modules/libsndfile-.1.0.31-gcccore-10.3.0.md)  
-  

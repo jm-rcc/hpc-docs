@@ -46,8 +46,5 @@ The following modules will load NSS as dependency.
 ## Other available modules  
 These other versions of NSS are available on Bunya.  
 [nss/3.89.1-gcccore-12.3.0](../modules/nss-.3.89.1-gcccore-12.3.0.md)  
-  
 [nss/3.79-gcccore-11.3.0](../modules/nss-.3.79-gcccore-11.3.0.md)  
-  
 [nss/3.65-gcccore-10.3.0](../modules/nss-.3.65-gcccore-10.3.0.md)  
-  

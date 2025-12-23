@@ -35,6 +35,4 @@ GCC-11.3.0
 ## Other available modules  
 These other versions of Jansson are available on Bunya.  
 [jansson/2.14-gcc-11.3.0](../modules/jansson-2.14-gcc-11.3.0.md)  
-  
 [jansson/2.14-gcc-11.3.0](../modules/jansson-.2.14-gcc-11.3.0.bak_20251013214429_2034437.md)  
-  

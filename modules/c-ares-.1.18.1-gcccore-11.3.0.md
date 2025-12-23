@@ -40,7 +40,3 @@ The following modules will load c-ares as dependency.
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of c-ares are available on Bunya.  
-[c-ares/1.18.1-gcccore-11.3.0](../modules/c-ares-.1.18.1-gcccore-11.3.0.md)  
-  

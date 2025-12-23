@@ -51,6 +51,4 @@ The following modules will load ATK as dependency.
 ## Other available modules  
 These other versions of ATK are available on Bunya.  
 [atk/2.38.0-gcccore-12.3.0](../modules/atk-.2.38.0-gcccore-12.3.0.md)  
-  
 [atk/2.38.0-gcccore-11.3.0](../modules/atk-.2.38.0-gcccore-11.3.0.md)  
-  

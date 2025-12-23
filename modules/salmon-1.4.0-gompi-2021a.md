@@ -46,4 +46,4 @@ The following modules will load Salmon as dependency.
 ## Other available modules  
 These other versions of Salmon are available on Bunya.  
 [salmon/1.9.0-gcc-11.3.0](../modules/salmon-1.9.0-gcc-11.3.0.md)  
-  
+salmon/1.4.0-gompi-2021a  

@@ -50,4 +50,4 @@ The following modules will load ncbi-vdb as dependency.
 ## Other available modules  
 These other versions of ncbi-vdb are available on Bunya.  
 [ncbi-vdb/3.0.2-gompi-2022a](../modules/ncbi-vdb-3.0.2-gompi-2022a.md)  
-  
+ncbi-vdb/2.10.9-gompi-2021a  

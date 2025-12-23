@@ -43,6 +43,4 @@ The following modules will load libyaml as dependency.
 ## Other available modules  
 These other versions of libyaml are available on Bunya.  
 [libyaml/0.2.5-gcccore-11.3.0](../modules/libyaml-.0.2.5-gcccore-11.3.0.md)  
-  
 [libyaml/0.2.5-gcccore-10.3.0](../modules/libyaml-.0.2.5-gcccore-10.3.0.md)  
-  

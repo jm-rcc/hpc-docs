@@ -58,4 +58,4 @@ The following modules will load BLAST+ as dependency.
 ## Other available modules  
 These other versions of BLAST+ are available on Bunya.  
 [blast+/2.13.0-gompi-2022a](../modules/blast+-2.13.0-gompi-2022a.md)  
-  
+blast+/2.11.0-gompi-2021a  

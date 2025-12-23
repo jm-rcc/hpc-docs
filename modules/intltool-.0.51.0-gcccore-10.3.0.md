@@ -42,10 +42,6 @@ intltool depends on the following modules, and they will be loaded automatically
 ## Other available modules  
 These other versions of intltool are available on Bunya.  
 [intltool/0.51.0-gcccore-13.3.0](../modules/intltool-.0.51.0-gcccore-13.3.0.md)  
-  
 [intltool/0.51.0-gcccore-12.3.0](../modules/intltool-.0.51.0-gcccore-12.3.0.md)  
-  
 [intltool/0.51.0-gcccore-11.3.0](../modules/intltool-.0.51.0-gcccore-11.3.0.md)  
-  
 [intltool/0.51.0-gcccore-10.3.0](../modules/intltool-.0.51.0-gcccore-10.3.0.md)  
-  

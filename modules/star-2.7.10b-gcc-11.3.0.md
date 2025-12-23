@@ -42,4 +42,4 @@ STAR depends on the following modules, and they will be loaded automatically wit
 ## Other available modules  
 These other versions of STAR are available on Bunya.  
 [star/2.7.9a-gcc-10.3.0](../modules/star-2.7.9a-gcc-10.3.0.md)  
-  
+star/2.7.10b-gcc-11.3.0  

@@ -53,14 +53,8 @@ The following modules will load libevent as dependency.
 ## Other available modules  
 These other versions of libevent are available on Bunya.  
 [libevent/2.1.12-gcccore-14.2.0](../modules/libevent-.2.1.12-gcccore-14.2.0.md)  
-  
 [libevent/2.1.12-gcccore-13.3.0](../modules/libevent-.2.1.12-gcccore-13.3.0.md)  
-  
 [libevent/2.1.12-gcccore-12.3.0](../modules/libevent-.2.1.12-gcccore-12.3.0.md)  
-  
 [libevent/2.1.12-gcccore-11.3.0](../modules/libevent-.2.1.12-gcccore-11.3.0.md)  
-  
 [libevent/2.1.12-gcccore-10.3.0](../modules/libevent-.2.1.12-gcccore-10.3.0.md)  
-  
 [libevent/2.1.12](../modules/libevent-.2.1.12.md)  
-  

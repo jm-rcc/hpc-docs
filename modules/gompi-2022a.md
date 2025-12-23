@@ -43,16 +43,11 @@ gompi depends on the following modules, and they will be loaded automatically wi
 ## Other available modules  
 These other versions of gompi are available on Bunya.  
 [gompi/2025a](../modules/gompi-2025a.md)  
-  
 [gompi/2024a](../modules/gompi-2024a.md)  
-  
 [gompi/2023a](../modules/gompi-2023a.md)  
-  
+gompi/2022a  
 [gompi/2021a](../modules/gompi-2021a.md)  
-  
 [gompi/2024a](../modules/gompi-.2024a.md)  
-  
 [gompi/2023a](../modules/gompi-.2023a.md)  
-  
+gompi/2022a  
 [gompi/2021a](../modules/gompi-.2021a.md)  
-  

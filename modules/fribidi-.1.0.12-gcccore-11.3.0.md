@@ -48,8 +48,5 @@ The following modules will load FriBidi as dependency.
 ## Other available modules  
 These other versions of FriBidi are available on Bunya.  
 [fribidi/1.0.12-gcccore-12.3.0](../modules/fribidi-.1.0.12-gcccore-12.3.0.md)  
-  
 [fribidi/1.0.12-gcccore-11.3.0](../modules/fribidi-.1.0.12-gcccore-11.3.0.md)  
-  
 [fribidi/1.0.10-gcccore-10.3.0](../modules/fribidi-.1.0.10-gcccore-10.3.0.md)  
-  

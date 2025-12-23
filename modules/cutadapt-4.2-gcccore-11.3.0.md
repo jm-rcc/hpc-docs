@@ -43,5 +43,5 @@ cutadapt depends on the following modules, and they will be loaded automatically
   
 ## Other available modules  
 These other versions of cutadapt are available on Bunya.  
+cutadapt/4.2-gcccore-11.3.0  
 [cutadapt/3.4-gcccore-10.3.0](../modules/cutadapt-3.4-gcccore-10.3.0.md)  
-  

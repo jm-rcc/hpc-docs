@@ -60,10 +60,6 @@ The following modules will load libpng as dependency.
 ## Other available modules  
 These other versions of libpng are available on Bunya.  
 [libpng/1.6.43-gcccore-13.3.0](../modules/libpng-.1.6.43-gcccore-13.3.0.md)  
-  
 [libpng/1.6.39-gcccore-12.3.0](../modules/libpng-.1.6.39-gcccore-12.3.0.md)  
-  
 [libpng/1.6.37-gcccore-11.3.0](../modules/libpng-.1.6.37-gcccore-11.3.0.md)  
-  
 [libpng/1.6.37-gcccore-10.3.0](../modules/libpng-.1.6.37-gcccore-10.3.0.md)  
-  

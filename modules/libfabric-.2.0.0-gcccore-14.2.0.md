@@ -43,12 +43,7 @@ The following modules will load libfabric as dependency.
 ## Other available modules  
 These other versions of libfabric are available on Bunya.  
 [libfabric/2.0.0-gcccore-14.2.0](../modules/libfabric-.2.0.0-gcccore-14.2.0.md)  
-  
 [libfabric/1.21.0-gcccore-13.3.0](../modules/libfabric-.1.21.0-gcccore-13.3.0.md)  
-  
 [libfabric/1.18.0-gcccore-12.3.0](../modules/libfabric-.1.18.0-gcccore-12.3.0.md)  
-  
 [libfabric/1.15.1-gcccore-11.3.0](../modules/libfabric-.1.15.1-gcccore-11.3.0.md)  
-  
 [libfabric/1.12.1-gcccore-10.3.0](../modules/libfabric-.1.12.1-gcccore-10.3.0.md)  
-  

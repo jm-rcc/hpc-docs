@@ -43,5 +43,5 @@ MEGAHIT depends on the following modules, and they will be loaded automatically 
   
 ## Other available modules  
 These other versions of MEGAHIT are available on Bunya.  
+megahit/1.2.9-gcccore-11.3.0  
 [megahit/1.2.9-gcccore-10.3.0](../modules/megahit-1.2.9-gcccore-10.3.0.md)  
-  

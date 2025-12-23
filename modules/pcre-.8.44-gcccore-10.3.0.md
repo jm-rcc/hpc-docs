@@ -57,8 +57,5 @@ The following modules will load PCRE as dependency.
 ## Other available modules  
 These other versions of PCRE are available on Bunya.  
 [pcre/8.45-gcccore-12.3.0](../modules/pcre-.8.45-gcccore-12.3.0.md)  
-  
 [pcre/8.45-gcccore-11.3.0](../modules/pcre-.8.45-gcccore-11.3.0.md)  
-  
 [pcre/8.44-gcccore-10.3.0](../modules/pcre-.8.44-gcccore-10.3.0.md)  
-  

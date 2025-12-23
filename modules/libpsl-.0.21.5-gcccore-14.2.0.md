@@ -39,6 +39,4 @@ The following modules will load libpsl as dependency.
 ## Other available modules  
 These other versions of libpsl are available on Bunya.  
 [libpsl/0.21.5-gcccore-14.2.0](../modules/libpsl-.0.21.5-gcccore-14.2.0.md)  
-  
 [libpsl/0.21.1-gcccore-11.3.0](../modules/libpsl-.0.21.1-gcccore-11.3.0.md)  
-  

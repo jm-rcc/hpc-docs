@@ -49,6 +49,4 @@ The following modules will load at-spi2-atk as dependency.
 ## Other available modules  
 These other versions of at-spi2-atk are available on Bunya.  
 [at-spi2-atk/2.38.0-gcccore-12.3.0](../modules/at-spi2-atk-.2.38.0-gcccore-12.3.0.md)  
-  
 [at-spi2-atk/2.38.0-gcccore-11.3.0](../modules/at-spi2-atk-.2.38.0-gcccore-11.3.0.md)  
-  

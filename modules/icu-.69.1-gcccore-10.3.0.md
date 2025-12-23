@@ -48,8 +48,5 @@ The following modules will load ICU as dependency.
 ## Other available modules  
 These other versions of ICU are available on Bunya.  
 [icu/73.2-gcccore-12.3.0](../modules/icu-.73.2-gcccore-12.3.0.md)  
-  
 [icu/71.1-gcccore-11.3.0](../modules/icu-.71.1-gcccore-11.3.0.md)  
-  
 [icu/69.1-gcccore-10.3.0](../modules/icu-.69.1-gcccore-10.3.0.md)  
-  

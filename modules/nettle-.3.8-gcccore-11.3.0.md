@@ -49,6 +49,4 @@ The following modules will load nettle as dependency.
 ## Other available modules  
 These other versions of nettle are available on Bunya.  
 [nettle/3.8-gcccore-11.3.0](../modules/nettle-.3.8-gcccore-11.3.0.md)  
-  
 [nettle/3.7.2-gcccore-10.3.0](../modules/nettle-.3.7.2-gcccore-10.3.0.md)  
-  

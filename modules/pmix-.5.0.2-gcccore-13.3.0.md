@@ -58,12 +58,7 @@ The following modules will load PMIx as dependency.
 ## Other available modules  
 These other versions of PMIx are available on Bunya.  
 [pmix/5.0.6-gcccore-14.2.0](../modules/pmix-.5.0.6-gcccore-14.2.0.md)  
-  
 [pmix/5.0.2-gcccore-13.3.0](../modules/pmix-.5.0.2-gcccore-13.3.0.md)  
-  
 [pmix/4.2.4-gcccore-12.3.0](../modules/pmix-.4.2.4-gcccore-12.3.0.md)  
-  
 [pmix/4.1.2-gcccore-11.3.0](../modules/pmix-.4.1.2-gcccore-11.3.0.md)  
-  
 [pmix/3.2.3-gcccore-10.3.0](../modules/pmix-.3.2.3-gcccore-10.3.0.md)  
-  

@@ -58,7 +58,3 @@ The following modules will load nghttp2 as dependency.
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of nghttp2 are available on Bunya.  
-[nghttp2/1.48.0-gcc-11.3.0](../modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-  

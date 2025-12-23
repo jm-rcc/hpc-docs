@@ -46,4 +46,4 @@ The following modules will load BamTools as dependency.
 ## Other available modules  
 These other versions of BamTools are available on Bunya.  
 [bamtools/2.5.2-gcc-11.3.0](../modules/bamtools-2.5.2-gcc-11.3.0.md)  
-  
+bamtools/2.5.2-gcc-10.3.0  

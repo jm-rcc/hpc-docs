@@ -52,7 +52,6 @@ GROMACS depends on the following modules, and they will be loaded automatically 
   
 ## Other available modules  
 These other versions of GROMACS are available on Bunya.  
+gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0  
 [gromacs/2023.3-foss-2023a](../modules/gromacs-2023.3-foss-2023a.md)  
-  
 [gromacs/2021.3-foss-2021a](../modules/gromacs-2021.3-foss-2021a.md)  
-  

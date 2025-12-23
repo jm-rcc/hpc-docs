@@ -51,12 +51,7 @@ The following modules will load hwloc as dependency.
 ## Other available modules  
 These other versions of hwloc are available on Bunya.  
 [hwloc/2.9.1-gcccore-12.3.0](../modules/hwloc-.2.9.1-gcccore-12.3.0.md)  
-  
 [hwloc/2.7.1-gcccore-11.3.0](../modules/hwloc-.2.7.1-gcccore-11.3.0.md)  
-  
 [hwloc/2.4.1-gcccore-10.3.0](../modules/hwloc-.2.4.1-gcccore-10.3.0.md)  
-  
 [hwloc/2.11.2-gcccore-14.2.0](../modules/hwloc-.2.11.2-gcccore-14.2.0.md)  
-  
 [hwloc/2.10.0-gcccore-13.3.0](../modules/hwloc-.2.10.0-gcccore-13.3.0.md)  
-  

@@ -42,5 +42,5 @@ The following modules will load graphite2 as dependency.
   
 ## Other available modules  
 These other versions of graphite2 are available on Bunya.  
+graphite2/1.3.14-gcccore-12.3.0  
 [graphite2/1.3.14-gcccore-11.3.0](../modules/graphite2-1.3.14-gcccore-11.3.0.md)  
-  

@@ -38,11 +38,8 @@ intel depends on the following modules, and they will be loaded automatically wi
   
 ## Other available modules  
 These other versions of intel are available on Bunya.  
+intel/2025a  
 [intel/2024a](../modules/intel-2024a.md)  
-  
 [intel/2023a](../modules/intel-2023a.md)  
-  
 [intel/2022a](../modules/intel-2022a.md)  
-  
 [intel/2021a](../modules/intel-2021a.md)  
-  

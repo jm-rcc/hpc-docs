@@ -51,8 +51,5 @@ The following modules will load HarfBuzz as dependency.
 ## Other available modules  
 These other versions of HarfBuzz are available on Bunya.  
 [harfbuzz/5.3.1-gcccore-12.3.0](../modules/harfbuzz-.5.3.1-gcccore-12.3.0.md)  
-  
 [harfbuzz/4.2.1-gcccore-11.3.0](../modules/harfbuzz-.4.2.1-gcccore-11.3.0.md)  
-  
 [harfbuzz/2.8.1-gcccore-10.3.0](../modules/harfbuzz-.2.8.1-gcccore-10.3.0.md)  
-  

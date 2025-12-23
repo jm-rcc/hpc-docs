@@ -46,4 +46,4 @@ BWA depends on the following modules, and they will be loaded automatically with
 ## Other available modules  
 These other versions of BWA are available on Bunya.  
 [bwa/0.7.17-gcc-10.3.0](../modules/bwa-0.7.17-gcc-10.3.0.md)  
-  
+bwa/0.7.17-gcccore-11.3.0  

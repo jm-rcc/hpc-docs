@@ -43,4 +43,4 @@ snakemake depends on the following modules, and they will be loaded automaticall
 ## Other available modules  
 These other versions of snakemake are available on Bunya.  
 [snakemake/7.22.0-foss-2022a](../modules/snakemake-7.22.0-foss-2022a.md)  
-  
+snakemake/6.6.1-foss-2021a  

@@ -33,6 +33,4 @@ Mono depends on the following modules, and they will be loaded automatically wit
 ## Other available modules  
 These other versions of Mono are available on Bunya.  
 [mono/6.12.0.122-gcccore-11.3.0](../modules/mono-6.12.0.122-gcccore-11.3.0.md)  
-  
 [mono/6.12.0.122-gcccore-11.3.0](../modules/mono-.6.12.0.122-gcccore-11.3.0.bak_20251013214443_2034437.md)  
-  

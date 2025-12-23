@@ -32,11 +32,8 @@ GCC-14.2.0
   
 ## Other available modules  
 These other versions of BLIS are available on Bunya.  
+blis/1.1-gcc-14.2.0  
 [blis/1.0-gcc-13.3.0](../modules/blis-1.0-gcc-13.3.0.md)  
-  
 [blis/0.9.0-gcc-12.3.0](../modules/blis-0.9.0-gcc-12.3.0.md)  
-  
 [blis/0.9.0-gcc-11.3.0](../modules/blis-0.9.0-gcc-11.3.0.md)  
-  
 [blis/0.8.1-gcc-10.3.0](../modules/blis-0.8.1-gcc-10.3.0.md)  
-  

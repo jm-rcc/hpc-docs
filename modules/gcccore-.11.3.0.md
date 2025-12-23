@@ -46,12 +46,7 @@ The following modules will load GCCcore as dependency.
 ## Other available modules  
 These other versions of GCCcore are available on Bunya.  
 [gcccore/14.2.0](../modules/gcccore-.14.2.0.md)  
-  
 [gcccore/13.3.0](../modules/gcccore-.13.3.0.md)  
-  
 [gcccore/12.3.0](../modules/gcccore-.12.3.0.md)  
-  
 [gcccore/11.3.0](../modules/gcccore-.11.3.0.md)  
-  
 [gcccore/10.3.0](../modules/gcccore-.10.3.0.md)  
-  

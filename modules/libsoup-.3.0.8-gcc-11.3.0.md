@@ -53,7 +53,3 @@ The following modules will load LibSoup as dependency.
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of LibSoup are available on Bunya.  
-[libsoup/3.0.8-gcc-11.3.0](../modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-  

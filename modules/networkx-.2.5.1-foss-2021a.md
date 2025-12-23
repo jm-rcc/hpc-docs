@@ -46,8 +46,5 @@ The following modules will load networkx as dependency.
 ## Other available modules  
 These other versions of networkx are available on Bunya.  
 [networkx/3.1-gfbf-2023a](../modules/networkx-.3.1-gfbf-2023a.md)  
-  
 [networkx/2.8.4-foss-2022a](../modules/networkx-.2.8.4-foss-2022a.md)  
-  
 [networkx/2.5.1-foss-2021a](../modules/networkx-.2.5.1-foss-2021a.md)  
-  

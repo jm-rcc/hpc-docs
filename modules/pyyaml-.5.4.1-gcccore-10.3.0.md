@@ -45,6 +45,4 @@ The following modules will load PyYAML as dependency.
 ## Other available modules  
 These other versions of PyYAML are available on Bunya.  
 [pyyaml/6.0-gcccore-11.3.0](../modules/pyyaml-.6.0-gcccore-11.3.0.md)  
-  
 [pyyaml/5.4.1-gcccore-10.3.0](../modules/pyyaml-.5.4.1-gcccore-10.3.0.md)  
-  

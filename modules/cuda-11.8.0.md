@@ -33,10 +33,7 @@ system-system
 ## Other available modules  
 These other versions of CUDA are available on Bunya.  
 [cuda/12.6.0](../modules/cuda-12.6.0.md)  
-  
 [cuda/12.2.0](../modules/cuda-12.2.0.md)  
-  
 [cuda/12.1.1](../modules/cuda-12.1.1.md)  
-  
+cuda/11.8.0  
 [cuda/11.7.0](../modules/cuda-11.7.0.md)  
-  

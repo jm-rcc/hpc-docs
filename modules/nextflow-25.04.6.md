@@ -41,7 +41,6 @@ Nextflow depends on the following modules, and they will be loaded automatically
   
 ## Other available modules  
 These other versions of Nextflow are available on Bunya.  
+nextflow/25.04.6  
 [nextflow/23.04.2](../modules/nextflow-23.04.2.md)  
-  
 [nextflow/22.10.1](../modules/nextflow-22.10.1.md)  
-  

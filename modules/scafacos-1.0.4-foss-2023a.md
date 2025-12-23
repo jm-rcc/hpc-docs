@@ -45,5 +45,5 @@ The following modules will load ScaFaCoS as dependency.
   
 ## Other available modules  
 These other versions of ScaFaCoS are available on Bunya.  
+scafacos/1.0.4-foss-2023a  
 [scafacos/1.0.1-foss-2021a](../modules/scafacos-1.0.1-foss-2021a.md)  
-  

@@ -40,6 +40,5 @@ GCCcore-11.3.0
 ## Other available modules  
 These other versions of xxd are available on Bunya.  
 [xxd/9.0.2112-gcccore-12.3.0](../modules/xxd-9.0.2112-gcccore-12.3.0.md)  
-  
+xxd/8.2.4220-gcccore-11.3.0  
 [xxd/8.2.4220-gcccore-10.3.0](../modules/xxd-8.2.4220-gcccore-10.3.0.md)  
-  

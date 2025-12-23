@@ -46,8 +46,5 @@ The following modules will load JasPer as dependency.
 ## Other available modules  
 These other versions of JasPer are available on Bunya.  
 [jasper/4.0.0-gcccore-12.3.0](../modules/jasper-.4.0.0-gcccore-12.3.0.md)  
-  
 [jasper/2.0.33-gcccore-11.3.0](../modules/jasper-.2.0.33-gcccore-11.3.0.md)  
-  
 [jasper/2.0.28-gcccore-10.3.0](../modules/jasper-.2.0.28-gcccore-10.3.0.md)  
-  

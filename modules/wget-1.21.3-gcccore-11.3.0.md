@@ -49,5 +49,5 @@ The following modules will load wget as dependency.
   
 ## Other available modules  
 These other versions of wget are available on Bunya.  
+wget/1.21.3-gcccore-11.3.0  
 [wget/1.21.1-gcccore-10.3.0](../modules/wget-1.21.1-gcccore-10.3.0.md)  
-  

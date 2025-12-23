@@ -48,6 +48,5 @@ The following modules will load libgeotiff as dependency.
 ## Other available modules  
 These other versions of libgeotiff are available on Bunya.  
 [libgeotiff/1.7.1-gcccore-12.3.0](../modules/libgeotiff-1.7.1-gcccore-12.3.0.md)  
-  
 [libgeotiff/1.7.1-gcccore-11.3.0](../modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
-  
+libgeotiff/1.6.0-gcccore-10.3.0  

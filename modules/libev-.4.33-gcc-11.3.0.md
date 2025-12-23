@@ -45,7 +45,3 @@ The following modules will load libev as dependency.
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
 [ngtcp2 0.7.0  (GCC-11.3.0)](ngtcp2-0.7.0-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of libev are available on Bunya.  
-[libev/4.33-gcc-11.3.0](../modules/libev-.4.33-gcc-11.3.0.md)  
-  

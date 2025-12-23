@@ -55,7 +55,6 @@ The following modules will load SciPy-bundle as dependency.
   
 ## Other available modules  
 These other versions of SciPy-bundle are available on Bunya.  
+scipy-bundle/2023.07-gfbf-2023a  
 [scipy-bundle/2022.05-foss-2022a](../modules/scipy-bundle-2022.05-foss-2022a.md)  
-  
 [scipy-bundle/2021.05-foss-2021a](../modules/scipy-bundle-2021.05-foss-2021a.md)  
-  

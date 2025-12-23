@@ -51,6 +51,4 @@ The following modules will load OpenPGM as dependency.
 ## Other available modules  
 These other versions of OpenPGM are available on Bunya.  
 [openpgm/5.2.122-gcccore-11.3.0](../modules/openpgm-.5.2.122-gcccore-11.3.0.md)  
-  
 [openpgm/5.2.122-gcccore-10.3.0](../modules/openpgm-.5.2.122-gcccore-10.3.0.md)  
-  

@@ -30,10 +30,6 @@ GCCcore-11.3.0
 ## Other available modules  
 These other versions of LMDB are available on Bunya.  
 [lmdb/0.9.29-gcccore-11.3.0](../modules/lmdb-0.9.29-gcccore-11.3.0.md)  
-  
 [lmdb/0.9.29-gcccore-11.3.0](../modules/lmdb-.0.9.29-gcccore-11.3.0.bak_20251013214432_2034437.md)  
-  
 [lmdb/0.9.29-gcccore-11.3.0](../modules/lmdb-.0.9.29-gcccore-11.3.0.md)  
-  
 [lmdb/0.9.28-gcccore-10.3.0](../modules/lmdb-.0.9.28-gcccore-10.3.0.md)  
-  

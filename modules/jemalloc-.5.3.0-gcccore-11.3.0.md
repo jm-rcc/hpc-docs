@@ -45,8 +45,5 @@ The following modules will load jemalloc as dependency.
 ## Other available modules  
 These other versions of jemalloc are available on Bunya.  
 [jemalloc/5.3.0-gcccore-11.3.0](../modules/jemalloc-.5.3.0-gcccore-11.3.0.md)  
-  
 [jemalloc/5.2.1-gcccore-11.3.0](../modules/jemalloc-.5.2.1-gcccore-11.3.0.md)  
-  
 [jemalloc/5.2.1-gcccore-10.3.0](../modules/jemalloc-.5.2.1-gcccore-10.3.0.md)  
-  

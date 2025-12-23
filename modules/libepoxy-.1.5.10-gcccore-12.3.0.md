@@ -46,6 +46,4 @@ The following modules will load libepoxy as dependency.
 ## Other available modules  
 These other versions of libepoxy are available on Bunya.  
 [libepoxy/1.5.10-gcccore-12.3.0](../modules/libepoxy-.1.5.10-gcccore-12.3.0.md)  
-  
 [libepoxy/1.5.10-gcccore-11.3.0](../modules/libepoxy-.1.5.10-gcccore-11.3.0.md)  
-  

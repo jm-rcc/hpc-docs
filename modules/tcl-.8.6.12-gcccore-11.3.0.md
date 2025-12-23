@@ -50,12 +50,7 @@ The following modules will load Tcl as dependency.
 ## Other available modules  
 These other versions of Tcl are available on Bunya.  
 [tcl/8.6.16-gcccore-14.2.0](../modules/tcl-.8.6.16-gcccore-14.2.0.md)  
-  
 [tcl/8.6.14-gcccore-13.3.0](../modules/tcl-.8.6.14-gcccore-13.3.0.md)  
-  
 [tcl/8.6.13-gcccore-12.3.0](../modules/tcl-.8.6.13-gcccore-12.3.0.md)  
-  
 [tcl/8.6.12-gcccore-11.3.0](../modules/tcl-.8.6.12-gcccore-11.3.0.md)  
-  
 [tcl/8.6.11-gcccore-10.3.0](../modules/tcl-.8.6.11-gcccore-10.3.0.md)  
-  

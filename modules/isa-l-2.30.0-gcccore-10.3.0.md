@@ -45,4 +45,4 @@ The following modules will load ISA-L as dependency.
 ## Other available modules  
 These other versions of ISA-L are available on Bunya.  
 [isa-l/2.30.0-gcccore-11.3.0](../modules/isa-l-2.30.0-gcccore-11.3.0.md)  
-  
+isa-l/2.30.0-gcccore-10.3.0  

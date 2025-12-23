@@ -43,7 +43,3 @@ The following modules will load libtasn1 as dependency.
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
 [p11-kit 0.24.1  (GCCcore-11.3.0)](p11-kit-0.24.1-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of libtasn1 are available on Bunya.  
-[libtasn1/4.19.0-gcccore-11.3.0](../modules/libtasn1-.4.19.0-gcccore-11.3.0.md)  
-  

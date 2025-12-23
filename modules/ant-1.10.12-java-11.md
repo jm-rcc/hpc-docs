@@ -40,4 +40,4 @@ ant depends on the following modules, and they will be loaded automatically with
 ## Other available modules  
 These other versions of ant are available on Bunya.  
 [ant/1.10.9-java-11](../modules/ant-1.10.9-java-11.md)  
-  
+ant/1.10.12-java-11  

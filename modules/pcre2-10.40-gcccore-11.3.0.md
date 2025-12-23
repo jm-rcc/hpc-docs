@@ -48,6 +48,5 @@ The following modules will load PCRE2 as dependency.
 ## Other available modules  
 These other versions of PCRE2 are available on Bunya.  
 [pcre2/10.42-gcccore-12.3.0](../modules/pcre2-10.42-gcccore-12.3.0.md)  
-  
+pcre2/10.40-gcccore-11.3.0  
 [pcre2/10.36-gcccore-10.3.0](../modules/pcre2-10.36-gcccore-10.3.0.md)  
-  

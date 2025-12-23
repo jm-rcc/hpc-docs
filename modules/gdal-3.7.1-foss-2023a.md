@@ -71,7 +71,6 @@ GDAL depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of GDAL are available on Bunya.  
+gdal/3.7.1-foss-2023a  
 [gdal/3.5.0-foss-2022a](../modules/gdal-3.5.0-foss-2022a.md)  
-  
 [gdal/3.3.0-foss-2021a](../modules/gdal-3.3.0-foss-2021a.md)  
-  

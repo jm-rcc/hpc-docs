@@ -46,8 +46,5 @@ The following modules will load libidn2 as dependency.
 ## Other available modules  
 These other versions of libidn2 are available on Bunya.  
 [libidn2/2.3.7-gcccore-14.2.0](../modules/libidn2-.2.3.7-gcccore-14.2.0.md)  
-  
 [libidn2/2.3.2-gcccore-11.3.0](../modules/libidn2-.2.3.2-gcccore-11.3.0.md)  
-  
 [libidn2/2.3.0-gcccore-10.3.0](../modules/libidn2-.2.3.0-gcccore-10.3.0.md)  
-  

@@ -46,6 +46,4 @@ The following modules will load UDUNITS as dependency.
 ## Other available modules  
 These other versions of UDUNITS are available on Bunya.  
 [udunits/2.2.28-gcccore-11.3.0](../modules/udunits-.2.2.28-gcccore-11.3.0.md)  
-  
 [udunits/2.2.28-gcccore-10.3.0](../modules/udunits-.2.2.28-gcccore-10.3.0.md)  
-  

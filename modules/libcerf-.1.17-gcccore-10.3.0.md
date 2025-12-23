@@ -47,6 +47,4 @@ The following modules will load libcerf as dependency.
 ## Other available modules  
 These other versions of libcerf are available on Bunya.  
 [libcerf/2.1-gcccore-11.3.0](../modules/libcerf-.2.1-gcccore-11.3.0.md)  
-  
 [libcerf/1.17-gcccore-10.3.0](../modules/libcerf-.1.17-gcccore-10.3.0.md)  
-  

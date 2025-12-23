@@ -42,7 +42,3 @@ The following modules will load gc as dependency.
   
 [Guile 3.0.8  (GCCcore-11.3.0)](guile-3.0.8-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of gc are available on Bunya.  
-[gc/8.2.2-gcccore-11.3.0](../modules/gc-.8.2.2-gcccore-11.3.0.md)  
-  

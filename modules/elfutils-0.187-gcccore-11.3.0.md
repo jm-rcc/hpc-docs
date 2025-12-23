@@ -51,5 +51,5 @@ The following modules will load elfutils as dependency.
   
 ## Other available modules  
 These other versions of elfutils are available on Bunya.  
+elfutils/0.187-gcccore-11.3.0  
 [elfutils/0.185-gcccore-10.3.0](../modules/elfutils-0.185-gcccore-10.3.0.md)  
-  

@@ -51,8 +51,6 @@ The following modules will load BCFtools as dependency.
 ## Other available modules  
 These other versions of BCFtools are available on Bunya.  
 [bcftools/1.18-gcc-12.3.0](../modules/bcftools-1.18-gcc-12.3.0.md)  
-  
 [bcftools/1.15.1-gcc-11.3.0](../modules/bcftools-1.15.1-gcc-11.3.0.md)  
-  
+bcftools/1.12-gcc-10.3.0  
 [bcftools/1.15.1-gcc-11.3.0](../modules/bcftools-.1.15.1-gcc-11.3.0.bak_20251013200136_1777895.md)  
-  

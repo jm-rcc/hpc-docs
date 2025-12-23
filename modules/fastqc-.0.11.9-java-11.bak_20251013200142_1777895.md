@@ -35,6 +35,4 @@ FastQC depends on the following modules, and they will be loaded automatically w
 ## Other available modules  
 These other versions of FastQC are available on Bunya.  
 [fastqc/0.11.9-java-11](../modules/fastqc-0.11.9-java-11.md)  
-  
 [fastqc/0.11.9-java-11](../modules/fastqc-.0.11.9-java-11.bak_20251013200142_1777895.md)  
-  

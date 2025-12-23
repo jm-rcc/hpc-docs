@@ -50,10 +50,6 @@ The following modules will load Qhull as dependency.
 ## Other available modules  
 These other versions of Qhull are available on Bunya.  
 [qhull/2020.2-gcccore-12.3.0](../modules/qhull-2020.2-gcccore-12.3.0.md)  
-  
 [qhull/2020.2-gcccore-12.3.0](../modules/qhull-.2020.2-gcccore-12.3.0.md)  
-  
 [qhull/2020.2-gcccore-11.3.0](../modules/qhull-.2020.2-gcccore-11.3.0.md)  
-  
 [qhull/2020.2-gcccore-10.3.0](../modules/qhull-.2020.2-gcccore-10.3.0.md)  
-  

@@ -45,10 +45,6 @@ The following modules will load expat as dependency.
 ## Other available modules  
 These other versions of expat are available on Bunya.  
 [expat/2.6.2-gcccore-13.3.0](../modules/expat-.2.6.2-gcccore-13.3.0.md)  
-  
 [expat/2.5.0-gcccore-12.3.0](../modules/expat-.2.5.0-gcccore-12.3.0.md)  
-  
 [expat/2.4.8-gcccore-11.3.0](../modules/expat-.2.4.8-gcccore-11.3.0.md)  
-  
 [expat/2.2.9-gcccore-10.3.0](../modules/expat-.2.2.9-gcccore-10.3.0.md)  
-  

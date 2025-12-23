@@ -61,10 +61,6 @@ The following modules will load freetype as dependency.
 ## Other available modules  
 These other versions of freetype are available on Bunya.  
 [freetype/2.13.2-gcccore-13.3.0](../modules/freetype-.2.13.2-gcccore-13.3.0.md)  
-  
 [freetype/2.13.0-gcccore-12.3.0](../modules/freetype-.2.13.0-gcccore-12.3.0.md)  
-  
 [freetype/2.12.1-gcccore-11.3.0](../modules/freetype-.2.12.1-gcccore-11.3.0.md)  
-  
 [freetype/2.10.4-gcccore-10.3.0](../modules/freetype-.2.10.4-gcccore-10.3.0.md)  
-  

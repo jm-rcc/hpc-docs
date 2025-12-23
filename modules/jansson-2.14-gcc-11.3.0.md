@@ -46,3 +46,7 @@ The following modules will load Jansson as dependency.
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
   
+## Other available modules  
+These other versions of Jansson are available on Bunya.  
+jansson/2.14-gcc-11.3.0  
+jansson/2.14-gcc-11.3.0  

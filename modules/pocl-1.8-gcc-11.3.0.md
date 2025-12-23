@@ -50,4 +50,4 @@ The following modules will load pocl as dependency.
 ## Other available modules  
 These other versions of pocl are available on Bunya.  
 [pocl/6.0-gcc-13.3.0](../modules/pocl-6.0-gcc-13.3.0.md)  
-  
+pocl/1.8-gcc-11.3.0  

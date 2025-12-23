@@ -48,4 +48,4 @@ The following modules will load Biopython as dependency.
 ## Other available modules  
 These other versions of Biopython are available on Bunya.  
 [biopython/1.79-foss-2022a](../modules/biopython-1.79-foss-2022a.md)  
-  
+biopython/1.79-foss-2021a  

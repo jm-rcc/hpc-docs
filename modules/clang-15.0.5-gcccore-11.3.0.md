@@ -45,8 +45,6 @@ Clang depends on the following modules, and they will be loaded automatically wi
 ## Other available modules  
 These other versions of Clang are available on Bunya.  
 [clang/18.1.8-gcccore-13.3.0](../modules/clang-18.1.8-gcccore-13.3.0.md)  
-  
+clang/15.0.5-gcccore-11.3.0  
 [clang/13.0.1-gcccore-11.3.0](../modules/clang-13.0.1-gcccore-11.3.0.md)  
-  
 [clang/12.0.1-gcccore-10.3.0](../modules/clang-12.0.1-gcccore-10.3.0.md)  
-  

@@ -55,4 +55,4 @@ The following modules will load kim-api as dependency.
 ## Other available modules  
 These other versions of kim-api are available on Bunya.  
 [kim-api/2.3.0-gcc-12.3.0](../modules/kim-api-2.3.0-gcc-12.3.0.md)  
-  
+kim-api/2.2.1-gcc-10.3.0  

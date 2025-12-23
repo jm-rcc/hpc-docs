@@ -43,5 +43,5 @@ MUMmer depends on the following modules, and they will be loaded automatically w
   
 ## Other available modules  
 These other versions of MUMmer are available on Bunya.  
+mummer/4.0.0rc1-gcccore-11.3.0  
 [mummer/3.23-gcccore-10.3.0](../modules/mummer-3.23-gcccore-10.3.0.md)  
-  

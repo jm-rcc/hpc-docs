@@ -43,4 +43,4 @@ The following modules will load libogg as dependency.
 ## Other available modules  
 These other versions of libogg are available on Bunya.  
 [libogg/1.3.5-gcccore-11.3.0](../modules/libogg-1.3.5-gcccore-11.3.0.md)  
-  
+libogg/1.3.4-gcccore-10.3.0  

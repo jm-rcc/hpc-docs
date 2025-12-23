@@ -43,5 +43,5 @@ gfbf depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of gfbf are available on Bunya.  
+gfbf/2023a  
 [gfbf/2022a](../modules/gfbf-2022a.md)  
-  

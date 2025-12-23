@@ -38,11 +38,9 @@ LLVM depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of LLVM are available on Bunya.  
+llvm/18.1.8-gcccore-13.3.0-minimal  
 [llvm/16.0.6-gcccore-12.3.0](../modules/llvm-16.0.6-gcccore-12.3.0.md)  
-  
+llvm/18.1.8-gcccore-13.3.0-minimal  
 [llvm/16.0.6-gcccore-12.3.0](../modules/llvm-.16.0.6-gcccore-12.3.0.md)  
-  
 [llvm/14.0.3-gcccore-11.3.0](../modules/llvm-.14.0.3-gcccore-11.3.0.md)  
-  
 [llvm/11.1.0-gcccore-10.3.0](../modules/llvm-.11.1.0-gcccore-10.3.0.md)  
-  

@@ -51,4 +51,4 @@ The following modules will load OpenJPEG as dependency.
 ## Other available modules  
 These other versions of OpenJPEG are available on Bunya.  
 [openjpeg/2.5.0-gcccore-12.3.0](../modules/openjpeg-2.5.0-gcccore-12.3.0.md)  
-  
+openjpeg/2.5.0-gcccore-11.3.0  

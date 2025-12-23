@@ -56,4 +56,4 @@ The following modules will load GTK3 as dependency.
 ## Other available modules  
 These other versions of GTK3 are available on Bunya.  
 [gtk3/3.24.37-gcccore-12.3.0](../modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-  
+gtk3/3.24.33-gcccore-11.3.0  

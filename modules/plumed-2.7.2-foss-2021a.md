@@ -53,6 +53,5 @@ The following modules will load PLUMED as dependency.
 ## Other available modules  
 These other versions of PLUMED are available on Bunya.  
 [plumed/2.9.0-foss-2023a](../modules/plumed-2.9.0-foss-2023a.md)  
-  
 [plumed/2.8.1-foss-2022a](../modules/plumed-2.8.1-foss-2022a.md)  
-  
+plumed/2.7.2-foss-2021a  

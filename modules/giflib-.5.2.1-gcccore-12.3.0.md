@@ -43,6 +43,4 @@ The following modules will load giflib as dependency.
 ## Other available modules  
 These other versions of giflib are available on Bunya.  
 [giflib/5.2.1-gcccore-12.3.0](../modules/giflib-.5.2.1-gcccore-12.3.0.md)  
-  
 [giflib/5.2.1-gcccore-11.3.0](../modules/giflib-.5.2.1-gcccore-11.3.0.md)  
-  

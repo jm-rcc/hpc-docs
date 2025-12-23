@@ -43,7 +43,3 @@ The following modules will load alsa-lib as dependency.
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of alsa-lib are available on Bunya.  
-[alsa-lib/1.2.8-gcccore-11.3.0](../modules/alsa-lib-.1.2.8-gcccore-11.3.0.md)  
-  

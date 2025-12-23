@@ -59,8 +59,5 @@ The following modules will load cairo as dependency.
 ## Other available modules  
 These other versions of cairo are available on Bunya.  
 [cairo/1.17.8-gcccore-12.3.0](../modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-  
 [cairo/1.17.4-gcccore-11.3.0](../modules/cairo-.1.17.4-gcccore-11.3.0.md)  
-  
 [cairo/1.16.0-gcccore-10.3.0](../modules/cairo-.1.16.0-gcccore-10.3.0.md)  
-  

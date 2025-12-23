@@ -45,5 +45,5 @@ prokka depends on the following modules, and they will be loaded automatically w
   
 ## Other available modules  
 These other versions of prokka are available on Bunya.  
+prokka/1.14.5-gompi-2022a  
 [prokka/1.14.5-gompi-2021a](../modules/prokka-1.14.5-gompi-2021a.md)  
-  

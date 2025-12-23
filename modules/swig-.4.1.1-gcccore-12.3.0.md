@@ -45,8 +45,5 @@ The following modules will load SWIG as dependency.
 ## Other available modules  
 These other versions of SWIG are available on Bunya.  
 [swig/4.1.1-gcccore-12.3.0](../modules/swig-.4.1.1-gcccore-12.3.0.md)  
-  
 [swig/4.0.2-gcccore-11.3.0](../modules/swig-.4.0.2-gcccore-11.3.0.md)  
-  
 [swig/4.0.2-gcccore-10.3.0](../modules/swig-.4.0.2-gcccore-10.3.0.md)  
-  

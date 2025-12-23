@@ -48,8 +48,5 @@ GObject-Introspection depends on the following modules, and they will be loaded 
 ## Other available modules  
 These other versions of GObject-Introspection are available on Bunya.  
 [gobject-introspection/1.76.1-gcccore-12.3.0](../modules/gobject-introspection-.1.76.1-gcccore-12.3.0.md)  
-  
 [gobject-introspection/1.72.0-gcccore-11.3.0](../modules/gobject-introspection-.1.72.0-gcccore-11.3.0.md)  
-  
 [gobject-introspection/1.68.0-gcccore-10.3.0](../modules/gobject-introspection-.1.68.0-gcccore-10.3.0.md)  
-  

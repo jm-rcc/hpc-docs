@@ -47,8 +47,5 @@ The following modules will load pixman as dependency.
 ## Other available modules  
 These other versions of pixman are available on Bunya.  
 [pixman/0.42.2-gcccore-12.3.0](../modules/pixman-.0.42.2-gcccore-12.3.0.md)  
-  
 [pixman/0.40.0-gcccore-11.3.0](../modules/pixman-.0.40.0-gcccore-11.3.0.md)  
-  
 [pixman/0.40.0-gcccore-10.3.0](../modules/pixman-.0.40.0-gcccore-10.3.0.md)  
-  

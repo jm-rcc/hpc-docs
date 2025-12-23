@@ -49,6 +49,4 @@ The following modules will load pkg-config as dependency.
 ## Other available modules  
 These other versions of pkg-config are available on Bunya.  
 [pkg-config/0.29.2-gcccore-11.3.0](../modules/pkg-config-.0.29.2-gcccore-11.3.0.md)  
-  
 [pkg-config/0.29.2-gcccore-10.3.0](../modules/pkg-config-.0.29.2-gcccore-10.3.0.md)  
-  

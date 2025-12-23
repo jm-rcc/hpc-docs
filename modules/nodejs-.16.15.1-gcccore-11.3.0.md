@@ -50,8 +50,5 @@ The following modules will load nodejs as dependency.
 ## Other available modules  
 These other versions of nodejs are available on Bunya.  
 [nodejs/18.17.1-gcccore-12.3.0](../modules/nodejs-.18.17.1-gcccore-12.3.0.md)  
-  
 [nodejs/16.15.1-gcccore-11.3.0](../modules/nodejs-.16.15.1-gcccore-11.3.0.md)  
-  
 [nodejs/14.17.0-gcccore-10.3.0](../modules/nodejs-.14.17.0-gcccore-10.3.0.md)  
-  

@@ -46,10 +46,6 @@ The following modules will load libunwind as dependency.
 ## Other available modules  
 These other versions of libunwind are available on Bunya.  
 [libunwind/1.8.1-gcccore-13.3.0](../modules/libunwind-.1.8.1-gcccore-13.3.0.md)  
-  
 [libunwind/1.6.2-gcccore-12.3.0](../modules/libunwind-.1.6.2-gcccore-12.3.0.md)  
-  
 [libunwind/1.6.2-gcccore-11.3.0](../modules/libunwind-.1.6.2-gcccore-11.3.0.md)  
-  
 [libunwind/1.4.0-gcccore-10.3.0](../modules/libunwind-.1.4.0-gcccore-10.3.0.md)  
-  

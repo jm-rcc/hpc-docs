@@ -41,14 +41,8 @@ The following modules will load libtool as dependency.
 ## Other available modules  
 These other versions of libtool are available on Bunya.  
 [libtool/2.5.4-gcccore-14.2.0](../modules/libtool-.2.5.4-gcccore-14.2.0.md)  
-  
 [libtool/2.4.7-gcccore-13.3.0](../modules/libtool-.2.4.7-gcccore-13.3.0.md)  
-  
 [libtool/2.4.7-gcccore-12.3.0](../modules/libtool-.2.4.7-gcccore-12.3.0.md)  
-  
 [libtool/2.4.7-gcccore-11.3.0](../modules/libtool-.2.4.7-gcccore-11.3.0.md)  
-  
 [libtool/2.4.7](../modules/libtool-.2.4.7.md)  
-  
 [libtool/2.4.6-gcccore-10.3.0](../modules/libtool-.2.4.6-gcccore-10.3.0.md)  
-  

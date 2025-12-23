@@ -45,5 +45,5 @@ The following modules will load CoordgenLibs as dependency.
   
 ## Other available modules  
 These other versions of CoordgenLibs are available on Bunya.  
+coordgenlibs/3.0.1-gompi-2022a  
 [coordgenlibs/3.0.1-gompi-2021a](../modules/coordgenlibs-3.0.1-gompi-2021a.md)  
-  

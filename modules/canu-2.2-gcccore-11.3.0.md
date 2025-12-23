@@ -42,5 +42,5 @@ canu depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of canu are available on Bunya.  
+canu/2.2-gcccore-11.3.0  
 [canu/2.2-gcccore-10.3.0](../modules/canu-2.2-gcccore-10.3.0.md)  
-  

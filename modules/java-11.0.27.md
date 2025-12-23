@@ -40,6 +40,5 @@ system-system
 ## Other available modules  
 These other versions of Java are available on Bunya.  
 [java/21.0.7](../modules/java-21.0.7.md)  
-  
+java/11.0.27  
 [java/11.0.18](../modules/java-11.0.18.md)  
-  

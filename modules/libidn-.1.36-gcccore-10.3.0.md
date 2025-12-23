@@ -41,7 +41,3 @@ The following modules will load libidn as dependency.
   
 [tbl2asn 20230119 -linux64 (system-system)](tbl2asn-20230119-linux64.md)  
   
-## Other available modules  
-These other versions of libidn are available on Bunya.  
-[libidn/1.36-gcccore-10.3.0](../modules/libidn-.1.36-gcccore-10.3.0.md)  
-  

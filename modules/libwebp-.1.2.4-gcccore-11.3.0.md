@@ -48,7 +48,3 @@ The following modules will load libwebp as dependency.
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of libwebp are available on Bunya.  
-[libwebp/1.2.4-gcccore-11.3.0](../modules/libwebp-.1.2.4-gcccore-11.3.0.md)  
-  

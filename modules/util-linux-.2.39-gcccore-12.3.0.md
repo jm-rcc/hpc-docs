@@ -48,10 +48,6 @@ The following modules will load util-linux as dependency.
 ## Other available modules  
 These other versions of util-linux are available on Bunya.  
 [util-linux/2.40-gcccore-13.3.0](../modules/util-linux-.2.40-gcccore-13.3.0.md)  
-  
 [util-linux/2.39-gcccore-12.3.0](../modules/util-linux-.2.39-gcccore-12.3.0.md)  
-  
 [util-linux/2.38-gcccore-11.3.0](../modules/util-linux-.2.38-gcccore-11.3.0.md)  
-  
 [util-linux/2.36-gcccore-10.3.0](../modules/util-linux-.2.36-gcccore-10.3.0.md)  
-  

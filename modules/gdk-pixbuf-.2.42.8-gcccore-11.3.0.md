@@ -56,8 +56,5 @@ The following modules will load Gdk-Pixbuf as dependency.
 ## Other available modules  
 These other versions of Gdk-Pixbuf are available on Bunya.  
 [gdk-pixbuf/2.42.8-gcccore-11.3.0](../modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
-  
 [gdk-pixbuf/2.42.6-gcccore-10.3.0](../modules/gdk-pixbuf-.2.42.6-gcccore-10.3.0.md)  
-  
 [gdk-pixbuf/2.42.10-gcccore-12.3.0](../modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
-  

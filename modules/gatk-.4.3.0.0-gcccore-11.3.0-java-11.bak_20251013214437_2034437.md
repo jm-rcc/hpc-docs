@@ -36,6 +36,4 @@ GATK depends on the following modules, and they will be loaded automatically wit
 ## Other available modules  
 These other versions of GATK are available on Bunya.  
 [gatk/4.3.0.0-gcccore-11.3.0-java-11](../modules/gatk-4.3.0.0-gcccore-11.3.0-java-11.md)  
-  
 [gatk/4.3.0.0-gcccore-11.3.0-java-11](../modules/gatk-.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437.md)  
-  

@@ -52,6 +52,4 @@ The following modules will load ZeroMQ as dependency.
 ## Other available modules  
 These other versions of ZeroMQ are available on Bunya.  
 [zeromq/4.3.4-gcccore-11.3.0](../modules/zeromq-.4.3.4-gcccore-11.3.0.md)  
-  
 [zeromq/4.3.4-gcccore-10.3.0](../modules/zeromq-.4.3.4-gcccore-10.3.0.md)  
-  

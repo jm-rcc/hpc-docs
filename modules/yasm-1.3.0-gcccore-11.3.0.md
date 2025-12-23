@@ -29,6 +29,5 @@ GCCcore-11.3.0
 ## Other available modules  
 These other versions of Yasm are available on Bunya.  
 [yasm/1.3.0-gcccore-12.3.0](../modules/yasm-1.3.0-gcccore-12.3.0.md)  
-  
+yasm/1.3.0-gcccore-11.3.0  
 [yasm/1.3.0-gcccore-10.3.0](../modules/yasm-1.3.0-gcccore-10.3.0.md)  
-  

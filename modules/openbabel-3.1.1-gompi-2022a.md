@@ -52,5 +52,5 @@ OpenBabel depends on the following modules, and they will be loaded automaticall
   
 ## Other available modules  
 These other versions of OpenBabel are available on Bunya.  
+openbabel/3.1.1-gompi-2022a  
 [openbabel/3.1.1-gompi-2021a](../modules/openbabel-3.1.1-gompi-2021a.md)  
-  

@@ -44,7 +44,3 @@ The following modules will load glib-networking as dependency.
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of glib-networking are available on Bunya.  
-[glib-networking/2.72.1-gcccore-11.3.0](../modules/glib-networking-.2.72.1-gcccore-11.3.0.md)  
-  

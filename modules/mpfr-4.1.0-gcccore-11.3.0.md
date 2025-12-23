@@ -48,5 +48,5 @@ The following modules will load MPFR as dependency.
   
 ## Other available modules  
 These other versions of MPFR are available on Bunya.  
+mpfr/4.1.0-gcccore-11.3.0  
 [mpfr/4.1.0-gcccore-10.3.0](../modules/mpfr-4.1.0-gcccore-10.3.0.md)  
-  

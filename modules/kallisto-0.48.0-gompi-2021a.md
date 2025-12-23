@@ -47,4 +47,4 @@ The following modules will load kallisto as dependency.
 ## Other available modules  
 These other versions of kallisto are available on Bunya.  
 [kallisto/0.48.0-gompi-2022a](../modules/kallisto-0.48.0-gompi-2022a.md)  
-  
+kallisto/0.48.0-gompi-2021a  

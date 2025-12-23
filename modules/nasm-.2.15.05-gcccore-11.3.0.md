@@ -44,10 +44,6 @@ The following modules will load NASM as dependency.
 ## Other available modules  
 These other versions of NASM are available on Bunya.  
 [nasm/2.16.03-gcccore-13.3.0](../modules/nasm-.2.16.03-gcccore-13.3.0.md)  
-  
 [nasm/2.16.01-gcccore-12.3.0](../modules/nasm-.2.16.01-gcccore-12.3.0.md)  
-  
 [nasm/2.15.05-gcccore-11.3.0](../modules/nasm-.2.15.05-gcccore-11.3.0.md)  
-  
 [nasm/2.15.05-gcccore-10.3.0](../modules/nasm-.2.15.05-gcccore-10.3.0.md)  
-  

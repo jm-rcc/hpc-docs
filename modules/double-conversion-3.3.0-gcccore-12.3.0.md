@@ -41,7 +41,6 @@ The following modules will load double-conversion as dependency.
   
 ## Other available modules  
 These other versions of double-conversion are available on Bunya.  
+double-conversion/3.3.0-gcccore-12.3.0  
 [double-conversion/3.2.0-gcccore-11.3.0](../modules/double-conversion-3.2.0-gcccore-11.3.0.md)  
-  
 [double-conversion/3.1.5-gcccore-10.3.0](../modules/double-conversion-3.1.5-gcccore-10.3.0.md)  
-  

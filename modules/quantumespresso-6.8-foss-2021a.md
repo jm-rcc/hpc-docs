@@ -41,4 +41,4 @@ QuantumESPRESSO depends on the following modules, and they will be loaded automa
 ## Other available modules  
 These other versions of QuantumESPRESSO are available on Bunya.  
 [quantumespresso/7.1-foss-2022a](../modules/quantumespresso-7.1-foss-2022a.md)  
-  
+quantumespresso/6.8-foss-2021a  

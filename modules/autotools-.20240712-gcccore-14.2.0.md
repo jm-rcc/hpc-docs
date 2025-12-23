@@ -39,14 +39,8 @@ Autotools depends on the following modules, and they will be loaded automaticall
 ## Other available modules  
 These other versions of Autotools are available on Bunya.  
 [autotools/20240712-gcccore-14.2.0](../modules/autotools-.20240712-gcccore-14.2.0.md)  
-  
 [autotools/20231222-gcccore-13.3.0](../modules/autotools-.20231222-gcccore-13.3.0.md)  
-  
 [autotools/20220317-gcccore-12.3.0](../modules/autotools-.20220317-gcccore-12.3.0.md)  
-  
 [autotools/20220317-gcccore-11.3.0](../modules/autotools-.20220317-gcccore-11.3.0.md)  
-  
 [autotools/20220317](../modules/autotools-.20220317.md)  
-  
 [autotools/20210128-gcccore-10.3.0](../modules/autotools-.20210128-gcccore-10.3.0.md)  
-  

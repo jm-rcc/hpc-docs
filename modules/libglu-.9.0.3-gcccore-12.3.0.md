@@ -48,14 +48,8 @@ The following modules will load libGLU as dependency.
 ## Other available modules  
 These other versions of libGLU are available on Bunya.  
 [libglu/9.0.2-gcccore-11.3.0](../modules/libglu-9.0.2-gcccore-11.3.0.md)  
-  
 [libglu/9.0.1-gcccore-10.3.0](../modules/libglu-9.0.1-gcccore-10.3.0.md)  
-  
 [libglu/9.0.3-gcccore-13.3.0](../modules/libglu-.9.0.3-gcccore-13.3.0.md)  
-  
 [libglu/9.0.3-gcccore-12.3.0](../modules/libglu-.9.0.3-gcccore-12.3.0.md)  
-  
 [libglu/9.0.2-gcccore-11.3.0](../modules/libglu-.9.0.2-gcccore-11.3.0.md)  
-  
 [libglu/9.0.1-gcccore-10.3.0](../modules/libglu-.9.0.1-gcccore-10.3.0.md)  
-  

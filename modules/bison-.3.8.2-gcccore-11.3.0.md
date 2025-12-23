@@ -40,14 +40,8 @@ GCCcore-11.3.0
 ## Other available modules  
 These other versions of Bison are available on Bunya.  
 [bison/3.8.2-gcccore-14.2.0](../modules/bison-.3.8.2-gcccore-14.2.0.md)  
-  
 [bison/3.8.2-gcccore-13.3.0](../modules/bison-.3.8.2-gcccore-13.3.0.md)  
-  
 [bison/3.8.2-gcccore-12.3.0](../modules/bison-.3.8.2-gcccore-12.3.0.md)  
-  
 [bison/3.8.2-gcccore-11.3.0](../modules/bison-.3.8.2-gcccore-11.3.0.md)  
-  
 [bison/3.7.6-gcccore-10.3.0](../modules/bison-.3.7.6-gcccore-10.3.0.md)  
-  
 [bison/3.8.2](../modules/bison-.3.8.2.md)  
-  

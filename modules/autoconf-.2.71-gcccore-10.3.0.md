@@ -50,14 +50,8 @@ The following modules will load Autoconf as dependency.
 ## Other available modules  
 These other versions of Autoconf are available on Bunya.  
 [autoconf/2.71-gcccore-10.3.0](../modules/autoconf-.2.71-gcccore-10.3.0.md)  
-  
 [autoconf/2.71](../modules/autoconf-.2.71.md)  
-  
 [autoconf/2.72-gcccore-14.2.0](../modules/autoconf-.2.72-gcccore-14.2.0.md)  
-  
 [autoconf/2.72-gcccore-13.3.0](../modules/autoconf-.2.72-gcccore-13.3.0.md)  
-  
 [autoconf/2.71-gcccore-12.3.0](../modules/autoconf-.2.71-gcccore-12.3.0.md)  
-  
 [autoconf/2.71-gcccore-11.3.0](../modules/autoconf-.2.71-gcccore-11.3.0.md)  
-  

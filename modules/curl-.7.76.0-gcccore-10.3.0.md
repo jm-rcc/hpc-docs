@@ -66,12 +66,7 @@ The following modules will load cURL as dependency.
 ## Other available modules  
 These other versions of cURL are available on Bunya.  
 [curl/8.7.1-gcccore-13.3.0](../modules/curl-.8.7.1-gcccore-13.3.0.md)  
-  
 [curl/8.11.1-gcccore-14.2.0](../modules/curl-.8.11.1-gcccore-14.2.0.md)  
-  
 [curl/8.0.1-gcccore-12.3.0](../modules/curl-.8.0.1-gcccore-12.3.0.md)  
-  
 [curl/7.83.0-gcccore-11.3.0](../modules/curl-.7.83.0-gcccore-11.3.0.md)  
-  
 [curl/7.76.0-gcccore-10.3.0](../modules/curl-.7.76.0-gcccore-10.3.0.md)  
-  

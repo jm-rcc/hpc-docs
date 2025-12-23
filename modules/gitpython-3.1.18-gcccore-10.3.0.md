@@ -44,4 +44,4 @@ The following modules will load GitPython as dependency.
 ## Other available modules  
 These other versions of GitPython are available on Bunya.  
 [gitpython/3.1.27-gcccore-11.3.0](../modules/gitpython-3.1.27-gcccore-11.3.0.md)  
-  
+gitpython/3.1.18-gcccore-10.3.0  

@@ -48,7 +48,6 @@ The following modules will load HDF as dependency.
   
 ## Other available modules  
 These other versions of HDF are available on Bunya.  
+hdf/4.2.16-2-gcccore-12.3.0  
 [hdf/4.2.15-gcccore-11.3.0](../modules/hdf-4.2.15-gcccore-11.3.0.md)  
-  
 [hdf/4.2.15-gcccore-10.3.0](../modules/hdf-4.2.15-gcccore-10.3.0.md)  
-  

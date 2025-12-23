@@ -46,8 +46,6 @@ The following modules will load FFTW.MPI as dependency.
 ## Other available modules  
 These other versions of FFTW.MPI are available on Bunya.  
 [fftw.mpi/3.3.10-gompi-2025a](../modules/fftw.mpi-3.3.10-gompi-2025a.md)  
-  
 [fftw.mpi/3.3.10-gompi-2024a](../modules/fftw.mpi-3.3.10-gompi-2024a.md)  
-  
 [fftw.mpi/3.3.10-gompi-2023a](../modules/fftw.mpi-3.3.10-gompi-2023a.md)  
-  
+fftw.mpi/3.3.10-gompi-2022a  

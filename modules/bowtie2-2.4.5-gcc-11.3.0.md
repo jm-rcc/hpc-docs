@@ -46,5 +46,5 @@ Bowtie2 depends on the following modules, and they will be loaded automatically 
   
 ## Other available modules  
 These other versions of Bowtie2 are available on Bunya.  
+bowtie2/2.4.5-gcc-11.3.0  
 [bowtie2/2.4.4-gcc-10.3.0](../modules/bowtie2-2.4.4-gcc-10.3.0.md)  
-  

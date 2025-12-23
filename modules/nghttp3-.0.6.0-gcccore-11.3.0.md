@@ -43,7 +43,3 @@ The following modules will load nghttp3 as dependency.
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
 [ngtcp2 0.7.0  (GCC-11.3.0)](ngtcp2-0.7.0-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of nghttp3 are available on Bunya.  
-[nghttp3/0.6.0-gcccore-11.3.0](../modules/nghttp3-.0.6.0-gcccore-11.3.0.md)  
-  

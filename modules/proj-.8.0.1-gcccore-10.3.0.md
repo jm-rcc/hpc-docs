@@ -48,8 +48,5 @@ The following modules will load PROJ as dependency.
 ## Other available modules  
 These other versions of PROJ are available on Bunya.  
 [proj/9.2.0-gcccore-12.3.0](../modules/proj-.9.2.0-gcccore-12.3.0.md)  
-  
 [proj/9.0.0-gcccore-11.3.0](../modules/proj-.9.0.0-gcccore-11.3.0.md)  
-  
 [proj/8.0.1-gcccore-10.3.0](../modules/proj-.8.0.1-gcccore-10.3.0.md)  
-  

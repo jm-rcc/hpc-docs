@@ -38,10 +38,6 @@ Mako depends on the following modules, and they will be loaded automatically wit
 ## Other available modules  
 These other versions of Mako are available on Bunya.  
 [mako/1.3.5-gcccore-13.3.0](../modules/mako-.1.3.5-gcccore-13.3.0.md)  
-  
 [mako/1.2.4-gcccore-12.3.0](../modules/mako-.1.2.4-gcccore-12.3.0.md)  
-  
 [mako/1.2.0-gcccore-11.3.0](../modules/mako-.1.2.0-gcccore-11.3.0.md)  
-  
 [mako/1.1.4-gcccore-10.3.0](../modules/mako-.1.1.4-gcccore-10.3.0.md)  
-  

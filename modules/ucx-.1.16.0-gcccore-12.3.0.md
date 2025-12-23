@@ -51,14 +51,8 @@ The following modules will load UCX as dependency.
 ## Other available modules  
 These other versions of UCX are available on Bunya.  
 [ucx/1.18.0-gcccore-14.2.0](../modules/ucx-.1.18.0-gcccore-14.2.0.md)  
-  
 [ucx/1.16.0-gcccore-13.3.0](../modules/ucx-.1.16.0-gcccore-13.3.0.md)  
-  
 [ucx/1.16.0-gcccore-12.3.0](../modules/ucx-.1.16.0-gcccore-12.3.0.md)  
-  
 [ucx/1.16.0-gcccore-11.3.0](../modules/ucx-.1.16.0-gcccore-11.3.0.md)  
-  
 [ucx/1.14.1-gcccore-12.3.0](../modules/ucx-.1.14.1-gcccore-12.3.0.md)  
-  
 [ucx/1.10.0-gcccore-10.3.0](../modules/ucx-.1.10.0-gcccore-10.3.0.md)  
-  

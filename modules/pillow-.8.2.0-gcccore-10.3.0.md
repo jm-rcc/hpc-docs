@@ -49,6 +49,4 @@ The following modules will load Pillow as dependency.
 ## Other available modules  
 These other versions of Pillow are available on Bunya.  
 [pillow/9.1.1-gcccore-11.3.0](../modules/pillow-.9.1.1-gcccore-11.3.0.md)  
-  
 [pillow/8.2.0-gcccore-10.3.0](../modules/pillow-.8.2.0-gcccore-10.3.0.md)  
-  

@@ -42,10 +42,6 @@ The following modules will load libdrm as dependency.
 ## Other available modules  
 These other versions of libdrm are available on Bunya.  
 [libdrm/2.4.122-gcccore-13.3.0](../modules/libdrm-.2.4.122-gcccore-13.3.0.md)  
-  
 [libdrm/2.4.115-gcccore-12.3.0](../modules/libdrm-.2.4.115-gcccore-12.3.0.md)  
-  
 [libdrm/2.4.110-gcccore-11.3.0](../modules/libdrm-.2.4.110-gcccore-11.3.0.md)  
-  
 [libdrm/2.4.106-gcccore-10.3.0](../modules/libdrm-.2.4.106-gcccore-10.3.0.md)  
-  

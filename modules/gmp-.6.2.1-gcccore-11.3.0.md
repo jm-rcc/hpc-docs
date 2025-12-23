@@ -57,10 +57,6 @@ The following modules will load GMP as dependency.
 ## Other available modules  
 These other versions of GMP are available on Bunya.  
 [gmp/6.3.0-gcccore-13.3.0](../modules/gmp-.6.3.0-gcccore-13.3.0.md)  
-  
 [gmp/6.2.1-gcccore-12.3.0](../modules/gmp-.6.2.1-gcccore-12.3.0.md)  
-  
 [gmp/6.2.1-gcccore-11.3.0](../modules/gmp-.6.2.1-gcccore-11.3.0.md)  
-  
 [gmp/6.2.1-gcccore-10.3.0](../modules/gmp-.6.2.1-gcccore-10.3.0.md)  
-  

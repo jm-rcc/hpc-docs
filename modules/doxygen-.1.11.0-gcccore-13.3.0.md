@@ -42,10 +42,6 @@ Doxygen depends on the following modules, and they will be loaded automatically 
 ## Other available modules  
 These other versions of Doxygen are available on Bunya.  
 [doxygen/1.9.7-gcccore-12.3.0](../modules/doxygen-.1.9.7-gcccore-12.3.0.md)  
-  
 [doxygen/1.9.4-gcccore-11.3.0](../modules/doxygen-.1.9.4-gcccore-11.3.0.md)  
-  
 [doxygen/1.9.1-gcccore-10.3.0](../modules/doxygen-.1.9.1-gcccore-10.3.0.md)  
-  
 [doxygen/1.11.0-gcccore-13.3.0](../modules/doxygen-.1.11.0-gcccore-13.3.0.md)  
-  

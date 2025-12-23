@@ -50,8 +50,6 @@ The following modules will load SAMtools as dependency.
 ## Other available modules  
 These other versions of SAMtools are available on Bunya.  
 [samtools/1.18-gcc-12.3.0](../modules/samtools-1.18-gcc-12.3.0.md)  
-  
+samtools/1.16.1-gcc-11.3.0  
 [samtools/1.13-gcc-11.3.0](../modules/samtools-1.13-gcc-11.3.0.md)  
-  
 [samtools/1.13-gcc-10.3.0](../modules/samtools-1.13-gcc-10.3.0.md)  
-  

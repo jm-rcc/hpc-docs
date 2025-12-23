@@ -44,12 +44,7 @@ The following modules will load libpciaccess as dependency.
 ## Other available modules  
 These other versions of libpciaccess are available on Bunya.  
 [libpciaccess/0.18.1-gcccore-14.2.0](../modules/libpciaccess-.0.18.1-gcccore-14.2.0.md)  
-  
 [libpciaccess/0.18.1-gcccore-13.3.0](../modules/libpciaccess-.0.18.1-gcccore-13.3.0.md)  
-  
 [libpciaccess/0.17-gcccore-12.3.0](../modules/libpciaccess-.0.17-gcccore-12.3.0.md)  
-  
 [libpciaccess/0.16-gcccore-11.3.0](../modules/libpciaccess-.0.16-gcccore-11.3.0.md)  
-  
 [libpciaccess/0.16-gcccore-10.3.0](../modules/libpciaccess-.0.16-gcccore-10.3.0.md)  
-  

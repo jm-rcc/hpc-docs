@@ -46,5 +46,5 @@ MultiQC depends on the following modules, and they will be loaded automatically 
   
 ## Other available modules  
 These other versions of MultiQC are available on Bunya.  
+multiqc/1.14-foss-2022a  
 [multiqc/1.11-foss-2021a](../modules/multiqc-1.11-foss-2021a.md)  
-  

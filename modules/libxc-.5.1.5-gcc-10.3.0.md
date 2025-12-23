@@ -43,6 +43,4 @@ The following modules will load libxc as dependency.
 ## Other available modules  
 These other versions of libxc are available on Bunya.  
 [libxc/5.2.3-gcc-11.3.0](../modules/libxc-.5.2.3-gcc-11.3.0.md)  
-  
 [libxc/5.1.5-gcc-10.3.0](../modules/libxc-.5.1.5-gcc-10.3.0.md)  
-  

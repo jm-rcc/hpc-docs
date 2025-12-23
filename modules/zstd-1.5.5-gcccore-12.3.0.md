@@ -55,8 +55,6 @@ The following modules will load zstd as dependency.
 ## Other available modules  
 These other versions of zstd are available on Bunya.  
 [zstd/1.5.6-gcccore-13.3.0](../modules/zstd-1.5.6-gcccore-13.3.0.md)  
-  
+zstd/1.5.5-gcccore-12.3.0  
 [zstd/1.5.2-gcccore-11.3.0](../modules/zstd-1.5.2-gcccore-11.3.0.md)  
-  
 [zstd/1.4.9-gcccore-10.3.0](../modules/zstd-1.4.9-gcccore-10.3.0.md)  
-  

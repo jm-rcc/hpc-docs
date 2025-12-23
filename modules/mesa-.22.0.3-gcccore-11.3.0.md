@@ -57,10 +57,6 @@ The following modules will load Mesa as dependency.
 ## Other available modules  
 These other versions of Mesa are available on Bunya.  
 [mesa/24.1.3-gcccore-13.3.0](../modules/mesa-.24.1.3-gcccore-13.3.0.md)  
-  
 [mesa/23.1.4-gcccore-12.3.0](../modules/mesa-.23.1.4-gcccore-12.3.0.md)  
-  
 [mesa/22.0.3-gcccore-11.3.0](../modules/mesa-.22.0.3-gcccore-11.3.0.md)  
-  
 [mesa/21.1.1-gcccore-10.3.0](../modules/mesa-.21.1.1-gcccore-10.3.0.md)  
-  

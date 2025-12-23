@@ -40,7 +40,6 @@ The following modules will load libtirpc as dependency.
   
 ## Other available modules  
 These other versions of libtirpc are available on Bunya.  
+libtirpc/1.3.3-gcccore-12.3.0  
 [libtirpc/1.3.2-gcccore-11.3.0](../modules/libtirpc-1.3.2-gcccore-11.3.0.md)  
-  
 [libtirpc/1.3.2-gcccore-10.3.0](../modules/libtirpc-1.3.2-gcccore-10.3.0.md)  
-  

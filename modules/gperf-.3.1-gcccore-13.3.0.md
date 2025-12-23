@@ -42,10 +42,6 @@ GCCcore-13.3.0
 ## Other available modules  
 These other versions of gperf are available on Bunya.  
 [gperf/3.1-gcccore-13.3.0](../modules/gperf-.3.1-gcccore-13.3.0.md)  
-  
 [gperf/3.1-gcccore-12.3.0](../modules/gperf-.3.1-gcccore-12.3.0.md)  
-  
 [gperf/3.1-gcccore-11.3.0](../modules/gperf-.3.1-gcccore-11.3.0.md)  
-  
 [gperf/3.1-gcccore-10.3.0](../modules/gperf-.3.1-gcccore-10.3.0.md)  
-  

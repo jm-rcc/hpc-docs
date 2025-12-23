@@ -38,12 +38,7 @@ The following modules will load libffi as dependency.
 ## Other available modules  
 These other versions of libffi are available on Bunya.  
 [libffi/3.4.5-gcccore-14.2.0](../modules/libffi-.3.4.5-gcccore-14.2.0.md)  
-  
 [libffi/3.4.5-gcccore-13.3.0](../modules/libffi-.3.4.5-gcccore-13.3.0.md)  
-  
 [libffi/3.4.4-gcccore-12.3.0](../modules/libffi-.3.4.4-gcccore-12.3.0.md)  
-  
 [libffi/3.4.2-gcccore-11.3.0](../modules/libffi-.3.4.2-gcccore-11.3.0.md)  
-  
 [libffi/3.3-gcccore-10.3.0](../modules/libffi-.3.3-gcccore-10.3.0.md)  
-  

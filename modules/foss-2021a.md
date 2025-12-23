@@ -44,10 +44,7 @@ foss depends on the following modules, and they will be loaded automatically wit
 ## Other available modules  
 These other versions of foss are available on Bunya.  
 [foss/2025a](../modules/foss-2025a.md)  
-  
 [foss/2024a](../modules/foss-2024a.md)  
-  
 [foss/2023a](../modules/foss-2023a.md)  
-  
 [foss/2022a](../modules/foss-2022a.md)  
-  
+foss/2021a  

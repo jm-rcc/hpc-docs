@@ -55,8 +55,5 @@ The following modules will load GLib as dependency.
 ## Other available modules  
 These other versions of GLib are available on Bunya.  
 [glib/2.77.1-gcccore-12.3.0](../modules/glib-.2.77.1-gcccore-12.3.0.md)  
-  
 [glib/2.72.1-gcccore-11.3.0](../modules/glib-.2.72.1-gcccore-11.3.0.md)  
-  
 [glib/2.68.2-gcccore-10.3.0](../modules/glib-.2.68.2-gcccore-10.3.0.md)  
-  

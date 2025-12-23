@@ -43,5 +43,5 @@ SpaceRanger depends on the following modules, and they will be loaded automatica
   
 ## Other available modules  
 These other versions of SpaceRanger are available on Bunya.  
+spaceranger/2.1.0-gcc-11.3.0  
 [spaceranger/2.0.1-gcc-11.3.0](../modules/spaceranger-2.0.1-gcc-11.3.0.md)  
-  

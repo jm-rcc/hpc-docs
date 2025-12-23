@@ -42,8 +42,6 @@ lit depends on the following modules, and they will be loaded automatically with
 ## Other available modules  
 These other versions of lit are available on Bunya.  
 [lit/18.1.8-gcccore-13.3.0](../modules/lit-18.1.8-gcccore-13.3.0.md)  
-  
 [lit/18.1.7-gcccore-11.3.0](../modules/lit-18.1.7-gcccore-11.3.0.md)  
-  
 [lit/18.1.7-gcccore-10.3.0](../modules/lit-18.1.7-gcccore-10.3.0.md)  
-  
+lit/18.1.2-gcccore-12.3.0  

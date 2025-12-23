@@ -54,12 +54,7 @@ The following modules will load libreadline as dependency.
 ## Other available modules  
 These other versions of libreadline are available on Bunya.  
 [libreadline/8.2-gcccore-14.2.0](../modules/libreadline-.8.2-gcccore-14.2.0.md)  
-  
 [libreadline/8.2-gcccore-13.3.0](../modules/libreadline-.8.2-gcccore-13.3.0.md)  
-  
 [libreadline/8.2-gcccore-12.3.0](../modules/libreadline-.8.2-gcccore-12.3.0.md)  
-  
 [libreadline/8.1.2-gcccore-11.3.0](../modules/libreadline-.8.1.2-gcccore-11.3.0.md)  
-  
 [libreadline/8.1-gcccore-10.3.0](../modules/libreadline-.8.1-gcccore-10.3.0.md)  
-  

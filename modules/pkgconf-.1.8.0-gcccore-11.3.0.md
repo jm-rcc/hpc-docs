@@ -40,12 +40,7 @@ GCCcore-11.3.0
 ## Other available modules  
 These other versions of pkgconf are available on Bunya.  
 [pkgconf/2.3.0-gcccore-14.2.0](../modules/pkgconf-.2.3.0-gcccore-14.2.0.md)  
-  
 [pkgconf/2.2.0-gcccore-13.3.0](../modules/pkgconf-.2.2.0-gcccore-13.3.0.md)  
-  
 [pkgconf/1.9.5-gcccore-12.3.0](../modules/pkgconf-.1.9.5-gcccore-12.3.0.md)  
-  
 [pkgconf/1.8.0-gcccore-11.3.0](../modules/pkgconf-.1.8.0-gcccore-11.3.0.md)  
-  
 [pkgconf/1.8.0](../modules/pkgconf-.1.8.0.md)  
-  

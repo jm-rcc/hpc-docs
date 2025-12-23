@@ -51,12 +51,7 @@ The following modules will load numactl as dependency.
 ## Other available modules  
 These other versions of numactl are available on Bunya.  
 [numactl/2.0.19-gcccore-14.2.0](../modules/numactl-.2.0.19-gcccore-14.2.0.md)  
-  
 [numactl/2.0.18-gcccore-13.3.0](../modules/numactl-.2.0.18-gcccore-13.3.0.md)  
-  
 [numactl/2.0.16-gcccore-12.3.0](../modules/numactl-.2.0.16-gcccore-12.3.0.md)  
-  
 [numactl/2.0.14-gcccore-11.3.0](../modules/numactl-.2.0.14-gcccore-11.3.0.md)  
-  
 [numactl/2.0.14-gcccore-10.3.0](../modules/numactl-.2.0.14-gcccore-10.3.0.md)  
-  

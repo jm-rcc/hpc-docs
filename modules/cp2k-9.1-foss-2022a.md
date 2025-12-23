@@ -49,5 +49,5 @@ CP2K depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of CP2K are available on Bunya.  
+cp2k/9.1-foss-2022a  
 [cp2k/8.2-foss-2021a](../modules/cp2k-8.2-foss-2021a.md)  
-  

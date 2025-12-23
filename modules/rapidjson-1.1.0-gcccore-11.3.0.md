@@ -42,5 +42,5 @@ The following modules will load RapidJSON as dependency.
   
 ## Other available modules  
 These other versions of RapidJSON are available on Bunya.  
+rapidjson/1.1.0-gcccore-11.3.0  
 [rapidjson/1.1.0-gcccore-10.3.0](../modules/rapidjson-1.1.0-gcccore-10.3.0.md)  
-  

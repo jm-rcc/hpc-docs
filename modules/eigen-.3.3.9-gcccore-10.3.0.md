@@ -45,8 +45,5 @@ The following modules will load Eigen as dependency.
 ## Other available modules  
 These other versions of Eigen are available on Bunya.  
 [eigen/3.4.0-gcccore-12.3.0](../modules/eigen-.3.4.0-gcccore-12.3.0.md)  
-  
 [eigen/3.4.0-gcccore-11.3.0](../modules/eigen-.3.4.0-gcccore-11.3.0.md)  
-  
 [eigen/3.3.9-gcccore-10.3.0](../modules/eigen-.3.3.9-gcccore-10.3.0.md)  
-  

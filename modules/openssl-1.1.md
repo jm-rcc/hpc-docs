@@ -100,4 +100,4 @@ The following modules will load OpenSSL as dependency.
 ## Other available modules  
 These other versions of OpenSSL are available on Bunya.  
 [openssl/3](../modules/openssl-3.md)  
-  
+openssl/1.1  

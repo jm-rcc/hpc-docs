@@ -48,6 +48,4 @@ The following modules will load GLPK as dependency.
 ## Other available modules  
 These other versions of GLPK are available on Bunya.  
 [glpk/5.0-gcccore-11.3.0](../modules/glpk-.5.0-gcccore-11.3.0.md)  
-  
 [glpk/5.0-gcccore-10.3.0](../modules/glpk-.5.0-gcccore-10.3.0.md)  
-  

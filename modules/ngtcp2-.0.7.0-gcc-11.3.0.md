@@ -48,7 +48,3 @@ The following modules will load ngtcp2 as dependency.
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of ngtcp2 are available on Bunya.  
-[ngtcp2/0.7.0-gcc-11.3.0](../modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
-  

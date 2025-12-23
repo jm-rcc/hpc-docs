@@ -39,7 +39,3 @@ The following modules will load arpack-ng as dependency.
   
 [Armadillo 12.6.2  (foss-2023a)](armadillo-12.6.2-foss-2023a.md)  
   
-## Other available modules  
-These other versions of arpack-ng are available on Bunya.  
-[arpack-ng/3.9.0-foss-2023a](../modules/arpack-ng-.3.9.0-foss-2023a.md)  
-  

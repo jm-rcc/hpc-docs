@@ -42,5 +42,5 @@ CD-HIT depends on the following modules, and they will be loaded automatically w
   
 ## Other available modules  
 These other versions of CD-HIT are available on Bunya.  
+cd-hit/4.8.1-gcc-11.3.0  
 [cd-hit/4.8.1-gcc-10.3.0](../modules/cd-hit-4.8.1-gcc-10.3.0.md)  
-  

@@ -46,4 +46,4 @@ The following modules will load maeparser as dependency.
 ## Other available modules  
 These other versions of maeparser are available on Bunya.  
 [maeparser/1.3.0-gompi-2022a](../modules/maeparser-1.3.0-gompi-2022a.md)  
-  
+maeparser/1.3.0-gompi-2021a  
