@@ -40,6 +40,8 @@ XML-LibXML depends on the following modules, and they will be loaded automatical
 ## Dependency of modules  
 The following modules will load XML-LibXML as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

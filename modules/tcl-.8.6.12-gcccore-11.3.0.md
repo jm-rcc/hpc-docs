@@ -43,6 +43,9 @@ Tcl depends on the following modules, and they will be loaded automatically with
 ## Dependency of modules  
 The following modules will load Tcl as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-3.38.3-gcccore-11.3.0.md)  
+[Tk 8.6.12  (GCCcore-11.3.0)](tk-8.6.12-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

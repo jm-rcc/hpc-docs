@@ -43,6 +43,27 @@ libxml2 depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load libxml2 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Clang 13.0.1  (GCCcore-11.3.0)](clang-13.0.1-gcccore-11.3.0.md)  
+[Clang 15.0.5  (GCCcore-11.3.0)](clang-15.0.5-gcccore-11.3.0.md)  
+[GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[GLib 2.72.1  (GCCcore-11.3.0)](glib-2.72.1-gcccore-11.3.0.md)  
+[LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
+[MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
+[OpenBabel 3.1.1  (gompi-2022a)](openbabel-3.1.1-gompi-2022a.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[SRA-Toolkit 3.0.3  (gompi-2022a)](sra-toolkit-3.0.3-gompi-2022a.md)  
+[XML-LibXML 2.0207  (GCCcore-11.3.0)](xml-libxml-2.0207-gcccore-11.3.0.md)  
+[at-spi2-atk 2.38.0  (GCCcore-11.3.0)](at-spi2-atk-2.38.0-gcccore-11.3.0.md)  
+[bcl2fastq2 2.20.0  (GCC-11.3.0)](bcl2fastq2-2.20.0-gcc-11.3.0.md)  
+[gettext 0.21  (GCCcore-11.3.0)](gettext-0.21-gcccore-11.3.0.md)  
+[hwloc 2.7.1  (GCCcore-11.3.0)](hwloc-2.7.1-gcccore-11.3.0.md)  
+[libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
+[lxml 4.9.1  (GCCcore-11.3.0)](lxml-4.9.1-gcccore-11.3.0.md)  
+[ncbi-vdb 3.0.2  (gompi-2022a)](ncbi-vdb-3.0.2-gompi-2022a.md)  
+[netCDF 4.9.0  (gompi-2022a)](netcdf-4.9.0-gompi-2022a.md)  
+[nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
+[pocl 1.8  (GCC-11.3.0)](pocl-1.8-gcc-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

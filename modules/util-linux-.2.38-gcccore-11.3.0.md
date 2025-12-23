@@ -40,6 +40,12 @@ util-linux depends on the following modules, and they will be loaded automatical
 ## Dependency of modules  
 The following modules will load util-linux as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  
+[GLib 2.72.1  (GCCcore-11.3.0)](glib-2.72.1-gcccore-11.3.0.md)  
+[GObject-Introspection 1.72.0  (GCCcore-11.3.0)](gobject-introspection-1.72.0-gcccore-11.3.0.md)  
+[ZeroMQ 4.3.4  (GCCcore-11.3.0)](zeromq-4.3.4-gcccore-11.3.0.md)  
+[fontconfig 2.14.0  (GCCcore-11.3.0)](fontconfig-2.14.0-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

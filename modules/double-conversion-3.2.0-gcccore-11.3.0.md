@@ -39,6 +39,8 @@ double-conversion depends on the following modules, and they will be loaded auto
 ## Dependency of modules  
 The following modules will load double-conversion as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

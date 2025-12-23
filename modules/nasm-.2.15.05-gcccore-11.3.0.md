@@ -39,6 +39,9 @@ NASM depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load NASM as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[ISA-L 2.30.0  (GCCcore-11.3.0)](isa-l-2.30.0-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-2.1.3-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

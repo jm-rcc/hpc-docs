@@ -42,6 +42,10 @@ Tk depends on the following modules, and they will be loaded automatically with 
 ## Dependency of modules  
 The following modules will load Tk as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  
+[R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
+[Tkinter 3.11.3  (GCCcore-12.3.0)](tkinter-3.11.3-gcccore-12.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

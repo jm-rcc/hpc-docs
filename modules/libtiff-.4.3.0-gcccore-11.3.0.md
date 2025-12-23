@@ -44,6 +44,17 @@ LibTIFF depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load LibTIFF as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[Gdk-Pixbuf 2.42.8  (GCCcore-11.3.0)](gdk-pixbuf-2.42.8-gcccore-11.3.0.md)  
+[Ghostscript 9.56.1  (GCCcore-11.3.0)](ghostscript-9.56.1-gcccore-11.3.0.md)  
+[ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  
+[OpenJPEG 2.5.0  (GCCcore-11.3.0)](openjpeg-2.5.0-gcccore-11.3.0.md)  
+[PROJ 9.0.0  (GCCcore-11.3.0)](proj-9.0.0-gcccore-11.3.0.md)  
+[Pillow 9.1.1  (GCCcore-11.3.0)](pillow-9.1.1-gcccore-11.3.0.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[libgeotiff 1.7.1  (GCCcore-11.3.0)](libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[libwebp 1.2.4  (GCCcore-11.3.0)](libwebp-1.2.4-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

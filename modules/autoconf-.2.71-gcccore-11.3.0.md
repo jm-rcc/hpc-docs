@@ -47,6 +47,9 @@ Autoconf depends on the following modules, and they will be loaded automatically
 ## Dependency of modules  
 The following modules will load Autoconf as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Automake 1.16.5  (GCCcore-11.3.0)](automake-1.16.5-gcccore-11.3.0.md)  
+[Autotools 20220317  (GCCcore-11.3.0)](autotools-20220317-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

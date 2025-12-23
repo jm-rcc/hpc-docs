@@ -44,6 +44,35 @@ bzip2 depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load bzip2 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BCFtools 1.12  (GCC-10.3.0)](bcftools-1.12-gcc-10.3.0.md)  
+[BEDTools 2.30.0  (GCC-10.3.0)](bedtools-2.30.0-gcc-10.3.0.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
+[CMake 3.20.1  (GCCcore-10.3.0)](cmake-3.20.1-gcccore-10.3.0.md)  
+[FFmpeg 4.3.2  (GCCcore-10.3.0)](ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[HTSlib 1.12  (GCC-10.3.0)](htslib-1.12-gcc-10.3.0.md)  
+[ImageMagick 7.0.11-14  (GCCcore-10.3.0)](imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[MEGAHIT 1.2.9  (GCCcore-10.3.0)](megahit-1.2.9-gcccore-10.3.0.md)  
+[MetaEuk 5  (GCC-10.3.0)](metaeuk-5-gcc-10.3.0.md)  
+[PCRE 8.44  (GCCcore-10.3.0)](pcre-8.44-gcccore-10.3.0.md)  
+[Python 2.7.18 -bare (GCCcore-10.3.0)](python-2.7.18-gcccore-10.3.0-bare.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[Python 3.9.5 -bare (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0-bare.md)  
+[Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[SAMtools 1.13  (GCC-10.3.0)](samtools-1.13-gcc-10.3.0.md)  
+[SPAdes 3.15.3  (GCC-10.3.0)](spades-3.15.3-gcc-10.3.0.md)  
+[SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
+[UnZip 6.0  (GCCcore-10.3.0)](unzip-6.0-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore-10.3.0)](x11-20210518-gcccore-10.3.0.md)  
+[cairo 1.16.0  (GCCcore-10.3.0)](cairo-1.16.0-gcccore-10.3.0.md)  
+[elfutils 0.185  (GCCcore-10.3.0)](elfutils-0.185-gcccore-10.3.0.md)  
+[freetype 2.10.4  (GCCcore-10.3.0)](freetype-2.10.4-gcccore-10.3.0.md)  
+[ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  
+[tabixpp 1.1.0  (GCC-10.3.0)](tabixpp-1.1.0-gcc-10.3.0.md)  
+[vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

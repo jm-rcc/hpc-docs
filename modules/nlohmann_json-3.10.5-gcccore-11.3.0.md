@@ -39,6 +39,8 @@ nlohmann_json depends on the following modules, and they will be loaded automati
 ## Dependency of modules  
 The following modules will load nlohmann_json as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[PROJ 9.0.0  (GCCcore-11.3.0)](proj-9.0.0-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

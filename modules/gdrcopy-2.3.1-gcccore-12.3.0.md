@@ -34,6 +34,8 @@ GDRCopy depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load GDRCopy as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

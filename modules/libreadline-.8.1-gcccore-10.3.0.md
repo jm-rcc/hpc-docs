@@ -46,6 +46,16 @@ libreadline depends on the following modules, and they will be loaded automatica
 ## Dependency of modules  
 The following modules will load libreadline as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Lua 5.4.3  (GCCcore-10.3.0)](lua-5.4.3-gcccore-10.3.0.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[Python 2.7.18 -bare (GCCcore-10.3.0)](python-2.7.18-gcccore-10.3.0-bare.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[Python 3.9.5 -bare (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0-bare.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[SPAdes 3.15.3  (GCC-10.3.0)](spades-3.15.3-gcc-10.3.0.md)  
+[SQLite 3.35.4  (GCCcore-10.3.0)](sqlite-3.35.4-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

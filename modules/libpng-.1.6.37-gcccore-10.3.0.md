@@ -39,6 +39,23 @@ libpng depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load libpng as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  
+[Gdk-Pixbuf 2.42.6  (GCCcore-10.3.0)](gdk-pixbuf-2.42.6-gcccore-10.3.0.md)  
+[Ghostscript 9.54.0  (GCCcore-10.3.0)](ghostscript-9.54.0-gcccore-10.3.0.md)  
+[LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
+[MRtrix 3.0.3  (foss-2021a)](mrtrix-3.0.3-foss-2021a.md)  
+[Pillow 8.2.0  (GCCcore-10.3.0)](pillow-8.2.0-gcccore-10.3.0.md)  
+[Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[cairo 1.16.0  (GCCcore-10.3.0)](cairo-1.16.0-gcccore-10.3.0.md)  
+[freetype 2.10.4  (GCCcore-10.3.0)](freetype-2.10.4-gcccore-10.3.0.md)  
+[gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-5.4.2-gcccore-10.3.0.md)  
+[libgd 2.3.1  (GCCcore-10.3.0)](libgd-2.3.1-gcccore-10.3.0.md)  
+[libheif 1.12.0  (GCCcore-10.3.0)](libheif-1.12.0-gcccore-10.3.0.md)  
+[matplotlib 3.4.2  (foss-2021a)](matplotlib-3.4.2-foss-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

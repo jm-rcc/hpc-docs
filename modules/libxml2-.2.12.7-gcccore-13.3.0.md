@@ -43,6 +43,12 @@ libxml2 depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load libxml2 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Clang 18.1.8  (GCCcore-13.3.0)](clang-18.1.8-gcccore-13.3.0.md)  
+[Wayland 1.23.0  (GCCcore-13.3.0)](wayland-1.23.0-gcccore-13.3.0.md)  
+[gettext 0.22.5  (GCCcore-13.3.0)](gettext-0.22.5-gcccore-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore-13.3.0)](hwloc-2.10.0-gcccore-13.3.0.md)  
+[pocl 6.0  (GCC-13.3.0)](pocl-6.0-gcc-13.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

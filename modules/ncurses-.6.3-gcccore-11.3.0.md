@@ -44,6 +44,27 @@ ncurses depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load ncurses as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.23.1  (GCCcore-11.3.0)](cmake-3.23.1-gcccore-11.3.0.md)  
+[CMake 3.24.3  (GCCcore-11.3.0)](cmake-3.24.3-gcccore-11.3.0.md)  
+[Clang 13.0.1  (GCCcore-11.3.0)](clang-13.0.1-gcccore-11.3.0.md)  
+[Clang 15.0.5  (GCCcore-11.3.0)](clang-15.0.5-gcccore-11.3.0.md)  
+[LAME 3.100  (GCCcore-11.3.0)](lame-3.100-gcccore-11.3.0.md)  
+[LLVM 14.0.3  (GCCcore-11.3.0)](llvm-14.0.3-gcccore-11.3.0.md)  
+[Lua 5.4.4  (GCCcore-11.3.0)](lua-5.4.4-gcccore-11.3.0.md)  
+[MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[Pysam 0.19.1  (GCC-11.3.0)](pysam-0.19.1-gcc-11.3.0.md)  
+[Python 2.7.18 -bare (GCCcore-11.3.0)](python-2.7.18-gcccore-11.3.0-bare.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[Python 3.10.4 -bare (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0-bare.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[SAMtools 1.13  (GCC-11.3.0)](samtools-1.13-gcc-11.3.0.md)  
+[SAMtools 1.16.1  (GCC-11.3.0)](samtools-1.16.1-gcc-11.3.0.md)  
+[gettext 0.21  (GCCcore-11.3.0)](gettext-0.21-gcccore-11.3.0.md)  
+[gnuplot 5.4.4  (GCCcore-11.3.0)](gnuplot-5.4.4-gcccore-11.3.0.md)  
+[libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-8.1.2-gcccore-11.3.0.md)  
+[util-linux 2.38  (GCCcore-11.3.0)](util-linux-2.38-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

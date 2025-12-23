@@ -40,6 +40,12 @@ FFTW depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load FFTW as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  
+[FFTW.MPI 3.3.10  (gompi-2022a)](fftw.mpi-3.3.10-gompi-2022a.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[foss 2022a  (system-system)](foss-2022a.md)  
+[gfbf 2022a  (system-system)](gfbf-2022a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

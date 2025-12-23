@@ -44,6 +44,12 @@ bzip2 depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load bzip2 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.29.3  (GCCcore-13.3.0)](cmake-3.29.3-gcccore-13.3.0.md)  
+[Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
+[UnZip 6.0  (GCCcore-13.3.0)](unzip-6.0-gcccore-13.3.0.md)  
+[X11 20240607  (GCCcore-13.3.0)](x11-20240607-gcccore-13.3.0.md)  
+[freetype 2.13.2  (GCCcore-13.3.0)](freetype-2.13.2-gcccore-13.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

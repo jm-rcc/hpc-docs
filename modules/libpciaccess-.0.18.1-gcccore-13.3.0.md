@@ -39,6 +39,9 @@ libpciaccess depends on the following modules, and they will be loaded automatic
 ## Dependency of modules  
 The following modules will load libpciaccess as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[X11 20240607  (GCCcore-13.3.0)](x11-20240607-gcccore-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore-13.3.0)](hwloc-2.10.0-gcccore-13.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

@@ -43,6 +43,15 @@ expat depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load expat as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[DBus 1.14.0  (GCCcore-11.3.0)](dbus-1.14.0-gcccore-11.3.0.md)  
+[GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[Ghostscript 9.56.1  (GCCcore-11.3.0)](ghostscript-9.56.1-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[UDUNITS 2.2.28  (GCCcore-11.3.0)](udunits-2.2.28-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore-11.3.0)](cairo-1.17.4-gcccore-11.3.0.md)  
+[fontconfig 2.14.0  (GCCcore-11.3.0)](fontconfig-2.14.0-gcccore-11.3.0.md)  
+[git 2.36.0 -nodocs (GCCcore-11.3.0)](git-2.36.0-gcccore-11.3.0-nodocs.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

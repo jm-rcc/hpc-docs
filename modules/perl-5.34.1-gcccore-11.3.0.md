@@ -44,6 +44,30 @@ Perl depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load Perl as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Archive-Zip 1.68  (GCCcore-11.3.0)](archive-zip-1.68-gcccore-11.3.0.md)  
+[Autoconf 2.71  (GCCcore-11.3.0)](autoconf-2.71-gcccore-11.3.0.md)  
+[Automake 1.16.5  (GCCcore-11.3.0)](automake-1.16.5-gcccore-11.3.0.md)  
+[BWA 0.7.17  (GCCcore-11.3.0)](bwa-0.7.17-gcccore-11.3.0.md)  
+[Bio-DB-HTS 3.01  (GCC-11.3.0)](bio-db-hts-3.01-gcc-11.3.0.md)  
+[Bio-SearchIO-hmmer 1.7.3  (GCC-11.3.0)](bio-searchio-hmmer-1.7.3-gcc-11.3.0.md)  
+[BioPerl 1.7.8  (GCCcore-11.3.0)](bioperl-1.7.8-gcccore-11.3.0.md)  
+[Bowtie2 2.4.5  (GCC-11.3.0)](bowtie2-2.4.5-gcc-11.3.0.md)  
+[CD-HIT 4.8.1  (GCC-11.3.0)](cd-hit-4.8.1-gcc-11.3.0.md)  
+[Compress-Raw-Zlib 2.202  (GCCcore-11.3.0)](compress-raw-zlib-2.202-gcccore-11.3.0.md)  
+[DBD-mysql 4.050  (GCC-11.3.0)](dbd-mysql-4.050-gcc-11.3.0.md)  
+[DB_File 1.858  (GCCcore-11.3.0)](db_file-1.858-gcccore-11.3.0.md)  
+[Kraken2 2.1.2  (gompi-2022a)](kraken2-2.1.2-gompi-2022a.md)  
+[KronaTools 2.8.1  (GCCcore-11.3.0)](kronatools-2.8.1-gcccore-11.3.0.md)  
+[QUAST 5.2.0  (foss-2022a)](quast-5.2.0-foss-2022a.md)  
+[VCFtools 0.1.16  (GCC-11.3.0)](vcftools-0.1.16-gcc-11.3.0.md)  
+[VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  
+[XML-LibXML 2.0207  (GCCcore-11.3.0)](xml-libxml-2.0207-gcccore-11.3.0.md)  
+[canu 2.2  (GCCcore-11.3.0)](canu-2.2-gcccore-11.3.0.md)  
+[git 2.36.0 -nodocs (GCCcore-11.3.0)](git-2.36.0-gcccore-11.3.0-nodocs.md)  
+[intltool 0.51.0  (GCCcore-11.3.0)](intltool-0.51.0-gcccore-11.3.0.md)  
+[makeinfo 6.8  (GCCcore-11.3.0)](makeinfo-6.8-gcccore-11.3.0.md)  
+[parallel 20220722  (GCCcore-11.3.0)](parallel-20220722-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

@@ -43,6 +43,17 @@ Boost depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load Boost as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[Boost.Python 1.76.0  (GCC-10.3.0)](boost.python-1.76.0-gcc-10.3.0.md)  
+[CoordgenLibs 3.0.1  (gompi-2021a)](coordgenlibs-3.0.1-gompi-2021a.md)  
+[OpenBabel 3.1.1  (gompi-2021a)](openbabel-3.1.1-gompi-2021a.md)  
+[PLUMED 2.7.2  (foss-2021a)](plumed-2.7.2-foss-2021a.md)  
+[QUAST 5.0.2  (foss-2021a)](quast-5.0.2-foss-2021a.md)  
+[Salmon 1.4.0  (gompi-2021a)](salmon-1.4.0-gompi-2021a.md)  
+[hipSYCL 0.9.1  (GCC-10.3.0)](hipsycl-0.9.1-gcc-10.3.0.md)  
+[maeparser 1.3.0  (gompi-2021a)](maeparser-1.3.0-gompi-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

@@ -43,6 +43,13 @@ HTSlib depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load HTSlib as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
+[BCFtools 1.15.1  (GCC-11.3.0)](bcftools-1.15.1-gcc-11.3.0.md)  
+[Bio-DB-HTS 3.01  (GCC-11.3.0)](bio-db-hts-3.01-gcc-11.3.0.md)  
+[STAR 2.7.10b  (GCC-11.3.0)](star-2.7.10b-gcc-11.3.0.md)  
+[VCFtools 0.1.16  (GCC-11.3.0)](vcftools-0.1.16-gcc-11.3.0.md)  
+[kallisto 0.48.0  (gompi-2022a)](kallisto-0.48.0-gompi-2022a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

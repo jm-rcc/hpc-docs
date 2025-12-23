@@ -44,6 +44,8 @@ ZeroMQ depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load ZeroMQ as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[IPython 7.25.0  (GCCcore-10.3.0)](ipython-7.25.0-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

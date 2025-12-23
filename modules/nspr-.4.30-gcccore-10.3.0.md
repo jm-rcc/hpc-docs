@@ -40,6 +40,8 @@ NSPR depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load NSPR as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[NSS 3.65  (GCCcore-10.3.0)](nss-3.65-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

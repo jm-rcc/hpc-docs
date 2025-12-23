@@ -45,6 +45,12 @@ matplotlib depends on the following modules, and they will be loaded automatical
 ## Dependency of modules  
 The following modules will load matplotlib as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  
+[GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
+[MultiQC 1.11  (foss-2021a)](multiqc-1.11-foss-2021a.md)  
+[QUAST 5.0.2  (foss-2021a)](quast-5.0.2-foss-2021a.md)  
+[deepTools 3.5.0  (foss-2021a)](deeptools-3.5.0-foss-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

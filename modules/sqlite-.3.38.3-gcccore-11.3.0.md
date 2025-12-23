@@ -40,6 +40,17 @@ SQLite depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load SQLite as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
+[GCTA 1.94.0beta  (gfbf-2022a)](gcta-1.94.0beta-gfbf-2022a.md)  
+[GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
+[PROJ 9.0.0  (GCCcore-11.3.0)](proj-9.0.0-gcccore-11.3.0.md)  
+[Python 2.7.18 -bare (GCCcore-11.3.0)](python-2.7.18-gcccore-11.3.0-bare.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[Python 3.10.4 -bare (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0-bare.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[libgeotiff 1.7.1  (GCCcore-11.3.0)](libgeotiff-1.7.1-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

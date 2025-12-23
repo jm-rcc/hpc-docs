@@ -42,6 +42,16 @@ SciPy-bundle depends on the following modules, and they will be loaded automatic
 ## Dependency of modules  
 The following modules will load SciPy-bundle as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
+[GROMACS 2023.3  (foss-2023a)](gromacs-2023.3-foss-2023a.md)  
+[GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
+[LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
+[PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
+[ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
+[VTK 9.3.0  (foss-2023a)](vtk-9.3.0-foss-2023a.md)  
+[networkx 3.1  (gfbf-2023a)](networkx-3.1-gfbf-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

@@ -43,6 +43,16 @@ HDF5 depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load HDF5 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  
+[LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
+[QuantumESPRESSO 6.8  (foss-2021a)](quantumespresso-6.8-foss-2021a.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[h5py 3.2.1  (foss-2021a)](h5py-3.2.1-foss-2021a.md)  
+[kallisto 0.48.0  (gompi-2021a)](kallisto-0.48.0-gompi-2021a.md)  
+[ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  
+[netCDF 4.8.0  (gompi-2021a)](netcdf-4.8.0-gompi-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

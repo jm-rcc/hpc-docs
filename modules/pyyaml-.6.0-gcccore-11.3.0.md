@@ -40,6 +40,9 @@ PyYAML depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load PyYAML as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[MultiQC 1.14  (foss-2022a)](multiqc-1.14-foss-2022a.md)  
+[snakemake 7.22.0  (foss-2022a)](snakemake-7.22.0-foss-2022a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

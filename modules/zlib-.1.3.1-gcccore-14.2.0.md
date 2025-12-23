@@ -36,6 +36,19 @@ zlib depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load zlib as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.31.3  (GCCcore-14.2.0)](cmake-3.31.3-gcccore-14.2.0.md)  
+[OpenMPI 5.0.7  (GCC-14.2.0)](openmpi-5.0.7-gcc-14.2.0.md)  
+[PMIx 5.0.6  (GCCcore-14.2.0)](pmix-5.0.6-gcccore-14.2.0.md)  
+[Perl 5.40.0  (GCCcore-14.2.0)](perl-5.40.0-gcccore-14.2.0.md)  
+[Python 3.13.1  (GCCcore-14.2.0)](python-3.13.1-gcccore-14.2.0.md)  
+[Tcl 8.6.16  (GCCcore-14.2.0)](tcl-8.6.16-gcccore-14.2.0.md)  
+[UCX 1.18.0  (GCCcore-14.2.0)](ucx-1.18.0-gcccore-14.2.0.md)  
+[binutils 2.42  (GCCcore-14.2.0)](binutils-2.42-gcccore-14.2.0.md)  
+[cURL 8.11.1  (GCCcore-14.2.0)](curl-8.11.1-gcccore-14.2.0.md)  
+[libarchive 3.7.7  (GCCcore-14.2.0)](libarchive-3.7.7-gcccore-14.2.0.md)  
+[libevent 2.1.12  (GCCcore-14.2.0)](libevent-2.1.12-gcccore-14.2.0.md)  
+[libxml2 2.13.4  (GCCcore-14.2.0)](libxml2-2.13.4-gcccore-14.2.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

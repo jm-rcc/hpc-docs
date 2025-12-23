@@ -43,6 +43,25 @@ libjpeg-turbo depends on the following modules, and they will be loaded automati
 ## Dependency of modules  
 The following modules will load libjpeg-turbo as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
+[GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[Gdk-Pixbuf 2.42.8  (GCCcore-11.3.0)](gdk-pixbuf-2.42.8-gcccore-11.3.0.md)  
+[Ghostscript 9.56.1  (GCCcore-11.3.0)](ghostscript-9.56.1-gcccore-11.3.0.md)  
+[HDF 4.2.15  (GCCcore-11.3.0)](hdf-4.2.15-gcccore-11.3.0.md)  
+[ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-4.3.0-gcccore-11.3.0.md)  
+[LittleCMS 2.13.1  (GCCcore-11.3.0)](littlecms-2.13.1-gcccore-11.3.0.md)  
+[Pillow 9.1.1  (GCCcore-11.3.0)](pillow-9.1.1-gcccore-11.3.0.md)  
+[Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[VirtualGL 3.1  (GCC-11.3.0)](virtualgl-3.1-gcc-11.3.0.md)  
+[gnuplot 5.4.4  (GCCcore-11.3.0)](gnuplot-5.4.4-gcccore-11.3.0.md)  
+[libgd 2.3.3  (GCCcore-11.3.0)](libgd-2.3.3-gcccore-11.3.0.md)  
+[libgeotiff 1.7.1  (GCCcore-11.3.0)](libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[libheif 1.16.2  (GCCcore-11.3.0)](libheif-1.16.2-gcccore-11.3.0.md)  
+[libwebp 1.2.4  (GCCcore-11.3.0)](libwebp-1.2.4-gcccore-11.3.0.md)  
+[motif 2.3.8  (GCCcore-11.3.0)](motif-2.3.8-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

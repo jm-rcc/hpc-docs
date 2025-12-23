@@ -39,6 +39,18 @@ binutils depends on the following modules, and they will be loaded automatically
 ## Dependency of modules  
 The following modules will load binutils as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Clang 13.0.1  (GCCcore-11.3.0)](clang-13.0.1-gcccore-11.3.0.md)  
+[Clang 15.0.5  (GCCcore-11.3.0)](clang-15.0.5-gcccore-11.3.0.md)  
+[GCC 11.3.0  (system-system)](gcc-11.3.0.md)  
+[Python 2.7.18 -bare (GCCcore-11.3.0)](python-2.7.18-gcccore-11.3.0-bare.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[Python 3.10.4 -bare (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0-bare.md)  
+[Ruby 3.0.5  (GCCcore-11.3.0)](ruby-3.0.5-gcccore-11.3.0.md)  
+[alsa-lib 1.2.8  (GCCcore-11.3.0)](alsa-lib-1.2.8-gcccore-11.3.0.md)  
+[elfutils 0.187  (GCCcore-11.3.0)](elfutils-0.187-gcccore-11.3.0.md)  
+[intel 2022a  (system-system)](intel-2022a.md)  
+[intel-compilers 2022.1.0  (system-system)](intel-compilers-2022.1.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

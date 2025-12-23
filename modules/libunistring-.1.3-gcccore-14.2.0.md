@@ -33,6 +33,8 @@ libunistring depends on the following modules, and they will be loaded automatic
 ## Dependency of modules  
 The following modules will load libunistring as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[libpsl 0.21.5  (GCCcore-14.2.0)](libpsl-0.21.5-gcccore-14.2.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

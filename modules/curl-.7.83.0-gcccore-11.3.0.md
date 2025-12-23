@@ -48,6 +48,22 @@ cURL depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load cURL as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.23.1  (GCCcore-11.3.0)](cmake-3.23.1-gcccore-11.3.0.md)  
+[CMake 3.24.3  (GCCcore-11.3.0)](cmake-3.24.3-gcccore-11.3.0.md)  
+[GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
+[LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
+[PROJ 9.0.0  (GCCcore-11.3.0)](proj-9.0.0-gcccore-11.3.0.md)  
+[Pysam 0.19.1  (GCC-11.3.0)](pysam-0.19.1-gcc-11.3.0.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[SAMtools 1.13  (GCC-11.3.0)](samtools-1.13-gcc-11.3.0.md)  
+[SAMtools 1.16.1  (GCC-11.3.0)](samtools-1.16.1-gcc-11.3.0.md)  
+[Salmon 1.9.0  (GCC-11.3.0)](salmon-1.9.0-gcc-11.3.0.md)  
+[git 2.36.0 -nodocs (GCCcore-11.3.0)](git-2.36.0-gcccore-11.3.0-nodocs.md)  
+[libgeotiff 1.7.1  (GCCcore-11.3.0)](libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[netCDF 4.9.0  (gompi-2022a)](netcdf-4.9.0-gompi-2022a.md)  
+[pyBigWig 0.3.18  (foss-2022a)](pybigwig-0.3.18-foss-2022a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

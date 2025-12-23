@@ -44,6 +44,9 @@ wget depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load wget as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Kraken2 2.1.2  (gompi-2021a)](kraken2-2.1.2-gompi-2021a.md)  
+[QUAST 5.0.2  (foss-2021a)](quast-5.0.2-foss-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

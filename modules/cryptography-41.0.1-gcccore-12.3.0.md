@@ -40,6 +40,9 @@ cryptography depends on the following modules, and they will be loaded automatic
 ## Dependency of modules  
 The following modules will load cryptography as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
+[poetry 1.5.1  (GCCcore-12.3.0)](poetry-1.5.1-gcccore-12.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

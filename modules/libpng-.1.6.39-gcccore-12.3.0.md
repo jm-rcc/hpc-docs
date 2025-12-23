@@ -39,6 +39,19 @@ libpng depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load libpng as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
+[Gdk-Pixbuf 2.42.10  (GCCcore-12.3.0)](gdk-pixbuf-2.42.10-gcccore-12.3.0.md)  
+[Ghostscript 10.01.2  (GCCcore-12.3.0)](ghostscript-10.01.2-gcccore-12.3.0.md)  
+[LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
+[LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
+[OpenJPEG 2.5.0  (GCCcore-12.3.0)](openjpeg-2.5.0-gcccore-12.3.0.md)  
+[Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
+[R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  
+[R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
+[cairo 1.17.8  (GCCcore-12.3.0)](cairo-1.17.8-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore-12.3.0)](freetype-2.13.0-gcccore-12.3.0.md)  
+[libheif 1.17.6  (GCCcore-12.3.0)](libheif-1.17.6-gcccore-12.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

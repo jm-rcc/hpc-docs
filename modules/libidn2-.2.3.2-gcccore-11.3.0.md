@@ -39,6 +39,11 @@ libidn2 depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load libidn2 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
+[glib-networking 2.72.1  (GCCcore-11.3.0)](glib-networking-2.72.1-gcccore-11.3.0.md)  
+[libpsl 0.21.1  (GCCcore-11.3.0)](libpsl-0.21.1-gcccore-11.3.0.md)  
+[wget 1.21.3  (GCCcore-11.3.0)](wget-1.21.3-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

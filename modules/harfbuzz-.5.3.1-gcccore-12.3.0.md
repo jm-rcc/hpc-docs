@@ -42,6 +42,11 @@ HarfBuzz depends on the following modules, and they will be loaded automatically
 ## Dependency of modules  
 The following modules will load HarfBuzz as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Pango 1.50.14  (GCCcore-12.3.0)](pango-1.50.14-gcccore-12.3.0.md)  
+[Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
+[R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  
+[R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

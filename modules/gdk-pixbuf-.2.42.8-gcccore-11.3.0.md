@@ -48,6 +48,10 @@ Gdk-Pixbuf depends on the following modules, and they will be loaded automatical
 ## Dependency of modules  
 The following modules will load Gdk-Pixbuf as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GTK2 2.24.33  (GCCcore-11.3.0)](gtk2-2.24.33-gcccore-11.3.0.md)  
+[GTK3 3.24.33  (GCCcore-11.3.0)](gtk3-3.24.33-gcccore-11.3.0.md)  
+[libheif 1.16.2  (GCCcore-11.3.0)](libheif-1.16.2-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

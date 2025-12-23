@@ -42,6 +42,9 @@ gettext depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load gettext as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GLib 2.68.2  (GCCcore-10.3.0)](glib-2.68.2-gcccore-10.3.0.md)  
+[git 2.32.0 -nodocs (GCCcore-10.3.0)](git-2.32.0-gcccore-10.3.0-nodocs.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

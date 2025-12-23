@@ -44,6 +44,9 @@ ncurses depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load ncurses as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[gettext 0.22.5  (system-system)](gettext-0.22.5.md)  
+[tmux 3.5a  (system-system)](tmux-3.5a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

@@ -37,6 +37,11 @@ CUDA depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load CUDA as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
+[NCCL 2.18.3 -CUDA-12.1.1 (GCCcore-12.3.0)](nccl-2.18.3-gcccore-12.3.0-cuda-12.1.1.md)  
+[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

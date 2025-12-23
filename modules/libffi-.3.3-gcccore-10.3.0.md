@@ -41,6 +41,13 @@ libffi depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load libffi as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Clang 12.0.1  (GCCcore-10.3.0)](clang-12.0.1-gcccore-10.3.0.md)  
+[GLib 2.68.2  (GCCcore-10.3.0)](glib-2.68.2-gcccore-10.3.0.md)  
+[GObject-Introspection 1.68.0  (GCCcore-10.3.0)](gobject-introspection-1.68.0-gcccore-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[Python 3.9.5 -bare (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0-bare.md)  
+[freebayes 1.3.6 -R-4.1.0 (foss-2021a)](freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

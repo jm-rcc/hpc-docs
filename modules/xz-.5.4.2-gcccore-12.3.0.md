@@ -39,6 +39,22 @@ XZ depends on the following modules, and they will be loaded automatically with 
 ## Dependency of modules  
 The following modules will load XZ as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BCFtools 1.18  (GCC-12.3.0)](bcftools-1.18-gcc-12.3.0.md)  
+[Boost 1.82.0  (GCC-12.3.0)](boost-1.82.0-gcc-12.3.0.md)  
+[HTSlib 1.18  (GCC-12.3.0)](htslib-1.18-gcc-12.3.0.md)  
+[LibTIFF 4.5.0  (GCCcore-12.3.0)](libtiff-4.5.0-gcccore-12.3.0.md)  
+[PROJ 9.2.0  (GCCcore-12.3.0)](proj-9.2.0-gcccore-12.3.0.md)  
+[ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  
+[R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
+[SAMtools 1.18  (GCC-12.3.0)](samtools-1.18-gcc-12.3.0.md)  
+[VTK 9.3.0  (foss-2023a)](vtk-9.3.0-foss-2023a.md)  
+[libarchive 3.6.2  (GCCcore-12.3.0)](libarchive-3.6.2-gcccore-12.3.0.md)  
+[libunwind 1.6.2  (GCCcore-12.3.0)](libunwind-1.6.2-gcccore-12.3.0.md)  
+[libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-2.11.4-gcccore-12.3.0.md)  
+[zstd 1.5.5  (GCCcore-12.3.0)](zstd-1.5.5-gcccore-12.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

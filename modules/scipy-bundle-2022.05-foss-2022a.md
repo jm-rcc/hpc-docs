@@ -41,6 +41,19 @@ SciPy-bundle depends on the following modules, and they will be loaded automatic
 ## Dependency of modules  
 The following modules will load SciPy-bundle as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BUSCO 5.4.5  (foss-2022a)](busco-5.4.5-foss-2022a.md)  
+[Biopython 1.79  (foss-2022a)](biopython-1.79-foss-2022a.md)  
+[CheckM 1.2.2  (foss-2022a)](checkm-1.2.2-foss-2022a.md)  
+[GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[HTSeq 2.0.2  (foss-2022a)](htseq-2.0.2-foss-2022a.md)  
+[PLUMED 2.8.1  (foss-2022a)](plumed-2.8.1-foss-2022a.md)  
+[deepTools 3.5.2  (foss-2022a)](deeptools-3.5.2-foss-2022a.md)  
+[humann 3.6  (foss-2022a)](humann-3.6-foss-2022a.md)  
+[matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
+[networkx 2.8.4  (foss-2022a)](networkx-2.8.4-foss-2022a.md)  
+[pyBigWig 0.3.18  (foss-2022a)](pybigwig-0.3.18-foss-2022a.md)  
+[snakemake 7.22.0  (foss-2022a)](snakemake-7.22.0-foss-2022a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

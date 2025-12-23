@@ -43,6 +43,24 @@ libjpeg-turbo depends on the following modules, and they will be loaded automati
 ## Dependency of modules  
 The following modules will load libjpeg-turbo as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  
+[Gdk-Pixbuf 2.42.6  (GCCcore-10.3.0)](gdk-pixbuf-2.42.6-gcccore-10.3.0.md)  
+[Ghostscript 9.54.0  (GCCcore-10.3.0)](ghostscript-9.54.0-gcccore-10.3.0.md)  
+[HDF 4.2.15  (GCCcore-10.3.0)](hdf-4.2.15-gcccore-10.3.0.md)  
+[ImageMagick 7.0.11-14  (GCCcore-10.3.0)](imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
+[LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-4.2.0-gcccore-10.3.0.md)  
+[LittleCMS 2.12  (GCCcore-10.3.0)](littlecms-2.12-gcccore-10.3.0.md)  
+[Pillow 8.2.0  (GCCcore-10.3.0)](pillow-8.2.0-gcccore-10.3.0.md)  
+[Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-5.4.2-gcccore-10.3.0.md)  
+[libgd 2.3.1  (GCCcore-10.3.0)](libgd-2.3.1-gcccore-10.3.0.md)  
+[libgeotiff 1.6.0  (GCCcore-10.3.0)](libgeotiff-1.6.0-gcccore-10.3.0.md)  
+[libheif 1.12.0  (GCCcore-10.3.0)](libheif-1.12.0-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

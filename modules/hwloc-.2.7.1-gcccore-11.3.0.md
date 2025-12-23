@@ -50,6 +50,13 @@ hwloc depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load hwloc as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Clang 13.0.1  (GCCcore-11.3.0)](clang-13.0.1-gcccore-11.3.0.md)  
+[Clang 15.0.5  (GCCcore-11.3.0)](clang-15.0.5-gcccore-11.3.0.md)  
+[OpenMPI 4.1.4  (GCC-11.3.0)](openmpi-4.1.4-gcc-11.3.0.md)  
+[PMIx 4.1.2  (GCCcore-11.3.0)](pmix-4.1.2-gcccore-11.3.0.md)  
+[pocl 1.8  (GCC-11.3.0)](pocl-1.8-gcc-11.3.0.md)  
+[tbb 2021.5.0  (GCCcore-11.3.0)](tbb-2021.5.0-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

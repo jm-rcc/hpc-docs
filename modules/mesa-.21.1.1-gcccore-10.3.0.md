@@ -46,6 +46,12 @@ Mesa depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load Mesa as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[MRtrix 3.0.3  (foss-2021a)](mrtrix-3.0.3-foss-2021a.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[Xvfb 1.20.11  (GCCcore-10.3.0)](xvfb-1.20.11-gcccore-10.3.0.md)  
+[libGLU 9.0.1  (GCCcore-10.3.0)](libglu-9.0.1-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

@@ -43,6 +43,9 @@ libarchive depends on the following modules, and they will be loaded automatical
 ## Dependency of modules  
 The following modules will load libarchive as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.26.3  (GCCcore-12.3.0)](cmake-3.26.3-gcccore-12.3.0.md)  
+[GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

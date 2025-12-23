@@ -43,6 +43,14 @@ GLib depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load GLib as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GObject-Introspection 1.68.0  (GCCcore-10.3.0)](gobject-introspection-1.68.0-gcccore-10.3.0.md)  
+[Gdk-Pixbuf 2.42.6  (GCCcore-10.3.0)](gdk-pixbuf-2.42.6-gcccore-10.3.0.md)  
+[Ghostscript 9.54.0  (GCCcore-10.3.0)](ghostscript-9.54.0-gcccore-10.3.0.md)  
+[HarfBuzz 2.8.1  (GCCcore-10.3.0)](harfbuzz-2.8.1-gcccore-10.3.0.md)  
+[Pango 1.48.5  (GCCcore-10.3.0)](pango-1.48.5-gcccore-10.3.0.md)  
+[Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  
+[cairo 1.16.0  (GCCcore-10.3.0)](cairo-1.16.0-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

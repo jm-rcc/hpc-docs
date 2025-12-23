@@ -43,6 +43,10 @@ Boost depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load Boost as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Armadillo 12.6.2  (foss-2023a)](armadillo-12.6.2-foss-2023a.md)  
+[PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
+[ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

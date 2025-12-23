@@ -48,6 +48,21 @@ cURL depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load cURL as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CFITSIO 4.3.0  (GCCcore-12.3.0)](cfitsio-4.3.0-gcccore-12.3.0.md)  
+[CMake 3.26.3  (GCCcore-12.3.0)](cmake-3.26.3-gcccore-12.3.0.md)  
+[GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
+[HTSlib 1.18  (GCC-12.3.0)](htslib-1.18-gcc-12.3.0.md)  
+[LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
+[LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
+[PROJ 9.2.0  (GCCcore-12.3.0)](proj-9.2.0-gcccore-12.3.0.md)  
+[R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  
+[R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
+[SAMtools 1.18  (GCC-12.3.0)](samtools-1.18-gcc-12.3.0.md)  
+[Xerces-C++ 3.2.4  (GCCcore-12.3.0)](xerces-c++-3.2.4-gcccore-12.3.0.md)  
+[git 2.41.0 -nodocs (GCCcore-12.3.0)](git-2.41.0-gcccore-12.3.0-nodocs.md)  
+[libgeotiff 1.7.1  (GCCcore-12.3.0)](libgeotiff-1.7.1-gcccore-12.3.0.md)  
+[netCDF 4.9.2  (gompi-2023a)](netcdf-4.9.2-gompi-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

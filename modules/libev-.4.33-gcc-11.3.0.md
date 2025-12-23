@@ -43,6 +43,9 @@ libev depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load libev as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
+[ngtcp2 0.7.0  (GCC-11.3.0)](ngtcp2-0.7.0-gcc-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

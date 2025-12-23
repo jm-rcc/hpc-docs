@@ -43,6 +43,18 @@ libxml2 depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load libxml2 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Clang 12.0.1  (GCCcore-10.3.0)](clang-12.0.1-gcccore-10.3.0.md)  
+[GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  
+[GLib 2.68.2  (GCCcore-10.3.0)](glib-2.68.2-gcccore-10.3.0.md)  
+[LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
+[OpenBabel 3.1.1  (gompi-2021a)](openbabel-3.1.1-gompi-2021a.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[XML-LibXML 2.0207  (GCCcore-10.3.0)](xml-libxml-2.0207-gcccore-10.3.0.md)  
+[gettext 0.21  (GCCcore-10.3.0)](gettext-0.21-gcccore-10.3.0.md)  
+[hwloc 2.4.1  (GCCcore-10.3.0)](hwloc-2.4.1-gcccore-10.3.0.md)  
+[ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

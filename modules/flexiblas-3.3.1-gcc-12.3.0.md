@@ -42,6 +42,10 @@ FlexiBLAS depends on the following modules, and they will be loaded automaticall
 ## Dependency of modules  
 The following modules will load FlexiBLAS as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[ScaLAPACK 2.2.0 -fb (gompi-2023a)](scalapack-2.2.0-gompi-2023a-fb.md)  
+[foss 2023a  (system-system)](foss-2023a.md)  
+[gfbf 2023a  (system-system)](gfbf-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

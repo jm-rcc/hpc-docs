@@ -2,8 +2,8 @@
 # MrBayes  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
 ## Homepage  
-[https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
 [http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  
+[https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

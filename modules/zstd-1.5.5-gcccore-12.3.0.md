@@ -45,6 +45,12 @@ zstd depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load zstd as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Boost 1.82.0  (GCC-12.3.0)](boost-1.82.0-gcc-12.3.0.md)  
+[GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
+[LibTIFF 4.5.0  (GCCcore-12.3.0)](libtiff-4.5.0-gcccore-12.3.0.md)  
+[Mesa 23.1.4  (GCCcore-12.3.0)](mesa-23.1.4-gcccore-12.3.0.md)  
+[netCDF 4.9.2  (gompi-2023a)](netcdf-4.9.2-gompi-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

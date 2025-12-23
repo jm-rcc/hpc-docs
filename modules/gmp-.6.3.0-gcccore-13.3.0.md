@@ -40,6 +40,9 @@ GMP depends on the following modules, and they will be loaded automatically with
 ## Dependency of modules  
 The following modules will load GMP as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Clang 18.1.8  (GCCcore-13.3.0)](clang-18.1.8-gcccore-13.3.0.md)  
+[Z3 4.13.0  (GCCcore-13.3.0)](z3-4.13.0-gcccore-13.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

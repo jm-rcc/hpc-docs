@@ -39,6 +39,10 @@ DendroPy depends on the following modules, and they will be loaded automatically
 ## Dependency of modules  
 The following modules will load DendroPy as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  
+[GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
+[SEPP 4.5.0  (foss-2021a)](sepp-4.5.0-foss-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

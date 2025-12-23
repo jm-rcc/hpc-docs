@@ -49,6 +49,11 @@ BLAST+ depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load BLAST+ as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  
+[BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  
+[Kraken2 2.1.2  (gompi-2021a)](kraken2-2.1.2-gompi-2021a.md)  
+[prokka 1.14.5  (gompi-2021a)](prokka-1.14.5-gompi-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

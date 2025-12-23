@@ -43,6 +43,16 @@ PCRE depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load PCRE as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  
+[InterProScan 5.55-88.0  (foss-2021a)](interproscan-5.55-88.0-foss-2021a.md)  
+[LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
+[SWIG 4.0.2  (GCCcore-10.3.0)](swig-4.0.2-gcccore-10.3.0.md)  
+[SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
+[libgit2 1.1.0  (GCCcore-10.3.0)](libgit2-1.1.0-gcccore-10.3.0.md)  
+[tabixpp 1.1.0  (GCC-10.3.0)](tabixpp-1.1.0-gcc-10.3.0.md)  
+[wget 1.21.1  (GCCcore-10.3.0)](wget-1.21.1-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

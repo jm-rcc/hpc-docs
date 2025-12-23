@@ -43,6 +43,8 @@ Qhull depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load Qhull as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

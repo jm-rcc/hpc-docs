@@ -51,6 +51,8 @@ PMIx depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load PMIx as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[OpenMPI 4.1.5  (GCC-12.3.0)](openmpi-4.1.5-gcc-12.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

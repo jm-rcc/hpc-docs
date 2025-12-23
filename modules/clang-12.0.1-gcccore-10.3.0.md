@@ -39,6 +39,8 @@ Clang depends on the following modules, and they will be loaded automatically wi
 ## Dependency of modules  
 The following modules will load Clang as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[hipSYCL 0.9.1  (GCC-10.3.0)](hipsycl-0.9.1-gcc-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

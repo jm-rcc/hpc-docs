@@ -43,6 +43,18 @@ GLib depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load GLib as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[ATK 2.38.0  (GCCcore-12.3.0)](atk-2.38.0-gcccore-12.3.0.md)  
+[GObject-Introspection 1.76.1  (GCCcore-12.3.0)](gobject-introspection-1.76.1-gcccore-12.3.0.md)  
+[GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  
+[Gdk-Pixbuf 2.42.10  (GCCcore-12.3.0)](gdk-pixbuf-2.42.10-gcccore-12.3.0.md)  
+[Ghostscript 10.01.2  (GCCcore-12.3.0)](ghostscript-10.01.2-gcccore-12.3.0.md)  
+[HarfBuzz 5.3.1  (GCCcore-12.3.0)](harfbuzz-5.3.1-gcccore-12.3.0.md)  
+[Pango 1.50.14  (GCCcore-12.3.0)](pango-1.50.14-gcccore-12.3.0.md)  
+[Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
+[at-spi2-atk 2.38.0  (GCCcore-12.3.0)](at-spi2-atk-2.38.0-gcccore-12.3.0.md)  
+[at-spi2-core 2.49.91  (GCCcore-12.3.0)](at-spi2-core-2.49.91-gcccore-12.3.0.md)  
+[cairo 1.17.8  (GCCcore-12.3.0)](cairo-1.17.8-gcccore-12.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

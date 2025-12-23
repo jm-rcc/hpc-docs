@@ -41,6 +41,9 @@ Python-bundle-PyPI depends on the following modules, and they will be loaded aut
 ## Dependency of modules  
 The following modules will load Python-bundle-PyPI as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
+[hypothesis 6.82.0  (GCCcore-12.3.0)](hypothesis-6.82.0-gcccore-12.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

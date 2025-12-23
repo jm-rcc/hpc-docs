@@ -42,6 +42,16 @@ GSL depends on the following modules, and they will be loaded automatically with
 ## Dependency of modules  
 The following modules will load GSL as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  
+[BCFtools 1.12  (GCC-10.3.0)](bcftools-1.12-gcc-10.3.0.md)  
+[FastANI 1.33  (GCC-10.3.0)](fastani-1.33-gcc-10.3.0.md)  
+[LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
+[Mash 2.3  (GCC-10.3.0)](mash-2.3-gcc-10.3.0.md)  
+[PLUMED 2.7.2  (foss-2021a)](plumed-2.7.2-foss-2021a.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[ScaFaCoS 1.0.1  (foss-2021a)](scafacos-1.0.1-foss-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

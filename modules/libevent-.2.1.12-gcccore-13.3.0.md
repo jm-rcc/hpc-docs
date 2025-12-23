@@ -45,6 +45,10 @@ libevent depends on the following modules, and they will be loaded automatically
 ## Dependency of modules  
 The following modules will load libevent as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[OpenMPI 5.0.3  (GCC-13.3.0)](openmpi-5.0.3-gcc-13.3.0.md)  
+[PMIx 5.0.2  (GCCcore-13.3.0)](pmix-5.0.2-gcccore-13.3.0.md)  
+[PRRTE 3.0.5  (GCCcore-13.3.0)](prrte-3.0.5-gcccore-13.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

@@ -32,6 +32,10 @@ XZ depends on the following modules, and they will be loaded automatically with 
 ## Dependency of modules  
 The following modules will load XZ as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Python 3.13.1  (GCCcore-14.2.0)](python-3.13.1-gcccore-14.2.0.md)  
+[libarchive 3.7.7  (GCCcore-14.2.0)](libarchive-3.7.7-gcccore-14.2.0.md)  
+[libxml2 2.13.4  (GCCcore-14.2.0)](libxml2-2.13.4-gcccore-14.2.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

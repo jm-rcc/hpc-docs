@@ -41,6 +41,9 @@ NSS depends on the following modules, and they will be loaded automatically with
 ## Dependency of modules  
 The following modules will load NSS as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  
+[pyBigWig 0.3.18  (foss-2021a)](pybigwig-0.3.18-foss-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

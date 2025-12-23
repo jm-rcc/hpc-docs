@@ -48,6 +48,16 @@ freetype depends on the following modules, and they will be loaded automatically
 ## Dependency of modules  
 The following modules will load freetype as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  
+[Ghostscript 9.56.1  (GCCcore-11.3.0)](ghostscript-9.56.1-gcccore-11.3.0.md)  
+[HarfBuzz 4.2.1  (GCCcore-11.3.0)](harfbuzz-4.2.1-gcccore-11.3.0.md)  
+[Pillow 9.1.1  (GCCcore-11.3.0)](pillow-9.1.1-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-20220504-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore-11.3.0)](cairo-1.17.4-gcccore-11.3.0.md)  
+[fontconfig 2.14.0  (GCCcore-11.3.0)](fontconfig-2.14.0-gcccore-11.3.0.md)  
+[matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
+[motif 2.3.8  (GCCcore-11.3.0)](motif-2.3.8-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

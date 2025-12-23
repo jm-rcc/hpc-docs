@@ -48,6 +48,20 @@ cURL depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load cURL as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.20.1  (GCCcore-10.3.0)](cmake-3.20.1-gcccore-10.3.0.md)  
+[GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  
+[HTSlib 1.12  (GCC-10.3.0)](htslib-1.12-gcc-10.3.0.md)  
+[LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
+[PROJ 8.0.1  (GCCcore-10.3.0)](proj-8.0.1-gcccore-10.3.0.md)  
+[Pysam 0.16.0.1  (GCC-10.3.0)](pysam-0.16.0.1-gcc-10.3.0.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[SAMtools 1.13  (GCC-10.3.0)](samtools-1.13-gcc-10.3.0.md)  
+[git 2.32.0 -nodocs (GCCcore-10.3.0)](git-2.32.0-gcccore-10.3.0-nodocs.md)  
+[libgeotiff 1.6.0  (GCCcore-10.3.0)](libgeotiff-1.6.0-gcccore-10.3.0.md)  
+[netCDF 4.8.0  (gompi-2021a)](netcdf-4.8.0-gompi-2021a.md)  
+[pyBigWig 0.3.18  (foss-2021a)](pybigwig-0.3.18-foss-2021a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

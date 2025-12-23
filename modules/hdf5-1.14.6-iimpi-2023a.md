@@ -35,6 +35,8 @@ HDF5 depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load HDF5 as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[DIRAC 25.0 -int64 (intel-2023a)](dirac-25.0-intel-2023a-int64.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

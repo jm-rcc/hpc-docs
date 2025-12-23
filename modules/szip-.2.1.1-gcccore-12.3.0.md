@@ -41,6 +41,11 @@ Szip depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load Szip as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[HDF 4.2.16-2  (GCCcore-12.3.0)](hdf-4.2.16-2-gcccore-12.3.0.md)  
+[HDF5 1.14.0  (gompi-2023a)](hdf5-1.14.0-gompi-2023a.md)  
+[ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
+[netCDF 4.9.2  (gompi-2023a)](netcdf-4.9.2-gompi-2023a.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

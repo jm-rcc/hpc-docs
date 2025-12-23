@@ -44,6 +44,15 @@ ncurses depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load ncurses as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.29.3  (GCCcore-13.3.0)](cmake-3.29.3-gcccore-13.3.0.md)  
+[Clang 18.1.8  (GCCcore-13.3.0)](clang-18.1.8-gcccore-13.3.0.md)  
+[LLVM 18.1.8 -minimal (GCCcore-13.3.0)](llvm-18.1.8-gcccore-13.3.0-minimal.md)  
+[Perl-bundle-CPAN 5.38.2  (GCCcore-13.3.0)](perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
+[Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
+[gettext 0.22.5  (GCCcore-13.3.0)](gettext-0.22.5-gcccore-13.3.0.md)  
+[libreadline 8.2  (GCCcore-13.3.0)](libreadline-8.2-gcccore-13.3.0.md)  
+[util-linux 2.40  (GCCcore-13.3.0)](util-linux-2.40-gcccore-13.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

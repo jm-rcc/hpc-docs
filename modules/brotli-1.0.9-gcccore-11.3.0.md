@@ -43,6 +43,9 @@ Brotli depends on the following modules, and they will be loaded automatically w
 ## Dependency of modules  
 The following modules will load Brotli as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
+[freetype 2.12.1  (GCCcore-11.3.0)](freetype-2.12.1-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

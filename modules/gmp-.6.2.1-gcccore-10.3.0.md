@@ -43,6 +43,17 @@ GMP depends on the following modules, and they will be loaded automatically with
 ## Dependency of modules  
 The following modules will load GMP as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[Clang 12.0.1  (GCCcore-10.3.0)](clang-12.0.1-gcccore-10.3.0.md)  
+[GLPK 5.0  (GCCcore-10.3.0)](glpk-5.0-gcccore-10.3.0.md)  
+[MPFR 4.1.0  (GCCcore-10.3.0)](mpfr-4.1.0-gcccore-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[ScaFaCoS 1.0.1  (foss-2021a)](scafacos-1.0.1-foss-2021a.md)  
+[Z3 4.8.11  (GCCcore-10.3.0)](z3-4.8.11-gcccore-10.3.0.md)  
+[nettle 3.7.2  (GCCcore-10.3.0)](nettle-3.7.2-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

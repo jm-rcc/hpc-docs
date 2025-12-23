@@ -43,6 +43,19 @@ GLib depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load GLib as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[ATK 2.38.0  (GCCcore-11.3.0)](atk-2.38.0-gcccore-11.3.0.md)  
+[GObject-Introspection 1.72.0  (GCCcore-11.3.0)](gobject-introspection-1.72.0-gcccore-11.3.0.md)  
+[Gdk-Pixbuf 2.42.8  (GCCcore-11.3.0)](gdk-pixbuf-2.42.8-gcccore-11.3.0.md)  
+[Ghostscript 9.56.1  (GCCcore-11.3.0)](ghostscript-9.56.1-gcccore-11.3.0.md)  
+[HarfBuzz 4.2.1  (GCCcore-11.3.0)](harfbuzz-4.2.1-gcccore-11.3.0.md)  
+[LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
+[Pango 1.50.7  (GCCcore-11.3.0)](pango-1.50.7-gcccore-11.3.0.md)  
+[Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
+[at-spi2-atk 2.38.0  (GCCcore-11.3.0)](at-spi2-atk-2.38.0-gcccore-11.3.0.md)  
+[at-spi2-core 2.44.1  (GCCcore-11.3.0)](at-spi2-core-2.44.1-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore-11.3.0)](cairo-1.17.4-gcccore-11.3.0.md)  
+[glib-networking 2.72.1  (GCCcore-11.3.0)](glib-networking-2.72.1-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

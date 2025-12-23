@@ -46,6 +46,17 @@ libreadline depends on the following modules, and they will be loaded automatica
 ## Dependency of modules  
 The following modules will load libreadline as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Lua 5.4.4  (GCCcore-11.3.0)](lua-5.4.4-gcccore-11.3.0.md)  
+[MrBayes 3.2.7  (gompi-2022a)](mrbayes-3.2.7-gompi-2022a.md)  
+[MrBayes 3.2.7a  (foss-2022a)](mrbayes-3.2.7a-foss-2022a.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[Python 2.7.18 -bare (GCCcore-11.3.0)](python-2.7.18-gcccore-11.3.0-bare.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[Python 3.10.4 -bare (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0-bare.md)  
+[R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
+[SPAdes 3.15.5  (GCC-11.3.0)](spades-3.15.5-gcc-11.3.0.md)  
+[SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-3.38.3-gcccore-11.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

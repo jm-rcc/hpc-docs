@@ -42,6 +42,12 @@ Perl depends on the following modules, and they will be loaded automatically wit
 ## Dependency of modules  
 The following modules will load Perl as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[Autoconf 2.71  (GCCcore-12.3.0)](autoconf-2.71-gcccore-12.3.0.md)  
+[Automake 1.16.5  (GCCcore-12.3.0)](automake-1.16.5-gcccore-12.3.0.md)  
+[HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
+[Perl-bundle-CPAN 5.36.1  (GCCcore-12.3.0)](perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
+[git 2.41.0 -nodocs (GCCcore-12.3.0)](git-2.41.0-gcccore-12.3.0-nodocs.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  

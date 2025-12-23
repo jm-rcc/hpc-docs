@@ -44,6 +44,25 @@ ncurses depends on the following modules, and they will be loaded automatically 
 ## Dependency of modules  
 The following modules will load ncurses as dependency.  
   
-[MEGAHIT 1.2.9  (GCCcore-11.3.0)](megahit-1.2.9-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
-[< Software](../software_shortlist.md)  
+[CMake 3.20.1  (GCCcore-10.3.0)](cmake-3.20.1-gcccore-10.3.0.md)  
+[Clang 12.0.1  (GCCcore-10.3.0)](clang-12.0.1-gcccore-10.3.0.md)  
+[LAME 3.100  (GCCcore-10.3.0)](lame-3.100-gcccore-10.3.0.md)  
+[LLVM 11.1.0  (GCCcore-10.3.0)](llvm-11.1.0-gcccore-10.3.0.md)  
+[Lua 5.4.3  (GCCcore-10.3.0)](lua-5.4.3-gcccore-10.3.0.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[Pysam 0.16.0.1  (GCC-10.3.0)](pysam-0.16.0.1-gcc-10.3.0.md)  
+[Python 2.7.18 -bare (GCCcore-10.3.0)](python-2.7.18-gcccore-10.3.0-bare.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[Python 3.9.5 -bare (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0-bare.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
+[SAMtools 1.13  (GCC-10.3.0)](samtools-1.13-gcc-10.3.0.md)  
+[Trinity 2.9.1  (foss-2021a)](trinity-2.9.1-foss-2021a.md)  
+[gettext 0.21  (GCCcore-10.3.0)](gettext-0.21-gcccore-10.3.0.md)  
+[gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-5.4.2-gcccore-10.3.0.md)  
+[libreadline 8.1  (GCCcore-10.3.0)](libreadline-8.1-gcccore-10.3.0.md)  
+[util-linux 2.36  (GCCcore-10.3.0)](util-linux-2.36-gcccore-10.3.0.md)  
+  
+----  
+  
+[List of Software](../software_shortlist.md)  
