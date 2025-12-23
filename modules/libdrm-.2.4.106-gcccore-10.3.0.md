@@ -1,19 +1,20 @@
 # libdrm 2.4.106  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Direct Rendering Manager runtime library.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libdrm/.2.4.106-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libdrm/.2.4.106-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load libdrm/.2.4.106-gcccore-10.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('pkg-config', '0.29.2'), ('Meson', '0.58.0'), ('Ninja', '1.10.2')]  
+[X11 20210518  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for libdrm 2.4.106 .  
+[https://dri.freedesktop.org](https://dri.freedesktop.org)  

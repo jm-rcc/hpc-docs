@@ -1,5 +1,5 @@
 # QUAST 5.2.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 QUAST evaluates genome assemblies by computing various metrics.
@@ -7,15 +7,16 @@ It works both with and without reference genomes. The tool accepts multiple
 assemblies, thus is suitable for comparison.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load quast/5.2.0-foss-2022a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load quast/5.2.0-foss-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,11 +33,12 @@ Use the command **`module load quast/5.2.0-foss-2022a`** to load the module on B
   
   
 ## Dependencies  
-dependencies = [
-    ('Python', '3.10.4'),
-    ('Perl', '5.34.1'),
-    ('matplotlib', '3.5.2'),
-    ('Java', '11', '', SYSTEM),
-    ('Boost', '1.79.0'),
-]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[matplotlib 3.5.2  (foss 2022a)](link)  
+[Java 11  (system system)](link)  
+[Boost 1.79.0  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for QUAST 5.2.0 .  
+[https://github.com/ablab/quast](https://github.com/ablab/quast)  

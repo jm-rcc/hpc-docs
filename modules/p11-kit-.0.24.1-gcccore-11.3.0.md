@@ -1,5 +1,5 @@
 # p11-kit 0.24.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Provides a way to load and enumerate PKCS#11 modules.
@@ -9,15 +9,16 @@ Provides a way to load and enumerate PKCS#11 modules.
  by different components or libraries living in the same process.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load p11-kit/.0.24.1-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load p11-kit/.0.24.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +35,9 @@ Use the command **`module load p11-kit/.0.24.1-gcccore-11.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0')]  
+[libtasn1 4.19.0  (GCCcore 11.3.0)](link)  
+[libffi 3.4.2  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for p11-kit 0.24.1 .  
+[https://p11-glue.freedesktop.org/p11-kit.html](https://p11-glue.freedesktop.org/p11-kit.html)  

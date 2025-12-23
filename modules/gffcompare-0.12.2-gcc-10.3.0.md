@@ -1,20 +1,21 @@
 # GffCompare 0.12.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 GffCompare provides classification and reference annotation mapping and
  matching statistics for RNA-Seq assemblies (transfrags) or other generic GFF/GTF files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gffcompare/0.12.2-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load gffcompare/0.12.2-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load gffcompare/0.12.2-gcc-10.3.0`** to load the modul
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for GffCompare 0.12.2 .  
+[https://ccb.jhu.edu/software/stringtie/gffcompare.shtml](https://ccb.jhu.edu/software/stringtie/gffcompare.shtml)  

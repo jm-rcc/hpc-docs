@@ -1,19 +1,20 @@
 # SciPy-bundle 2021.05  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Bundle of Python packages for scientific software  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load scipy-bundle/2021.05-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 {'pic': True, 'lowopt': True}  
   
-  
-### Usage  
-Use the command **`module load scipy-bundle/2021.05-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,10 +29,9 @@ Use the command **`module load scipy-bundle/2021.05-foss-2021a`** to load the mo
   
   
 ## Dependencies  
-dependencies = [('hypothesis', '6.13.1')]
-
-dependencies = [
-    ('Python', '3.9.5'),
-    ('pybind11', '2.6.2'),  # required by scipy
-]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[pybind11 2.6.2  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for SciPy-bundle 2021.05 .  
+[https://python.org/](https://python.org/)  

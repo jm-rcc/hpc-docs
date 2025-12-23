@@ -1,21 +1,23 @@
 # ngtcp2 0.7.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-'Call it TCP/2. One More Time.'  
-  
+
+'Call it TCP/2. One More Time.'
+
 ngtcp2 project is an effort to implement RFC9000 QUIC protocol.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ngtcp2/.0.7.0-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load ngtcp2/.0.7.0-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +34,11 @@ Use the command **`module load ngtcp2/.0.7.0-gcc-11.3.0`** to load the module on
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('CMake', '3.23.1'), ('CUnit', '2.1-3')]  
+[OpenSSL 1.1  (system system)](link)  
+[GnuTLS 3.7.8  (GCCcore 11.3.0)](link)  
+[nghttp3 0.6.0  (GCCcore 11.3.0)](link)  
+[libev 4.33  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for ngtcp2 0.7.0 .  
+[https://github.com/ngtcp2/ngtcp2](https://github.com/ngtcp2/ngtcp2)  

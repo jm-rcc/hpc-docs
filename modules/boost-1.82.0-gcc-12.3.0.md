@@ -1,19 +1,20 @@
 # Boost 1.82.0  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 Boost provides free peer-reviewed portable C++ source libraries.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load boost/1.82.0-gcc-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '12.3.0'}  
+GCC (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load boost/1.82.0-gcc-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,12 @@ Use the command **`module load boost/1.82.0-gcc-12.3.0`** to load the module on 
   
   
 ## Dependencies  
-[('bzip2', '1.0.8'), ('zlib', '1.2.13'), ('XZ', '5.4.2'), ('zstd', '1.5.5'), ('ICU', '73.2')]  
+[bzip2 1.0.8  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[XZ 5.4.2  (GCCcore 12.3.0)](link)  
+[zstd 1.5.5  (GCCcore 12.3.0)](link)  
+[ICU 73.2  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for Boost 1.82.0 .  
+[https://www.boost.org/](https://www.boost.org/)  

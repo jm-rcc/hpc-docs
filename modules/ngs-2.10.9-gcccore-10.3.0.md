@@ -1,20 +1,21 @@
 # NGS 2.10.9  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 NGS is a new, domain-specific API for accessing reads, alignments and pileups
 produced from Next Generation Sequencing.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ngs/2.10.9-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ngs/2.10.9-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load ngs/2.10.9-gcccore-10.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('Perl', '5.32.1')]  
+[Java 11  (system system)](link)  
   
+## Homepage  
+The homepage for NGS 2.10.9 .  
+[https://github.com/ncbi/ngs](https://github.com/ncbi/ngs)  

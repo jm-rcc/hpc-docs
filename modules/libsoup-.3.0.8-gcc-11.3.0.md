@@ -1,5 +1,5 @@
 # LibSoup 3.0.8  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 libsoup is an HTTP client/server library for GNOME. It
@@ -8,15 +8,16 @@ applications, and also has a synchronous API, for use in threaded
 applications.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libsoup/.3.0.8-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'cstd': 'gnu11'}  
   
-  
-### Usage  
-Use the command **`module load libsoup/.3.0.8-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,16 @@ Use the command **`module load libsoup/.3.0.8-gcc-11.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('Meson', '0.62.1'), ('Ninja', '1.10.2'), ('pkg-config', '0.29.2'), ('GObject-Introspection', '1.72.0'), ('CMake', '3.23.1')]  
+[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
+[GLib 2.72.1  (GCCcore 11.3.0)](link)  
+[libpsl 0.21.1  (GCCcore 11.3.0)](link)  
+[cURL 7.83.0  (GCCcore 11.3.0)](link)  
+[GnuTLS 3.7.8  (GCCcore 11.3.0)](link)  
+[nghttp2 1.48.0  (GCC 11.3.0)](link)  
+[glib-networking 2.72.1  (GCCcore 11.3.0)](link)  
+[Brotli 1.0.9  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for LibSoup 3.0.8 .  
+[https://wiki.gnome.org/Projects/libsoup](https://wiki.gnome.org/Projects/libsoup)  

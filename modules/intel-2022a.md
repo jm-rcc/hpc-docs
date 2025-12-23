@@ -1,19 +1,20 @@
 # intel 2022a  
-(toolchain)  
+![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
   
 Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel Library (MKL).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load intel/2022a`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load intel/2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,12 +31,13 @@ Use the command **`module load intel/2022a`** to load the module on Bunya.
   
   
 ## Dependencies  
-dependencies = [
-    ('GCCcore', local_gccver),
-    ('binutils', '2.38', '', ('GCCcore', local_gccver)),
-    ('intel-compilers', local_comp_ver),
-    ('impi', '2021.6.0', '', ('intel-compilers', local_comp_ver)),
-    ('imkl', local_comp_ver, '', SYSTEM),
-    ('imkl-FFTW', local_comp_ver, '', ('iimpi', version)),
-]  
+[GCCcore 11.3.0  (system system)](link)  
+[binutils 2.38  (GCCcore 11.3.0)](link)  
+[intel-compilers 2022.1.0  (system system)](link)  
+[impi 2021.6.0  (intel-compilers 2022.1.0)](link)  
+[imkl 2022.1.0  (system system)](link)  
+[imkl-FFTW 2022.1.0  (iimpi 2022a)](link)  
   
+## Homepage  
+The homepage for intel 2022a .  
+[https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain)  

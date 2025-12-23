@@ -1,20 +1,21 @@
-# BLAST 2.11.0  
-(bio)  
+# BLAST 2.11.0 -Linux_x86_64 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Basic Local Alignment Search Tool, or BLAST, is an algorithm for comparing primary biological
 sequence information, such as the amino-acid sequences of different proteins or the nucleotides of DNA sequences.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load blast/2.11.0-linux_x86_64`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load blast/2.11.0-linux_x86_64`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load blast/2.11.0-linux_x86_64`** to load the module o
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for BLAST 2.11.0 -Linux_x86_64.  
+[https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  

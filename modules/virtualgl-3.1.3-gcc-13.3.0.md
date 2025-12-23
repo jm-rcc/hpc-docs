@@ -1,5 +1,5 @@
 # VirtualGL 3.1.3  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 VirtualGL is an open source toolkit that gives any Linux or
@@ -7,15 +7,16 @@ Unix remote display software the ability to run OpenGL applications with full
 hardware acceleration.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load virtualgl/3.1.3-gcc-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '13.3.0'}  
+GCC (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load virtualgl/3.1.3-gcc-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,12 @@ Use the command **`module load virtualgl/3.1.3-gcc-13.3.0`** to load the module 
   
   
 ## Dependencies  
-[('CMake', '3.29.3'), ('binutils', '2.42')]  
+[libjpeg-turbo 3.0.1  (GCCcore 13.3.0)](link)  
+[Mesa 24.1.3  (GCCcore 13.3.0)](link)  
+[libGLU 9.0.3  (GCCcore 13.3.0)](link)  
+[pocl 6.0  (GCC 13.3.0)](link)  
+[X11 20240607  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for VirtualGL 3.1.3 .  
+[https://virtualgl.org/](https://virtualgl.org/)  

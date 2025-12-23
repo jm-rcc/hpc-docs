@@ -1,22 +1,25 @@
 # GCTA 1.94.0beta  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
+
 GCTA (Genome-wide Complex Trait Analysis) is a software package, which was
  initially developed to estimate the proportion of phenotypic variance explained
  by all genome-wide SNPs for a complex trait but has been extensively extended
- for many other analyses of data from genome-wide association studies (GWASs).  
+ for many other analyses of data from genome-wide association studies (GWASs).
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gcta/1.94.0beta-gfbf-2022a`**.  
   
 ### Toolchain  
-{'name': 'gfbf', 'version': '2022a'}  
+gfbf (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gcta/1.94.0beta-gfbf-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +36,11 @@ Use the command **`module load gcta/1.94.0beta-gfbf-2022a`** to load the module 
   
   
 ## Dependencies  
-[('CMake', '3.23.1'), ('Eigen', '3.4.0'), ('SpectrA', '1.0.1')]  
+[Boost 1.79.0  (GCC 11.3.0)](link)  
+[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
+[zstd 1.5.2  (GCCcore 11.3.0)](link)  
+[GSL 2.7  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for GCTA 1.94.0beta .  
+[https://yanglab.westlake.edu.cn/software/gcta/](https://yanglab.westlake.edu.cn/software/gcta/)  

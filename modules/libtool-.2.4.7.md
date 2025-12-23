@@ -1,20 +1,23 @@
 # libtool 2.4.7  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-GNU libtool is a generic library support script. Libtool hides the complexity
- of using shared libraries behind a consistent, portable interface.  
+
+ GNU libtool is a generic library support script. Libtool hides the complexity
+ of using shared libraries behind a consistent, portable interface.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libtool/.2.4.7`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libtool/.2.4.7`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,8 @@ Use the command **`module load libtool/.2.4.7`** to load the module on Bunya.
   
   
 ## Dependencies  
-[('M4', '1.4.18')]  
+[M4 1.4.18  (system system)](link)  
   
+## Homepage  
+The homepage for libtool 2.4.7 .  
+[https://www.gnu.org/software/libtool](https://www.gnu.org/software/libtool)  

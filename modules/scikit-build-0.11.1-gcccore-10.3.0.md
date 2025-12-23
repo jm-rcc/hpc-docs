@@ -1,20 +1,21 @@
 # scikit-build 0.11.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Scikit-Build, or skbuild, is an improved build system generator
 for CPython C/C++/Fortran/Cython extensions.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load scikit-build/0.11.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load scikit-build/0.11.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3  
@@ -22,5 +23,8 @@ Use the command **`module load scikit-build/0.11.1-gcccore-10.3.0`** to load the
   
   
 ## Dependencies  
-[('binutils', '2.36.1')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for scikit-build 0.11.1 .  
+[https://scikit-build.readthedocs.io/en/latest](https://scikit-build.readthedocs.io/en/latest)  

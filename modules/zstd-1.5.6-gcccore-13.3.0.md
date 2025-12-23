@@ -1,5 +1,5 @@
 # zstd 1.5.6  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Zstandard is a real-time compression algorithm, providing high compression ratios.
@@ -8,15 +8,16 @@ Zstandard is a real-time compression algorithm, providing high compression ratio
  from any sample set.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load zstd/1.5.6-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load zstd/1.5.6-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,11 @@ Use the command **`module load zstd/1.5.6-gcccore-13.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.42')]  
+[zlib 1.3.1  (GCCcore 13.3.0)](link)  
+[gzip 1.13  (GCCcore 13.3.0)](link)  
+[XZ 5.4.5  (GCCcore 13.3.0)](link)  
+[lz4 1.9.4  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for zstd 1.5.6 .  
+[https://facebook.github.io/zstd](https://facebook.github.io/zstd)  

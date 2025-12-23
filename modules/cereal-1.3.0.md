@@ -1,5 +1,5 @@
 # Cereal 1.3.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 cereal is a header-only C++11 serialization library. cereal takes arbitrary data types and reversibly
@@ -8,15 +8,16 @@ fast, light-weight, and easy to extend - it has no external dependencies and can
 used standalone.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cereal/1.3.0`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cereal/1.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load cereal/1.3.0`** to load the module on Bunya.
   
   
 ## Dependencies  
-[('CMake', '3.18.4')]  
+(none)  
   
+## Homepage  
+The homepage for Cereal 1.3.0 .  
+[https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  

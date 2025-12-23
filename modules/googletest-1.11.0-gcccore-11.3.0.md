@@ -1,19 +1,20 @@
 # googletest 1.11.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Google's framework for writing C++ tests on a variety of platforms  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load googletest/1.11.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load googletest/1.11.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load googletest/1.11.0-gcccore-11.3.0`** to load the m
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('CMake', '3.23.1')]  
+(none)  
   
+## Homepage  
+The homepage for googletest 1.11.0 .  
+[https://github.com/google/googletest](https://github.com/google/googletest)  

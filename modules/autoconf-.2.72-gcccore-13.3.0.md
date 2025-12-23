@@ -1,24 +1,27 @@
 # Autoconf 2.72  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-Autoconf is an extensible package of M4 macros that produce shell scripts
+
+ Autoconf is an extensible package of M4 macros that produce shell scripts
  to automatically configure software source code packages. These scripts can
  adapt the packages to many kinds of UNIX-like systems without manual user
  intervention. Autoconf creates a configuration script for a package from a
  template file that lists the operating system features that the package can
- use, in the form of M4 macro calls.  
+ use, in the form of M4 macro calls.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load autoconf/.2.72-gcccore-13.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load autoconf/.2.72-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,5 +38,9 @@ Use the command **`module load autoconf/.2.72-gcccore-13.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.42')]  
+[M4 1.4.19  (GCCcore 13.3.0)](link)  
+[Perl 5.38.2  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for Autoconf 2.72 .  
+[https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  

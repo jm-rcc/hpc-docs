@@ -1,5 +1,5 @@
 # BEDTools 2.30.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 BEDTools: a powerful toolset for genome arithmetic.
@@ -8,15 +8,16 @@ computing coverage.
 The utilities are largely based on four widely-used file formats: BED, GFF/GTF, VCF, and SAM/BAM.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bedtools/2.30.0-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load bedtools/2.30.0-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,12 +34,11 @@ Use the command **`module load bedtools/2.30.0-gcc-10.3.0`** to load the module 
   
   
 ## Dependencies  
-dependencies = [('Python', '3.9.5')]
-
-dependencies = [
-    ('XZ', '5.2.5'),
-    ('zlib', '1.2.11'),
-    ('bzip2', '1.0.8'),
-    ('BamTools', '2.5.2'),
-]  
+[XZ 5.2.5  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
+[BamTools 2.5.2  (GCC 10.3.0)](link)  
   
+## Homepage  
+The homepage for BEDTools 2.30.0 .  
+[https://bedtools.readthedocs.io/](https://bedtools.readthedocs.io/)  

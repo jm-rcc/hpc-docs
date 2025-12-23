@@ -1,5 +1,5 @@
 # Zip 3.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Zip is a compression and file packaging/archive utility.
@@ -8,15 +8,16 @@ utilities for MS-DOS and with Info-ZIP's own UnZip, our primary objectives
 have been portability and other-than-MSDOS functionality  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load zip/3.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load zip/3.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,8 @@ Use the command **`module load zip/3.0-gcccore-11.3.0`** to load the module on B
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Zip 3.0 .  
+[http://www.info-zip.org/Zip.html](http://www.info-zip.org/Zip.html)  

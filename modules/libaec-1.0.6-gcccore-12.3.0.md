@@ -1,5 +1,5 @@
 # libaec 1.0.6  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Libaec provides fast lossless compression of 1 up to 32 bit wide signed or unsigned integers
@@ -8,15 +8,16 @@ instrument data or numerical model output from weather or climate simulations. W
 are not directly supported, they can also be efficiently coded by grouping exponents and mantissa.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libaec/1.0.6-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libaec/1.0.6-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load libaec/1.0.6-gcccore-12.3.0`** to load the module
   
   
 ## Dependencies  
-[('CMake', '3.26.3'), ('binutils', '2.40')]  
+(none)  
   
+## Homepage  
+The homepage for libaec 1.0.6 .  
+[https://gitlab.dkrz.de/k202009/libaec](https://gitlab.dkrz.de/k202009/libaec)  

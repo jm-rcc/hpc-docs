@@ -1,22 +1,24 @@
 # CheckM-Database 2015_01_16  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,
-single cells, or metagenomes.  
+single cells, or metagenomes.
+
+This is the corresponding database.
   
-This is the corresponding database.  
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load checkm-database/2015_01_16`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load checkm-database/2015_01_16`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,3 +37,6 @@ Use the command **`module load checkm-database/2015_01_16`** to load the module 
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for CheckM-Database 2015_01_16 .  
+[https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  

@@ -1,19 +1,20 @@
 # Mako 1.1.4  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 A super-fast templating language that borrows the best ideas from the existing templating languages  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mako/.1.1.4-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mako/.1.1.4-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load mako/.1.1.4-gcccore-10.3.0`** to load the module 
   
   
 ## Dependencies  
-(none)  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Mako 1.1.4 .  
+[https://www.makotemplates.org](https://www.makotemplates.org)  

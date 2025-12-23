@@ -1,19 +1,20 @@
 # Meson 1.4.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Meson is a cross-platform build system designed to be both as fast and as user friendly as possible.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load meson/1.4.0-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load meson/1.4.0-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load meson/1.4.0-gcccore-13.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.42')]  
+[Python 3.12.3  (GCCcore 13.3.0)](link)  
+[Ninja 1.12.1  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for Meson 1.4.0 .  
+[https://mesonbuild.com](https://mesonbuild.com)  

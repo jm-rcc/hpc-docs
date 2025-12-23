@@ -1,19 +1,22 @@
 # Szip 2.1.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
-Szip compression software, providing lossless compression of scientific data  
+
+ Szip compression software, providing lossless compression of scientific data
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load szip/.2.1.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load szip/.2.1.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +33,8 @@ Use the command **`module load szip/.2.1.1-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+(none)  
   
+## Homepage  
+The homepage for Szip 2.1.1 .  
+[https://support.hdfgroup.org/doc_resource/SZIP/](https://support.hdfgroup.org/doc_resource/SZIP/)  

@@ -1,20 +1,23 @@
 # Cython 3.0.8  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
+
 Cython is an optimising static compiler for both the Python programming
-language and the extended Cython programming language (based on Pyrex).  
+language and the extended Cython programming language (based on Pyrex).
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cython/3.0.8-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cython/3.0.8-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,8 @@ Use the command **`module load cython/3.0.8-gcccore-12.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for Cython 3.0.8 .  
+[https://cython.org/](https://cython.org/)  

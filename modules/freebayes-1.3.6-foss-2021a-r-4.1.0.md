@@ -1,19 +1,20 @@
-# freebayes 1.3.6  
-(bio)  
+# freebayes 1.3.6 -R-4.1.0 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Bayesian haplotype-based genetic polymorphism discovery and genotyping.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load freebayes/1.3.6-foss-2021a-r-4.1.0`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load freebayes/1.3.6-foss-2021a-r-4.1.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,14 @@ Use the command **`module load freebayes/1.3.6-foss-2021a-r-4.1.0`** to load the
   
   
 ## Dependencies  
-[('CMake', '3.20.1'), ('Meson', '0.58.0'), ('Ninja', '1.10.2'), ('pkg-config', '0.29.2')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[R 4.1.0  (foss 2021a)](link)  
+[parallel 20210622  (GCCcore 10.3.0)](link)  
+[libffi 3.3  (GCCcore 10.3.0)](link)  
+[VCFtools 0.1.16  (GCC 10.3.0)](link)  
+[vcflib 1.0.3 -R-4.1.0 (foss 2021a)](link)  
+[SeqLib 1.2.0  (GCC 10.3.0)](link)  
   
+## Homepage  
+The homepage for freebayes 1.3.6 -R-4.1.0.  
+[https://github.com/freebayes/freebayes](https://github.com/freebayes/freebayes)  

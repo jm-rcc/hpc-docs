@@ -1,5 +1,5 @@
-# LAMMPS 2Aug2023_update2  
-(chem)  
+# LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 LAMMPS is a classical molecular dynamics code, and an acronym
@@ -10,18 +10,20 @@ used to model atoms or, more generically, as a parallel particle simulator at
 the atomic, meso, or continuum scale. LAMMPS runs on single processors or in
 parallel using message-passing techniques and a spatial-decomposition of the
 simulation domain. The code is designed to be easy to modify or extend with new
-functionality.  
+functionality.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1`**.  
   
 ### Toolchain  
-{'name': 'foss', 'version': '2023a'}  
+foss (2023a)  
   
 ### Toolchain Options  
 {'openmp': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +35,31 @@ Use the command **`module load lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12
   
   
 ## Dependencies  
-[('CMake', '3.26.3'), ('pkgconf', '1.9.5'), ('archspec', '0.2.5')]  
+[CUDA 12.1.1  (system system)](link)  
+[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore 12.3.0)](link)  
+[NCCL 2.18.3 -CUDA-12.1.1 (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[libpng 1.6.39  (GCCcore 12.3.0)](link)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
+[netCDF 4.9.2  (gompi 2023a)](link)  
+[GSL 2.7  (GCC 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[gzip 1.12  (GCCcore 12.3.0)](link)  
+[cURL 8.0.1  (GCCcore 12.3.0)](link)  
+[HDF5 1.14.0  (gompi 2023a)](link)  
+[PCRE 8.45  (GCCcore 12.3.0)](link)  
+[libxml2 2.11.4  (GCCcore 12.3.0)](link)  
+[FFmpeg 6.0  (GCCcore 12.3.0)](link)  
+[Voro++ 0.4.6  (GCCcore 12.3.0)](link)  
+[kim-api 2.3.0  (GCC 12.3.0)](link)  
+[Eigen 3.4.0  (GCCcore 12.3.0)](link)  
+[PLUMED 2.9.0  (foss 2023a)](link)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
+[VTK 9.3.0  (foss 2023a)](link)  
+[MDI 1.4.26  (gompi 2023a)](link)  
+[tbb 2021.11.0  (GCCcore 12.3.0)](link)  
+[ScaFaCoS 1.0.4  (foss 2023a)](link)  
   
+## Homepage  
+The homepage for LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1.  
+[https://www.lammps.org](https://www.lammps.org)  

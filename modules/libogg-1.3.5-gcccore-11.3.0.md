@@ -1,20 +1,21 @@
 # libogg 1.3.5  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Ogg is a multimedia container format, and the native file and stream format for the Xiph.org
 multimedia codecs.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libogg/1.3.5-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libogg/1.3.5-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load libogg/1.3.5-gcccore-11.3.0`** to load the module
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for libogg 1.3.5 .  
+[https://xiph.org/ogg/](https://xiph.org/ogg/)  

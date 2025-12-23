@@ -1,20 +1,21 @@
 # SWIG 4.1.1  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 SWIG is a software development tool that connects programs written in C and C++ with
  a variety of high-level programming languages.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load swig/.4.1.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load swig/.4.1.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,9 @@ Use the command **`module load swig/.4.1.1-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Bison', '3.8.2')]  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[PCRE2 10.42  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for SWIG 4.1.1 .  
+[http://www.swig.org/](http://www.swig.org/)  

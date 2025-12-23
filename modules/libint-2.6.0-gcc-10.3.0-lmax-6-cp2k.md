@@ -1,20 +1,21 @@
-# Libint 2.6.0  
-(chem)  
+# Libint 2.6.0 -lmax-6-cp2k 
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 Libint library is used to evaluate the traditional (electron repulsion) and certain novel two-body
  matrix elements (integrals) over Cartesian Gaussian functions used in modern atomic and molecular theory.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libint/2.6.0-gcc-10.3.0-lmax-6-cp2k`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True, 'cstd': 'c++11'}  
   
-  
-### Usage  
-Use the command **`module load libint/2.6.0-gcc-10.3.0-lmax-6-cp2k`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load libint/2.6.0-gcc-10.3.0-lmax-6-cp2k`** to load th
   
   
 ## Dependencies  
-[('Autotools', '20210128'), ('GMP', '6.2.1'), ('Boost', '1.76.0'), ('Eigen', '3.3.9'), ('Python', '3.9.5')]  
+(none)  
   
+## Homepage  
+The homepage for Libint 2.6.0 -lmax-6-cp2k.  
+[https://github.com/evaleev/libint](https://github.com/evaleev/libint)  

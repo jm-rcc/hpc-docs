@@ -1,20 +1,21 @@
 # Pillow 8.2.0  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Pillow is the 'friendly PIL fork' by Alex Clark and Contributors.
  PIL is the Python Imaging Library by Fredrik Lundh and Contributors.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pillow/.8.2.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pillow/.8.2.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,14 +30,13 @@ Use the command **`module load pillow/.8.2.0-gcccore-10.3.0`** to load the modul
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [
-    ('Python', '3.9.5'),
-    ('libjpeg-turbo', '2.0.6'),
-    ('libpng', '1.6.37'),
-    ('zlib', '1.2.11'),
-    ('LibTIFF', '4.2.0'),
-    ('freetype', '2.10.4')
-]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
+[libpng 1.6.37  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[LibTIFF 4.2.0  (GCCcore 10.3.0)](link)  
+[freetype 2.10.4  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Pillow 8.2.0 .  
+[https://pillow.readthedocs.org/](https://pillow.readthedocs.org/)  

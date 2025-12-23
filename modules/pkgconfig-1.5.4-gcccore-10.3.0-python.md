@@ -1,19 +1,20 @@
-# pkgconfig 1.5.4  
-(devel)  
+# pkgconfig 1.5.4 -python 
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 pkgconfig is a Python module to interface with the pkg-config command line tool  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pkgconfig/1.5.4-gcccore-10.3.0-python`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pkgconfig/1.5.4-gcccore-10.3.0-python`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,10 +29,9 @@ Use the command **`module load pkgconfig/1.5.4-gcccore-10.3.0-python`** to load 
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [
-    ('Python', '3.9.5'),
-    ('pkg-config', '0.29.2'),
-]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[pkg-config 0.29.2  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for pkgconfig 1.5.4 -python.  
+[https://github.com/matze/pkgconfig](https://github.com/matze/pkgconfig)  

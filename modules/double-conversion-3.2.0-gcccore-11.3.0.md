@@ -1,19 +1,20 @@
 # double-conversion 3.2.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load double-conversion/3.2.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load double-conversion/3.2.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load double-conversion/3.2.0-gcccore-11.3.0`** to load
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('CMake', '3.23.1')]  
+(none)  
   
+## Homepage  
+The homepage for double-conversion 3.2.0 .  
+[https://github.com/google/double-conversion](https://github.com/google/double-conversion)  

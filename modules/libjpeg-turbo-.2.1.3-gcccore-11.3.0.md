@@ -1,21 +1,24 @@
 # libjpeg-turbo 2.1.3  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to
+
+ libjpeg-turbo is a fork of the original IJG libjpeg which uses SIMD to
  accelerate baseline JPEG compression and decompression. libjpeg is a library
- that implements JPEG image encoding, decoding and transcoding.  
+ that implements JPEG image encoding, decoding and transcoding.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libjpeg-turbo/.2.1.3-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libjpeg-turbo/.2.1.3-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,8 @@ Use the command **`module load libjpeg-turbo/.2.1.3-gcccore-11.3.0`** to load th
   
   
 ## Dependencies  
-[('CMake', '3.23.1'), ('binutils', '2.38')]  
+[NASM 2.15.05  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for libjpeg-turbo 2.1.3 .  
+[https://sourceforge.net/projects/libjpeg-turbo/](https://sourceforge.net/projects/libjpeg-turbo/)  

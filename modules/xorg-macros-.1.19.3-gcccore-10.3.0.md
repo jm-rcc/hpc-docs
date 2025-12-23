@@ -1,19 +1,20 @@
 # xorg-macros 1.19.3  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 X.org macros utilities.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load xorg-macros/.1.19.3-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load xorg-macros/.1.19.3-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load xorg-macros/.1.19.3-gcccore-10.3.0`** to load the
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('Autotools', '20210128')]  
+(none)  
   
+## Homepage  
+The homepage for xorg-macros 1.19.3 .  
+[https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  

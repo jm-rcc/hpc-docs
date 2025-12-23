@@ -1,20 +1,21 @@
 # Tk 8.6.11  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Tk is an open source, cross-platform widget toolchain that provides a library of basic elements for
  building a graphical user interface (GUI) in many different programming languages.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load tk/.8.6.11-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load tk/.8.6.11-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,10 +30,10 @@ Use the command **`module load tk/.8.6.11-gcccore-10.3.0`** to load the module o
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-dependencies = [
-    ('Tcl', version),
-    ('X11', '20210518'),
-    ('zlib', '1.2.11'),
-]  
+[Tcl 8.6.11  (GCCcore 10.3.0)](link)  
+[X11 20210518  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Tk 8.6.11 .  
+[https://www.tcl.tk/](https://www.tcl.tk/)  

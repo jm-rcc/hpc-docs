@@ -1,19 +1,20 @@
 # prokka 1.14.5  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Prokka is a software tool for the rapid annotation of prokaryotic genomes.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load prokka/1.14.5-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load prokka/1.14.5-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,12 +31,13 @@ Use the command **`module load prokka/1.14.5-gompi-2021a`** to load the module o
   
   
 ## Dependencies  
-dependencies = [
-    ('BioPerl', '1.7.8'),
-    ('BLAST+', '2.11.0'),
-    ('Java', '11', '', SYSTEM),
-    ('Bio-SearchIO-hmmer', '1.7.3'),
-    ('parallel', '20210622'),
-    ('tbl2asn', '20230119', '-linux64', SYSTEM),
-]  
+[BioPerl 1.7.8  (GCCcore 10.3.0)](link)  
+[BLAST+ 2.11.0  (gompi 2021a)](link)  
+[Java 11  (system system)](link)  
+[Bio-SearchIO-hmmer 1.7.3  (GCC 10.3.0)](link)  
+[parallel 20210622  (GCCcore 10.3.0)](link)  
+[tbl2asn 20230119 -linux64 (system system)](link)  
   
+## Homepage  
+The homepage for prokka 1.14.5 .  
+[https://www.vicbioinformatics.com/software.prokka.shtml](https://www.vicbioinformatics.com/software.prokka.shtml)  

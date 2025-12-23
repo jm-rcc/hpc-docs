@@ -1,19 +1,20 @@
 # binutils 2.36.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 binutils: GNU binary utilities  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load binutils/.2.36.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load binutils/.2.36.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,10 +31,8 @@ Use the command **`module load binutils/.2.36.1-gcccore-10.3.0`** to load the mo
   
   
 ## Dependencies  
-dependencies = [
-    ('flex', '2.6.4'),
-    ('Bison', '3.7.6'),
-    # use same binutils version that was used when building GCC toolchain, to 'bootstrap' this binutils
-    ('binutils', version, '', SYSTEM)
-]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for binutils 2.36.1 .  
+[https://directory.fsf.org/project/binutils/](https://directory.fsf.org/project/binutils/)  

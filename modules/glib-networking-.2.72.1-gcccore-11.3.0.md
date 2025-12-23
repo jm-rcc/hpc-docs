@@ -1,19 +1,20 @@
 # glib-networking 2.72.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Network extensions for GLib  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load glib-networking/.2.72.1-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load glib-networking/.2.72.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load glib-networking/.2.72.1-gcccore-11.3.0`** to load
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('Meson', '0.62.1'), ('Ninja', '1.10.2'), ('pkgconf', '1.8.0')]  
+[GLib 2.72.1  (GCCcore 11.3.0)](link)  
+[GnuTLS 3.7.8  (GCCcore 11.3.0)](link)  
+[libidn2 2.3.2  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for glib-networking 2.72.1 .  
+[https://gitlab.gnome.org/GNOME/glib-networking](https://gitlab.gnome.org/GNOME/glib-networking)  

@@ -1,26 +1,29 @@
 # GROMACS 2021.3  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
+
 GROMACS is a versatile package to perform molecular dynamics, i.e. simulate the
 Newtonian equations of motion for systems with hundreds to millions of
-particles.  
-  
+particles.
+
 This is a CPU only build, containing both MPI and threadMPI builds
-for both single and double precision.  
+for both single and double precision.
+
+It also contains the gmxapi extension for the single precision MPI build.
   
-It also contains the gmxapi extension for the single precision MPI build.  
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gromacs/2021.3-foss-2021a`**.  
   
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 {'openmp': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load gromacs/2021.3-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3  
@@ -28,5 +31,10 @@ Use the command **`module load gromacs/2021.3-foss-2021a`** to load the module o
   
   
 ## Dependencies  
-[('CMake', '3.20.1'), ('scikit-build', '0.11.1')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[SciPy-bundle 2021.05  (foss 2021a)](link)  
+[networkx 2.5.1  (foss 2021a)](link)  
   
+## Homepage  
+The homepage for GROMACS 2021.3 .  
+[https://www.gromacs.org](https://www.gromacs.org)  

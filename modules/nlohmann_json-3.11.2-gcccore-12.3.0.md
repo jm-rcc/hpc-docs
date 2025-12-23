@@ -1,19 +1,20 @@
 # nlohmann_json 3.11.2  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 JSON for Modern C++  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nlohmann_json/3.11.2-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nlohmann_json/3.11.2-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,8 @@ Use the command **`module load nlohmann_json/3.11.2-gcccore-12.3.0`** to load th
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3')]  
+(none)  
   
+## Homepage  
+The homepage for nlohmann_json 3.11.2 .  
+[https://github.com/nlohmann/json](https://github.com/nlohmann/json)  

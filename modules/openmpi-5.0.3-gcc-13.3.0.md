@@ -1,19 +1,20 @@
 # OpenMPI 5.0.3  
-(mpi)  
+![Static Badge](https://img.shields.io/badge/class-mpi-D7D1CC)  
   
   
 The Open MPI Project is an open source MPI-3 implementation.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load openmpi/5.0.3-gcc-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '13.3.0'}  
+GCC (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load openmpi/5.0.3-gcc-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,15 @@ Use the command **`module load openmpi/5.0.3-gcc-13.3.0`** to load the module on
   
   
 ## Dependencies  
-[('pkgconf', '2.2.0'), ('Autotools', '20231222')]  
+[zlib 1.3.1  (GCCcore 13.3.0)](link)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
+[libevent 2.1.12  (GCCcore 13.3.0)](link)  
+[libfabric 1.21.0  (GCCcore 13.3.0)](link)  
+[UCX 1.16.0  (GCCcore 13.3.0)](link)  
+[PMIx 5.0.2  (GCCcore 13.3.0)](link)  
+[PRRTE 3.0.5  (GCCcore 13.3.0)](link)  
+[UCC 1.3.0  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for OpenMPI 5.0.3 .  
+[https://www.open-mpi.org/](https://www.open-mpi.org/)  

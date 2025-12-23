@@ -1,22 +1,24 @@
 # QuantumESPRESSO 7.1  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 Quantum ESPRESSO  is an integrated suite of computer codes
 for electronic-structure calculations and materials modeling at the nanoscale.
 It is based on density-functional theory, plane waves, and pseudopotentials
-(both norm-conserving and ultrasoft).  
+(both norm-conserving and ultrasoft).
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load quantumespresso/7.1-foss-2022a`**.  
   
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 {'usempi': True, 'openmp': True}  
   
-  
-### Usage  
-Use the command **`module load quantumespresso/7.1-foss-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,11 +35,10 @@ Use the command **`module load quantumespresso/7.1-foss-2022a`** to load the mod
   
   
 ## Dependencies  
-dependencies = [('M4', '1.4.19')]
-
-dependencies = [
-    ('HDF5', '1.12.2'),
-    ('ELPA', '2021.11.001'),
-    ('libxc', '5.2.3'),
-]  
+[HDF5 1.12.2  (gompi 2022a)](link)  
+[ELPA 2021.11.001  (foss 2022a)](link)  
+[libxc 5.2.3  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for QuantumESPRESSO 7.1 .  
+[https://www.quantum-espresso.org](https://www.quantum-espresso.org)  

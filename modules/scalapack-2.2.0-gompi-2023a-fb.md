@@ -1,20 +1,21 @@
-# ScaLAPACK 2.2.0  
-(numlib)  
+# ScaLAPACK 2.2.0 -fb 
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines
  redesigned for distributed memory MIMD parallel computers.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load scalapack/2.2.0-gompi-2023a-fb`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2023a'}  
+gompi (2023a)  
   
 ### Toolchain Options  
 {'extra_fflags': '-lpthread', 'openmp': True, 'pic': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load scalapack/2.2.0-gompi-2023a-fb`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load scalapack/2.2.0-gompi-2023a-fb`** to load the mod
   
   
 ## Dependencies  
-[('CMake', '3.26.3')]  
+[FlexiBLAS 3.3.1  (GCC 12.3.0)](link)  
   
+## Homepage  
+The homepage for ScaLAPACK 2.2.0 -fb.  
+[https://www.netlib.org/scalapack/](https://www.netlib.org/scalapack/)  

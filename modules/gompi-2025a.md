@@ -1,20 +1,21 @@
 # gompi 2025a  
-(toolchain)  
+![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
   
 GNU Compiler Collection (GCC) based compiler toolchain,
  including OpenMPI for MPI support.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gompi/2025a`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gompi/2025a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -24,8 +25,9 @@ Use the command **`module load gompi/2025a`** to load the module on Bunya.
   
   
 ## Dependencies  
-dependencies = [
-    ('GCC', local_gccver),  # includes both GCC and binutils
-    ('OpenMPI', '5.0.7', '', ('GCC', local_gccver)),
-]  
+[GCC 14.2.0  (system system)](link)  
+[OpenMPI 5.0.7  (GCC 14.2.0)](link)  
   
+## Homepage  
+The homepage for gompi 2025a .  
+(none)  

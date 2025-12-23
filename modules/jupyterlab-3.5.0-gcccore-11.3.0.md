@@ -1,5 +1,5 @@
 # JupyterLab 3.5.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 JupyterLab is the next-generation user interface for Project Jupyter offering all the familiar
@@ -8,15 +8,16 @@ JupyterLab is the next-generation user interface for Project Jupyter offering al
  Notebook.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load jupyterlab/3.5.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load jupyterlab/3.5.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,10 @@ Use the command **`module load jupyterlab/3.5.0-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[IPython 8.5.0  (GCCcore 11.3.0)](link)  
+[jupyter-server 1.21.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for JupyterLab 3.5.0 .  
+[https://jupyter.org/](https://jupyter.org/)  

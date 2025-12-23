@@ -1,20 +1,21 @@
 # gffread 0.12.7  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 GFF/GTF parsing utility providing format conversions,
 region filtering, FASTA sequence extraction and more.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gffread/0.12.7-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load gffread/0.12.7-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,12 +32,8 @@ Use the command **`module load gffread/0.12.7-gcccore-10.3.0`** to load the modu
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-buildopts = " release"
-
-files_to_copy = [
-    (['%(name)s'], 'bin'),
-    'LICENSE',
-]  
+(none)  
   
+## Homepage  
+The homepage for gffread 0.12.7 .  
+[https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread](https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread)  

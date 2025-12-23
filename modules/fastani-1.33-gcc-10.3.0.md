@@ -1,5 +1,5 @@
 # FastANI 1.33  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 FastANI is developed for fast alignment-free computation of
@@ -9,15 +9,16 @@ FastANI is developed for fast alignment-free computation of
  genome assemblies.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fastani/1.33-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load fastani/1.33-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,10 +33,9 @@ Use the command **`module load fastani/1.33-gcc-10.3.0`** to load the module on 
   
   
 ## Dependencies  
-dependencies = [('Autotools', '20210128')]
-
-dependencies = [
-    ('GSL', '2.7'),
-    ('zlib', '1.2.11'),
-]  
+[GSL 2.7  (GCC 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for FastANI 1.33 .  
+[https://github.com/ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)  

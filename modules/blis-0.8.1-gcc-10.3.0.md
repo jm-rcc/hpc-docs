@@ -1,20 +1,21 @@
 # BLIS 0.8.1  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 BLIS is a portable software framework for instantiating high-performance
 BLAS-like dense linear algebra libraries.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load blis/0.8.1-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load blis/0.8.1-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load blis/0.8.1-gcc-10.3.0`** to load the module on Bu
   
   
 ## Dependencies  
-[('Python', '3.9.5'), ('Perl', '5.32.1')]  
+(none)  
   
+## Homepage  
+The homepage for BLIS 0.8.1 .  
+[https://github.com/flame/blis/](https://github.com/flame/blis/)  

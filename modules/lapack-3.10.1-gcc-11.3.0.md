@@ -1,5 +1,5 @@
 # LAPACK 3.10.1  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 LAPACK is written in Fortran90 and provides routines for solving systems of
@@ -7,15 +7,16 @@ LAPACK is written in Fortran90 and provides routines for solving systems of
  problems, and singular value problems.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lapack/3.10.1-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load lapack/3.10.1-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +35,6 @@ Use the command **`module load lapack/3.10.1-gcc-11.3.0`** to load the module on
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for LAPACK 3.10.1 .  
+[https://www.netlib.org/lapack/](https://www.netlib.org/lapack/)  

@@ -1,5 +1,5 @@
 # libvori 220621  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 C++ library implementing the Voronoi integration as well as the compressed bqb
@@ -7,15 +7,16 @@ file format. The present version of libvori is a very early development
 version, which is hard-coded to work with the CP2k program package.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libvori/220621-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libvori/220621-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,8 @@ Use the command **`module load libvori/220621-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-[('CMake', '3.23.1'), ('binutils', '2.38')]  
+(none)  
   
+## Homepage  
+The homepage for libvori 220621 .  
+[https://brehm-research.de/libvori.php](https://brehm-research.de/libvori.php)  

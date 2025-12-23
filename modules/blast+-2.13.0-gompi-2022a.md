@@ -1,5 +1,5 @@
 # BLAST+ 2.13.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Basic Local Alignment Search Tool, or BLAST, is an algorithm
@@ -7,15 +7,16 @@ Basic Local Alignment Search Tool, or BLAST, is an algorithm
  sequences of different proteins or the nucleotides of DNA sequences.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load blast+/2.13.0-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 {'usempi': True, 'pic': True}  
   
-  
-### Usage  
-Use the command **`module load blast+/2.13.0-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,16 +33,15 @@ Use the command **`module load blast+/2.13.0-gompi-2022a`** to load the module o
   
   
 ## Dependencies  
-dependencies = [('cpio', '2.14')]
-
-dependencies = [
-    ('zlib', '1.2.12'),
-    ('bzip2', '1.0.8'),
-    ('PCRE', '8.45'),
-    ('Boost', '1.79.0'),
-    ('GMP', '6.2.1'),
-    ('libpng', '1.6.37'),
-    ('libjpeg-turbo', '2.1.3'),
-    ('LMDB', '0.9.29'),
-]  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[PCRE 8.45  (GCCcore 11.3.0)](link)  
+[Boost 1.79.0  (GCC 11.3.0)](link)  
+[GMP 6.2.1  (GCCcore 11.3.0)](link)  
+[libpng 1.6.37  (GCCcore 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
+[LMDB 0.9.29  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for BLAST+ 2.13.0 .  
+[https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  

@@ -1,20 +1,21 @@
 # file 5.40  
-(system)  
+![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
   
 The file command is 'a file type guesser', that is, a command-line tool
  that tells you in words what kind of data a file contains.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load file/5.40-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load file/5.40-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load file/5.40-gcccore-10.3.0`** to load the module on
   
   
 ## Dependencies  
-[('Autotools', '20210128'), ('binutils', '2.36.1')]  
+(none)  
   
+## Homepage  
+The homepage for file 5.40 .  
+[https://www.darwinsys.com/file/](https://www.darwinsys.com/file/)  

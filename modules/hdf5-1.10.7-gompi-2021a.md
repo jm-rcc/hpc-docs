@@ -1,5 +1,5 @@
 # HDF5 1.10.7  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 HDF5 is a data model, library, and file format for storing and managing data.
@@ -7,15 +7,16 @@ HDF5 is a data model, library, and file format for storing and managing data.
  and efficient I/O and for high volume and complex data.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hdf5/1.10.7-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load hdf5/1.10.7-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,9 @@ Use the command **`module load hdf5/1.10.7-gompi-2021a`** to load the module on 
   
   
 ## Dependencies  
-[('zlib', '1.2.11'), ('Szip', '2.1.1')]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[Szip 2.1.1  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for HDF5 1.10.7 .  
+[https://portal.hdfgroup.org/display/support](https://portal.hdfgroup.org/display/support)  

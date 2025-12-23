@@ -1,23 +1,26 @@
 # gperf 3.1  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-GNU gperf is a perfect hash function generator. For a given list of strings,
+
+ GNU gperf is a perfect hash function generator. For a given list of strings,
  it produces a hash function and hash table, in form of C or C++ code, for
  looking up a value depending on the input string. The hash function is
  perfect, which means that the hash table has no collisions, and the hash
- table lookup needs a single string comparison only.  
+ table lookup needs a single string comparison only.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gperf/.3.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gperf/.3.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +37,8 @@ Use the command **`module load gperf/.3.1-gcccore-11.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+(none)  
   
+## Homepage  
+The homepage for gperf 3.1 .  
+[https://www.gnu.org/software/gperf/](https://www.gnu.org/software/gperf/)  

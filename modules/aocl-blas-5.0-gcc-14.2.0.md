@@ -1,20 +1,21 @@
 # AOCL-BLAS 5.0  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 AOCL-BLAS is AMD's optimized version of
                  BLAS targeted for AMD EPYC and Ryzen CPUs.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load aocl-blas/5.0-gcc-14.2.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '14.2.0'}  
+GCC (14.2.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load aocl-blas/5.0-gcc-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -24,5 +25,8 @@ Use the command **`module load aocl-blas/5.0-gcc-14.2.0`** to load the module on
   
   
 ## Dependencies  
-[('Python', '3.13.1'), ('Perl', '5.40.0')]  
+(none)  
   
+## Homepage  
+The homepage for AOCL-BLAS 5.0 .  
+[https://github.com/amd/blis](https://github.com/amd/blis)  

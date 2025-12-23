@@ -1,19 +1,20 @@
 # ABRicate 1.0.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Mass screening of contigs for antimicrobial and virulence genes  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load abricate/1.0.0-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load abricate/1.0.0-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,11 @@ Use the command **`module load abricate/1.0.0-gompi-2021a`** to load the module 
   
   
 ## Dependencies  
-[('Perl', '5.32.1'), ('any2fasta', '0.4.2'), ('BioPerl', '1.7.8'), ('BLAST+', '2.11.0')]  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[any2fasta 0.4.2  (GCCcore 10.3.0)](link)  
+[BioPerl 1.7.8  (GCCcore 10.3.0)](link)  
+[BLAST+ 2.11.0  (gompi 2021a)](link)  
   
+## Homepage  
+The homepage for ABRicate 1.0.0 .  
+[https://github.com/tseemann/abricate](https://github.com/tseemann/abricate)  

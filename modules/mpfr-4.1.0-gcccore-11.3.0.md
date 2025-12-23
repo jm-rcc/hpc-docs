@@ -1,20 +1,23 @@
 # MPFR 4.1.0  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
-The MPFR library is a C library for multiple-precision floating-point
- computations with correct rounding.  
+
+ The MPFR library is a C library for multiple-precision floating-point
+ computations with correct rounding.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mpfr/4.1.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mpfr/4.1.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,8 @@ Use the command **`module load mpfr/4.1.0-gcccore-11.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[GMP 6.2.1  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for MPFR 4.1.0 .  
+[https://www.mpfr.org](https://www.mpfr.org)  

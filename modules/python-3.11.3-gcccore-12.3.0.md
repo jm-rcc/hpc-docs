@@ -1,20 +1,21 @@
 # Python 3.11.3  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Python is a programming language that lets you work more quickly and integrate your systems
  more effectively.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load python/3.11.3-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load python/3.11.3-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,16 @@ Use the command **`module load python/3.11.3-gcccore-12.3.0`** to load the modul
   
   
 ## Dependencies  
-[('UnZip', '6.0'), ('pkgconf', '1.9.5')]  
+[binutils 2.40  (GCCcore 12.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[libreadline 8.2  (GCCcore 12.3.0)](link)  
+[ncurses 6.4  (GCCcore 12.3.0)](link)  
+[SQLite 3.42.0  (GCCcore 12.3.0)](link)  
+[XZ 5.4.2  (GCCcore 12.3.0)](link)  
+[libffi 3.4.4  (GCCcore 12.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for Python 3.11.3 .  
+[https://python.org/](https://python.org/)  

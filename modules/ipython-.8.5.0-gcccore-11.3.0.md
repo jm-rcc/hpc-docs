@@ -1,5 +1,5 @@
 # IPython 8.5.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 IPython provides a rich architecture for interactive computing with:
@@ -10,15 +10,16 @@ IPython provides a rich architecture for interactive computing with:
  Easy to use, high performance tools for parallel computing.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ipython/.8.5.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ipython/.8.5.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,12 +36,11 @@ Use the command **`module load ipython/.8.5.0-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('Python', '3.10.4'),
-    ('ZeroMQ', '4.3.4'),
-    ('lxml', '4.9.1'),
-    ('BeautifulSoup', '4.10.0'),
-]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[ZeroMQ 4.3.4  (GCCcore 11.3.0)](link)  
+[lxml 4.9.1  (GCCcore 11.3.0)](link)  
+[BeautifulSoup 4.10.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for IPython 8.5.0 .  
+[https://ipython.org/index.html](https://ipython.org/index.html)  

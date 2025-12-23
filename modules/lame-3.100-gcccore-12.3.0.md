@@ -1,19 +1,20 @@
 # LAME 3.100  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGPL.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lame/3.100-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load lame/3.100-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load lame/3.100-gcccore-12.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Autotools', '20220317')]  
+[ncurses 6.4  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for LAME 3.100 .  
+[http://lame.sourceforge.net/](http://lame.sourceforge.net/)  

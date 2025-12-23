@@ -1,5 +1,5 @@
 # prodigal 2.6.3  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
@@ -7,15 +7,16 @@ Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
    at Oak Ridge National Laboratory and the University of Tennessee.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load prodigal/2.6.3-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load prodigal/2.6.3-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,11 +31,8 @@ Use the command **`module load prodigal/2.6.3-gcccore-10.3.0`** to load the modu
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-files_to_copy = [
-    (['prodigal'], 'bin'),
-    (['*.h'], 'include'),
-    (['LICENSE'], 'license'),
-]  
+(none)  
   
+## Homepage  
+The homepage for prodigal 2.6.3 .  
+[https://github.com/hyattpd/Prodigal/](https://github.com/hyattpd/Prodigal/)  

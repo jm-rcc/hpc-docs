@@ -1,19 +1,20 @@
 # libdeflate 1.10  
-(system)  
+![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
   
 Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libdeflate/1.10-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libdeflate/1.10-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,22 +31,8 @@ Use the command **`module load libdeflate/1.10-gcccore-11.3.0`** to load the mod
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-skipsteps = ['configure']
-
-installopts = 'PREFIX=%(installdir)s'
-
-sanity_check_paths = {
-    'files': [
-        'bin/%(name)s-gunzip', 'bin/%(name)s-gzip',
-        'lib/%(name)s.a', 'lib/%%(name)s.%s' % SHLIB_EXT,
-        'include/%(name)s.h',
-    ],
-    'dirs': [],
-}
-sanity_check_commands = [
-    '%(name)s-gzip -h',
-    '%(name)s-gunzip -h',
-]  
+(none)  
   
+## Homepage  
+The homepage for libdeflate 1.10 .  
+[https://github.com/ebiggers/libdeflate](https://github.com/ebiggers/libdeflate)  

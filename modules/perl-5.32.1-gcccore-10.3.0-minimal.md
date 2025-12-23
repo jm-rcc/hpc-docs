@@ -1,21 +1,23 @@
-# Perl 5.32.1  
-(lang)  
+# Perl 5.32.1 -minimal 
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
-Larry Wall's Practical Extraction and Report Language  
+Larry Wall's Practical Extraction and Report Language
+
+This is a minimal build without any modules. Should only be used for build dependencies.
   
-This is a minimal build without any modules. Should only be used for build dependencies.  
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load perl/5.32.1-gcccore-10.3.0-minimal`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load perl/5.32.1-gcccore-10.3.0-minimal`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +34,8 @@ Use the command **`module load perl/5.32.1-gcccore-10.3.0-minimal`** to load the
   
   
 ## Dependencies  
-[('binutils', '2.36.1')]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Perl 5.32.1 -minimal.  
+[https://www.perl.org/](https://www.perl.org/)  

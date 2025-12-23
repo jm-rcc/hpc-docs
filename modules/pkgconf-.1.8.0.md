@@ -1,20 +1,21 @@
 # pkgconf 1.8.0  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 pkgconf is a program which helps to configure compiler and linker flags for development libraries.
  It is similar to pkg-config from freedesktop.org.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pkgconf/.1.8.0`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pkgconf/.1.8.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load pkgconf/.1.8.0`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for pkgconf 1.8.0 .  
+[https://github.com/pkgconf/pkgconf](https://github.com/pkgconf/pkgconf)  

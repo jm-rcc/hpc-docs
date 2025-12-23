@@ -1,19 +1,20 @@
 # Boost 1.79.0  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 Boost provides free peer-reviewed portable C++ source libraries.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load boost/1.79.0-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load boost/1.79.0-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,12 @@ Use the command **`module load boost/1.79.0-gcc-11.3.0`** to load the module on 
   
   
 ## Dependencies  
-[('bzip2', '1.0.8'), ('zlib', '1.2.12'), ('XZ', '5.2.5'), ('zstd', '1.5.2'), ('ICU', '71.1')]  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[XZ 5.2.5  (GCCcore 11.3.0)](link)  
+[zstd 1.5.2  (GCCcore 11.3.0)](link)  
+[ICU 71.1  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Boost 1.79.0 .  
+[https://www.boost.org/](https://www.boost.org/)  

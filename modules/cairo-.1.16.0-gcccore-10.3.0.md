@@ -1,5 +1,5 @@
 # cairo 1.16.0  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Cairo is a 2D graphics library with support for multiple output devices.
@@ -7,15 +7,16 @@ Cairo is a 2D graphics library with support for multiple output devices.
  PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cairo/.1.16.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cairo/.1.16.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,15 @@ Use the command **`module load cairo/.1.16.0-gcccore-10.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('pkg-config', '0.29.2')]  
+[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[libpng 1.6.37  (GCCcore 10.3.0)](link)  
+[freetype 2.10.4  (GCCcore 10.3.0)](link)  
+[pixman 0.40.0  (GCCcore 10.3.0)](link)  
+[expat 2.2.9  (GCCcore 10.3.0)](link)  
+[GLib 2.68.2  (GCCcore 10.3.0)](link)  
+[X11 20210518  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for cairo 1.16.0 .  
+[https://cairographics.org](https://cairographics.org)  

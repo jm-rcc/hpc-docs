@@ -1,19 +1,20 @@
 # iimpi 2025a  
-(toolchain)  
+![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
   
 Intel C/C++ and Fortran compilers, alongside Intel MPI.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load iimpi/2025a`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load iimpi/2025a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -23,8 +24,9 @@ Use the command **`module load iimpi/2025a`** to load the module on Bunya.
   
   
 ## Dependencies  
-dependencies = [
-    ('intel-compilers', local_comp_ver),
-    ('impi', '2021.15.0', '', ('intel-compilers', local_comp_ver)),
-]  
+[intel-compilers 2025.1.1  (system system)](link)  
+[impi 2021.15.0  (intel-compilers 2025.1.1)](link)  
   
+## Homepage  
+The homepage for iimpi 2025a .  
+[https://software.intel.com/parallel-studio-xe](https://software.intel.com/parallel-studio-xe)  

@@ -1,19 +1,20 @@
 # ImageMagick 7.1.0-37  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 ImageMagick is a software suite to create, edit, compose, or convert bitmap images  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load imagemagick/7.1.0-37-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load imagemagick/7.1.0-37-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,17 @@ Use the command **`module load imagemagick/7.1.0-37-gcccore-11.3.0`** to load th
   
   
 ## Dependencies  
-[('bzip2', '1.0.8'), ('X11', '20220504'), ('Ghostscript', '9.56.1'), ('JasPer', '2.0.33'), ('libjpeg-turbo', '2.1.3'), ('LibTIFF', '4.3.0'), ('LittleCMS', '2.13.1'), ('Pango', '1.50.7'), ('pixman', '0.40.0'), ('FriBidi', '1.0.12')]  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[X11 20220504  (GCCcore 11.3.0)](link)  
+[Ghostscript 9.56.1  (GCCcore 11.3.0)](link)  
+[JasPer 2.0.33  (GCCcore 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
+[LibTIFF 4.3.0  (GCCcore 11.3.0)](link)  
+[LittleCMS 2.13.1  (GCCcore 11.3.0)](link)  
+[Pango 1.50.7  (GCCcore 11.3.0)](link)  
+[pixman 0.40.0  (GCCcore 11.3.0)](link)  
+[FriBidi 1.0.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for ImageMagick 7.1.0-37 .  
+[https://www.imagemagick.org/](https://www.imagemagick.org/)  

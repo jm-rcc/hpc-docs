@@ -1,20 +1,23 @@
 # CMake 3.24.3  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-CMake, the cross-platform, open-source build system.  CMake is a family of
- tools designed to build, test and package software.  
+
+ CMake, the cross-platform, open-source build system.  CMake is a family of
+ tools designed to build, test and package software.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cmake/3.24.3-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cmake/3.24.3-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,13 @@ Use the command **`module load cmake/3.24.3-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[ncurses 6.3  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[cURL 7.83.0  (GCCcore 11.3.0)](link)  
+[libarchive 3.6.1  (GCCcore 11.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for CMake 3.24.3 .  
+[https://www.cmake.org](https://www.cmake.org)  

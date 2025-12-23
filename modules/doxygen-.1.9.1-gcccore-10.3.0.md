@@ -1,21 +1,24 @@
 # Doxygen 1.9.1  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-Doxygen is a documentation system for C++, C, Java, Objective-C, Python,
+
+ Doxygen is a documentation system for C++, C, Java, Objective-C, Python,
  IDL (Corba and Microsoft flavors), Fortran, VHDL, PHP, C#, and to some
- extent D.  
+ extent D.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load doxygen/.1.9.1-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load doxygen/.1.9.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,8 @@ Use the command **`module load doxygen/.1.9.1-gcccore-10.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('Bison', '3.7.6'), ('CMake', '3.20.1'), ('flex', '2.6.4'), ('pkg-config', '0.29.2'), ('Python', '3.9.5', '-bare')]  
+[libiconv 1.16  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Doxygen 1.9.1 .  
+[https://www.doxygen.org](https://www.doxygen.org)  

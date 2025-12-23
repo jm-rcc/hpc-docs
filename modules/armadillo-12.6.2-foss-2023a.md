@@ -1,5 +1,5 @@
 # Armadillo 12.6.2  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 Armadillo is an open-source C++ linear algebra library (matrix maths) aiming towards
@@ -7,15 +7,16 @@ Armadillo is an open-source C++ linear algebra library (matrix maths) aiming tow
  as well as a subset of trigonometric and statistics functions.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load armadillo/12.6.2-foss-2023a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2023a'}  
+foss (2023a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load armadillo/12.6.2-foss-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load armadillo/12.6.2-foss-2023a`** to load the module
   
   
 ## Dependencies  
-[('CMake', '3.26.3')]  
+[Boost 1.82.0  (GCC 12.3.0)](link)  
+[HDF5 1.14.0  (gompi 2023a)](link)  
+[arpack-ng 3.9.0  (foss 2023a)](link)  
   
+## Homepage  
+The homepage for Armadillo 12.6.2 .  
+[https://arma.sourceforge.net/](https://arma.sourceforge.net/)  

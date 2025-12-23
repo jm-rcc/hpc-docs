@@ -1,26 +1,29 @@
 # hwloc 2.9.1  
-(system)  
+![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
   
-The Portable Hardware Locality (hwloc) software package provides a portable
+
+ The Portable Hardware Locality (hwloc) software package provides a portable
  abstraction (across OS, versions, architectures, ...) of the hierarchical
  topology of modern architectures, including NUMA memory nodes, sockets, shared
  caches, cores and simultaneous multithreading. It also gathers various system
  attributes such as cache and memory information as well as the locality of I/O
  devices such as network interfaces, InfiniBand HCAs or GPUs. It primarily
  aims at helping applications with gathering information about modern computing
- hardware so as to exploit it accordingly and efficiently.  
+ hardware so as to exploit it accordingly and efficiently.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hwloc/.2.9.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load hwloc/.2.9.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -37,5 +40,10 @@ Use the command **`module load hwloc/.2.9.1-gcccore-12.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[numactl 2.0.16  (GCCcore 12.3.0)](link)  
+[libxml2 2.11.4  (GCCcore 12.3.0)](link)  
+[libpciaccess 0.17  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for hwloc 2.9.1 .  
+[https://www.open-mpi.org/projects/hwloc/](https://www.open-mpi.org/projects/hwloc/)  

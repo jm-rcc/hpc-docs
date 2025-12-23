@@ -1,23 +1,26 @@
 # pkg-config 0.29.2  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-pkg-config is a helper tool used when compiling applications and libraries.
+
+ pkg-config is a helper tool used when compiling applications and libraries.
  It helps you insert the correct compiler options on the command line so an
  application can use gcc -o test test.c `pkg-config --libs --cflags glib-2.0`
  for instance, rather than hard-coding values on where to find glib (or other
- libraries).  
+ libraries).
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pkg-config/.0.29.2-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pkg-config/.0.29.2-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -36,3 +39,6 @@ Use the command **`module load pkg-config/.0.29.2-gcccore-11.3.0`** to load the 
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for pkg-config 0.29.2 .  
+[https://www.freedesktop.org/wiki/Software/pkg-config/](https://www.freedesktop.org/wiki/Software/pkg-config/)  

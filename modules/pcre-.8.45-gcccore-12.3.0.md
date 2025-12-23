@@ -1,20 +1,23 @@
 # PCRE 8.45  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-The PCRE library is a set of functions that implement regular expression
- pattern matching using the same syntax and semantics as Perl 5.  
+
+ The PCRE library is a set of functions that implement regular expression
+ pattern matching using the same syntax and semantics as Perl 5.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pcre/.8.45-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load pcre/.8.45-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,9 @@ Use the command **`module load pcre/.8.45-gcccore-12.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[bzip2 1.0.8  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for PCRE 8.45 .  
+[https://www.pcre.org/](https://www.pcre.org/)  

@@ -1,19 +1,20 @@
 # ParaView 5.11.2  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 ParaView is a scientific parallel visualizer.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load paraview/5.11.2-foss-2023a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2023a'}  
+foss (2023a)  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load paraview/5.11.2-foss-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 l40  
@@ -22,20 +23,19 @@ Use the command **`module load paraview/5.11.2-foss-2023a`** to load the module 
   
   
 ## Dependencies  
-dependencies = [('CMake', '3.26.3')]
-
-dependencies = [
-    ('Python', '3.11.3'),
-    ('SciPy-bundle', '2023.07'),
-    ('Boost', '1.82.0'),
-    ('XZ', '5.4.2'),
-    ('HDF5', '1.14.0'),
-    ('netCDF', '4.9.2'),
-    ('libdrm', '2.4.115'),
-    ('Mesa', '23.1.4'),
-    ('Qt5', '5.15.10'),
-    ('zlib', '1.2.13'),
-    ('FFmpeg', '6.0'),
-    ('Szip', '2.1.1'),
-]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
+[Boost 1.82.0  (GCC 12.3.0)](link)  
+[XZ 5.4.2  (GCCcore 12.3.0)](link)  
+[HDF5 1.14.0  (gompi 2023a)](link)  
+[netCDF 4.9.2  (gompi 2023a)](link)  
+[libdrm 2.4.115  (GCCcore 12.3.0)](link)  
+[Mesa 23.1.4  (GCCcore 12.3.0)](link)  
+[Qt5 5.15.10  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[FFmpeg 6.0  (GCCcore 12.3.0)](link)  
+[Szip 2.1.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for ParaView 5.11.2 .  
+[https://www.paraview.org](https://www.paraview.org)  

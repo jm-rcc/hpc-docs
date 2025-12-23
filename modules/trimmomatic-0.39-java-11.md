@@ -1,21 +1,22 @@
-# Trimmomatic 0.39  
-(bio)  
+# Trimmomatic 0.39 -Java-11 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Trimmomatic performs a variety of useful trimming tasks for illumina
  paired-end and single ended data.The selection of trimming steps and their associated
- parameters are supplied on the command line.  
+ parameters are supplied on the command line.   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load trimmomatic/0.39-java-11`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load trimmomatic/0.39-java-11`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,12 +33,8 @@ Use the command **`module load trimmomatic/0.39-java-11`** to load the module on
   
   
 ## Dependencies  
-dependencies = [('Java', '11')]
-
-postinstallcmds = [
-    "mkdir %(installdir)s/bin",
-    """echo -e '#!/bin/bash\nexec java -jar "$EBROOTTRIMMOMATIC"/trimmomatic-*.jar "$@"' """
-    """> %(installdir)s/bin/trimmomatic""",
-    "chmod a+rx %(installdir)s/bin/trimmomatic",
-]  
+[Java 11  (system system)](link)  
   
+## Homepage  
+The homepage for Trimmomatic 0.39 -Java-11.  
+[http://www.usadellab.org/cms/?page=trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)  

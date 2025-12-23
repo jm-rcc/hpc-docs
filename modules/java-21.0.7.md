@@ -1,20 +1,21 @@
-# Java 21  
-(lang)  
+# Java 21.0.7  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Java Platform, Standard Edition (Java SE) lets you develop and deploy
 Java applications on desktops and servers.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load java/21.0.7`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load java/21.0.7`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load java/21.0.7`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Java 21.0.7 .  
+[https://openjdk.org](https://openjdk.org)  

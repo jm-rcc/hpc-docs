@@ -1,5 +1,5 @@
 # h5py 3.2.1  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical Data Format library,
@@ -7,15 +7,16 @@ HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical
  amounts of data.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load h5py/3.2.1-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 {'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load h5py/3.2.1-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,11 +31,10 @@ Use the command **`module load h5py/3.2.1-foss-2021a`** to load the module on Bu
   
   
 ## Dependencies  
-dependencies = [('pkgconfig', '1.5.4', '-python')]
-
-dependencies = [
-    ('Python', '3.9.5'),
-    ('SciPy-bundle', '2021.05'),
-    ('HDF5', '1.10.7'),
-]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[SciPy-bundle 2021.05  (foss 2021a)](link)  
+[HDF5 1.10.7  (gompi 2021a)](link)  
   
+## Homepage  
+The homepage for h5py 3.2.1 .  
+[https://www.h5py.org/](https://www.h5py.org/)  

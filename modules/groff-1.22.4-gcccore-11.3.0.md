@@ -1,20 +1,21 @@
 # groff 1.22.4  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Groff (GNU troff) is a typesetting system that reads plain text mixed with formatting commands
  and produces formatted output.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load groff/1.22.4-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load groff/1.22.4-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load groff/1.22.4-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+(none)  
   
+## Homepage  
+The homepage for groff 1.22.4 .  
+[https://www.gnu.org/software/groff](https://www.gnu.org/software/groff)  

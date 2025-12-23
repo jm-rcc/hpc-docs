@@ -1,19 +1,20 @@
 # ScaFaCoS 1.0.4  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
 ScaFaCoS is a library of scalable fast coulomb solvers.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load scafacos/1.0.4-foss-2023a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2023a'}  
+foss (2023a)  
   
 ### Toolchain Options  
 {'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load scafacos/1.0.4-foss-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,9 @@ Use the command **`module load scafacos/1.0.4-foss-2023a`** to load the module o
   
   
 ## Dependencies  
-[('Autotools', '20220317'), ('pkgconf', '1.9.5')]  
+[GMP 6.2.1  (GCCcore 12.3.0)](link)  
+[GSL 2.7  (GCC 12.3.0)](link)  
   
+## Homepage  
+The homepage for ScaFaCoS 1.0.4 .  
+[http://www.scafacos.de/](http://www.scafacos.de/)  

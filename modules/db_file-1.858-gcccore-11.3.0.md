@@ -1,19 +1,20 @@
 # DB_File 1.858  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 Perl5 access to Berkeley DB version 1.x.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load db_file/1.858-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load db_file/1.858-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load db_file/1.858-gcccore-11.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[DB 18.1.40  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for DB_File 1.858 .  
+[https://perldoc.perl.org/DB_File.html](https://perldoc.perl.org/DB_File.html)  

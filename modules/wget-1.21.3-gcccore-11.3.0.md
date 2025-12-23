@@ -1,5 +1,5 @@
 # wget 1.21.3  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 GNU Wget is a free software package for retrieving files using HTTP, HTTPS and FTP,
@@ -7,15 +7,16 @@ GNU Wget is a free software package for retrieving files using HTTP, HTTPS and F
  so it may easily be called from scripts, cron jobs, terminals without X-Windows support, etc.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load wget/1.21.3-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load wget/1.21.3-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,11 @@ Use the command **`module load wget/1.21.3-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkg-config', '0.29.2'), ('Perl', '5.34.1')]  
+[PCRE 8.45  (GCCcore 11.3.0)](link)  
+[libidn2 2.3.2  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for wget 1.21.3 .  
+[https://www.gnu.org/software/wget](https://www.gnu.org/software/wget)  

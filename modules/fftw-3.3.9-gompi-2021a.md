@@ -1,20 +1,21 @@
 # FFTW 3.3.9  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 FFTW is a C subroutine library for computing the discrete Fourier transform (DFT)
  in one or more dimensions, of arbitrary input size, and of both real and complex data.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fftw/3.3.9-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load fftw/3.3.9-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,3 +33,6 @@ Use the command **`module load fftw/3.3.9-gompi-2021a`** to load the module on B
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for FFTW 3.3.9 .  
+[http://www.fftw.org](http://www.fftw.org)  

@@ -1,19 +1,20 @@
 # makeinfo 6.8  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 makeinfo is part of the Texinfo project, the official documentation format of the GNU project.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load makeinfo/6.8-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load makeinfo/6.8-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load makeinfo/6.8-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-(none)  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for makeinfo 6.8 .  
+[https://www.gnu.org/software/texinfo/](https://www.gnu.org/software/texinfo/)  

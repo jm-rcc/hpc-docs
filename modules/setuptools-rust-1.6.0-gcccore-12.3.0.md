@@ -1,20 +1,21 @@
 # setuptools-rust 1.6.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 setuptools-rust is a plugin for setuptools to build Rust Python extensions
 implemented with PyO3 or rust-cpython.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load setuptools-rust/1.6.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load setuptools-rust/1.6.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load setuptools-rust/1.6.0-gcccore-12.3.0`** to load t
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for setuptools-rust 1.6.0 .  
+[https://github.com/PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust)  

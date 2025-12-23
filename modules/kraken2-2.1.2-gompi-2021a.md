@@ -1,5 +1,5 @@
 # Kraken2 2.1.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Kraken is a system for assigning taxonomic labels to short DNA sequences,
@@ -11,15 +11,16 @@ Kraken is a system for assigning taxonomic labels to short DNA sequences,
  utilizing exact alignments of k-mers and a novel classification algorithm.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load kraken2/2.1.2-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 {'openmp': True, 'cstd': 'c++11'}  
   
-  
-### Usage  
-Use the command **`module load kraken2/2.1.2-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -36,5 +37,10 @@ Use the command **`module load kraken2/2.1.2-gompi-2021a`** to load the module o
   
   
 ## Dependencies  
-[('Perl', '5.32.1'), ('BLAST+', '2.11.0'), ('wget', '1.21.1')]  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[BLAST+ 2.11.0  (gompi 2021a)](link)  
+[wget 1.21.1  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Kraken2 2.1.2 .  
+[https://github.com/DerrickWood/kraken2/wiki](https://github.com/DerrickWood/kraken2/wiki)  

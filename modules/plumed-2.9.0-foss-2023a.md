@@ -1,23 +1,25 @@
 # PLUMED 2.9.0  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 PLUMED is an open source library for free energy calculations in molecular systems which
  works together with some of the most popular molecular dynamics engines. Free energy calculations can be
  performed as a function of many order parameters with a particular  focus on biological problems, using
  state of the art methods such as metadynamics, umbrella sampling and Jarzynski-equation based steered MD.
- The software, written in C++, can be easily interfaced with both fortran and C/C++ codes.  
+ The software, written in C++, can be easily interfaced with both fortran and C/C++ codes.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load plumed/2.9.0-foss-2023a`**.  
   
 ### Toolchain  
-{'name': 'foss', 'version': '2023a'}  
+foss (2023a)  
   
 ### Toolchain Options  
 {'usempi': 'True'}  
   
-  
-### Usage  
-Use the command **`module load plumed/2.9.0-foss-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +35,12 @@ Use the command **`module load plumed/2.9.0-foss-2023a`** to load the module on 
   
   
 ## Dependencies  
-[('xxd', '9.0.2112')]  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[GSL 2.7  (GCC 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
+[Boost 1.82.0  (GCC 12.3.0)](link)  
   
+## Homepage  
+The homepage for PLUMED 2.9.0 .  
+[https://www.plumed.org](https://www.plumed.org)  

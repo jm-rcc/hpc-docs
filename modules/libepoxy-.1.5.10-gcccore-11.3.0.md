@@ -1,19 +1,20 @@
 # libepoxy 1.5.10  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Epoxy is a library for handling OpenGL function pointer management for you  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libepoxy/.1.5.10-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libepoxy/.1.5.10-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load libepoxy/.1.5.10-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('Meson', '0.62.1'), ('Ninja', '1.10.2'), ('pkgconf', '1.8.0')]  
+[X11 20220504  (GCCcore 11.3.0)](link)  
+[Mesa 22.0.3  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for libepoxy 1.5.10 .  
+[https://github.com/anholt/libepoxy](https://github.com/anholt/libepoxy)  

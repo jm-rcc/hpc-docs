@@ -1,24 +1,27 @@
 # Wayland 1.23.0  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
+
 Wayland is a project to define a protocol for a compositor to talk to
  its clients as well as a library implementation of the protocol.  The
  compositor can be a standalone display server running on Linux kernel
  modesetting and evdev input devices, an X application, or a wayland
  client itself.  The clients can be traditional applications, X servers
- (rootless or fullscreen) or other display servers.  
+ (rootless or fullscreen) or other display servers.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load wayland/1.23.0-gcccore-13.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load wayland/1.23.0-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,10 @@ Use the command **`module load wayland/1.23.0-gcccore-13.3.0`** to load the modu
   
   
 ## Dependencies  
-[('CMake', '3.29.3'), ('Meson', '1.4.0'), ('Ninja', '1.12.1'), ('pkgconf', '2.2.0'), ('binutils', '2.42')]  
+[libffi 3.4.5  (GCCcore 13.3.0)](link)  
+[expat 2.6.2  (GCCcore 13.3.0)](link)  
+[libxml2 2.12.7  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for Wayland 1.23.0 .  
+[https://wayland.freedesktop.org/](https://wayland.freedesktop.org/)  

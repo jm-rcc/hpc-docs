@@ -1,20 +1,21 @@
 # libxc 5.1.5  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 Libxc is a library of exchange-correlation functionals for density-functional theory.
  The aim is to provide a portable, well tested and reliable set of exchange and correlation functionals.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libxc/.5.1.5-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libxc/.5.1.5-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load libxc/.5.1.5-gcc-10.3.0`** to load the module on 
   
   
 ## Dependencies  
-[('CMake', '3.20.1'), ('Perl', '5.32.1')]  
+(none)  
   
+## Homepage  
+The homepage for libxc 5.1.5 .  
+[https://libxc.gitlab.io](https://libxc.gitlab.io)  

@@ -1,19 +1,20 @@
-# DIRAC 25.0  
-(chem)  
+# DIRAC 25.0 -int64 
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electron Calculations  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load dirac/25.0-intel-2023a-int64`**.  
+  
 ### Toolchain  
-{'name': 'intel', 'version': '2023a'}  
+intel (2023a)  
   
 ### Toolchain Options  
 {'usempi': True, 'i8': True, 'oneapi': False}  
   
-  
-### Usage  
-Use the command **`module load dirac/25.0-intel-2023a-int64`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3  
@@ -21,10 +22,9 @@ Use the command **`module load dirac/25.0-intel-2023a-int64`** to load the modul
   
   
 ## Dependencies  
-dependencies = [('CMake', '3.26.3')]
-
-dependencies = [
-    ('Python', '3.11.3'),
-    ('HDF5', '1.14.6')
-]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[HDF5 1.14.6  (iimpi 2023a)](link)  
   
+## Homepage  
+The homepage for DIRAC 25.0 -int64.  
+[http://www.diracprogram.org](http://www.diracprogram.org)  

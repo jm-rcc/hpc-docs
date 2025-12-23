@@ -1,20 +1,21 @@
 # Nextflow 22.10.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Nextflow is a reactive workflow framework and a programming DSL
  that eases writing computational pipelines with complex data  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nextflow/22.10.1`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nextflow/22.10.1`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,20 +32,8 @@ Use the command **`module load nextflow/22.10.1`** to load the module on Bunya.
   
   
 ## Dependencies  
-dependencies = [('Java', '11')]
-
-install_cmd = "mkdir -p %(installdir)s/bin &&"
-install_cmd += "cp %(builddir)s/%(namelower)s-%(version)s-all %(installdir)s/bin &&"
-install_cmd += "cd %(installdir)s/bin && ln -s %(namelower)s-%(version)s-all %(namelower)s &&"
-install_cmd += "chmod +x %(installdir)s/bin/%(namelower)s-%(version)s-all"
-
-sanity_check_paths = {
-    'files': ['bin/%(namelower)s-%(version)s-all', 'bin/%(namelower)s'],
-    'dirs': []
-}
-
-sanity_check_commands = [
-    "%(namelower)s -v",
-    "%(namelower)s help",
-]  
+[Java 11  (system system)](link)  
   
+## Homepage  
+The homepage for Nextflow 22.10.1 .  
+[https://www.nextflow.io/](https://www.nextflow.io/)  

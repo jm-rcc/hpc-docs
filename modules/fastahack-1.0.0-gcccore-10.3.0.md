@@ -1,19 +1,20 @@
 # fastahack 1.0.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Utilities for indexing and sequence extraction from FASTA files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fastahack/1.0.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load fastahack/1.0.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load fastahack/1.0.0-gcccore-10.3.0`** to load the mod
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for fastahack 1.0.0 .  
+[https://github.com/ekg/fastahack](https://github.com/ekg/fastahack)  

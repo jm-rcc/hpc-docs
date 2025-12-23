@@ -1,20 +1,21 @@
 # deepTools 3.5.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 deepTools is a suite of python tools particularly developed for the efficient analysis of
  high-throughput sequencing data, such as ChIP-seq, RNA-seq or MNase-seq.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load deeptools/3.5.2-foss-2022a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load deeptools/3.5.2-foss-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,13 @@ Use the command **`module load deeptools/3.5.2-foss-2022a`** to load the module 
   
   
 ## Dependencies  
-[('Python', '3.10.4'), ('SciPy-bundle', '2022.05'), ('matplotlib', '3.5.2'), ('plotly.py', '5.12.0'), ('Pysam', '0.19.1'), ('pyBigWig', '0.3.18')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[SciPy-bundle 2022.05  (foss 2022a)](link)  
+[matplotlib 3.5.2  (foss 2022a)](link)  
+[plotly.py 5.12.0  (GCCcore 11.3.0)](link)  
+[Pysam 0.19.1  (GCC 11.3.0)](link)  
+[pyBigWig 0.3.18  (foss 2022a)](link)  
   
+## Homepage  
+The homepage for deepTools 3.5.2 .  
+[https://deeptools.readthedocs.io/](https://deeptools.readthedocs.io/)  

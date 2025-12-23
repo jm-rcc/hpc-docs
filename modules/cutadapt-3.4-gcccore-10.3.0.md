@@ -1,20 +1,21 @@
 # cutadapt 3.4  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Cutadapt finds and removes adapter sequences, primers, poly-A tails and
  other types of unwanted sequence from your high-throughput sequencing reads.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cutadapt/3.4-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cutadapt/3.4-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,11 +32,10 @@ Use the command **`module load cutadapt/3.4-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [
-    ('pigz', '2.6'),
-    ('Python', '3.9.5'),
-    ('python-isal', '0.11.0'),
-]  
+[pigz 2.6  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[python-isal 0.11.0  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for cutadapt 3.4 .  
+[https://opensource.scilifelab.se/projects/cutadapt/](https://opensource.scilifelab.se/projects/cutadapt/)  

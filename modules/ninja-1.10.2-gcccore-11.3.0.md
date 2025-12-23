@@ -1,19 +1,20 @@
 # Ninja 1.10.2  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Ninja is a small build system with a focus on speed.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ninja/1.10.2-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ninja/1.10.2-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load ninja/1.10.2-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('Python', '3.10.4')]  
+(none)  
   
+## Homepage  
+The homepage for Ninja 1.10.2 .  
+[https://ninja-build.org/](https://ninja-build.org/)  

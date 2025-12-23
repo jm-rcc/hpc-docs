@@ -1,20 +1,21 @@
 # hipSYCL 0.9.1  
-(compiler)  
+![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
   
 hipSYCL is a modern SYCL implementation targeting CPUs and
 GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hipsycl/0.9.1-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load hipsycl/0.9.1-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3  
@@ -23,5 +24,10 @@ Use the command **`module load hipsycl/0.9.1-gcc-10.3.0`** to load the module on
   
   
 ## Dependencies  
-[('Boost', '1.76.0'), ('Clang', '12.0.1'), ('Python', '3.9.5')]  
+[Boost 1.76.0  (GCC 10.3.0)](link)  
+[Clang 12.0.1  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for hipSYCL 0.9.1 .  
+[https://github.com/illuhad/hipSYCL](https://github.com/illuhad/hipSYCL)  

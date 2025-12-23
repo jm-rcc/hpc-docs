@@ -1,20 +1,21 @@
 # PROJ 9.0.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Program proj is a standard Unix filter function which converts
 geographic longitude and latitude coordinates into cartesian coordinates  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load proj/.9.0.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load proj/.9.0.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,12 @@ Use the command **`module load proj/.9.0.0-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('pkgconf', '1.8.0'), ('binutils', '2.38'), ('CMake', '3.23.1'), ('googletest', '1.11.0')]  
+[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
+[LibTIFF 4.3.0  (GCCcore 11.3.0)](link)  
+[cURL 7.83.0  (GCCcore 11.3.0)](link)  
+[XZ 5.2.5  (GCCcore 11.3.0)](link)  
+[nlohmann_json 3.10.5  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for PROJ 9.0.0 .  
+[https://proj.org](https://proj.org)  

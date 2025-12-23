@@ -1,5 +1,5 @@
 # Ruby 3.0.5  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Ruby is a dynamic, open source programming language with
@@ -7,15 +7,16 @@ Ruby is a dynamic, open source programming language with
  natural to read and easy to write.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ruby/3.0.5-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ruby/3.0.5-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,9 +33,10 @@ Use the command **`module load ruby/3.0.5-gcccore-11.3.0`** to load the module o
   
   
 ## Dependencies  
-dependencies = [
-    ('binutils', '2.38'),  # needed for gem
-    ('zlib', '1.2.12'),
-    ('OpenSSL', '1.1', '', SYSTEM),
-]  
+[binutils 2.38  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for Ruby 3.0.5 .  
+[https://www.ruby-lang.org](https://www.ruby-lang.org)  

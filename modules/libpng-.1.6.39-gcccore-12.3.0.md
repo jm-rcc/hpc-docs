@@ -1,19 +1,20 @@
 # libpng 1.6.39  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 libpng is the official PNG reference library  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libpng/.1.6.39-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libpng/.1.6.39-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load libpng/.1.6.39-gcccore-12.3.0`** to load the modu
   
   
 ## Dependencies  
-(none)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for libpng 1.6.39 .  
+[http://www.libpng.org/pub/png/libpng.html](http://www.libpng.org/pub/png/libpng.html)  

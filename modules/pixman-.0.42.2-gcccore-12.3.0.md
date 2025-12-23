@@ -1,21 +1,24 @@
 # pixman 0.42.2  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-Pixman is a low-level software library for pixel manipulation, providing
+
+ Pixman is a low-level software library for pixel manipulation, providing
  features such as image compositing and trapezoid rasterization. Important
- users of pixman are the cairo graphics library and the X server.  
+ users of pixman are the cairo graphics library and the X server.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pixman/.0.42.2-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pixman/.0.42.2-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,8 @@ Use the command **`module load pixman/.0.42.2-gcccore-12.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+(none)  
   
+## Homepage  
+The homepage for pixman 0.42.2 .  
+[http://www.pixman.org/](http://www.pixman.org/)  

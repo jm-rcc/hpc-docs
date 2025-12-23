@@ -1,20 +1,21 @@
 # git 2.45.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Git is a free and open source distributed version control system designed
 to handle everything from small to very large projects with speed and efficiency.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load git/2.45.1-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load git/2.45.1-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,12 @@ Use the command **`module load git/2.45.1-gcccore-13.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('Autotools', '20231222')]  
+[cURL 8.7.1  (GCCcore 13.3.0)](link)  
+[expat 2.6.2  (GCCcore 13.3.0)](link)  
+[gettext 0.22.5  (GCCcore 13.3.0)](link)  
+[Perl 5.38.2  (GCCcore 13.3.0)](link)  
+[OpenSSL 3  (system system)](link)  
   
+## Homepage  
+The homepage for git 2.45.1 .  
+[https://git-scm.com](https://git-scm.com)  

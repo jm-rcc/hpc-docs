@@ -1,23 +1,25 @@
-# UCX-CUDA 1.14.1  
-(lib)  
+# UCX-CUDA 1.14.1 -CUDA-12.1.1 
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Unified Communication X
 An open-source production grade communication framework for data centric
-and high-performance applications  
+and high-performance applications
+
+This module adds the UCX CUDA support.
   
-This module adds the UCX CUDA support.  
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +31,11 @@ Use the command **`module load ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1`** to 
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Autotools', '20220317'), ('pkgconf', '1.9.5')]  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[UCX 1.14.1  (GCCcore 12.3.0)](link)  
+[CUDA 12.1.1  (system system)](link)  
+[GDRCopy 2.3.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for UCX-CUDA 1.14.1 -CUDA-12.1.1.  
+[http://www.openucx.org/](http://www.openucx.org/)  

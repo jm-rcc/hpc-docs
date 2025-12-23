@@ -1,19 +1,20 @@
 # DIAMOND 2.1.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Accelerated BLAST compatible local sequence aligner  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load diamond/2.1.0-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load diamond/2.1.0-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load diamond/2.1.0-gcc-11.3.0`** to load the module on
   
   
 ## Dependencies  
-(none)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for DIAMOND 2.1.0 .  
+[https://github.com/bbuchfink/diamond](https://github.com/bbuchfink/diamond)  

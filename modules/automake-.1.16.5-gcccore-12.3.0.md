@@ -1,19 +1,20 @@
 # Automake 1.16.5  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 Automake: GNU Standards-compliant Makefile generator  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load automake/.1.16.5-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load automake/.1.16.5-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load automake/.1.16.5-gcccore-12.3.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[Autoconf 2.71  (GCCcore 12.3.0)](link)  
+[Perl 5.36.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for Automake 1.16.5 .  
+[https://www.gnu.org/software/automake/automake.html](https://www.gnu.org/software/automake/automake.html)  

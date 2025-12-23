@@ -1,19 +1,20 @@
-# picard 2.25.1  
-(bio)  
+# picard 2.25.1 -Java-11 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 A set of tools (in Java) for working with next generation sequencing data in the BAM format.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load picard/2.25.1-java-11`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load picard/2.25.1-java-11`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load picard/2.25.1-java-11`** to load the module on Bu
   
   
 ## Dependencies  
-(none)  
+[Java 11  (system system)](link)  
   
+## Homepage  
+The homepage for picard 2.25.1 -Java-11.  
+[https://broadinstitute.github.io/picard/](https://broadinstitute.github.io/picard/)  

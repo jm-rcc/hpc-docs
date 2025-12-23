@@ -1,23 +1,25 @@
 # GTK3 3.24.37  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 GTK+ is the primary library used to construct user interfaces in GNOME. It
  provides all the user interface controls, or widgets, used in a common
  graphical application. Its object-oriented API allows you to construct
  user interfaces without dealing with the low-level details of drawing and
- device interaction.  
+ device interaction.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gtk3/3.24.37-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gtk3/3.24.37-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +36,17 @@ Use the command **`module load gtk3/3.24.37-gcccore-12.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Autotools', '20220317'), ('Meson', '1.1.1'), ('Ninja', '1.11.1'), ('pkgconf', '1.9.5'), ('GObject-Introspection', '1.76.1')]  
+[ATK 2.38.0  (GCCcore 12.3.0)](link)  
+[at-spi2-atk 2.38.0  (GCCcore 12.3.0)](link)  
+[cairo 1.17.8  (GCCcore 12.3.0)](link)  
+[Gdk-Pixbuf 2.42.10  (GCCcore 12.3.0)](link)  
+[GLib 2.77.1  (GCCcore 12.3.0)](link)  
+[Pango 1.50.14  (GCCcore 12.3.0)](link)  
+[libepoxy 1.5.10  (GCCcore 12.3.0)](link)  
+[X11 20230603  (GCCcore 12.3.0)](link)  
+[FriBidi 1.0.12  (GCCcore 12.3.0)](link)  
+[Wayland 1.22.0  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for GTK3 3.24.37 .  
+[https://developer.gnome.org/gtk3/stable/](https://developer.gnome.org/gtk3/stable/)  

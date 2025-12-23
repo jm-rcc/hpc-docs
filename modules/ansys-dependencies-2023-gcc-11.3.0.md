@@ -1,19 +1,20 @@
 # Ansys-dependencies 2023  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 A collection of software to meet the requirements of Ansys.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ansys-dependencies/2023-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ansys-dependencies/2023-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,22 @@ Use the command **`module load ansys-dependencies/2023-gcc-11.3.0`** to load the
   
   
 ## Dependencies  
-[('alsa-lib', '1.2.8'), ('flex', '2.6.4'), ('GTK2', '2.24.33'), ('GTK3', '3.24.33'), ('libnsl', '1.3.0'), ('LibSoup', '3.0.8'), ('libtirpc', '1.3.2'), ('libwebp', '1.2.4'), ('libxslt', '1.1.34'), ('Mesa', '22.0.3'), ('motif', '2.3.8'), ('Pango', '1.50.7'), ('Qhull', '2020.2'), ('SDL2', '2.0.22'), ('tbb', '2021.5.0')]  
+[alsa-lib 1.2.8  (GCCcore 11.3.0)](link)  
+[flex 2.6.4  (GCCcore 11.3.0)](link)  
+[GTK2 2.24.33  (GCCcore 11.3.0)](link)  
+[GTK3 3.24.33  (GCCcore 11.3.0)](link)  
+[libnsl 1.3.0  (GCCcore 11.3.0)](link)  
+[LibSoup 3.0.8  (GCC 11.3.0)](link)  
+[libtirpc 1.3.2  (GCCcore 11.3.0)](link)  
+[libwebp 1.2.4  (GCCcore 11.3.0)](link)  
+[libxslt 1.1.34  (GCCcore 11.3.0)](link)  
+[Mesa 22.0.3  (GCCcore 11.3.0)](link)  
+[motif 2.3.8  (GCCcore 11.3.0)](link)  
+[Pango 1.50.7  (GCCcore 11.3.0)](link)  
+[Qhull 2020.2  (GCCcore 11.3.0)](link)  
+[SDL2 2.0.22  (GCCcore 11.3.0)](link)  
+[tbb 2021.5.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Ansys-dependencies 2023 .  
+[https://www.ansys.com/](https://www.ansys.com/)  

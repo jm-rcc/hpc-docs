@@ -1,19 +1,22 @@
 # GTK2 2.24.33  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-The GTK+ 2 package contains libraries used for creating graphical user interfaces for applications.  
+
+ The GTK+ 2 package contains libraries used for creating graphical user interfaces for applications.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gtk2/2.24.33-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gtk2/2.24.33-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +33,10 @@ Use the command **`module load gtk2/2.24.33-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0'), ('GObject-Introspection', '1.72.0')]  
+[ATK 2.38.0  (GCCcore 11.3.0)](link)  
+[Gdk-Pixbuf 2.42.8  (GCCcore 11.3.0)](link)  
+[Pango 1.50.7  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for GTK2 2.24.33 .  
+[https://www.gtk.org](https://www.gtk.org)  

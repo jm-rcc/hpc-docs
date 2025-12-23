@@ -1,19 +1,20 @@
 # canu 2.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Canu is a fork of the Celera Assembler designed for high-noise single-molecule sequencing  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load canu/2.2-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load canu/2.2-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load canu/2.2-gcccore-11.3.0`** to load the module on 
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('git', '2.36.0', '-nodocs')]  
+[Java 11  (system system)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[gnuplot 5.4.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for canu 2.2 .  
+[https://canu.readthedocs.io](https://canu.readthedocs.io)  

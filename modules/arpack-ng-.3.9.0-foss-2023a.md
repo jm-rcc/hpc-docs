@@ -1,19 +1,20 @@
 # arpack-ng 3.9.0  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 ARPACK is a collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load arpack-ng/.3.9.0-foss-2023a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2023a'}  
+foss (2023a)  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load arpack-ng/.3.9.0-foss-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,8 @@ Use the command **`module load arpack-ng/.3.9.0-foss-2023a`** to load the module
   
   
 ## Dependencies  
-[('Autotools', '20220317'), ('pkgconf', '1.9.5'), ('Eigen', '3.4.0')]  
+(none)  
   
+## Homepage  
+The homepage for arpack-ng 3.9.0 .  
+[https://github.com/opencollab/arpack-ng](https://github.com/opencollab/arpack-ng)  

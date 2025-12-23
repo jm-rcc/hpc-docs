@@ -1,5 +1,5 @@
 # Pango 1.50.7  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Pango is a library for laying out and rendering of text, with an emphasis on internationalization.
@@ -7,15 +7,16 @@ Pango can be used anywhere that text layout is needed, though most of the work o
 context of the GTK+ widget toolkit. Pango forms the core of text and font handling for GTK+-2.x.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pango/.1.50.7-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pango/.1.50.7-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,12 @@ Use the command **`module load pango/.1.50.7-gcccore-11.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('Meson', '0.62.1'), ('Ninja', '1.10.2'), ('GObject-Introspection', '1.72.0'), ('pkgconf', '1.8.0')]  
+[X11 20220504  (GCCcore 11.3.0)](link)  
+[GLib 2.72.1  (GCCcore 11.3.0)](link)  
+[cairo 1.17.4  (GCCcore 11.3.0)](link)  
+[HarfBuzz 4.2.1  (GCCcore 11.3.0)](link)  
+[FriBidi 1.0.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Pango 1.50.7 .  
+[https://www.pango.org/](https://www.pango.org/)  

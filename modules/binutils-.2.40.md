@@ -1,19 +1,20 @@
 # binutils 2.40  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 binutils: GNU binary utilities  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load binutils/.2.40`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load binutils/.2.40`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load binutils/.2.40`** to load the module on Bunya.
   
   
 ## Dependencies  
-[('flex', '2.6.4'), ('Bison', '3.8.2'), ('zlib', '1.2.13')]  
+(none)  
   
+## Homepage  
+The homepage for binutils 2.40 .  
+[https://directory.fsf.org/project/binutils/](https://directory.fsf.org/project/binutils/)  

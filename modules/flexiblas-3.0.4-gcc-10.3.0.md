@@ -1,20 +1,21 @@
 # FlexiBLAS 3.0.4  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 FlexiBLAS is a wrapper library that enables the exchange of the BLAS and LAPACK implementation
 used by a program without recompiling or relinking it.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load flexiblas/3.0.4-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
-{'pic': True, 'extra_cflags': local_extra_flags, 'extra_fflags': local_extra_flags}  
+{'pic': True, 'extra_cflags': '-fstack-protector-strong -fstack-clash-protection', 'extra_fflags': '-fstack-protector-strong -fstack-clash-protection'}  
   
-  
-### Usage  
-Use the command **`module load flexiblas/3.0.4-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load flexiblas/3.0.4-gcc-10.3.0`** to load the module 
   
   
 ## Dependencies  
-[('CMake', '3.20.1'), ('Python', '3.9.5'), ('BLIS', '0.8.1')]  
+[OpenBLAS 0.3.15  (GCC 10.3.0)](link)  
   
+## Homepage  
+The homepage for FlexiBLAS 3.0.4 .  
+[https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release)  

@@ -1,20 +1,21 @@
-# NCCL 2.18.3  
-(lib)  
+# NCCL 2.18.3 -CUDA-12.1.1 
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 The NVIDIA Collective Communications Library (NCCL) implements multi-GPU and multi-node collective
 communication primitives that are performance optimized for NVIDIA GPUs.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nccl/2.18.3-gcccore-12.3.0-cuda-12.1.1`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nccl/2.18.3-gcccore-12.3.0-cuda-12.1.1`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -26,10 +27,9 @@ Use the command **`module load nccl/2.18.3-gcccore-12.3.0-cuda-12.1.1`** to load
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.40')]
-
-dependencies = [
-    ('CUDA', '12.1.1', '', SYSTEM),
-    ('UCX-CUDA', '1.14.1', versionsuffix),
-]  
+[CUDA 12.1.1  (system system)](link)  
+[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for NCCL 2.18.3 -CUDA-12.1.1.  
+[https://developer.nvidia.com/nccl](https://developer.nvidia.com/nccl)  

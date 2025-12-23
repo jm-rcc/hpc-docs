@@ -1,5 +1,5 @@
 # pplacer 1.1.alpha19  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Pplacer places query sequences on a fixed reference phylogenetic tree to maximize phylogenetic
@@ -7,15 +7,16 @@ Pplacer places query sequences on a fixed reference phylogenetic tree to maximiz
  useful information about uncertainty, and to offer advanced visualization and downstream analysis.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pplacer/1.1.alpha19`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pplacer/1.1.alpha19`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +35,6 @@ Use the command **`module load pplacer/1.1.alpha19`** to load the module on Buny
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for pplacer 1.1.alpha19 .  
+[http://matsen.fhcrc.org/pplacer/](http://matsen.fhcrc.org/pplacer/)  

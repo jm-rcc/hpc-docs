@@ -1,21 +1,23 @@
-# makeinfo 6.7  
-(devel)  
+# makeinfo 6.7 -minimal 
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-makeinfo is part of the Texinfo project, the official documentation format of the GNU project.  
+makeinfo is part of the Texinfo project, the official documentation format of the GNU project.
+
+This is a minimal build with very basic functionality. Should only be used for build dependencies.
   
-This is a minimal build with very basic functionality. Should only be used for build dependencies.  
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load makeinfo/6.7-gcccore-10.3.0-minimal`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load makeinfo/6.7-gcccore-10.3.0-minimal`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +34,8 @@ Use the command **`module load makeinfo/6.7-gcccore-10.3.0-minimal`** to load th
   
   
 ## Dependencies  
-[('binutils', '2.36.1')]  
+[Perl 5.32.1 -minimal (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for makeinfo 6.7 -minimal.  
+[https://www.gnu.org/software/texinfo/](https://www.gnu.org/software/texinfo/)  

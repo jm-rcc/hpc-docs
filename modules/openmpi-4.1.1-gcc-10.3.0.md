@@ -1,19 +1,20 @@
 # OpenMPI 4.1.1  
-(mpi)  
+![Static Badge](https://img.shields.io/badge/class-mpi-D7D1CC)  
   
   
 The Open MPI Project is an open source MPI-3 implementation.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load openmpi/4.1.1-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load openmpi/4.1.1-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,13 @@ Use the command **`module load openmpi/4.1.1-gcc-10.3.0`** to load the module on
   
   
 ## Dependencies  
-[('pkg-config', '0.29.2'), ('Perl', '5.32.1'), ('Autotools', '20210128')]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[hwloc 2.4.1  (GCCcore 10.3.0)](link)  
+[libevent 2.1.12  (GCCcore 10.3.0)](link)  
+[UCX 1.10.0  (GCCcore 10.3.0)](link)  
+[libfabric 1.12.1  (GCCcore 10.3.0)](link)  
+[PMIx 3.2.3  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for OpenMPI 4.1.1 .  
+[https://www.open-mpi.org/](https://www.open-mpi.org/)  

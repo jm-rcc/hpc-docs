@@ -1,20 +1,21 @@
 # pocl 6.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 PoCL is a portable open source (MIT-licensed) implementation
 of the OpenCL standard (1.2 with some 2.0 features supported).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pocl/6.0-gcc-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '13.3.0'}  
+GCC (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pocl/6.0-gcc-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,11 @@ Use the command **`module load pocl/6.0-gcc-13.3.0`** to load the module on Buny
   
   
 ## Dependencies  
-[('CMake', '3.29.3'), ('Ninja', '1.12.1'), ('pkgconf', '2.2.0')]  
+[Clang 18.1.8  (GCCcore 13.3.0)](link)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
+[libtool 2.4.7  (GCCcore 13.3.0)](link)  
+[libxml2 2.12.7  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for pocl 6.0 .  
+[http://portablecl.org](http://portablecl.org)  

@@ -1,20 +1,21 @@
 # JAGS 4.3.0  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
 JAGS is Just Another Gibbs Sampler.  It is a program for analysis
- of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation  
+ of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation    
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load jags/4.3.0-foss-2021a`**.  
   
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load jags/4.3.0-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,3 +32,6 @@ Use the command **`module load jags/4.3.0-foss-2021a`** to load the module on Bu
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for JAGS 4.3.0 .  
+[http://mcmc-jags.sourceforge.net/](http://mcmc-jags.sourceforge.net/)  

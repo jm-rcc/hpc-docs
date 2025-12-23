@@ -1,19 +1,20 @@
 # snakemake 7.22.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 The Snakemake workflow management system is a tool to create reproducible and scalable data analyses.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load snakemake/7.22.0-foss-2022a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load snakemake/7.22.0-foss-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,12 @@ Use the command **`module load snakemake/7.22.0-foss-2022a`** to load the module
   
   
 ## Dependencies  
-[('Python', '3.10.4'), ('SciPy-bundle', '2022.05'), ('GitPython', '3.1.27'), ('IPython', '8.5.0'), ('PyYAML', '6.0')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[SciPy-bundle 2022.05  (foss 2022a)](link)  
+[GitPython 3.1.27  (GCCcore 11.3.0)](link)  
+[IPython 8.5.0  (GCCcore 11.3.0)](link)  
+[PyYAML 6.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for snakemake 7.22.0 .  
+[https://snakemake.readthedocs.io](https://snakemake.readthedocs.io)  

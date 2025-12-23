@@ -1,5 +1,5 @@
 # LLVM 11.1.0  
-(compiler)  
+![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
   
 The LLVM Core libraries provide a modern source- and target-independent
@@ -11,15 +11,16 @@ The LLVM Core libraries provide a modern source- and target-independent
  to use LLVM as an optimizer and code generator.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load llvm/.11.1.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'cstd': 'gnu++11', 'pic': True}  
   
-  
-### Usage  
-Use the command **`module load llvm/.11.1.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -36,5 +37,9 @@ Use the command **`module load llvm/.11.1.0-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('CMake', '3.20.1'), ('Python', '3.9.5'), ('lit', '18.1.7'), ('git', '2.32.0', '-nodocs')]  
+[ncurses 6.2  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for LLVM 11.1.0 .  
+[https://llvm.org/](https://llvm.org/)  

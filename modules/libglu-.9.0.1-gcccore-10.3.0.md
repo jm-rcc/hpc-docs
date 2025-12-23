@@ -1,19 +1,20 @@
 # libGLU 9.0.1  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL.  
+The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL.   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libglu/.9.0.1-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libglu/.9.0.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,9 +31,8 @@ Use the command **`module load libglu/.9.0.1-gcccore-10.3.0`** to load the modul
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [
-    ('Mesa', '21.1.1'),
-]  
+[Mesa 21.1.1  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for libGLU 9.0.1 .  
+[https://gitlab.freedesktop.org/mesa/glu](https://gitlab.freedesktop.org/mesa/glu)  

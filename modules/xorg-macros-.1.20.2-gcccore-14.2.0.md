@@ -1,19 +1,20 @@
 # xorg-macros 1.20.2  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 X.org macros utilities.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load xorg-macros/.1.20.2-gcccore-14.2.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '14.2.0'}  
+GCCcore (14.2.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load xorg-macros/.1.20.2-gcccore-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -23,5 +24,8 @@ Use the command **`module load xorg-macros/.1.20.2-gcccore-14.2.0`** to load the
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('Autotools', '20240712')]  
+(none)  
   
+## Homepage  
+The homepage for xorg-macros 1.20.2 .  
+[https://gitlab.freedesktop.org/xorg/util/macros](https://gitlab.freedesktop.org/xorg/util/macros)  

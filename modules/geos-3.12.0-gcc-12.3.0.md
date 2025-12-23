@@ -1,19 +1,20 @@
 # GEOS 3.12.0  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
 GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS)  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load geos/3.12.0-gcc-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '12.3.0'}  
+GCC (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load geos/3.12.0-gcc-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load geos/3.12.0-gcc-12.3.0`** to load the module on B
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for GEOS 3.12.0 .  
+[https://trac.osgeo.org/geos](https://trac.osgeo.org/geos)  

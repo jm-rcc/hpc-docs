@@ -1,21 +1,23 @@
 # Perl 5.38.0  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
-Larry Wall's Practical Extraction and Report Language  
+Larry Wall's Practical Extraction and Report Language
+
+Includes a small selection of extra CPAN packages for core functionality.
   
-Includes a small selection of extra CPAN packages for core functionality.  
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load perl/5.38.0`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load perl/5.38.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +34,8 @@ Use the command **`module load perl/5.38.0`** to load the module on Bunya.
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[zlib 1.2.13  (system system)](link)  
   
+## Homepage  
+The homepage for Perl 5.38.0 .  
+[https://www.perl.org/](https://www.perl.org/)  

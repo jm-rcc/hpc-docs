@@ -1,19 +1,20 @@
 # Yasm 1.3.0  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Yasm: Complete rewrite of the NASM assembler with BSD license  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load yasm/1.3.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load yasm/1.3.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load yasm/1.3.0-gcccore-10.3.0`** to load the module o
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Yasm 1.3.0 .  
+[https://www.tortall.net/projects/yasm/](https://www.tortall.net/projects/yasm/)  

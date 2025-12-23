@@ -1,19 +1,20 @@
 # Perl 5.32.1  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Larry Wall's Practical Extraction and Report Language  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load perl/5.32.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load perl/5.32.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,13 @@ Use the command **`module load perl/5.32.1-gcccore-10.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('groff', '1.22.4')]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[expat 2.2.9  (GCCcore 10.3.0)](link)  
+[ncurses 6.2  (GCCcore 10.3.0)](link)  
+[libreadline 8.1  (GCCcore 10.3.0)](link)  
+[DB 18.1.40  (GCCcore 10.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for Perl 5.32.1 .  
+[https://www.perl.org/](https://www.perl.org/)  

@@ -1,20 +1,21 @@
 # xxd 8.2.4220  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 xxd is part of the VIM package and this will only install xxd, not vim!
 xxd converts to/from hexdumps of binary files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load xxd/8.2.4220-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load xxd/8.2.4220-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load xxd/8.2.4220-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.36.1')]  
+(none)  
   
+## Homepage  
+The homepage for xxd 8.2.4220 .  
+[https://www.vim.org](https://www.vim.org)  

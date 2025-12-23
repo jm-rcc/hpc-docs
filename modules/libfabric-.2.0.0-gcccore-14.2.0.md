@@ -1,22 +1,25 @@
 # libfabric 2.0.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
+
 Libfabric is a core component of OFI. It is the library that defines and exports
 the user-space API of OFI, and is typically the only software that applications
 deal with directly. It works in conjunction with provider libraries, which are
-often integrated directly into libfabric.  
+often integrated directly into libfabric.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libfabric/.2.0.0-gcccore-14.2.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '14.2.0'}  
+GCCcore (14.2.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libfabric/.2.0.0-gcccore-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -26,5 +29,8 @@ Use the command **`module load libfabric/.2.0.0-gcccore-14.2.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('pkgconf', '2.3.0'), ('Autotools', '20240712')]  
+[numactl 2.0.19  (GCCcore 14.2.0)](link)  
   
+## Homepage  
+The homepage for libfabric 2.0.0 .  
+[https://ofiwg.github.io/libfabric/](https://ofiwg.github.io/libfabric/)  

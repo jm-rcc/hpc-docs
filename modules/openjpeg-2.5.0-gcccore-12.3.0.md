@@ -1,5 +1,5 @@
 # OpenJPEG 2.5.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 OpenJPEG is an open-source JPEG 2000 codec written in
@@ -9,15 +9,16 @@ OpenJPEG is an open-source JPEG 2000 codec written in
  a JPEG 2000 Reference Software.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load openjpeg/2.5.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load openjpeg/2.5.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,10 @@ Use the command **`module load openjpeg/2.5.0-gcccore-12.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3')]  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[libpng 1.6.39  (GCCcore 12.3.0)](link)  
+[LibTIFF 4.5.0  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for OpenJPEG 2.5.0 .  
+[https://www.openjpeg.org/](https://www.openjpeg.org/)  

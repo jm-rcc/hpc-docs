@@ -1,20 +1,21 @@
 # libsndfile 1.1.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Libsndfile is a C library for reading and writing files containing sampled sound
  (such as MS Windows WAV and the Apple/SGI AIFF format) through one standard library interface.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libsndfile/.1.1.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libsndfile/.1.1.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,11 @@ Use the command **`module load libsndfile/.1.1.0-gcccore-11.3.0`** to load the m
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0'), ('CMake', '3.23.1')]  
+[FLAC 1.3.4  (GCCcore 11.3.0)](link)  
+[libvorbis 1.3.7  (GCCcore 11.3.0)](link)  
+[libopus 1.3.1  (GCCcore 11.3.0)](link)  
+[LAME 3.100  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for libsndfile 1.1.0 .  
+[http://www.mega-nerd.com/libsndfile](http://www.mega-nerd.com/libsndfile)  

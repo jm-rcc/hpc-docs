@@ -1,19 +1,20 @@
 # HarfBuzz 5.3.1  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 HarfBuzz is an OpenType text shaping engine.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load harfbuzz/.5.3.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load harfbuzz/.5.3.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,11 @@ Use the command **`module load harfbuzz/.5.3.1-gcccore-12.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('GObject-Introspection', '1.76.1'), ('pkgconf', '1.9.5'), ('Autotools', '20220317')]  
+[GLib 2.77.1  (GCCcore 12.3.0)](link)  
+[ICU 73.2  (GCCcore 12.3.0)](link)  
+[cairo 1.17.8  (GCCcore 12.3.0)](link)  
+[freetype 2.13.0  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for HarfBuzz 5.3.1 .  
+[https://www.freedesktop.org/wiki/Software/HarfBuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz)  

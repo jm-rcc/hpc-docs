@@ -1,19 +1,20 @@
 # SDL2 2.28.2  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 SDL: Simple DirectMedia Layer, a cross-platform multimedia library  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load sdl2/2.28.2-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load sdl2/2.28.2-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,9 +30,8 @@ Use the command **`module load sdl2/2.28.2-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.40')]
-
-dependencies = [
-    ('X11', '20230603'),
-]  
+[X11 20230603  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for SDL2 2.28.2 .  
+[https://www.libsdl.org/](https://www.libsdl.org/)  

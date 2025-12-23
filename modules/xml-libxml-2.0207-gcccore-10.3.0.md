@@ -1,19 +1,20 @@
 # XML-LibXML 2.0207  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 Perl binding for libxml2  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load xml-libxml/2.0207-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load xml-libxml/2.0207-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load xml-libxml/2.0207-gcccore-10.3.0`** to load the m
   
   
 ## Dependencies  
-[('pkg-config', '0.29.2'), ('binutils', '2.36.1')]  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for XML-LibXML 2.0207 .  
+[https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod](https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod)  

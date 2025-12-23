@@ -1,23 +1,26 @@
 # freetype 2.12.1  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-FreeType 2 is a software font engine that is designed to be small, efficient,
+
+ FreeType 2 is a software font engine that is designed to be small, efficient,
  highly customizable, and portable while capable of producing high-quality
  output (glyph images). It can be used in graphics libraries, display servers,
  font conversion tools, text image generation tools, and many other products
- as well.  
+ as well.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load freetype/.2.12.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load freetype/.2.12.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,12 +37,11 @@ Use the command **`module load freetype/.2.12.1-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('bzip2', '1.0.8'),
-    ('libpng', '1.6.37'),
-    ('zlib', '1.2.12'),
-    ('Brotli', '1.0.9'),
-]  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[libpng 1.6.37  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[Brotli 1.0.9  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for freetype 2.12.1 .  
+[https://www.freetype.org](https://www.freetype.org)  

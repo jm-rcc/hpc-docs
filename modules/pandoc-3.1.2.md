@@ -1,19 +1,20 @@
 # Pandoc 3.1.2  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 If you need to convert files from one markup format into another, pandoc is your swiss-army knife  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pandoc/3.1.2`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pandoc/3.1.2`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,3 +33,6 @@ Use the command **`module load pandoc/3.1.2`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Pandoc 3.1.2 .  
+[https://pandoc.org](https://pandoc.org)  

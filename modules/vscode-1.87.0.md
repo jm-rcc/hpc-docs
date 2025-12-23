@@ -1,24 +1,27 @@
 # VSCode 1.87.0  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-Visual Studio Code is a lightweight but powerful source code editor 
+
+    Visual Studio Code is a lightweight but powerful source code editor 
     which runs on your desktop and is available for Windows, macOS and 
     Linux. It comes with built-in support for JavaScript, TypeScript and 
     Node.js and has a rich ecosystem of extensions for other languages 
     and runtimes (such as C++, C#, Java, Python, PHP, Go, .NET). Begin 
-    your journey with VS Code with these introductory videos.  
+    your journey with VS Code with these introductory videos.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load vscode/1.87.0`**.  
   
 ### Toolchain  
-{'name': 'system', 'version': 'system'}  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load vscode/1.87.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -37,3 +40,6 @@ Use the command **`module load vscode/1.87.0`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for VSCode 1.87.0 .  
+[https://code.visualstudio.com/](https://code.visualstudio.com/)  

@@ -1,5 +1,5 @@
 # Brotli 1.0.9  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Brotli is a generic-purpose lossless compression algorithm that compresses data using a combination
@@ -9,15 +9,16 @@ Brotli is a generic-purpose lossless compression algorithm that compresses data 
 The specification of the Brotli Compressed Data Format is defined in RFC 7932.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load brotli/1.0.9-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load brotli/1.0.9-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +35,8 @@ Use the command **`module load brotli/1.0.9-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('CMake', '3.20.1')]  
+(none)  
   
+## Homepage  
+The homepage for Brotli 1.0.9 .  
+[https://github.com/google/brotli](https://github.com/google/brotli)  

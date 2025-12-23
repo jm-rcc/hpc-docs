@@ -1,20 +1,21 @@
 # HISAT2 2.2.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads
  (both DNA and RNA) against the general human population (as well as against a single reference genome).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hisat2/2.2.1-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load hisat2/2.2.1-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,9 @@ Use the command **`module load hisat2/2.2.1-gompi-2021a`** to load the module on
   
   
 ## Dependencies  
-[('NGS', '2.10.9'), ('ncbi-vdb', '2.10.9')]  
+[NGS 2.10.9  (GCCcore 10.3.0)](link)  
+[ncbi-vdb 2.10.9  (gompi 2021a)](link)  
   
+## Homepage  
+The homepage for HISAT2 2.2.1 .  
+[https://daehwankimlab.github.io/hisat2](https://daehwankimlab.github.io/hisat2)  

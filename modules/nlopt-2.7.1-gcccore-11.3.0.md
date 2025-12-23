@@ -1,21 +1,22 @@
 # NLopt 2.7.1  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
-NLopt is a free/open-source library for nonlinear optimization,
+ NLopt is a free/open-source library for nonlinear optimization,
  providing a common interface for a number of different free optimization routines
- available online as well as original implementations of various other algorithms.  
+ available online as well as original implementations of various other algorithms.   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nlopt/2.7.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load nlopt/2.7.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,8 @@ Use the command **`module load nlopt/2.7.1-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('CMake', '3.23.1'), ('binutils', '2.38')]  
+(none)  
   
+## Homepage  
+The homepage for NLopt 2.7.1 .  
+[http://ab-initio.mit.edu/wiki/index.php/NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)  

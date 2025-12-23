@@ -1,19 +1,20 @@
 # util-linux 2.40  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Set of Linux utilities  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load util-linux/.2.40-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load util-linux/.2.40-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -27,5 +28,10 @@ Use the command **`module load util-linux/.2.40-gcccore-13.3.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('Autotools', '20231222'), ('pkgconf', '2.2.0')]  
+[ncurses 6.5  (GCCcore 13.3.0)](link)  
+[zlib 1.3.1  (GCCcore 13.3.0)](link)  
+[SQLite 3.45.3  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for util-linux 2.40 .  
+[https://www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux)  

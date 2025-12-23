@@ -1,19 +1,20 @@
 # GitPython 3.1.27  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-GitPython is a python library used to interact with Git repositories  
+ GitPython is a python library used to interact with Git repositories   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gitpython/3.1.27-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gitpython/3.1.27-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,10 +31,9 @@ Use the command **`module load gitpython/3.1.27-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('Python', '3.10.4'),
-    ('git', '2.36.0', '-nodocs'),
-]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[git 2.36.0 -nodocs (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for GitPython 3.1.27 .  
+[https://gitpython.readthedocs.org](https://gitpython.readthedocs.org)  

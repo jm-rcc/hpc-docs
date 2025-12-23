@@ -1,35 +1,29 @@
 # LMDB 0.9.29  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 LMDB is a fast, memory-efficient database. With memory-mapped files, it has the read performance
  of a pure in-memory database while retaining the persistence of standard disk-based databases.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lmdb/.0.9.29-gcccore-11.3.0.bak_20251013214432_2034437`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load lmdb/.0.9.29-gcccore-11.3.0.bak_20251013214432_2034437`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 mi210  
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-buildopts = 'CC="$CC" OPT="$CFLAGS"'
-
-runtest = 'test'
-
-files_to_copy = [
-    (['lmdb.h', 'midl.h'], 'include'),
-    (['mdb_copy', 'mdb_dump', 'mdb_load', 'mdb_stat'], 'bin'),
-    (['liblmdb.a', 'liblmdb.%s' % SHLIB_EXT], 'lib'),
-]  
+(none)  
   
+## Homepage  
+The homepage for LMDB 0.9.29 .  
+[https://symas.com/lmdb](https://symas.com/lmdb)  

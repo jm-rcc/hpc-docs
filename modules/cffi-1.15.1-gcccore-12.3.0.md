@@ -1,21 +1,23 @@
 # cffi 1.15.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 C Foreign Function Interface for Python. Interact with almost any C code from
 Python, based on C-like declarations that you can often copy-paste from header
-files or documentation.  
+files or documentation.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cffi/1.15.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load cffi/1.15.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +34,8 @@ Use the command **`module load cffi/1.15.1-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for cffi 1.15.1 .  
+[https://cffi.readthedocs.io/en/latest/](https://cffi.readthedocs.io/en/latest/)  

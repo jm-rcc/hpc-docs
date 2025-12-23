@@ -1,20 +1,21 @@
 # Pysam 0.19.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Pysam is a python module for reading and manipulating Samfiles.
  It's a lightweight wrapper of the samtools C-API. Pysam also includes an interface for tabix.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pysam/0.19.1-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pysam/0.19.1-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,11 @@ Use the command **`module load pysam/0.19.1-gcc-11.3.0`** to load the module on 
   
   
 ## Dependencies  
-[('Python', '3.10.4'), ('ncurses', '6.3'), ('cURL', '7.83.0'), ('XZ', '5.2.5')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[ncurses 6.3  (GCCcore 11.3.0)](link)  
+[cURL 7.83.0  (GCCcore 11.3.0)](link)  
+[XZ 5.2.5  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Pysam 0.19.1 .  
+[https://github.com/pysam-developers/pysam](https://github.com/pysam-developers/pysam)  

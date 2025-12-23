@@ -1,20 +1,23 @@
 # HDF 4.2.16-2  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
-HDF (also known as HDF4) is a library and multi-object file format for
- storing and managing data between machines.  
+
+ HDF (also known as HDF4) is a library and multi-object file format for
+ storing and managing data between machines.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hdf/4.2.16-2-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load hdf/4.2.16-2-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +32,11 @@ Use the command **`module load hdf/4.2.16-2-gcccore-12.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Bison', '3.8.2'), ('flex', '2.6.4')]  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
+[Szip 2.1.1  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[libtirpc 1.3.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for HDF 4.2.16-2 .  
+[https://support.hdfgroup.org/products/hdf4/](https://support.hdfgroup.org/products/hdf4/)  

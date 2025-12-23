@@ -1,19 +1,20 @@
 # intel-compilers 2021.2.0  
-(compiler)  
+![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
   
 Intel C, C++ & Fortran compilers (classic and oneAPI)  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load intel-compilers/2021.2.0`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load intel-compilers/2021.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,8 +31,9 @@ Use the command **`module load intel-compilers/2021.2.0`** to load the module on
   
   
 ## Dependencies  
-dependencies = [
-    ('GCCcore', local_gccver),
-    ('binutils', '2.36.1', '', ('GCCcore', local_gccver)),
-]  
+[GCCcore 10.3.0  (system system)](link)  
+[binutils 2.36.1  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for intel-compilers 2021.2.0 .  
+[https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html](https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html)  

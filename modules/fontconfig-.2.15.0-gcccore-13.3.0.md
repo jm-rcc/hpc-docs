@@ -1,20 +1,23 @@
 # fontconfig 2.15.0  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-Fontconfig is a library designed to provide system-wide font configuration,
- customization and application access.  
+
+ Fontconfig is a library designed to provide system-wide font configuration,
+ customization and application access.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fontconfig/.2.15.0-gcccore-13.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load fontconfig/.2.15.0-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +31,10 @@ Use the command **`module load fontconfig/.2.15.0-gcccore-13.3.0`** to load the 
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('gperf', '3.1'), ('pkgconf', '2.2.0'), ('Python', '3.12.3')]  
+[expat 2.6.2  (GCCcore 13.3.0)](link)  
+[freetype 2.13.2  (GCCcore 13.3.0)](link)  
+[util-linux 2.40  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for fontconfig 2.15.0 .  
+[https://www.freedesktop.org/wiki/Software/fontconfig/](https://www.freedesktop.org/wiki/Software/fontconfig/)  

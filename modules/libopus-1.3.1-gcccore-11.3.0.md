@@ -1,5 +1,5 @@
 # libopus 1.3.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unmatched for interactive
@@ -8,15 +8,16 @@ Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unma
  SILK codec and Xiph.Org’s CELT codec.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libopus/1.3.1-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libopus/1.3.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,8 @@ Use the command **`module load libopus/1.3.1-gcccore-11.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0')]  
+(none)  
   
+## Homepage  
+The homepage for libopus 1.3.1 .  
+[https://www.opus-codec.org/](https://www.opus-codec.org/)  

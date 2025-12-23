@@ -1,19 +1,20 @@
 # CapnProto 0.9.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load capnproto/0.9.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'cstd': 'c++17', 'lowopt': True}  
   
-  
-### Usage  
-Use the command **`module load capnproto/0.9.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load capnproto/0.9.1-gcccore-10.3.0`** to load the mod
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for CapnProto 0.9.1 .  
+[https://capnproto.org](https://capnproto.org)  

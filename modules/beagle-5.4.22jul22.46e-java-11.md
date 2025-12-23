@@ -1,20 +1,21 @@
-# Beagle 5.4.  
-(bio)  
+# Beagle 5.4.22Jul22.46e -Java-11 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Beagle is a software package for phasing genotypes and for imputing
  ungenotyped markers.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load beagle/5.4.22jul22.46e-java-11`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load beagle/5.4.22jul22.46e-java-11`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load beagle/5.4.22jul22.46e-java-11`** to load the mod
   
   
 ## Dependencies  
-(none)  
+[Java 11  (system system)](link)  
   
+## Homepage  
+The homepage for Beagle 5.4.22Jul22.46e -Java-11.  
+[https://faculty.washington.edu/browning/beagle/beagle.html](https://faculty.washington.edu/browning/beagle/beagle.html)  

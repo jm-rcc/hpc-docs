@@ -1,20 +1,21 @@
 # mpi4py 3.1.4  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI) standard for
  the Python programming language, allowing any Python program to exploit multiple processors.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mpi4py/3.1.4-gompi-2023a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2023a'}  
+gompi (2023a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mpi4py/3.1.4-gompi-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load mpi4py/3.1.4-gompi-2023a`** to load the module on
   
   
 ## Dependencies  
-[('Python', '3.11.3')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for mpi4py 3.1.4 .  
+[https://github.com/mpi4py/mpi4py](https://github.com/mpi4py/mpi4py)  

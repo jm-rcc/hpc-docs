@@ -1,19 +1,20 @@
 # libgeotiff 1.7.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Library for reading and writing coordinate system information from/to GeoTIFF files  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libgeotiff/1.7.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libgeotiff/1.7.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,13 @@ Use the command **`module load libgeotiff/1.7.1-gcccore-12.3.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[PROJ 9.2.0  (GCCcore 12.3.0)](link)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[SQLite 3.42.0  (GCCcore 12.3.0)](link)  
+[LibTIFF 4.5.0  (GCCcore 12.3.0)](link)  
+[cURL 8.0.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for libgeotiff 1.7.1 .  
+[https://directory.fsf.org/wiki/Libgeotiff](https://directory.fsf.org/wiki/Libgeotiff)  

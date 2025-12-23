@@ -1,19 +1,20 @@
 # libiconv 1.17  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Libiconv converts from one character encoding to another through Unicode conversion  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libiconv/1.17-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libiconv/1.17-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,3 +30,6 @@ Use the command **`module load libiconv/1.17-gcccore-13.3.0`** to load the modul
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for libiconv 1.17 .  
+[https://www.gnu.org/software/libiconv](https://www.gnu.org/software/libiconv)  

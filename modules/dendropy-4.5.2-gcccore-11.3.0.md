@@ -1,5 +1,5 @@
 # DendroPy 4.5.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 A Python library for phylogenetics and phylogenetic computing:
@@ -7,15 +7,16 @@ reading, writing, simulation, processing and manipulation of phylogenetic trees
 (phylogenies) and characters.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load dendropy/4.5.2-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load dendropy/4.5.2-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,8 @@ Use the command **`module load dendropy/4.5.2-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-(none)  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for DendroPy 4.5.2 .  
+[https://dendropy.org/](https://dendropy.org/)  

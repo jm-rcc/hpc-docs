@@ -1,20 +1,21 @@
 # Boost.Python 1.79.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Boost.Python is a C++ library which enables seamless interoperability between C++
  and the Python programming language.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load boost.python/1.79.0-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load boost.python/1.79.0-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,8 +32,9 @@ Use the command **`module load boost.python/1.79.0-gcc-11.3.0`** to load the mod
   
   
 ## Dependencies  
-dependencies = [
-    ('Boost',  version),
-    ('Python', '3.10.4'),
-]  
+[Boost 1.79.0  (GCC 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Boost.Python 1.79.0 .  
+[https://boostorg.github.io/python](https://boostorg.github.io/python)  

@@ -1,20 +1,21 @@
 # Mesa 24.1.3  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Mesa is an open-source implementation of the OpenGL specification -
  a system for rendering interactive 3D graphics.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mesa/.24.1.3-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mesa/.24.1.3-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,15 @@ Use the command **`module load mesa/.24.1.3-gcccore-13.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('Meson', '1.4.0'), ('Ninja', '1.12.1'), ('flex', '2.6.4'), ('Bison', '3.8.2'), ('pkgconf', '2.2.0'), ('Mako', '1.3.5'), ('libxml2', '2.12.7'), ('expat', '2.6.2'), ('gettext', '0.22.5')]  
+[zlib 1.3.1  (GCCcore 13.3.0)](link)  
+[zstd 1.5.6  (GCCcore 13.3.0)](link)  
+[libdrm 2.4.122  (GCCcore 13.3.0)](link)  
+[libglvnd 1.7.0  (GCCcore 13.3.0)](link)  
+[libunwind 1.8.1  (GCCcore 13.3.0)](link)  
+[LLVM 18.1.8 -minimal (GCCcore 13.3.0)](link)  
+[X11 20240607  (GCCcore 13.3.0)](link)  
+[Wayland 1.23.0  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for Mesa 24.1.3 .  
+[https://www.mesa3d.org/](https://www.mesa3d.org/)  

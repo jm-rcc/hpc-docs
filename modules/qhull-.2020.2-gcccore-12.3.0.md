@@ -1,23 +1,26 @@
 # Qhull 2020.2  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
-Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,
+
+ Qhull computes the convex hull, Delaunay triangulation, Voronoi diagram,
  halfspace intersection about a point, furthest-site Delaunay triangulation,
  and furthest-site Voronoi diagram. The source code runs in 2-d, 3-d, 4-d, and
  higher dimensions. Qhull implements the Quickhull algorithm for computing the
- convex hull.  
+ convex hull.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load qhull/.2020.2-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load qhull/.2020.2-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,8 @@ Use the command **`module load qhull/.2020.2-gcccore-12.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3')]  
+(none)  
   
+## Homepage  
+The homepage for Qhull 2020.2 .  
+[http://www.qhull.org](http://www.qhull.org)  

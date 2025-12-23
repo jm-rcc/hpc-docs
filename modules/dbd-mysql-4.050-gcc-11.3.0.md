@@ -1,19 +1,20 @@
 # DBD-mysql 4.050  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 Perl binding for MySQL  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load dbd-mysql/4.050-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load dbd-mysql/4.050-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,10 +31,11 @@ Use the command **`module load dbd-mysql/4.050-gcc-11.3.0`** to load the module 
   
   
 ## Dependencies  
-dependencies = [
-    ('Perl', '5.34.1'),
-    ('MariaDB', '10.9.3'),
-    ('zlib', '1.2.12'),
-    ('OpenSSL', '1.1', '', SYSTEM),
-]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[MariaDB 10.9.3  (GCC 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for DBD-mysql 4.050 .  
+[https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm](https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm)  

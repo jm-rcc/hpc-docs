@@ -1,19 +1,20 @@
 # AUGUSTUS 3.4.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load augustus/3.4.0-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load augustus/3.4.0-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,17 @@ Use the command **`module load augustus/3.4.0-foss-2021a`** to load the module o
   
   
 ## Dependencies  
-[('Python', '3.9.5')]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[Boost 1.76.0  (GCC 10.3.0)](link)  
+[GSL 2.7  (GCC 10.3.0)](link)  
+[SAMtools 1.13  (GCC 10.3.0)](link)  
+[HTSlib 1.12  (GCC 10.3.0)](link)  
+[BCFtools 1.12  (GCC 10.3.0)](link)  
+[lpsolve 5.5.2.11  (GCC 10.3.0)](link)  
+[SuiteSparse 5.10.1 -METIS-5.1.0 (foss 2021a)](link)  
+[BamTools 2.5.2  (GCC 10.3.0)](link)  
+[SQLite 3.35.4  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for AUGUSTUS 3.4.0 .  
+[https://bioinf.uni-greifswald.de/augustus/](https://bioinf.uni-greifswald.de/augustus/)  

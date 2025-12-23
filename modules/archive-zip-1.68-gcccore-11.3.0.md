@@ -1,19 +1,20 @@
 # Archive-Zip 1.68  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Provide an interface to ZIP archive files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load archive-zip/1.68-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load archive-zip/1.68-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load archive-zip/1.68-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[UnZip 6.0  (GCCcore 11.3.0)](link)  
+[Zip 3.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Archive-Zip 1.68 .  
+[https://metacpan.org/pod/Archive::Zip](https://metacpan.org/pod/Archive::Zip)  

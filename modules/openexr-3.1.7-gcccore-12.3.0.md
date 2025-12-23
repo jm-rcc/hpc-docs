@@ -1,20 +1,21 @@
 # OpenEXR 3.1.7  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic
  for use in computer imaging applications  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load openexr/3.1.7-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load openexr/3.1.7-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,9 @@ Use the command **`module load openexr/3.1.7-gcccore-12.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3')]  
+[Imath 3.1.7  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for OpenEXR 3.1.7 .  
+[https://www.openexr.com/](https://www.openexr.com/)  

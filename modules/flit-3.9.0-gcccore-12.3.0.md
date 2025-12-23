@@ -1,19 +1,20 @@
 # flit 3.9.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 A simple packaging tool for simple packages.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load flit/3.9.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load flit/3.9.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load flit/3.9.0-gcccore-12.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for flit 3.9.0 .  
+[https://github.com/pypa/flit](https://github.com/pypa/flit)  

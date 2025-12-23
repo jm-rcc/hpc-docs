@@ -1,5 +1,5 @@
 # Autoconf 2.71  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 Autoconf is an extensible package of M4 macros that produce shell scripts
@@ -9,15 +9,16 @@ Autoconf is an extensible package of M4 macros that produce shell scripts
  operating system features that the package can use, in the form of M4 macro calls.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load autoconf/.2.71`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load autoconf/.2.71`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +35,8 @@ Use the command **`module load autoconf/.2.71`** to load the module on Bunya.
   
   
 ## Dependencies  
-(none)  
+[M4 1.4.18  (system system)](link)  
   
+## Homepage  
+The homepage for Autoconf 2.71 .  
+[https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  

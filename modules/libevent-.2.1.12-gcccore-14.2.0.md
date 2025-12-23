@@ -1,22 +1,25 @@
 # libevent 2.1.12  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-The libevent API provides a mechanism to execute a callback function when
+
+ The libevent API provides a mechanism to execute a callback function when
  a specific event occurs on a file descriptor or after a timeout has been
  reached.  Furthermore, libevent also support callbacks due to signals or
- regular timeouts.  
+ regular timeouts.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libevent/.2.1.12-gcccore-14.2.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '14.2.0'}  
+GCCcore (14.2.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libevent/.2.1.12-gcccore-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -26,5 +29,9 @@ Use the command **`module load libevent/.2.1.12-gcccore-14.2.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('pkgconf', '2.3.0')]  
+[zlib 1.3.1  (GCCcore 14.2.0)](link)  
+[OpenSSL 3  (system system)](link)  
   
+## Homepage  
+The homepage for libevent 2.1.12 .  
+[https://libevent.org/](https://libevent.org/)  

@@ -1,20 +1,21 @@
 # graphite2 1.3.14  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Graphite is a "smart font" system developed specifically to
  handle the complexities of lesser-known languages of the world.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load graphite2/1.3.14-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load graphite2/1.3.14-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load graphite2/1.3.14-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-[('CMake', '3.23.1'), ('binutils', '2.38')]  
+(none)  
   
+## Homepage  
+The homepage for graphite2 1.3.14 .  
+[https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home](https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home)  

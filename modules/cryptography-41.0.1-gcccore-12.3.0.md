@@ -1,19 +1,20 @@
 # cryptography 41.0.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cryptography/41.0.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load cryptography/41.0.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load cryptography/41.0.1-gcccore-12.3.0`** to load the
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('pkgconf', '1.9.5'), ('Rust', '1.70.0'), ('hatchling', '1.18.0'), ('setuptools-rust', '1.6.0')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[cffi 1.15.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for cryptography 41.0.1 .  
+[https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  

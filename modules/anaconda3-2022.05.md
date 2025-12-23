@@ -1,21 +1,23 @@
 # Anaconda3 2022.05  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Built to complement the rich, open source Python community,
 the Anaconda platform provides an enterprise-ready data analytics platform
-that empowers companies to adopt a modern open data science analytics architecture.  
+that empowers companies to adopt a modern open data science analytics architecture.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load anaconda3/2022.05`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load anaconda3/2022.05`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +36,6 @@ Use the command **`module load anaconda3/2022.05`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Anaconda3 2022.05 .  
+[https://www.anaconda.com](https://www.anaconda.com)  

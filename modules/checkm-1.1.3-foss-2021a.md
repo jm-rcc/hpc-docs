@@ -1,20 +1,21 @@
 # CheckM 1.1.3  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,
  single cells, or metagenomes.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load checkm/1.1.3-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load checkm/1.1.3-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,14 +30,15 @@ Use the command **`module load checkm/1.1.3-foss-2021a`** to load the module on 
   
   
 ## Dependencies  
-dependencies = [
-    ('Python', '3.9.5'),
-    ('pplacer', '1.1.alpha19', '', SYSTEM),
-    ('prodigal', '2.6.3'),
-    ('HMMER', '3.3.2'),
-    ('SciPy-bundle', '2021.05'),  # numpy
-    ('matplotlib', '3.4.2'),
-    ('Pysam', '0.16.0.1'),
-    ('DendroPy', '4.5.2'),
-]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[pplacer 1.1.alpha19  (system system)](link)  
+[prodigal 2.6.3  (GCCcore 10.3.0)](link)  
+[HMMER 3.3.2  (gompi 2021a)](link)  
+[SciPy-bundle 2021.05  (foss 2021a)](link)  
+[matplotlib 3.4.2  (foss 2021a)](link)  
+[Pysam 0.16.0.1  (GCC 10.3.0)](link)  
+[DendroPy 4.5.2  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for CheckM 1.1.3 .  
+[https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  

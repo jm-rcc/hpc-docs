@@ -1,5 +1,5 @@
 # snappy 1.1.8  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Snappy is a compression/decompression library. It does not aim
@@ -7,15 +7,16 @@ for maximum compression, or compatibility with any other compression library;
 instead, it aims for very high speeds and reasonable compression.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load snappy/1.1.8-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load snappy/1.1.8-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,8 @@ Use the command **`module load snappy/1.1.8-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('CMake', '3.20.1')]  
+(none)  
   
+## Homepage  
+The homepage for snappy 1.1.8 .  
+[https://github.com/google/snappy](https://github.com/google/snappy)  

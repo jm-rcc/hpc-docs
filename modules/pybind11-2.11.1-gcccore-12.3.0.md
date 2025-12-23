@@ -1,20 +1,21 @@
 # pybind11 2.11.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa,
  mainly to create Python bindings of existing C++ code.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pybind11/2.11.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pybind11/2.11.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load pybind11/2.11.1-gcccore-12.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3'), ('Eigen', '3.4.0'), ('Catch2', '2.13.9'), ('Python-bundle-PyPI', '2023.06')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for pybind11 2.11.1 .  
+[https://pybind11.readthedocs.io](https://pybind11.readthedocs.io)  

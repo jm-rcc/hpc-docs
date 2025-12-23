@@ -1,20 +1,21 @@
 # ncbi-vdb 3.0.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for
  using data in the INSDC Sequence Read Archives.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ncbi-vdb/3.0.2-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ncbi-vdb/3.0.2-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,10 @@ Use the command **`module load ncbi-vdb/3.0.2-gompi-2022a`** to load the module 
   
   
 ## Dependencies  
-[('Perl', '5.34.1', '-minimal'), ('Python', '3.10.4', '-bare'), ('CMake', '3.23.1')]  
+[HDF5 1.12.2  (gompi 2022a)](link)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for ncbi-vdb 3.0.2 .  
+[https://github.com/ncbi/ncbi-vdb](https://github.com/ncbi/ncbi-vdb)  

@@ -1,5 +1,5 @@
 # jbigkit 2.1  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 JBIG-KIT is a software implementation of the JBIG1 data
@@ -7,15 +7,16 @@ JBIG-KIT is a software implementation of the JBIG1 data
  data, such as scanned documents.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load jbigkit/2.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load jbigkit/2.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load jbigkit/2.1-gcccore-10.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('pkg-config', '0.29.2')]  
+(none)  
   
+## Homepage  
+The homepage for jbigkit 2.1 .  
+[https://www.cl.cam.ac.uk/~mgk25/jbigkit/](https://www.cl.cam.ac.uk/~mgk25/jbigkit/)  

@@ -1,19 +1,20 @@
 # lpsolve 5.5.2.11  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
 Mixed Integer Linear Programming (MILP) solver  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lpsolve/5.5.2.11-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load lpsolve/5.5.2.11-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load lpsolve/5.5.2.11-gcc-10.3.0`** to load the module
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for lpsolve 5.5.2.11 .  
+[https://sourceforge.net/projects/lpsolve/](https://sourceforge.net/projects/lpsolve/)  

@@ -1,20 +1,21 @@
 # GMAP-GSNAP 2023-02-17  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 GMAP: A Genomic Mapping and Alignment Program for mRNA and EST Sequences
  GSNAP: Genomic Short-read Nucleotide Alignment Program  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gmap-gsnap/2023-02-17-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gmap-gsnap/2023-02-17-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,9 @@ Use the command **`module load gmap-gsnap/2023-02-17-gcc-11.3.0`** to load the m
   
   
 ## Dependencies  
-[('bzip2', '1.0.8'), ('zlib', '1.2.12')]  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for GMAP-GSNAP 2023-02-17 .  
+[http://research-pub.gene.com/gmap/](http://research-pub.gene.com/gmap/)  

@@ -1,5 +1,5 @@
 # Xerces-C++ 3.2.4  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Xerces-C++ is a validating XML parser written in a portable
@@ -9,15 +9,16 @@ manipulating, and validating XML documents using the DOM, SAX, and SAX2
 APIs.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load xerces-c++/3.2.4-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load xerces-c++/3.2.4-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,8 @@ Use the command **`module load xerces-c++/3.2.4-gcccore-12.3.0`** to load the mo
   
   
 ## Dependencies  
-[('pkgconf', '1.9.5'), ('binutils', '2.40'), ('CMake', '3.26.3')]  
+[cURL 8.0.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for Xerces-C++ 3.2.4 .  
+[https://xerces.apache.org/xerces-c/](https://xerces.apache.org/xerces-c/)  

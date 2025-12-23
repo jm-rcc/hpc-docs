@@ -1,20 +1,21 @@
 # Rust 1.70.0  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Rust is a systems programming language that runs blazingly fast, prevents segfaults,
  and guarantees thread safety.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load rust/1.70.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load rust/1.70.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load rust/1.70.0-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3'), ('Python', '3.11.3'), ('Ninja', '1.11.1'), ('pkgconf', '1.9.5'), ('patchelf', '0.18.0')]  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for Rust 1.70.0 .  
+[https://www.rust-lang.org](https://www.rust-lang.org)  

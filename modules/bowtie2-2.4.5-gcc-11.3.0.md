@@ -1,23 +1,24 @@
 # Bowtie2 2.4.5  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
-Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads
+ Bowtie 2 is an ultrafast and memory-efficient tool for aligning sequencing reads
  to long reference sequences. It is particularly good at aligning reads of about 50 up to 100s or 1,000s
  of characters, and particularly good at aligning to relatively long (e.g. mammalian) genomes.
  Bowtie 2 indexes the genome with an FM Index to keep its memory footprint small: for the human genome,
  its memory footprint is typically around 3.2 GB. Bowtie 2 supports gapped, local, and paired-end alignment modes.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bowtie2/2.4.5-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load bowtie2/2.4.5-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +35,10 @@ Use the command **`module load bowtie2/2.4.5-gcc-11.3.0`** to load the module on
   
   
 ## Dependencies  
-[('zlib', '1.2.12'), ('Perl', '5.34.1'), ('Python', '3.10.4')]  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Bowtie2 2.4.5 .  
+[https://bowtie-bio.sourceforge.net/bowtie2/index.shtml](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)  

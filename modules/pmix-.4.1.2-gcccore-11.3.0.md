@@ -1,5 +1,5 @@
 # PMIx 4.1.2  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Process Management for Exascale Environments
@@ -11,18 +11,20 @@ definitions - in fact, PMIx fully supports both of the existing PMI-1
 and PMI-2 APIs - but rather to (a) augment and extend those APIs to
 eliminate some current restrictions that impact scalability, and (b)
 provide a reference implementation of the PMI-server that demonstrates
-the desired level of scalability.  
+the desired level of scalability.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pmix/.4.1.2-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load pmix/.4.1.2-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -39,11 +41,10 @@ Use the command **`module load pmix/.4.1.2-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('libevent', '2.1.12'),
-    ('zlib', '1.2.12'),
-    ('hwloc', '2.7.1'),
-]  
+[libevent 2.1.12  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[hwloc 2.7.1  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for PMIx 4.1.2 .  
+[https://pmix.org/](https://pmix.org/)  

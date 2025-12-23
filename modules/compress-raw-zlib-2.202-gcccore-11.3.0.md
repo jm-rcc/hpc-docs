@@ -1,19 +1,20 @@
 # Compress-Raw-Zlib 2.202  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Low-Level Interface to zlib or zlib-ng compression library  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load compress-raw-zlib/2.202-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load compress-raw-zlib/2.202-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load compress-raw-zlib/2.202-gcccore-11.3.0`** to load
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Compress-Raw-Zlib 2.202 .  
+[https://metacpan.org/pod/Compress::Raw::Zlib](https://metacpan.org/pod/Compress::Raw::Zlib)  

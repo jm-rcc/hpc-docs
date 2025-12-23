@@ -1,21 +1,24 @@
 # JasPer 2.0.33  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-The JasPer Project is an open-source initiative to provide a free
+
+ The JasPer Project is an open-source initiative to provide a free
  software-based reference implementation of the codec specified in
- the JPEG-2000 Part-1 standard.  
+ the JPEG-2000 Part-1 standard.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load jasper/.2.0.33-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load jasper/.2.0.33-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,8 @@ Use the command **`module load jasper/.2.0.33-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('CMake', '3.23.1')]  
+(none)  
   
+## Homepage  
+The homepage for JasPer 2.0.33 .  
+[https://www.ece.uvic.ca/~frodo/jasper/](https://www.ece.uvic.ca/~frodo/jasper/)  

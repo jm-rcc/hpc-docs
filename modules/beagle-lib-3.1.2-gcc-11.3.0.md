@@ -1,20 +1,21 @@
 # beagle-lib 3.1.2  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 beagle-lib is a high-performance library that can perform the core calculations at the heart of most
  Bayesian and Maximum Likelihood phylogenetics packages.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load beagle-lib/3.1.2-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load beagle-lib/3.1.2-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,10 @@ Use the command **`module load beagle-lib/3.1.2-gcc-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('Autotools', '20220317')]  
+[Java 11  (system system)](link)  
+[pkg-config 0.29.2  (GCCcore 11.3.0)](link)  
+[pocl 1.8  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for beagle-lib 3.1.2 .  
+[https://github.com/beagle-dev/beagle-lib](https://github.com/beagle-dev/beagle-lib)  

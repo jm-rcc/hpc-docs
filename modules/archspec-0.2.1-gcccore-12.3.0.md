@@ -1,19 +1,20 @@
 # archspec 0.2.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 A library for detecting, labeling, and reasoning about microarchitectures  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load archspec/0.2.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load archspec/0.2.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -27,5 +28,8 @@ Use the command **`module load archspec/0.2.1-gcccore-12.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('poetry', '1.5.1')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for archspec 0.2.1 .  
+[https://github.com/archspec/archspec](https://github.com/archspec/archspec)  

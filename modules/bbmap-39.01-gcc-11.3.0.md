@@ -1,19 +1,20 @@
 # BBMap 39.01  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 BBMap short read aligner, and other bioinformatic tools.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bbmap/39.01-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load bbmap/39.01-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load bbmap/39.01-gcc-11.3.0`** to load the module on B
   
   
 ## Dependencies  
-(none)  
+[Java 11  (system system)](link)  
   
+## Homepage  
+The homepage for BBMap 39.01 .  
+[https://sourceforge.net/projects/bbmap/](https://sourceforge.net/projects/bbmap/)  

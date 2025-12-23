@@ -1,5 +1,5 @@
 # json-c 0.16  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 JSON-C implements a reference counting object model that allows you to easily construct JSON objects
@@ -7,15 +7,16 @@ JSON-C implements a reference counting object model that allows you to easily co
 objects.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load json-c/0.16-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load json-c/0.16-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load json-c/0.16-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3')]  
+(none)  
   
+## Homepage  
+The homepage for json-c 0.16 .  
+[https://github.com/json-c/json-c](https://github.com/json-c/json-c)  

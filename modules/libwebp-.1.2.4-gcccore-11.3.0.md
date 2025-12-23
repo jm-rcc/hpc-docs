@@ -1,5 +1,5 @@
 # libwebp 1.2.4  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 WebP is a modern image format that provides superior
@@ -8,15 +8,16 @@ webmasters and web developers can create smaller, richer images that
 make the web faster.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libwebp/.1.2.4-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libwebp/.1.2.4-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,11 @@ Use the command **`module load libwebp/.1.2.4-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
+[libpng 1.6.37  (GCCcore 11.3.0)](link)  
+[LibTIFF 4.3.0  (GCCcore 11.3.0)](link)  
+[giflib 5.2.1  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for libwebp 1.2.4 .  
+[https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)  

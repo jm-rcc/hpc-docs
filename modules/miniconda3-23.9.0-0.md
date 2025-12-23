@@ -1,5 +1,5 @@
 # Miniconda3 23.9.0-0  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Miniconda is a free minimal installer for conda. It is a small,
@@ -7,15 +7,16 @@ Miniconda is a free minimal installer for conda. It is a small,
  depend on, and a small number of other useful packages.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load miniconda3/23.9.0-0`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load miniconda3/23.9.0-0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +35,6 @@ Use the command **`module load miniconda3/23.9.0-0`** to load the module on Buny
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Miniconda3 23.9.0-0 .  
+[https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)  

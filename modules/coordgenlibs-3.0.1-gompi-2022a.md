@@ -1,19 +1,20 @@
 # CoordgenLibs 3.0.1  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 Schrodinger-developed 2D Coordinate Generation  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load coordgenlibs/3.0.1-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load coordgenlibs/3.0.1-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,10 +31,9 @@ Use the command **`module load coordgenlibs/3.0.1-gompi-2022a`** to load the mod
   
   
 ## Dependencies  
-dependencies = [('CMake', '3.23.1')]
-
-dependencies = [
-    ('Boost', '1.79.0'),
-    ('maeparser', '1.3.0'),
-]  
+[Boost 1.79.0  (GCC 11.3.0)](link)  
+[maeparser 1.3.0  (gompi 2022a)](link)  
   
+## Homepage  
+The homepage for CoordgenLibs 3.0.1 .  
+[https://github.com/schrodinger/coordgenlibs](https://github.com/schrodinger/coordgenlibs)  

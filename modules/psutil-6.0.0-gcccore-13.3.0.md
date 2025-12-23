@@ -1,19 +1,20 @@
 # psutil 6.0.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 A cross-platform process and system utilities module for Python  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load psutil/6.0.0-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load psutil/6.0.0-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 h100  
@@ -21,15 +22,8 @@ Use the command **`module load psutil/6.0.0-gcccore-13.3.0`** to load the module
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.42')]
-
-dependencies = [('Python', '3.12.3')]
-
-exts_list = [
-    (name, version, {
-        'source_urls': ['https://github.com/giampaolo/psutil/archive'],
-        'sources': ['%(name)s-%(version)s.tar.gz'],
-        'checksums': ['8faae4f310b6d969fa26ca0545338b21f73c6b15db7c4a8d934a5482faa818f2'],
-    }),
-]  
+[Python 3.12.3  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for psutil 6.0.0 .  
+[https://github.com/giampaolo/psutil](https://github.com/giampaolo/psutil)  

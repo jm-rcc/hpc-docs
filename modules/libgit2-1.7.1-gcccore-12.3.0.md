@@ -1,5 +1,5 @@
 # libgit2 1.7.1  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 libgit2 is a portable, pure C implementation of the Git core methods provided as a re-entrant
@@ -7,15 +7,16 @@ linkable library with a solid API, allowing you to write native speed custom Git
 which supports C bindings.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libgit2/1.7.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libgit2/1.7.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,9 @@ Use the command **`module load libgit2/1.7.1-gcccore-12.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3'), ('pkgconf', '1.9.5')]  
+[PCRE 8.45  (GCCcore 12.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for libgit2 1.7.1 .  
+[https://libgit2.org/](https://libgit2.org/)  

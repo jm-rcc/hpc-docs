@@ -1,19 +1,20 @@
 # gnuplot 5.4.4  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Portable interactive, function plotting utility  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gnuplot/.5.4.4-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gnuplot/.5.4.4-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,17 @@ Use the command **`module load gnuplot/.5.4.4-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0'), ('Autotools', '20220317')]  
+[ncurses 6.3  (GCCcore 11.3.0)](link)  
+[cairo 1.17.4  (GCCcore 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
+[libpng 1.6.37  (GCCcore 11.3.0)](link)  
+[libgd 2.3.3  (GCCcore 11.3.0)](link)  
+[Pango 1.50.7  (GCCcore 11.3.0)](link)  
+[libcerf 2.1  (GCCcore 11.3.0)](link)  
+[X11 20220504  (GCCcore 11.3.0)](link)  
+[Qt5 5.15.5  (GCCcore 11.3.0)](link)  
+[Lua 5.4.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for gnuplot 5.4.4 .  
+[http://gnuplot.sourceforge.net](http://gnuplot.sourceforge.net)  

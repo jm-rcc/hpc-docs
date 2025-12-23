@@ -1,20 +1,21 @@
 # intltool 0.51.0  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 intltool is a set of tools to centralize translation of
  many different file formats using GNU gettext-compatible PO files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load intltool/.0.51.0-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load intltool/.0.51.0-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,8 @@ Use the command **`module load intltool/.0.51.0-gcccore-13.3.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.42')]  
+[Perl-bundle-CPAN 5.38.2  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for intltool 0.51.0 .  
+[https://freedesktop.org/wiki/Software/intltool/](https://freedesktop.org/wiki/Software/intltool/)  

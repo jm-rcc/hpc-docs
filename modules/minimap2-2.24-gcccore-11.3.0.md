@@ -1,5 +1,5 @@
 # minimap2 2.24  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Minimap2 is a fast sequence mapping and alignment
@@ -13,15 +13,16 @@ long-read aligners. It will replace BWA-MEM for long reads and contig
 alignment.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load minimap2/2.24-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load minimap2/2.24-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -38,18 +39,8 @@ Use the command **`module load minimap2/2.24-gcccore-11.3.0`** to load the modul
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [('zlib', '1.2.12')]
-
-buildopts = 'CC="${CC}" CFLAGS="${CFLAGS}" INCLUDES="${CPPFLAGS}"'
-
-files_to_copy = [
-    (['%(name)s'], 'bin'),
-    (['lib%(name)s.a'], 'lib'),
-    (['*.h'], 'include'),
-    'LICENSE.txt', 'NEWS.md', 'README.md',
-    (['%(name)s.1'], 'share/man/man1'),
-    (['test/MT-human.fa', 'test/MT-orang.fa'], 'test'),
-]  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for minimap2 2.24 .  
+[https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  

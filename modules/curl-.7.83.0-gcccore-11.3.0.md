@@ -1,25 +1,28 @@
 # cURL 7.83.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
-libcurl is a free and easy-to-use client-side URL transfer library,
+
+ libcurl is a free and easy-to-use client-side URL transfer library,
  supporting DICT, FILE, FTP, FTPS, Gopher, HTTP, HTTPS, IMAP, IMAPS, LDAP,
  LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMTP, SMTPS, Telnet and TFTP.
  libcurl supports SSL certificates, HTTP POST, HTTP PUT, FTP uploading, HTTP
  form based upload, proxies, cookies, user+password authentication (Basic,
  Digest, NTLM, Negotiate, Kerberos), file transfer resume, http proxy tunneling
- and more.  
+ and more.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load curl/.7.83.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load curl/.7.83.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -36,5 +39,9 @@ Use the command **`module load curl/.7.83.0-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for cURL 7.83.0 .  
+[https://curl.haxx.se](https://curl.haxx.se)  

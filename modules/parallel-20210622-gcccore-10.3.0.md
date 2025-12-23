@@ -1,19 +1,20 @@
 # parallel 20210622  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 parallel: Build and execute shell commands in parallel  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load parallel/20210622-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load parallel/20210622-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load parallel/20210622-gcccore-10.3.0`** to load the m
   
   
 ## Dependencies  
-(none)  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for parallel 20210622 .  
+[https://savannah.gnu.org/projects/parallel/](https://savannah.gnu.org/projects/parallel/)  

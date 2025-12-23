@@ -1,19 +1,20 @@
 # LibTIFF 4.5.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 tiff: Library and tools for reading and writing TIFF data files  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libtiff/.4.5.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libtiff/.4.5.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,14 +31,13 @@ Use the command **`module load libtiff/.4.5.0-gcccore-12.3.0`** to load the modu
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.40')]
-
-dependencies = [
-    ('zlib', '1.2.13'),
-    ('libjpeg-turbo', '2.1.5.1'),
-    ('XZ', '5.4.2'),
-    ('jbigkit', '2.1'),
-    ('zstd', '1.5.5'),
-    ('libdeflate', '1.18'),
-]  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
+[XZ 5.4.2  (GCCcore 12.3.0)](link)  
+[jbigkit 2.1  (GCCcore 12.3.0)](link)  
+[zstd 1.5.5  (GCCcore 12.3.0)](link)  
+[libdeflate 1.18  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for LibTIFF 4.5.0 .  
+[https://libtiff.gitlab.io/libtiff/](https://libtiff.gitlab.io/libtiff/)  

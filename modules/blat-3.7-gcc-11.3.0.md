@@ -1,20 +1,21 @@
 # BLAT 3.7  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 BLAT on DNA is designed to quickly find sequences of 95% and
 greater similarity of length 25 bases or more.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load blat/3.7-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load blat/3.7-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,13 +29,14 @@ Use the command **`module load blat/3.7-gcc-11.3.0`** to load the module on Buny
   
   
 ## Dependencies  
-dependencies = [
-    ('freetype', '2.12.1'),
-    ('libiconv', '1.17'),
-    ('libpng', '1.6.37'),
-    ('MariaDB', '10.9.3'),
-    ('OpenSSL', '1.1', '', SYSTEM),
-    ('util-linux', '2.38'),
-    ('zlib', '1.2.12'),
-]  
+[freetype 2.12.1  (GCCcore 11.3.0)](link)  
+[libiconv 1.17  (GCCcore 11.3.0)](link)  
+[libpng 1.6.37  (GCCcore 11.3.0)](link)  
+[MariaDB 10.9.3  (GCC 11.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
+[util-linux 2.38  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for BLAT 3.7 .  
+[https://genome.ucsc.edu/goldenPath/help/blatSpec.html](https://genome.ucsc.edu/goldenPath/help/blatSpec.html)  

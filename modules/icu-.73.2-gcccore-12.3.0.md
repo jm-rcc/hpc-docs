@@ -1,20 +1,21 @@
 # ICU 73.2  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization
  support for software applications.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load icu/.73.2-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load icu/.73.2-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load icu/.73.2-gcccore-12.3.0`** to load the module on
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Python', '3.11.3')]  
+(none)  
   
+## Homepage  
+The homepage for ICU 73.2 .  
+[https://icu.unicode.org](https://icu.unicode.org)  

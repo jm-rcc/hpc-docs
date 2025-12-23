@@ -1,24 +1,27 @@
 # libreadline 8.2  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-The GNU Readline library provides a set of functions for use by applications
+
+ The GNU Readline library provides a set of functions for use by applications
  that allow users to edit command lines as they are typed in. Both Emacs and
  vi editing modes are available. The Readline library includes additional
  functions to maintain a list of previously-entered command lines, to recall
  and perhaps reedit those lines, and perform csh-like history expansion on
- previous commands.  
+ previous commands.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libreadline/.8.2-gcccore-14.2.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '14.2.0'}  
+GCCcore (14.2.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libreadline/.8.2-gcccore-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +31,8 @@ Use the command **`module load libreadline/.8.2-gcccore-14.2.0`** to load the mo
   
   
 ## Dependencies  
-[('binutils', '2.42')]  
+[ncurses 6.5  (GCCcore 14.2.0)](link)  
   
+## Homepage  
+The homepage for libreadline 8.2 .  
+[https://tiswww.case.edu/php/chet/readline/rltop.html](https://tiswww.case.edu/php/chet/readline/rltop.html)  

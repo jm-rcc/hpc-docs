@@ -1,20 +1,21 @@
 # pyBigWig 0.3.18  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 A python extension, written in C, for quick access to bigBed
  files and access to and creation of bigWig files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pybigwig/0.3.18-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pybigwig/0.3.18-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,11 @@ Use the command **`module load pybigwig/0.3.18-foss-2021a`** to load the module 
   
   
 ## Dependencies  
-[('Python', '3.9.5'), ('cURL', '7.76.0'), ('NSS', '3.65'), ('SciPy-bundle', '2021.05')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[cURL 7.76.0  (GCCcore 10.3.0)](link)  
+[NSS 3.65  (GCCcore 10.3.0)](link)  
+[SciPy-bundle 2021.05  (foss 2021a)](link)  
   
+## Homepage  
+The homepage for pyBigWig 0.3.18 .  
+[https://github.com/deeptools/pyBigWig](https://github.com/deeptools/pyBigWig)  

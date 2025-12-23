@@ -1,5 +1,5 @@
 # tmux 3.5a  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 tmux is a terminal multiplexer: it enables a number of
@@ -8,15 +8,16 @@ may be detached from a screen and continue running in the background, then
 later reattached.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load tmux/3.5a`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load tmux/3.5a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,9 @@ Use the command **`module load tmux/3.5a`** to load the module on Bunya.
   
   
 ## Dependencies  
-[('Bison', '3.8.2')]  
+[libevent 2.1.12  (system system)](link)  
+[ncurses 6.5  (system system)](link)  
   
+## Homepage  
+The homepage for tmux 3.5a .  
+[https://github.com/tmux/tmux/](https://github.com/tmux/tmux/)  

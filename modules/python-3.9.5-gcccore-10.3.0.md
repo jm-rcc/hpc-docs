@@ -1,20 +1,21 @@
 # Python 3.9.5  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Python is a programming language that lets you work more quickly and integrate your systems
  more effectively.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load python/3.9.5-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load python/3.9.5-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,17 @@ Use the command **`module load python/3.9.5-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-[('UnZip', '6.0'), ('Rust', '1.52.1'), ('pkg-config', '0.29.2'), ('git', '2.32.0', '-nodocs')]  
+[binutils 2.36.1  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[libreadline 8.1  (GCCcore 10.3.0)](link)  
+[ncurses 6.2  (GCCcore 10.3.0)](link)  
+[SQLite 3.35.4  (GCCcore 10.3.0)](link)  
+[XZ 5.2.5  (GCCcore 10.3.0)](link)  
+[GMP 6.2.1  (GCCcore 10.3.0)](link)  
+[libffi 3.3  (GCCcore 10.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for Python 3.9.5 .  
+[https://python.org/](https://python.org/)  

@@ -1,20 +1,21 @@
 # foss 2023a  
-(toolchain)  
+![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
   
 GNU Compiler Collection (GCC) based compiler toolchain, including
  OpenMPI for MPI support, OpenBLAS (BLAS and LAPACK support), FFTW and ScaLAPACK.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load foss/2023a`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load foss/2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,12 +32,13 @@ Use the command **`module load foss/2023a`** to load the module on Bunya.
   
   
 ## Dependencies  
-dependencies = [
-    ('GCC', local_gccver),
-    ('OpenMPI', '4.1.5', '', ('GCC', local_gccver)),
-    ('FlexiBLAS', '3.3.1', '', ('GCC', local_gccver)),
-    ('FFTW', '3.3.10', '', ('GCC', local_gccver)),
-    ('FFTW.MPI', '3.3.10', '', local_comp_mpi_tc),
-    ('ScaLAPACK', '2.2.0', '-fb', local_comp_mpi_tc),
-]  
+[GCC 12.3.0  (system system)](link)  
+[OpenMPI 4.1.5  (GCC 12.3.0)](link)  
+[FlexiBLAS 3.3.1  (GCC 12.3.0)](link)  
+[FFTW 3.3.10  (GCC 12.3.0)](link)  
+[FFTW.MPI 3.3.10  (gompi 2023a)](link)  
+[ScaLAPACK 2.2.0 -fb (gompi 2023a)](link)  
   
+## Homepage  
+The homepage for foss 2023a .  
+[https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain)  

@@ -1,20 +1,21 @@
 # Bio-SearchIO-hmmer 1.7.3  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Code to parse output from hmmsearch, hmmscan, phmmer and nhmmer, compatible
 with both version 2 and version 3 of the HMMER package from http://hmmer.org.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bio-searchio-hmmer/1.7.3-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load bio-searchio-hmmer/1.7.3-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,9 @@ Use the command **`module load bio-searchio-hmmer/1.7.3-gcc-11.3.0`** to load th
   
   
 ## Dependencies  
-[('Perl', '5.34.1'), ('BioPerl', '1.7.8')]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[BioPerl 1.7.8  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Bio-SearchIO-hmmer 1.7.3 .  
+[https://metacpan.org/pod/Bio::SearchIO::hmmer3](https://metacpan.org/pod/Bio::SearchIO::hmmer3)  

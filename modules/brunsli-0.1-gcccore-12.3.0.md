@@ -1,19 +1,20 @@
 # Brunsli 0.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Brunsli is a lossless JPEG repacking library.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load brunsli/0.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load brunsli/0.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,8 @@ Use the command **`module load brunsli/0.1-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('CMake', '3.26.3'), ('binutils', '2.40')]  
+[Brotli 1.0.9  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for Brunsli 0.1 .  
+[https://github.com/google/brunsli/](https://github.com/google/brunsli/)  

@@ -1,20 +1,21 @@
 # NSS 3.89.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Network Security Services (NSS) is a set of libraries designed to support cross-platform development
  of security-enabled client and server applications.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nss/.3.89.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nss/.3.89.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load nss/.3.89.1-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Perl', '5.36.1')]  
+[NSPR 4.35  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for NSS 3.89.1 .  
+[https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS)  

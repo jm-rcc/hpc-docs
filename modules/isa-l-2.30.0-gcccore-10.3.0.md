@@ -1,19 +1,20 @@
 # ISA-L 2.30.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Intelligent Storage Acceleration Library  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load isa-l/2.30.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load isa-l/2.30.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load isa-l/2.30.0-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-[('Autotools', '20210128'), ('binutils', '2.36.1'), ('pkg-config', '0.29.2')]  
+[NASM 2.15.05  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for ISA-L 2.30.0 .  
+[https://github.com/intel/isa-l](https://github.com/intel/isa-l)  

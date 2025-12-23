@@ -1,5 +1,5 @@
 # Jansson 2.14  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 Jansson is a C library for encoding, decoding and manipulating JSON data.
@@ -11,15 +11,16 @@ Jansson is a C library for encoding, decoding and manipulating JSON data.
  * Extensive test suite  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load jansson/.2.14-gcc-11.3.0.bak_20251013214429_2034437`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load jansson/.2.14-gcc-11.3.0.bak_20251013214429_2034437`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 mi210  
@@ -28,3 +29,6 @@ Use the command **`module load jansson/.2.14-gcc-11.3.0.bak_20251013214429_20344
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Jansson 2.14 .  
+[https://www.digip.org/jansson/](https://www.digip.org/jansson/)  

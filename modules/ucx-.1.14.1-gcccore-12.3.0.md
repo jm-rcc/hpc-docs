@@ -1,21 +1,23 @@
 # UCX 1.14.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Unified Communication X
 An open-source production grade communication framework for data centric
-and high-performance applications  
+and high-performance applications
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ucx/.1.14.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load ucx/.1.14.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -27,5 +29,9 @@ Use the command **`module load ucx/.1.14.1-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Autotools', '20220317'), ('pkgconf', '1.9.5')]  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[numactl 2.0.16  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for UCX 1.14.1 .  
+[https://www.openucx.org/](https://www.openucx.org/)  

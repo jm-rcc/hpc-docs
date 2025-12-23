@@ -1,23 +1,24 @@
 # Biopython 1.79  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Biopython is a set of freely available tools for biological
  computation written in Python by an international team of developers. It is
  a distributed collaborative effort to develop Python libraries and
  applications which address the needs of current and future work in
- bioinformatics.  
+ bioinformatics.   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load biopython/1.79-foss-2022a`**.  
   
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load biopython/1.79-foss-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +35,9 @@ Use the command **`module load biopython/1.79-foss-2022a`** to load the module o
   
   
 ## Dependencies  
-[('Python', '3.10.4'), ('SciPy-bundle', '2022.05')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[SciPy-bundle 2022.05  (foss 2022a)](link)  
   
+## Homepage  
+The homepage for Biopython 1.79 .  
+[https://www.biopython.org](https://www.biopython.org)  

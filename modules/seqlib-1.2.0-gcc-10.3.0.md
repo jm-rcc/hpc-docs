@@ -1,19 +1,20 @@
 # SeqLib 1.2.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 C++ interface to HTSlib, BWA-MEM and Fermi.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load seqlib/1.2.0-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load seqlib/1.2.0-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,17 +29,16 @@ Use the command **`module load seqlib/1.2.0-gcc-10.3.0`** to load the module on 
   
   
 ## Dependencies  
-dependencies = [('Autotools', '20210128')]
-
-dependencies = [
-    ('zlib', '1.2.11'),
-    ('XZ', '5.2.5'),
-    ('bzip2', '1.0.8'),
-    ('JsonCpp', '1.9.4'),
-    ('BWA', '0.7.17'),
-    ('HTSlib', '1.12'),
-    ('fermi-lite', '20190320'),
-    ('SSW', '1.1'),
-    ('PCRE', '8.44'),
-]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[XZ 5.2.5  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
+[JsonCpp 1.9.4  (GCCcore 10.3.0)](link)  
+[BWA 0.7.17  (GCC 10.3.0)](link)  
+[HTSlib 1.12  (GCC 10.3.0)](link)  
+[fermi-lite 20190320  (GCCcore 10.3.0)](link)  
+[SSW 1.1  (GCCcore 10.3.0)](link)  
+[PCRE 8.44  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for SeqLib 1.2.0 .  
+[https://github.com/walaj/SeqLib](https://github.com/walaj/SeqLib)  

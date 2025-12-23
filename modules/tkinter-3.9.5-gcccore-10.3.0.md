@@ -1,19 +1,20 @@
 # Tkinter 3.9.5  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Tkinter module, built with the Python buildsystem  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load tkinter/3.9.5-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load tkinter/3.9.5-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,10 @@ Use the command **`module load tkinter/3.9.5-gcccore-10.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('libffi', '3.3')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[Tk 8.6.11  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Tkinter 3.9.5 .  
+[https://python.org/](https://python.org/)  

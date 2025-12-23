@@ -1,5 +1,5 @@
 # GnuTLS 3.7.8  
-(system)  
+![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
   
 GnuTLS is a secure communications library implementing the SSL, TLS
@@ -10,15 +10,16 @@ GnuTLS is a secure communications library implementing the SSL, TLS
  and efficient with focus on security and interoperability.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gnutls/3.7.8-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gnutls/3.7.8-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,5 +36,15 @@ Use the command **`module load gnutls/3.7.8-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0')]  
+[GMP 6.2.1  (GCCcore 11.3.0)](link)  
+[nettle 3.8  (GCCcore 11.3.0)](link)  
+[Guile 3.0.8  (GCCcore 11.3.0)](link)  
+[libtasn1 4.19.0  (GCCcore 11.3.0)](link)  
+[libidn2 2.3.2  (GCCcore 11.3.0)](link)  
+[p11-kit 0.24.1  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[zstd 1.5.2  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for GnuTLS 3.7.8 .  
+[https://www.gnutls.org](https://www.gnutls.org)  

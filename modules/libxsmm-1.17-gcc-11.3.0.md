@@ -1,20 +1,21 @@
 # libxsmm 1.17  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
 LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications
 targeting Intel Architecture (x86).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libxsmm/1.17-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libxsmm/1.17-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load libxsmm/1.17-gcc-11.3.0`** to load the module on 
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for libxsmm 1.17 .  
+[https://github.com/libxsmm/libxsmm](https://github.com/libxsmm/libxsmm)  

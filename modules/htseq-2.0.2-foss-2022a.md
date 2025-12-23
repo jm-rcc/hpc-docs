@@ -1,20 +1,21 @@
 # HTSeq 2.0.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 HTSeq is a Python library to facilitate processing and analysis
  of data from high-throughput sequencing (HTS) experiments.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load htseq/2.0.2-foss-2022a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load htseq/2.0.2-foss-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,12 +32,11 @@ Use the command **`module load htseq/2.0.2-foss-2022a`** to load the module on B
   
   
 ## Dependencies  
-dependencies = [('SWIG', '4.0.2')]
-
-dependencies = [
-    ('Python', '3.10.4'),
-    ('Pysam', '0.19.1'),
-    ('SciPy-bundle', '2022.05'),
-    ('matplotlib', '3.5.2'),
-]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Pysam 0.19.1  (GCC 11.3.0)](link)  
+[SciPy-bundle 2022.05  (foss 2022a)](link)  
+[matplotlib 3.5.2  (foss 2022a)](link)  
   
+## Homepage  
+The homepage for HTSeq 2.0.2 .  
+[https://github.com/simon-anders/htseq](https://github.com/simon-anders/htseq)  

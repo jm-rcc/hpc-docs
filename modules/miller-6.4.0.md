@@ -1,19 +1,20 @@
 # Miller 6.4.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load miller/6.4.0`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load miller/6.4.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load miller/6.4.0`** to load the module on Bunya.
   
   
 ## Dependencies  
-[('Go', '1.18.3')]  
+(none)  
   
+## Homepage  
+The homepage for Miller 6.4.0 .  
+[https://miller.readthedocs.io/](https://miller.readthedocs.io/)  

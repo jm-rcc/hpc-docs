@@ -1,19 +1,20 @@
 # patchelf 0.18.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 PatchELF is a small utility to modify the dynamic linker and RPATH of ELF executables.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load patchelf/0.18.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load patchelf/0.18.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load patchelf/0.18.0-gcccore-12.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Autotools', '20220317')]  
+(none)  
   
+## Homepage  
+The homepage for patchelf 0.18.0 .  
+[https://github.com/NixOS/patchelf](https://github.com/NixOS/patchelf)  

@@ -1,20 +1,21 @@
 # gfbf 2022a  
-(toolchain)  
+![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
   
 GNU Compiler Collection (GCC) based compiler toolchain, including
  FlexiBLAS (BLAS and LAPACK support) and (serial) FFTW.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gfbf/2022a`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gfbf/2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,9 +32,10 @@ Use the command **`module load gfbf/2022a`** to load the module on Bunya.
   
   
 ## Dependencies  
-dependencies = [
-    ('GCC', local_gccver),
-    ('FlexiBLAS', '3.2.0', '', ('GCC', local_gccver)),
-    ('FFTW', '3.3.10', '', ('GCC', local_gccver)),
-]  
+[GCC 11.3.0  (system system)](link)  
+[FlexiBLAS 3.2.0  (GCC 11.3.0)](link)  
+[FFTW 3.3.10  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for gfbf 2022a .  
+(none)  

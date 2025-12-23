@@ -1,5 +1,5 @@
 # OpenBabel 3.1.1  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 Open Babel is a chemical toolbox designed to speak the many
@@ -8,15 +8,16 @@ Open Babel is a chemical toolbox designed to speak the many
  solid-state materials, biochemistry, or related areas.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load openbabel/3.1.1-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 {'pic': True, 'optarch': 'mavx2'}  
   
-  
-### Usage  
-Use the command **`module load openbabel/3.1.1-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,16 @@ Use the command **`module load openbabel/3.1.1-gompi-2021a`** to load the module
   
   
 ## Dependencies  
-[('CMake', '3.20.1'), ('SWIG', '4.0.2')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
+[Eigen 3.3.9  (GCCcore 10.3.0)](link)  
+[RapidJSON 1.1.0  (GCCcore 10.3.0)](link)  
+[cairo 1.16.0  (GCCcore 10.3.0)](link)  
+[Boost 1.76.0  (GCC 10.3.0)](link)  
+[maeparser 1.3.0  (gompi 2021a)](link)  
+[CoordgenLibs 3.0.1  (gompi 2021a)](link)  
   
+## Homepage  
+The homepage for OpenBabel 3.1.1 .  
+[https://openbabel.org](https://openbabel.org)  

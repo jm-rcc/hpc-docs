@@ -1,19 +1,20 @@
 # SQLite 3.47.2  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 SQLite: SQL Database Engine in a C Library  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load sqlite/.3.47.2-gcccore-14.2.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '14.2.0'}  
+GCCcore (14.2.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load sqlite/.3.47.2-gcccore-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -23,5 +24,9 @@ Use the command **`module load sqlite/.3.47.2-gcccore-14.2.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.42')]  
+[libreadline 8.2  (GCCcore 14.2.0)](link)  
+[Tcl 8.6.16  (GCCcore 14.2.0)](link)  
   
+## Homepage  
+The homepage for SQLite 3.47.2 .  
+[https://www.sqlite.org/](https://www.sqlite.org/)  

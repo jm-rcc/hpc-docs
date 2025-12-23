@@ -1,19 +1,20 @@
 # fermi-lite 20190320  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Standalone C library for assembling Illumina short reads in small regions.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fermi-lite/20190320-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load fermi-lite/20190320-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,16 +29,8 @@ Use the command **`module load fermi-lite/20190320-gcccore-10.3.0`** to load the
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [('zlib', '1.2.11')]
-
-prebuildopts = 'CFLAGS="$CFLAGS -fcommon"'
-
-files_to_copy = [
-    (['fml-asm'], 'bin'),
-    (['*.a', '*.%s*' % SHLIB_EXT], 'lib'),
-    (['*.h'], 'include/fml'),
-    'test',
-]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for fermi-lite 20190320 .  
+[https://github.com/lh3/fermi-lite](https://github.com/lh3/fermi-lite)  

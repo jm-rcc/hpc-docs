@@ -1,20 +1,21 @@
 # Clang 18.1.8  
-(compiler)  
+![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
   
 C, C++, Objective-C compiler, based on LLVM.  Does not
  include C++ standard library -- use libstdc++ from GCC.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load clang/18.1.8-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load clang/18.1.8-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,13 @@ Use the command **`module load clang/18.1.8-gcccore-13.3.0`** to load the module
   
   
 ## Dependencies  
-[('CMake', '3.29.3'), ('Perl', '5.38.2'), ('Python', '3.12.3')]  
+[binutils 2.42  (GCCcore 13.3.0)](link)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
+[libxml2 2.12.7  (GCCcore 13.3.0)](link)  
+[ncurses 6.5  (GCCcore 13.3.0)](link)  
+[GMP 6.3.0  (GCCcore 13.3.0)](link)  
+[Z3 4.13.0  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for Clang 18.1.8 .  
+[https://clang.llvm.org/](https://clang.llvm.org/)  

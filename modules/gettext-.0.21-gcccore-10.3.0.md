@@ -1,5 +1,5 @@
 # gettext 0.21  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 GNU 'gettext' is an important step for the GNU Translation Project, as it is an asset on which we may
@@ -7,15 +7,16 @@ build many other steps. This package offers to programmers, translators, and eve
 and documentation  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gettext/.0.21-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gettext/.0.21-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,10 +33,9 @@ Use the command **`module load gettext/.0.21-gcccore-10.3.0`** to load the modul
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [
-    ('libxml2', '2.9.10'),
-    ('ncurses', '6.2'),
-]  
+[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
+[ncurses 6.2  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for gettext 0.21 .  
+[https://www.gnu.org/software/gettext/](https://www.gnu.org/software/gettext/)  

@@ -1,20 +1,21 @@
 # libxslt 1.1.38  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Libxslt is the XSLT C library developed for the GNOME project
  (but usable outside of the Gnome platform).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libxslt/1.1.38-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libxslt/1.1.38-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,9 @@ Use the command **`module load libxslt/1.1.38-gcccore-12.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('pkgconf', '1.9.5')]  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[libxml2 2.11.4  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for libxslt 1.1.38 .  
+[http://xmlsoft.org/](http://xmlsoft.org/)  

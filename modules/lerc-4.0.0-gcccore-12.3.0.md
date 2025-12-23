@@ -1,5 +1,5 @@
 # LERC 4.0.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 LERC is an open-source image or raster format which supports rapid encoding and decoding
@@ -7,15 +7,16 @@ for any pixel type (not just RGB or Byte). Users set the maximum compression err
 so the precision of the original input image is preserved (within user defined error bounds).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lerc/4.0.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load lerc/4.0.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load lerc/4.0.0-gcccore-12.3.0`** to load the module o
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('CMake', '3.26.3')]  
+(none)  
   
+## Homepage  
+The homepage for LERC 4.0.0 .  
+[https://github.com/Esri/lerc](https://github.com/Esri/lerc)  

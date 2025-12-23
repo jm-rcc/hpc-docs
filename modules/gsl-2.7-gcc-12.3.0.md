@@ -1,5 +1,5 @@
 # GSL 2.7  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 The GNU Scientific Library (GSL) is a numerical library for C and C++ programmers.
@@ -7,15 +7,16 @@ The GNU Scientific Library (GSL) is a numerical library for C and C++ programmer
  and least-squares fitting.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gsl/2.7-gcc-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '12.3.0'}  
+GCC (12.3.0)  
   
 ### Toolchain Options  
 {'unroll': True, 'pic': True}  
   
-  
-### Usage  
-Use the command **`module load gsl/2.7-gcc-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +35,6 @@ Use the command **`module load gsl/2.7-gcc-12.3.0`** to load the module on Bunya
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for GSL 2.7 .  
+[https://www.gnu.org/software/gsl/](https://www.gnu.org/software/gsl/)  

@@ -1,20 +1,21 @@
 # LittleCMS 2.13.1  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-Little CMS intends to be an OPEN SOURCE small-footprint color management engine,
- with special focus on accuracy and performance.  
+ Little CMS intends to be an OPEN SOURCE small-footprint color management engine,
+ with special focus on accuracy and performance.   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load littlecms/2.13.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load littlecms/2.13.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load littlecms/2.13.1-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-(none)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for LittleCMS 2.13.1 .  
+[https://www.littlecms.com/](https://www.littlecms.com/)  

@@ -1,19 +1,20 @@
 # fsom 20141119  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 A tiny C library for managing SOM (Self-Organizing Maps) neural networks.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fsom/20141119-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load fsom/20141119-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load fsom/20141119-gcccore-10.3.0`** to load the modul
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for fsom 20141119 .  
+[https://github.com/ekg/fsom](https://github.com/ekg/fsom)  

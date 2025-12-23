@@ -1,19 +1,20 @@
 # gzip 1.10  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 gzip (GNU zip) is a popular data compression program as a replacement for compress  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gzip/1.10-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gzip/1.10-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,3 +33,6 @@ Use the command **`module load gzip/1.10-gcccore-10.3.0`** to load the module on
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for gzip 1.10 .  
+[https://www.gnu.org/software/gzip/](https://www.gnu.org/software/gzip/)  

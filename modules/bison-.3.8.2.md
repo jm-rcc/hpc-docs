@@ -1,21 +1,24 @@
 # Bison 3.8.2  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
-Bison is a general-purpose parser generator that converts an annotated
+
+ Bison is a general-purpose parser generator that converts an annotated
  context-free grammar into a deterministic LR or generalized LR (GLR) parser
- employing LALR(1) parser tables.  
+ employing LALR(1) parser tables.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bison/.3.8.2`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load bison/.3.8.2`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,8 @@ Use the command **`module load bison/.3.8.2`** to load the module on Bunya.
   
   
 ## Dependencies  
-[('M4', '1.4.19')]  
+(none)  
   
+## Homepage  
+The homepage for Bison 3.8.2 .  
+[https://www.gnu.org/software/bison](https://www.gnu.org/software/bison)  

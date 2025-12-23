@@ -1,5 +1,5 @@
 # MDI 1.4.26  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 The MolSSI Driver Interface (MDI) project provides a
@@ -11,18 +11,20 @@ many different codes. The API is sufficiently general to support a wide
 variety of techniques, including QM/MM, ab initio MD, machine learning,
 advanced sampling, and path integral MD, while also being straightforwardly
 extensible. Communication between codes is handled by the MDI Library, which
-enables tight coupling between codes using either the MPI or TCP/IP methods.  
+enables tight coupling between codes using either the MPI or TCP/IP methods.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mdi/1.4.26-gompi-2023a`**.  
   
 ### Toolchain  
-{'name': 'gompi', 'version': '2023a'}  
+gompi (2023a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mdi/1.4.26-gompi-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -38,5 +40,8 @@ Use the command **`module load mdi/1.4.26-gompi-2023a`** to load the module on B
   
   
 ## Dependencies  
-[('CMake', '3.26.3')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for MDI 1.4.26 .  
+[https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  

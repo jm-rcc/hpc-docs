@@ -1,19 +1,20 @@
 # STAR 2.7.9a  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 STAR aligns RNA-seq reads to a reference genome using uncompressed suffix arrays.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load star/2.7.9a-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 {'openmp': True}  
   
-  
-### Usage  
-Use the command **`module load star/2.7.9a-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load star/2.7.9a-gcc-10.3.0`** to load the module on B
   
   
 ## Dependencies  
-[('zlib', '1.2.11')]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for STAR 2.7.9a .  
+[https://github.com/alexdobin/STAR](https://github.com/alexdobin/STAR)  

@@ -1,19 +1,20 @@
 # libnsl 1.3.0  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 The libnsl package contains the public client interface for NIS(YP).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libnsl/1.3.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libnsl/1.3.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load libnsl/1.3.0-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[libtirpc 1.3.2  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for libnsl 1.3.0 .  
+[https://github.com/thkukuk/libnsl](https://github.com/thkukuk/libnsl)  

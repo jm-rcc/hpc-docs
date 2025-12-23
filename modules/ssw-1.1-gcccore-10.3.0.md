@@ -1,5 +1,5 @@
 # SSW 1.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
@@ -9,18 +9,20 @@ SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
  directly. Current version of our implementation is ~50 times faster than an ordinary
  Smith-Waterman. It can return the Smith-Waterman score, alignment location and traceback path
  (cigar) of the optimal alignment accurately; and return the sub-optimal alignment score and
- location heuristically.  
+ location heuristically.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ssw/1.1-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ssw/1.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,17 +37,8 @@ Use the command **`module load ssw/1.1-gcccore-10.3.0`** to load the module on B
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [('zlib', '1.2.11')]
-
-start_dir = 'src'
-
-buildopts = 'default'
-
-files_to_copy = [
-    (['ssw_test'], 'bin'),
-    (['*.%s*' % SHLIB_EXT], 'lib'),
-    (['*.h'], 'include/ssw'),
-]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for SSW 1.1 .  
+[https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library](https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library)  

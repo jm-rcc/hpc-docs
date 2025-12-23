@@ -1,5 +1,5 @@
 # expat 2.5.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Expat is an XML parser library written in C. It is a stream-oriented parser
@@ -7,15 +7,16 @@ in which an application registers handlers for things the parser might find
 in the XML document (like start tags).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load expat/.2.5.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load expat/.2.5.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +35,6 @@ Use the command **`module load expat/.2.5.0-gcccore-12.3.0`** to load the module
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for expat 2.5.0 .  
+[https://libexpat.github.io](https://libexpat.github.io)  

@@ -1,20 +1,23 @@
 # Autotools 20231222  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-This bundle collect the standard GNU build tools: Autoconf, Automake
- and libtool  
+
+ This bundle collect the standard GNU build tools: Autoconf, Automake
+ and libtool
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load autotools/.20231222-gcccore-13.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load autotools/.20231222-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,10 @@ Use the command **`module load autotools/.20231222-gcccore-13.3.0`** to load the
   
   
 ## Dependencies  
-[('Autoconf', '2.72'), ('Automake', '1.16.5'), ('libtool', '2.4.7')]  
+[Autoconf 2.72  (GCCcore 13.3.0)](link)  
+[Automake 1.16.5  (GCCcore 13.3.0)](link)  
+[libtool 2.4.7  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for Autotools 20231222 .  
+[https://autotools.io](https://autotools.io)  

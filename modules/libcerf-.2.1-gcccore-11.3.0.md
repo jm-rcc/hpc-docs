@@ -1,21 +1,24 @@
 # libcerf 2.1  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
-libcerf is a self-contained numeric library that provides an efficient and
+
+ libcerf is a self-contained numeric library that provides an efficient and
  accurate implementation of complex error functions, along with Dawson,
- Faddeeva, and Voigt functions.  
+ Faddeeva, and Voigt functions.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libcerf/.2.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libcerf/.2.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,8 @@ Use the command **`module load libcerf/.2.1-gcccore-11.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('CMake', '3.23.1'), ('Perl', '5.34.1', '-minimal')]  
+(none)  
   
+## Homepage  
+The homepage for libcerf 2.1 .  
+[https://jugit.fz-juelich.de/mlz/libcerf](https://jugit.fz-juelich.de/mlz/libcerf)  

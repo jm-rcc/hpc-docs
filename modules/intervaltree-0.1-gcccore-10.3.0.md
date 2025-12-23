@@ -1,21 +1,23 @@
 # intervaltree 0.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 An interval tree can be used to efficiently find a set of numeric intervals
  overlapping or containing another interval. This library provides a basic implementation of an
- interval tree using C++ templates, allowing the insertion of arbitrary types into the tree.  
+ interval tree using C++ templates, allowing the insertion of arbitrary types into the tree.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load intervaltree/0.1-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load intervaltree/0.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,3 +34,6 @@ Use the command **`module load intervaltree/0.1-gcccore-10.3.0`** to load the mo
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for intervaltree 0.1 .  
+[https://github.com/ekg/intervaltree](https://github.com/ekg/intervaltree)  

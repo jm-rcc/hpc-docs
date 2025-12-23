@@ -1,5 +1,5 @@
 # SRA-Toolkit 3.0.3  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 The SRA Toolkit, and the source-code SRA System Development
@@ -7,15 +7,16 @@ The SRA Toolkit, and the source-code SRA System Development
  and convert it from the SRA format  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load sra-toolkit/3.0.3-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 {'extra_cflags': '-DH5_USE_110_API'}  
   
-  
-### Usage  
-Use the command **`module load sra-toolkit/3.0.3-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,15 @@ Use the command **`module load sra-toolkit/3.0.3-gompi-2022a`** to load the modu
   
   
 ## Dependencies  
-[('CMake', '3.23.1'), ('flex', '2.6.4'), ('Bison', '3.8.2'), ('Perl', '5.34.1', '-minimal'), ('Python', '3.10.4', '-bare')]  
+[Java 11  (system system)](link)  
+[OpenSSL 1.1  (system system)](link)  
+[ncbi-vdb 3.0.2  (gompi 2022a)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[file 5.43  (GCCcore 11.3.0)](link)  
+[HDF5 1.12.2  (gompi 2022a)](link)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for SRA-Toolkit 3.0.3 .  
+[https://github.com/ncbi/sra-tools](https://github.com/ncbi/sra-tools)  

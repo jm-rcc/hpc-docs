@@ -1,20 +1,22 @@
 # python-isal 1.1.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Faster zlib and gzip compatible compression and decompression
- by providing python bindings for the isa-l library.  
+ by providing python bindings for the isa-l library.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load python-isal/1.1.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load python-isal/1.1.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,10 +33,9 @@ Use the command **`module load python-isal/1.1.0-gcccore-11.3.0`** to load the m
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('Python', '3.10.4'),
-    ('ISA-L', '2.30.0'),
-]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[ISA-L 2.30.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for python-isal 1.1.0 .  
+[https://github.com/pycompression/python-isal](https://github.com/pycompression/python-isal)  

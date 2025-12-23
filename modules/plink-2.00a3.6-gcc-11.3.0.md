@@ -1,19 +1,20 @@
 # PLINK 2.00a3.6  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Whole-genome association analysis toolset  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load plink/2.00a3.6-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load plink/2.00a3.6-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load plink/2.00a3.6-gcc-11.3.0`** to load the module o
   
   
 ## Dependencies  
-[('FlexiBLAS', '3.2.0'), ('libdeflate', '1.10'), ('zstd', '1.5.2')]  
+[FlexiBLAS 3.2.0  (GCC 11.3.0)](link)  
+[libdeflate 1.10  (GCCcore 11.3.0)](link)  
+[zstd 1.5.2  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for PLINK 2.00a3.6 .  
+[https://www.cog-genomics.org/plink/2.0/](https://www.cog-genomics.org/plink/2.0/)  

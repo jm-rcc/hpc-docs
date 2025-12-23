@@ -1,5 +1,5 @@
 # netCDF 4.8.0  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 NetCDF (network Common Data Form) is a set of software libraries
@@ -7,15 +7,16 @@ NetCDF (network Common Data Form) is a set of software libraries
  scientific data.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load netcdf/4.8.0-gompi-2021a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2021a'}  
+gompi (2021a)  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load netcdf/4.8.0-gompi-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load netcdf/4.8.0-gompi-2021a`** to load the module on
   
   
 ## Dependencies  
-[('Autotools', '20210128'), ('CMake', '3.20.1'), ('Doxygen', '1.9.1')]  
+[HDF5 1.10.7  (gompi 2021a)](link)  
+[cURL 7.76.0  (GCCcore 10.3.0)](link)  
+[Szip 2.1.1  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for netCDF 4.8.0 .  
+[https://www.unidata.ucar.edu/software/netcdf/](https://www.unidata.ucar.edu/software/netcdf/)  

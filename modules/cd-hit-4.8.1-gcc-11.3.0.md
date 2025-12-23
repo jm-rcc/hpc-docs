@@ -1,20 +1,21 @@
 # CD-HIT 4.8.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
-CD-HIT is a very widely used program for clustering and
+ CD-HIT is a very widely used program for clustering and
  comparing protein or nucleotide sequences.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cd-hit/4.8.1-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'openmp': True}  
   
-  
-### Usage  
-Use the command **`module load cd-hit/4.8.1-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,9 @@ Use the command **`module load cd-hit/4.8.1-gcc-11.3.0`** to load the module on 
   
   
 ## Dependencies  
-[('Perl', '5.34.1'), ('zlib', '1.2.12')]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for CD-HIT 4.8.1 .  
+[https://github.com/weizhongli/cdhit/wiki](https://github.com/weizhongli/cdhit/wiki)  

@@ -1,20 +1,21 @@
 # Flye 2.9  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Flye is a de novo assembler for long and noisy reads, such as those produced by PacBio
  and Oxford Nanopore Technologies.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load flye/2.9-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load flye/2.9-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load flye/2.9-gcc-10.3.0`** to load the module on Buny
   
   
 ## Dependencies  
-(none)  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Flye 2.9 .  
+[https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye)  

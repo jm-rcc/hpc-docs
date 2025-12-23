@@ -1,19 +1,20 @@
 # Mash 2.3  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Fast genome and metagenome distance estimation using MinHash  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mash/2.3-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 {'cstd': 'c++17'}  
   
-  
-### Usage  
-Use the command **`module load mash/2.3-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,10 +29,10 @@ Use the command **`module load mash/2.3-gcc-10.3.0`** to load the module on Buny
   
   
 ## Dependencies  
-dependencies = [('Autotools', '20210128')]
-dependencies = [
-    ('CapnProto', '0.9.1'),
-    ('GSL', '2.7'),
-    ('zlib', '1.2.11'),
-]  
+[CapnProto 0.9.1  (GCCcore 10.3.0)](link)  
+[GSL 2.7  (GCC 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Mash 2.3 .  
+[http://mash.readthedocs.org](http://mash.readthedocs.org)  

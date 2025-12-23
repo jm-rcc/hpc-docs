@@ -1,5 +1,5 @@
-# GATK 4.3.0.0  
-(bio)  
+# GATK 4.3.0.0 -Java-11 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 The Genome Analysis Toolkit or GATK is a software package developed at the Broad Institute
@@ -9,23 +9,25 @@ The Genome Analysis Toolkit or GATK is a software package developed at the Broad
  high-performance computing features make it capable of taking on projects of any size.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gatk/.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gatk/.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 mi210  
   
   
 ## Dependencies  
-dependencies = [
-    ('Java', '11', '', SYSTEM),
-    ('Python', '3.10.4'),
-]  
+[Java 11  (system system)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for GATK 4.3.0.0 -Java-11.  
+[https://www.broadinstitute.org/gatk/](https://www.broadinstitute.org/gatk/)  

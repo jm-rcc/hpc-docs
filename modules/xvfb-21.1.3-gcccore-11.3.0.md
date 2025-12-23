@@ -1,20 +1,21 @@
 # Xvfb 21.1.3  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Xvfb is an X server that can run on machines with no display hardware and no physical input devices.
  It emulates a dumb framebuffer using virtual memory.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load xvfb/21.1.3-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load xvfb/21.1.3-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,14 @@ Use the command **`module load xvfb/21.1.3-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0'), ('Python', '3.10.4'), ('Meson', '0.62.1'), ('Ninja', '1.10.2'), ('libxslt', '1.1.34'), ('gettext', '0.21'), ('Bison', '3.8.2')]  
+[X11 20220504  (GCCcore 11.3.0)](link)  
+[pixman 0.40.0  (GCCcore 11.3.0)](link)  
+[libdrm 2.4.110  (GCCcore 11.3.0)](link)  
+[Mesa 22.0.3  (GCCcore 11.3.0)](link)  
+[nettle 3.8  (GCCcore 11.3.0)](link)  
+[libunwind 1.6.2  (GCCcore 11.3.0)](link)  
+[XZ 5.2.5  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Xvfb 21.1.3 .  
+[https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml)  

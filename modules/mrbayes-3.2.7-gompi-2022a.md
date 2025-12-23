@@ -1,20 +1,21 @@
 # MrBayes 3.2.7  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 MrBayes is a program for Bayesian inference and model choice across
  a wide range of phylogenetic and evolutionary models.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mrbayes/3.2.7-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mrbayes/3.2.7-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,9 @@ Use the command **`module load mrbayes/3.2.7-gompi-2022a`** to load the module o
   
   
 ## Dependencies  
-[('libreadline', '8.1.2'), ('beagle-lib', '4.0.0')]  
+[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
+[beagle-lib 4.0.0  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for MrBayes 3.2.7 .  
+[https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  

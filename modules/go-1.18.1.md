@@ -1,20 +1,21 @@
 # Go 1.18.1  
-(compiler)  
+![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
   
 Go is an open source programming language that makes it easy to build
  simple, reliable, and efficient software.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load go/1.18.1`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load go/1.18.1`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load go/1.18.1`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Go 1.18.1 .  
+[https://www.golang.org](https://www.golang.org)  

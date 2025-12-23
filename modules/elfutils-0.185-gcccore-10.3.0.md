@@ -1,20 +1,23 @@
 # elfutils 0.185  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-The elfutils project provides libraries and tools for ELF files
- and DWARF data.  
+
+ The elfutils project provides libraries and tools for ELF files
+ and DWARF data.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load elfutils/0.185-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load elfutils/0.185-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3  
@@ -23,5 +26,12 @@ Use the command **`module load elfutils/0.185-gcccore-10.3.0`** to load the modu
   
   
 ## Dependencies  
-[('M4', '1.4.18'), ('pkg-config', '0.29.2')]  
+[binutils 2.36.1  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
+[libarchive 3.5.1  (GCCcore 10.3.0)](link)  
+[XZ 5.2.5  (GCCcore 10.3.0)](link)  
+[zstd 1.4.9  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for elfutils 0.185 .  
+[https://elfutils.org/](https://elfutils.org/)  

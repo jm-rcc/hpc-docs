@@ -1,20 +1,21 @@
 # BWA 0.7.17  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Burrows-Wheeler Aligner (BWA) is an efficient program that aligns
  relatively short nucleotide sequences against a long reference sequence such as the human genome.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bwa/0.7.17-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load bwa/0.7.17-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,9 @@ Use the command **`module load bwa/0.7.17-gcc-10.3.0`** to load the module on Bu
   
   
 ## Dependencies  
-[('Perl', '5.32.1'), ('zlib', '1.2.11')]  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for BWA 0.7.17 .  
+[http://bio-bwa.sourceforge.net/](http://bio-bwa.sourceforge.net/)  

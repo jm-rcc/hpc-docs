@@ -1,19 +1,20 @@
 # smithwaterman 20160702  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 smith-waterman-gotoh alignment algorithm.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load smithwaterman/20160702-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load smithwaterman/20160702-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load smithwaterman/20160702-gcccore-10.3.0`** to load 
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for smithwaterman 20160702 .  
+[https://github.com/ekg/smithwaterman](https://github.com/ekg/smithwaterman)  

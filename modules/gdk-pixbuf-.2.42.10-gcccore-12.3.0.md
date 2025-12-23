@@ -1,22 +1,25 @@
 # Gdk-Pixbuf 2.42.10  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
-The Gdk Pixbuf is a toolkit for image loading and pixel buffer manipulation.
+
+ The Gdk Pixbuf is a toolkit for image loading and pixel buffer manipulation.
  It is used by GTK+ 2 and GTK+ 3 to load and manipulate images. In the past it
  was distributed as part of GTK+ 2 but it was split off into a separate package
- in preparation for the change to GTK+ 3.  
+ in preparation for the change to GTK+ 3.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gdk-pixbuf/.2.42.10-gcccore-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gdk-pixbuf/.2.42.10-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +36,12 @@ Use the command **`module load gdk-pixbuf/.2.42.10-gcccore-12.3.0`** to load the
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Meson', '1.1.1'), ('Ninja', '1.11.1'), ('pkgconf', '1.9.5'), ('GObject-Introspection', '1.76.1')]  
+[GLib 2.77.1  (GCCcore 12.3.0)](link)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
+[libpng 1.6.39  (GCCcore 12.3.0)](link)  
+[LibTIFF 4.5.0  (GCCcore 12.3.0)](link)  
+[X11 20230603  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for Gdk-Pixbuf 2.42.10 .  
+[https://docs.gtk.org/gdk-pixbuf/](https://docs.gtk.org/gdk-pixbuf/)  

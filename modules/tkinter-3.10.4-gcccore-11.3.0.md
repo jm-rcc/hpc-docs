@@ -1,19 +1,20 @@
 # Tkinter 3.10.4  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Tkinter module, built with the Python buildsystem  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load tkinter/3.10.4-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load tkinter/3.10.4-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load tkinter/3.10.4-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('libffi', '3.4.2')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Tk 8.6.12  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Tkinter 3.10.4 .  
+[https://python.org/](https://python.org/)  

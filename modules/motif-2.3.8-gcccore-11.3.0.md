@@ -1,5 +1,5 @@
 # motif 2.3.8  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 Motif refers to both a graphical user interface (GUI) specification and the widget toolkit for building
@@ -7,15 +7,16 @@ Motif refers to both a graphical user interface (GUI) specification and the widg
  It was the standard toolkit for the Common Desktop Environment and thus for Unix.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load motif/2.3.8-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load motif/2.3.8-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,12 @@ Use the command **`module load motif/2.3.8-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('Autotools', '20220317'), ('flex', '2.6.4'), ('Bison', '3.8.2'), ('binutils', '2.38'), ('util-linux', '2.38')]  
+[X11 20220504  (GCCcore 11.3.0)](link)  
+[libpng 1.6.37  (GCCcore 11.3.0)](link)  
+[freetype 2.12.1  (GCCcore 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for motif 2.3.8 .  
+[https://motif.ics.com/](https://motif.ics.com/)  

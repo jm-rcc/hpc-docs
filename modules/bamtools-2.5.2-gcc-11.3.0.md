@@ -1,19 +1,20 @@
 # BamTools 2.5.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 BamTools provides both a programmer's API and an end-user's toolkit for handling BAM files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bamtools/2.5.2-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load bamtools/2.5.2-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load bamtools/2.5.2-gcc-11.3.0`** to load the module o
   
   
 ## Dependencies  
-(none)  
+[JsonCpp 1.9.5  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for BamTools 2.5.2 .  
+[https://github.com/pezmaster31/bamtools](https://github.com/pezmaster31/bamtools)  

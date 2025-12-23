@@ -1,22 +1,25 @@
 # ncurses 6.5  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-The Ncurses (new curses) library is a free software emulation of curses in
+
+ The Ncurses (new curses) library is a free software emulation of curses in
  System V Release 4.0, and more. It uses Terminfo format, supports pads and
  color and multiple highlights and forms characters and function-key mapping,
- and has all the other SYSV-curses enhancements over BSD Curses.  
+ and has all the other SYSV-curses enhancements over BSD Curses.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ncurses/.6.5-gcccore-14.2.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '14.2.0'}  
+GCCcore (14.2.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load ncurses/.6.5-gcccore-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -26,5 +29,8 @@ Use the command **`module load ncurses/.6.5-gcccore-14.2.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('pkgconf', '2.3.0')]  
+(none)  
   
+## Homepage  
+The homepage for ncurses 6.5 .  
+[https://www.gnu.org/software/ncurses/](https://www.gnu.org/software/ncurses/)  

@@ -1,20 +1,21 @@
 # Bowtie 1.3.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Bowtie is an ultrafast, memory-efficient short read aligner.
  It aligns short DNA sequences (reads) to the human genome.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bowtie/1.3.1-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True, 'cstd': 'gnu++98'}  
   
-  
-### Usage  
-Use the command **`module load bowtie/1.3.1-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,9 @@ Use the command **`module load bowtie/1.3.1-gcc-11.3.0`** to load the module on 
   
   
 ## Dependencies  
-[('tbb', '2021.5.0'), ('zlib', '1.2.12')]  
+[tbb 2021.5.0  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Bowtie 1.3.1 .  
+[http://bowtie-bio.sourceforge.net/index.shtml](http://bowtie-bio.sourceforge.net/index.shtml)  

@@ -1,20 +1,21 @@
 # ffnvcodec 11.1.5.2  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 FFmpeg nvidia headers. Adds support for nvenc and nvdec. Requires Nvidia GPU and drivers to be present
 (picked up dynamically).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ffnvcodec/11.1.5.2`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load ffnvcodec/11.1.5.2`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,3 +32,6 @@ Use the command **`module load ffnvcodec/11.1.5.2`** to load the module on Bunya
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for ffnvcodec 11.1.5.2 .  
+[https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git](https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git)  

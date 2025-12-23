@@ -1,20 +1,21 @@
 # Bison 3.7.6  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Bison is a general-purpose parser generator that converts an annotated context-free grammar
  into a deterministic LR or generalized LR (GLR) parser employing LALR(1) parser tables.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bison/.3.7.6-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load bison/.3.7.6-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,9 +32,8 @@ Use the command **`module load bison/.3.7.6-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-dependencies = [
-    ('M4', '1.4.18'),
-    # use same binutils version that was used when building GCCcore toolchain
-    ('binutils', '2.36.1', '', SYSTEM),
-]  
+(none)  
   
+## Homepage  
+The homepage for Bison 3.7.6 .  
+[https://www.gnu.org/software/bison](https://www.gnu.org/software/bison)  

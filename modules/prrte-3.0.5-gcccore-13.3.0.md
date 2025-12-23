@@ -1,19 +1,20 @@
 # PRRTE 3.0.5  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 PRRTE is the PMIx Reference RunTime Environment  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load prrte/3.0.5-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load prrte/3.0.5-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,11 +31,10 @@ Use the command **`module load prrte/3.0.5-gcccore-13.3.0`** to load the module 
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.42')]
-
-dependencies = [
-    ('libevent', '2.1.12'),
-    ('hwloc', '2.10.0'),
-    ('PMIx', '5.0.2'),
-]  
+[libevent 2.1.12  (GCCcore 13.3.0)](link)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
+[PMIx 5.0.2  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for PRRTE 3.0.5 .  
+[https://docs.prrte.org/](https://docs.prrte.org/)  

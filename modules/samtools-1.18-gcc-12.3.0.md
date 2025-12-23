@@ -1,20 +1,21 @@
 # SAMtools 1.18  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 SAM Tools provide various utilities for manipulating alignments in the SAM format,
  including sorting, merging, indexing and generating alignments in a per-position format.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load samtools/1.18-gcc-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '12.3.0'}  
+GCC (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load samtools/1.18-gcc-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,12 @@ Use the command **`module load samtools/1.18-gcc-12.3.0`** to load the module on
   
   
 ## Dependencies  
-[('ncurses', '6.4'), ('zlib', '1.2.13'), ('bzip2', '1.0.8'), ('XZ', '5.4.2'), ('cURL', '8.0.1')]  
+[ncurses 6.4  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 12.3.0)](link)  
+[XZ 5.4.2  (GCCcore 12.3.0)](link)  
+[cURL 8.0.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for SAMtools 1.18 .  
+[https://www.htslib.org/](https://www.htslib.org/)  

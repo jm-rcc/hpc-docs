@@ -1,19 +1,20 @@
 # help2man 1.48.3  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 help2man produces simple manual pages from the '--help' and '--version' output of other commands.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load help2man/.1.48.3-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load help2man/.1.48.3-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,8 +31,8 @@ Use the command **`module load help2man/.1.48.3-gcccore-10.3.0`** to load the mo
   
   
 ## Dependencies  
-dependencies = [
-    # use same binutils version that was used when building GCC toolchain
-    ('binutils', '2.36.1', '', SYSTEM),
-]  
+(none)  
   
+## Homepage  
+The homepage for help2man 1.48.3 .  
+[https://www.gnu.org/software/help2man/](https://www.gnu.org/software/help2man/)  

@@ -1,20 +1,21 @@
 # networkx 3.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 NetworkX is a Python package for the creation, manipulation,
 and study of the structure, dynamics, and functions of complex networks.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load networkx/.3.1-gfbf-2023a`**.  
+  
 ### Toolchain  
-{'name': 'gfbf', 'version': '2023a'}  
+gfbf (2023a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load networkx/.3.1-gfbf-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load networkx/.3.1-gfbf-2023a`** to load the module on
   
   
 ## Dependencies  
-[('Python', '3.11.3'), ('SciPy-bundle', '2023.07')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
   
+## Homepage  
+The homepage for networkx 3.1 .  
+[https://pypi.python.org/pypi/networkx](https://pypi.python.org/pypi/networkx)  

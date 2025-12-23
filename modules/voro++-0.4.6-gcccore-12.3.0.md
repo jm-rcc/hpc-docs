@@ -1,5 +1,5 @@
 # Voro++ 0.4.6  
-(math)  
+![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
   
 Voro++ is a software library for carrying out three-dimensional computations of the Voronoi
@@ -9,15 +9,16 @@ rely on cell-based statistics, where features of Voronoi cells (eg. volume, cent
 to analyze a system of particles.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load voro++/0.4.6-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load voro++/0.4.6-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,3 +36,6 @@ Use the command **`module load voro++/0.4.6-gcccore-12.3.0`** to load the module
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Voro++ 0.4.6 .  
+[http://math.lbl.gov/voro++/](http://math.lbl.gov/voro++/)  

@@ -1,20 +1,21 @@
 # alsa-lib 1.2.8  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionality
  to the Linux operating system.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load alsa-lib/.1.2.8-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load alsa-lib/.1.2.8-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load alsa-lib/.1.2.8-gcccore-11.3.0`** to load the mod
   
   
 ## Dependencies  
-(none)  
+[binutils 2.38  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for alsa-lib 1.2.8 .  
+[https://www.alsa-project.org](https://www.alsa-project.org)  

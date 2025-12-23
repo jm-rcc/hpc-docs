@@ -1,5 +1,5 @@
 # CUDA 12.2.0  
-(system)  
+![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
   
 CUDA (formerly Compute Unified Device Architecture) is a parallel
@@ -8,15 +8,16 @@ CUDA (formerly Compute Unified Device Architecture) is a parallel
  to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cuda/12.2.0`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cuda/12.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +31,6 @@ Use the command **`module load cuda/12.2.0`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for CUDA 12.2.0 .  
+[https://developer.nvidia.com/cuda-toolkit](https://developer.nvidia.com/cuda-toolkit)  

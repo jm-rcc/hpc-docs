@@ -1,5 +1,5 @@
 # re2c 2.1.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 re2c is a free and open-source lexer generator for C and C++. Its main goal is generating
@@ -8,15 +8,16 @@ traditional table-driven approach, re2c encodes the generated finite state autom
 of conditional jumps and comparisons.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load re2c/2.1.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load re2c/2.1.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,3 +36,6 @@ Use the command **`module load re2c/2.1.1-gcccore-10.3.0`** to load the module o
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for re2c 2.1.1 .  
+[https://re2c.org/](https://re2c.org/)  

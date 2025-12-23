@@ -1,19 +1,20 @@
 # util-linux 2.36  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Set of Linux utilities  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load util-linux/.2.36-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load util-linux/.2.36-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,10 +31,9 @@ Use the command **`module load util-linux/.2.36-gcccore-10.3.0`** to load the mo
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [
-    ('ncurses', '6.2'),
-    ('zlib', '1.2.11'),
-]  
+[ncurses 6.2  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for util-linux 2.36 .  
+[https://www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux)  

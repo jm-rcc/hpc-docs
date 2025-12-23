@@ -1,21 +1,22 @@
 # FastTree 2.1.11  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide
  or protein sequences. FastTree can handle alignments with up to a million of sequences in a reasonable amount of
- time and memory.  
+ time and memory.   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fasttree/2.1.11-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'openmp': True}  
   
-  
-### Usage  
-Use the command **`module load fasttree/2.1.11-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,3 +33,6 @@ Use the command **`module load fasttree/2.1.11-gcccore-10.3.0`** to load the mod
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for FastTree 2.1.11 .  
+[http://www.microbesonline.org/fasttree/](http://www.microbesonline.org/fasttree/)  

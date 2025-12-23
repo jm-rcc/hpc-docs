@@ -1,20 +1,21 @@
 # SEPP 4.5.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 SATe-enabled Phylogenetic Placement - addresses the problem of phylogenetic
 placement of short reads into reference alignments and trees.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load sepp/4.5.0-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load sepp/4.5.0-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,9 @@ Use the command **`module load sepp/4.5.0-foss-2021a`** to load the module on Bu
   
   
 ## Dependencies  
-[('Python', '3.9.5'), ('DendroPy', '4.5.2')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[DendroPy 4.5.2  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for SEPP 4.5.0 .  
+[https://github.com/smirarab/sepp](https://github.com/smirarab/sepp)  

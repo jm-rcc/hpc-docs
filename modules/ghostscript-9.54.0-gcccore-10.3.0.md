@@ -1,20 +1,21 @@
 # Ghostscript 9.54.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Ghostscript is a versatile processor for PostScript data with the ability to render PostScript to
  different targets. It used to be part of the cups printing stack, but is no longer used for that.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load ghostscript/9.54.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load ghostscript/9.54.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,15 @@ Use the command **`module load ghostscript/9.54.0-gcccore-10.3.0`** to load the 
   
   
 ## Dependencies  
-[('zlib', '1.2.11'), ('libpng', '1.6.37'), ('freetype', '2.10.4'), ('libjpeg-turbo', '2.0.6'), ('expat', '2.2.9'), ('GLib', '2.68.2'), ('cairo', '1.16.0'), ('LibTIFF', '4.2.0')]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[libpng 1.6.37  (GCCcore 10.3.0)](link)  
+[freetype 2.10.4  (GCCcore 10.3.0)](link)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
+[expat 2.2.9  (GCCcore 10.3.0)](link)  
+[GLib 2.68.2  (GCCcore 10.3.0)](link)  
+[cairo 1.16.0  (GCCcore 10.3.0)](link)  
+[LibTIFF 4.2.0  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Ghostscript 9.54.0 .  
+[https://ghostscript.com](https://ghostscript.com)  

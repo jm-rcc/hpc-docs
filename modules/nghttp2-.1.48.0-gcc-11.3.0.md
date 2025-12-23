@@ -1,25 +1,27 @@
 # nghttp2 1.48.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-This is an implementation of the Hypertext Transfer Protocol version 2 in C.  
-  
+
+This is an implementation of the Hypertext Transfer Protocol version 2 in C.
+
 The framing layer of HTTP/2 is implemented as a reusable C library.
 On top of that, we have implemented an HTTP/2 client, server and proxy.
-We have also developed load test and benchmarking tools for HTTP/2.  
-  
+We have also developed load test and benchmarking tools for HTTP/2.
+
 An HPACK encoder and decoder are available as a public API.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nghttp2/.1.48.0-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load nghttp2/.1.48.0-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -36,5 +38,17 @@ Use the command **`module load nghttp2/.1.48.0-gcc-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkg-config', '0.29.2'), ('CMake', '3.23.1'), ('CUnit', '2.1-3'), ('Boost', '1.79.0')]  
+[OpenSSL 1.1  (system system)](link)  
+[nghttp3 0.6.0  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[Jansson 2.14  (GCC 11.3.0)](link)  
+[jemalloc 5.3.0  (GCCcore 11.3.0)](link)  
+[ngtcp2 0.7.0  (GCC 11.3.0)](link)  
+[libevent 2.1.12  (GCCcore 11.3.0)](link)  
+[libev 4.33  (GCC 11.3.0)](link)  
+[c-ares 1.18.1  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for nghttp2 1.48.0 .  
+[https://github.com/nghttp2/nghttp2](https://github.com/nghttp2/nghttp2)  

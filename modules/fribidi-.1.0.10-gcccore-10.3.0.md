@@ -1,19 +1,22 @@
 # FriBidi 1.0.10  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
-The Free Implementation of the Unicode Bidirectional Algorithm.  
+
+ The Free Implementation of the Unicode Bidirectional Algorithm.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fribidi/.1.0.10-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load fribidi/.1.0.10-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +33,8 @@ Use the command **`module load fribidi/.1.0.10-gcccore-10.3.0`** to load the mod
   
   
 ## Dependencies  
-[('Autotools', '20210128'), ('binutils', '2.36.1'), ('pkg-config', '0.29.2')]  
+(none)  
   
+## Homepage  
+The homepage for FriBidi 1.0.10 .  
+[https://github.com/fribidi/fribidi](https://github.com/fribidi/fribidi)  

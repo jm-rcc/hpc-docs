@@ -1,20 +1,23 @@
 # libxml2 2.12.7  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-Libxml2 is the XML C parser and toolchain developed for the Gnome project
- (but usable outside of the Gnome platform).  
+
+ Libxml2 is the XML C parser and toolchain developed for the Gnome project
+ (but usable outside of the Gnome platform).
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libxml2/.2.12.7-gcccore-13.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load libxml2/.2.12.7-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,9 @@ Use the command **`module load libxml2/.2.12.7-gcccore-13.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.42')]  
+[XZ 5.4.5  (GCCcore 13.3.0)](link)  
+[zlib 1.3.1  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for libxml2 2.12.7 .  
+[http://xmlsoft.org/](http://xmlsoft.org/)  

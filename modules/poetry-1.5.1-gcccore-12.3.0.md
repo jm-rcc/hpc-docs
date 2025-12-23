@@ -1,20 +1,21 @@
 # poetry 1.5.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Python packaging and dependency management made easy. Poetry helps you declare, manage and install
  dependencies of Python projects, ensuring you have the right stack everywhere.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load poetry/1.5.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load poetry/1.5.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,11 @@ Use the command **`module load poetry/1.5.1-gcccore-12.3.0`** to load the module
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('pkgconf', '1.9.5'), ('scikit-build', '0.17.6')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[hatchling 1.18.0  (GCCcore 12.3.0)](link)  
+[cryptography 41.0.1  (GCCcore 12.3.0)](link)  
+[virtualenv 20.23.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for poetry 1.5.1 .  
+[https://python-poetry.org](https://python-poetry.org)  

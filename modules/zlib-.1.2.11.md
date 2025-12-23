@@ -1,21 +1,24 @@
 # zlib 1.2.11  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-zlib is designed to be a free, general-purpose, legally unencumbered -- that
+
+ zlib is designed to be a free, general-purpose, legally unencumbered -- that
  is, not covered by any patents -- lossless data-compression library for use
- on virtually any computer hardware and operating system.  
+ on virtually any computer hardware and operating system.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load zlib/.1.2.11`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load zlib/.1.2.11`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +37,6 @@ Use the command **`module load zlib/.1.2.11`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for zlib 1.2.11 .  
+[https://www.zlib.net/](https://www.zlib.net/)  

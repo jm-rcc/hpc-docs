@@ -1,20 +1,23 @@
 # MUMmer 3.23  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
-MUMmer is a system for rapidly aligning entire genomes,
- whether in complete or draft form. AMOS makes use of it.  
+
+ MUMmer is a system for rapidly aligning entire genomes,
+ whether in complete or draft form. AMOS makes use of it.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mummer/3.23-gcccore-10.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mummer/3.23-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +36,6 @@ Use the command **`module load mummer/3.23-gcccore-10.3.0`** to load the module 
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for MUMmer 3.23 .  
+[http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  

@@ -1,19 +1,20 @@
 # Jellyfish 2.3.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load jellyfish/2.3.0-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load jellyfish/2.3.0-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,3 +33,6 @@ Use the command **`module load jellyfish/2.3.0-gcc-10.3.0`** to load the module 
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for Jellyfish 2.3.0 .  
+[http://www.genome.umd.edu/jellyfish.html](http://www.genome.umd.edu/jellyfish.html)  

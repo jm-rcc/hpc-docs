@@ -1,5 +1,5 @@
 # nodejs 18.17.1  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Node.js is a platform built on Chrome's JavaScript runtime
@@ -8,15 +8,16 @@ Node.js is a platform built on Chrome's JavaScript runtime
  perfect for data-intensive real-time applications that run across distributed devices.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nodejs/.18.17.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nodejs/.18.17.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,9 @@ Use the command **`module load nodejs/.18.17.1-gcccore-12.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('Python', '3.11.3'), ('pkgconf', '1.9.5')]  
+[ICU 73.2  (GCCcore 12.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for nodejs 18.17.1 .  
+[https://nodejs.org](https://nodejs.org)  

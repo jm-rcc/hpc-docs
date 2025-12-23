@@ -1,21 +1,22 @@
 # nghttp3 0.6.0  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
-nghttp3 is an implementation of RFC 9114 HTTP/3
+ nghttp3 is an implementation of RFC 9114 HTTP/3
 mapping over QUIC and RFC 9204 QPACK in C.
 It does not depend on any particular QUIC transport implementation.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nghttp3/.0.6.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load nghttp3/.0.6.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,8 @@ Use the command **`module load nghttp3/.0.6.0-gcccore-11.3.0`** to load the modu
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('CMake', '3.23.1'), ('pkg-config', '0.29.2'), ('CUnit', '2.1-3')]  
+(none)  
   
+## Homepage  
+The homepage for nghttp3 0.6.0 .  
+[https://github.com/ngtcp2/nghttp3](https://github.com/ngtcp2/nghttp3)  

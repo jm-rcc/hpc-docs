@@ -1,5 +1,5 @@
 # hypothesis 6.82.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Hypothesis is an advanced testing library for Python. It lets you write tests which are parametrized
@@ -7,15 +7,16 @@ Hypothesis is an advanced testing library for Python. It lets you write tests wh
  you find more bugs in your code with less work.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hypothesis/6.82.0-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load hypothesis/6.82.0-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,10 +33,9 @@ Use the command **`module load hypothesis/6.82.0-gcccore-12.3.0`** to load the m
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.40')]
-
-dependencies = [
-    ('Python', '3.11.3'),
-    ('Python-bundle-PyPI', '2023.06'),  # required for attrs, sortedcontainers
-]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for hypothesis 6.82.0 .  
+[https://github.com/HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis)  

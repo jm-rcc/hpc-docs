@@ -1,30 +1,32 @@
 # kim-api 2.3.0  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
-Open Knowledgebase of Interatomic Models.  
-  
+Open Knowledgebase of Interatomic Models.
+
 KIM is an API and OpenKIM is a collection of interatomic models (potentials) for
 atomistic simulations.  This is a library that can be used by simulation programs
-to get access to the models in the OpenKIM database.  
-  
+to get access to the models in the OpenKIM database.
+
 This EasyBuild only installs the API, the models can be installed with the
 package openkim-models, or the user can install them manually by running
     kim-api-collections-management install user MODELNAME
 or
     kim-api-collections-management install user OpenKIM
-to install them all.  
+to install them all.
+   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load kim-api/2.3.0-gcc-12.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCC', 'version': '12.3.0'}  
+GCC (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load kim-api/2.3.0-gcc-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -40,5 +42,8 @@ Use the command **`module load kim-api/2.3.0-gcc-12.3.0`** to load the module on
   
   
 ## Dependencies  
-[('CMake', '3.26.3')]  
+[CMake 3.26.3  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for kim-api 2.3.0 .  
+[https://openkim.org/](https://openkim.org/)  

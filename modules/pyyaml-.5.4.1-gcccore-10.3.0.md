@@ -1,19 +1,20 @@
 # PyYAML 5.4.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 PyYAML is a YAML parser and emitter for the Python programming language.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load pyyaml/.5.4.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load pyyaml/.5.4.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,10 +29,9 @@ Use the command **`module load pyyaml/.5.4.1-gcccore-10.3.0`** to load the modul
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [
-    ('Python', '3.9.5'),
-    ('libyaml', '0.2.5'),
-]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[libyaml 0.2.5  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for PyYAML 5.4.1 .  
+[https://github.com/yaml/pyyaml](https://github.com/yaml/pyyaml)  

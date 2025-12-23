@@ -1,20 +1,21 @@
 # seqtk 1.3  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.
  It seamlessly parses both FASTA and FASTQ files which can also be optionally compressed by gzip.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load seqtk/1.3-gcc-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load seqtk/1.3-gcc-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,8 @@ Use the command **`module load seqtk/1.3-gcc-10.3.0`** to load the module on Bun
   
   
 ## Dependencies  
-(none)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for seqtk 1.3 .  
+[https://github.com/lh3/seqtk/](https://github.com/lh3/seqtk/)  

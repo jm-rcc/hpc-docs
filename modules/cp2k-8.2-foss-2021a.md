@@ -1,22 +1,23 @@
 # CP2K 8.2  
-(chem)  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
   
 CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular
  simulations of solid state, liquid, molecular and biological systems. It provides a general framework for different
  methods such as e.g. density functional theory (DFT) using a mixed Gaussian and plane waves approach (GPW), and
- classical pair and many-body potentials.  
+ classical pair and many-body potentials.   
   
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cp2k/8.2-foss-2021a`**.  
   
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 {'pic': True, 'openmp': True}  
   
-  
-### Usage  
-Use the command **`module load cp2k/8.2-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,12 @@ Use the command **`module load cp2k/8.2-foss-2021a`** to load the module on Buny
   
   
 ## Dependencies  
-[('Libint', '2.6.0', '-lmax-6-cp2k'), ('libxc', '5.1.5'), ('libxsmm', '1.16.2'), ('FFTW', '3.3.9'), ('PLUMED', '2.7.2')]  
+[Libint 2.6.0 -lmax-6-cp2k (GCC 10.3.0)](link)  
+[libxc 5.1.5  (GCC 10.3.0)](link)  
+[libxsmm 1.16.2  (GCC 10.3.0)](link)  
+[FFTW 3.3.9  (gompi 2021a)](link)  
+[PLUMED 2.7.2  (foss 2021a)](link)  
   
+## Homepage  
+The homepage for CP2K 8.2 .  
+[https://www.cp2k.org/](https://www.cp2k.org/)  

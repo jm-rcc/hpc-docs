@@ -1,24 +1,32 @@
 # libheif 1.12.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 libheif is an HEIF and AVIF file format decoder and encoder  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load libheif/1.12.0-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load libheif/1.12.0-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 h100  
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('CMake', '3.20.1'), ('Doxygen', '1.9.1')]  
+[libpng 1.6.37  (GCCcore 10.3.0)](link)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
+[libde265 1.0.8  (GCCcore 10.3.0)](link)  
+[x265 3.5  (GCCcore 10.3.0)](link)  
+[Gdk-Pixbuf 2.42.6  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for libheif 1.12.0 .  
+[https://github.com/strukturag/libheif](https://github.com/strukturag/libheif)  

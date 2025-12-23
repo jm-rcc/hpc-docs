@@ -1,19 +1,20 @@
 # BeautifulSoup 4.10.0  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 Beautiful Soup is a Python library designed for quick turnaround projects like screen-scraping.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load beautifulsoup/4.10.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load beautifulsoup/4.10.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load beautifulsoup/4.10.0-gcccore-11.3.0`** to load th
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for BeautifulSoup 4.10.0 .  
+[https://www.crummy.com/software/BeautifulSoup](https://www.crummy.com/software/BeautifulSoup)  

@@ -1,5 +1,5 @@
 # HDF5 1.14.6  
-(data)  
+![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
   
 HDF5 is a data model, library, and file format for storing and managing data.
@@ -7,15 +7,16 @@ HDF5 is a data model, library, and file format for storing and managing data.
  and efficient I/O and for high volume and complex data.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hdf5/1.14.6-iimpi-2023a`**.  
+  
 ### Toolchain  
-{'name': 'iimpi', 'version': '2023a'}  
+iimpi (2023a)  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load hdf5/1.14.6-iimpi-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3  
@@ -23,13 +24,10 @@ Use the command **`module load hdf5/1.14.6-iimpi-2023a`** to load the module on 
   
   
 ## Dependencies  
-dependencies = [('CMake', '3.26.3')]
-
-# ('Szip', '2.1.1'), # swap in for libaec if required
-#
-dependencies = [
-    ('libaec', '1.0.6'),
-    ('Perl', '5.36.1'),
-    ('zlib', '1.2.13'),
-]  
+[libaec 1.0.6  (GCCcore 12.3.0)](link)  
+[Perl 5.36.1  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for HDF5 1.14.6 .  
+[https://portal.hdfgroup.org/display/support](https://portal.hdfgroup.org/display/support)  

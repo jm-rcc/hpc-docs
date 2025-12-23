@@ -1,20 +1,21 @@
 # BioPerl 1.7.8  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Bioperl is the product of a community effort to produce Perl code which is useful in biology.
  Examples include Sequence objects, Alignment objects and database searching objects.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bioperl/1.7.8-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load bioperl/1.7.8-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,11 +32,10 @@ Use the command **`module load bioperl/1.7.8-gcccore-11.3.0`** to load the modul
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('Perl', '5.34.1'),
-    ('XML-LibXML', '2.0207'),
-    ('DB_File', '1.858'),
-]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[XML-LibXML 2.0207  (GCCcore 11.3.0)](link)  
+[DB_File 1.858  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for BioPerl 1.7.8 .  
+[https://bioperl.org/](https://bioperl.org/)  

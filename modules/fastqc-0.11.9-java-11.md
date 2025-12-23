@@ -1,5 +1,5 @@
-# FastQC 0.11.9  
-(bio)  
+# FastQC 0.11.9 -Java-11 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 FastQC is a quality control application for high throughput
@@ -9,15 +9,16 @@ QC checks, or create an HTML based report which can be integrated into a
 pipeline.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load fastqc/0.11.9-java-11`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load fastqc/0.11.9-java-11`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +35,8 @@ Use the command **`module load fastqc/0.11.9-java-11`** to load the module on Bu
   
   
 ## Dependencies  
-(none)  
+[Java 11  (system system)](link)  
   
+## Homepage  
+The homepage for FastQC 0.11.9 -Java-11.  
+[https://www.bioinformatics.babraham.ac.uk/projects/fastqc/](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)  

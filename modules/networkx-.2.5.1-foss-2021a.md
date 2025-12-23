@@ -1,20 +1,21 @@
 # networkx 2.5.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 NetworkX is a Python package for the creation, manipulation,
 and study of the structure, dynamics, and functions of complex networks.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load networkx/.2.5.1-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load networkx/.2.5.1-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,9 @@ Use the command **`module load networkx/.2.5.1-foss-2021a`** to load the module 
   
   
 ## Dependencies  
-[('Python', '3.9.5'), ('SciPy-bundle', '2021.05')]  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[SciPy-bundle 2021.05  (foss 2021a)](link)  
   
+## Homepage  
+The homepage for networkx 2.5.1 .  
+[https://pypi.python.org/pypi/networkx](https://pypi.python.org/pypi/networkx)  

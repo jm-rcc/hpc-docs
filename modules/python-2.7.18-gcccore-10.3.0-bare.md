@@ -1,20 +1,21 @@
-# Python 2.7.18  
-(lang)  
+# Python 2.7.18 -bare 
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Python is a programming language that lets you work more quickly and integrate your systems
  more effectively.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load python/2.7.18-gcccore-10.3.0-bare`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load python/2.7.18-gcccore-10.3.0-bare`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,14 @@ Use the command **`module load python/2.7.18-gcccore-10.3.0-bare`** to load the 
   
   
 ## Dependencies  
-[('pkg-config', '0.29.2')]  
+[binutils 2.36.1  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[libreadline 8.1  (GCCcore 10.3.0)](link)  
+[ncurses 6.2  (GCCcore 10.3.0)](link)  
+[SQLite 3.35.4  (GCCcore 10.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for Python 2.7.18 -bare.  
+[https://python.org/](https://python.org/)  

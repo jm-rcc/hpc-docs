@@ -1,5 +1,5 @@
 # MaxQuant 2.2.0.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 MaxQuant is a quantitative proteomics software package designed for analyzing large
@@ -7,15 +7,16 @@ MaxQuant is a quantitative proteomics software package designed for analyzing la
  techniques as well as label-free quantification are supported.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load maxquant/2.2.0.0-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load maxquant/2.2.0.0-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,8 @@ Use the command **`module load maxquant/2.2.0.0-gcccore-11.3.0`** to load the mo
   
   
 ## Dependencies  
-(none)  
+[Mono 6.12.0.122  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for MaxQuant 2.2.0.0 .  
+[https://maxquant.org/maxquant](https://maxquant.org/maxquant)  

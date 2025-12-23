@@ -1,5 +1,5 @@
 # ZeroMQ 4.3.4  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.
@@ -10,15 +10,16 @@ ZeroMQ looks like an embeddable networking library but acts like a concurrency f
  message-processing tasks. It has a score of language APIs and runs on most operating systems.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load zeromq/.4.3.4-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load zeromq/.4.3.4-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,5 +36,10 @@ Use the command **`module load zeromq/.4.3.4-gcccore-11.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('pkgconf', '1.8.0')]  
+[OpenPGM 5.2.122  (GCCcore 11.3.0)](link)  
+[libsodium 1.0.18  (GCCcore 11.3.0)](link)  
+[util-linux 2.38  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for ZeroMQ 4.3.4 .  
+[https://www.zeromq.org/](https://www.zeromq.org/)  

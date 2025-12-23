@@ -1,19 +1,20 @@
 # MrBayes 3.2.7a  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 MrBayes is a program for the Bayesian estimation of phylogeny.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mrbayes/3.2.7a-foss-2022a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 {'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load mrbayes/3.2.7a-foss-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -26,5 +27,9 @@ Use the command **`module load mrbayes/3.2.7a-foss-2022a`** to load the module o
   
   
 ## Dependencies  
-[('Autotools', '20220317', '', ('GCCcore', '11.3.0')), ('pkg-config', '0.29.2', '', ('GCCcore', '11.3.0'))]  
+[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
+[beagle-lib 3.1.2  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for MrBayes 3.2.7a .  
+[http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  

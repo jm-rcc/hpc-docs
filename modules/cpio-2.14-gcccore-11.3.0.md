@@ -1,19 +1,20 @@
 # cpio 2.14  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 The cpio package contains tools for archiving.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cpio/2.14-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cpio/2.14-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load cpio/2.14-gcccore-11.3.0`** to load the module on
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('makeinfo', '6.8')]  
+(none)  
   
+## Homepage  
+The homepage for cpio 2.14 .  
+[https://savannah.gnu.org/projects/cpio/](https://savannah.gnu.org/projects/cpio/)  

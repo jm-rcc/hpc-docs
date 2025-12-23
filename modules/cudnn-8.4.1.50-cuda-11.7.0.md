@@ -1,20 +1,21 @@
-# cuDNN 8.4.1.50  
-(numlib)  
+# cuDNN 8.4.1.50 -CUDA-11.7.0 
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 The NVIDIA CUDA Deep Neural Network library (cuDNN) is
 a GPU-accelerated library of primitives for deep neural networks.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cudnn/8.4.1.50-cuda-11.7.0`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cudnn/8.4.1.50-cuda-11.7.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -22,5 +23,8 @@ Use the command **`module load cudnn/8.4.1.50-cuda-11.7.0`** to load the module 
   
   
 ## Dependencies  
-(none)  
+[CUDA 11.7.0  (system system)](link)  
   
+## Homepage  
+The homepage for cuDNN 8.4.1.50 -CUDA-11.7.0.  
+[https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)  

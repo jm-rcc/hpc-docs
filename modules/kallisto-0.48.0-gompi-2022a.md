@@ -1,20 +1,21 @@
 # kallisto 0.48.0  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 kallisto is a program for quantifying abundances of transcripts from RNA-Seq data, or more generally
  of target sequences using high-throughput sequencing reads.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load kallisto/0.48.0-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load kallisto/0.48.0-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,9 @@ Use the command **`module load kallisto/0.48.0-gompi-2022a`** to load the module
   
   
 ## Dependencies  
-[('Autotools', '20220317'), ('CMake', '3.23.1'), ('zlib', '1.2.12')]  
+[HDF5 1.12.2  (gompi 2022a)](link)  
+[HTSlib 1.15.1  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for kallisto 0.48.0 .  
+[https://pachterlab.github.io/kallisto/](https://pachterlab.github.io/kallisto/)  

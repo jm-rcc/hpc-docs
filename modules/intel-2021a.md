@@ -1,19 +1,20 @@
 # intel 2021a  
-(toolchain)  
+![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
   
 Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel Library (MKL).  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load intel/2021a`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load intel/2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,11 +31,12 @@ Use the command **`module load intel/2021a`** to load the module on Bunya.
   
   
 ## Dependencies  
-dependencies = [
-    ('GCCcore', local_gccver),
-    ('binutils', '2.36.1', '', ('GCCcore', local_gccver)),
-    ('intel-compilers', local_comp_ver),
-    ('impi', local_comp_ver, '', ('intel-compilers', local_comp_ver)),
-    ('imkl', local_comp_ver, '', ('iimpi', version)),
-]  
+[GCCcore 10.3.0  (system system)](link)  
+[binutils 2.36.1  (GCCcore 10.3.0)](link)  
+[intel-compilers 2021.2.0  (system system)](link)  
+[impi 2021.2.0  (intel-compilers 2021.2.0)](link)  
+[imkl 2021.2.0  (iimpi 2021a)](link)  
   
+## Homepage  
+The homepage for intel 2021a .  
+[https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain)  

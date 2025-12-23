@@ -1,5 +1,5 @@
 # nettle 3.8  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Nettle is a cryptographic library that is designed to fit easily
@@ -8,15 +8,16 @@ Nettle is a cryptographic library that is designed to fit easily
  or even in kernel space.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nettle/.3.8-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nettle/.3.8-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,8 @@ Use the command **`module load nettle/.3.8-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('Autotools', '20220317')]  
+[GMP 6.2.1  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for nettle 3.8 .  
+[https://www.lysator.liu.se/~nisse/nettle/](https://www.lysator.liu.se/~nisse/nettle/)  

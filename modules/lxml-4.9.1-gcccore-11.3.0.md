@@ -1,19 +1,20 @@
 # lxml 4.9.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxslt.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lxml/4.9.1-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load lxml/4.9.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,11 +31,10 @@ Use the command **`module load lxml/4.9.1-gcccore-11.3.0`** to load the module o
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('Python', '3.10.4'),
-    ('libxml2', '2.9.13'),
-    ('libxslt', '1.1.34'),
-]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[libxslt 1.1.34  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for lxml 4.9.1 .  
+[https://lxml.de/](https://lxml.de/)  

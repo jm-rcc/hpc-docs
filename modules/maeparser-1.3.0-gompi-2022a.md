@@ -1,19 +1,20 @@
 # maeparser 1.3.0  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 maeparser is a parser for Schrodinger Maestro files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load maeparser/1.3.0-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load maeparser/1.3.0-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load maeparser/1.3.0-gompi-2022a`** to load the module
   
   
 ## Dependencies  
-[('CMake', '3.23.1')]  
+[Boost 1.79.0  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for maeparser 1.3.0 .  
+[https://github.com/schrodinger/maeparser](https://github.com/schrodinger/maeparser)  

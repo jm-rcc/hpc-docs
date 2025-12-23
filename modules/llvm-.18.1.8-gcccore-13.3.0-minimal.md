@@ -1,5 +1,5 @@
-# LLVM 18.1.8  
-(compiler)  
+# LLVM 18.1.8 -minimal 
+![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
   
 The LLVM Core libraries provide a modern source- and target-independent
@@ -11,15 +11,16 @@ The LLVM Core libraries provide a modern source- and target-independent
  to use LLVM as an optimizer and code generator.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load llvm/.18.1.8-gcccore-13.3.0-minimal`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 {'cstd': 'gnu++11', 'pic': True}  
   
-  
-### Usage  
-Use the command **`module load llvm/.18.1.8-gcccore-13.3.0-minimal`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,9 @@ Use the command **`module load llvm/.18.1.8-gcccore-13.3.0-minimal`** to load th
   
   
 ## Dependencies  
-[('binutils', '2.42'), ('CMake', '3.29.3'), ('Python', '3.12.3'), ('lit', '18.1.8'), ('git', '2.45.1')]  
+[ncurses 6.5  (GCCcore 13.3.0)](link)  
+[zlib 1.3.1  (GCCcore 13.3.0)](link)  
   
+## Homepage  
+The homepage for LLVM 18.1.8 -minimal.  
+[https://llvm.org/](https://llvm.org/)  

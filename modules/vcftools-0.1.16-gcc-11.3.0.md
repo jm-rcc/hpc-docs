@@ -1,5 +1,5 @@
 # VCFtools 0.1.16  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 The aim of VCFtools is to provide
@@ -7,15 +7,16 @@ The aim of VCFtools is to provide
  genetic variation data in the form of VCF files.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load vcftools/0.1.16-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load vcftools/0.1.16-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,10 @@ Use the command **`module load vcftools/0.1.16-gcc-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('pkgconf', '1.8.0')]  
+[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[HTSlib 1.15.1  (GCC 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for VCFtools 0.1.16 .  
+[https://vcftools.github.io](https://vcftools.github.io)  

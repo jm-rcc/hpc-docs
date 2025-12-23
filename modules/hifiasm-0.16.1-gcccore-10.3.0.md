@@ -1,19 +1,20 @@
 # hifiasm 0.16.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hifiasm/0.16.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load hifiasm/0.16.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,15 +31,8 @@ Use the command **`module load hifiasm/0.16.1-gcccore-10.3.0`** to load the modu
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.36.1')]
-
-dependencies = [('zlib', '1.2.11')]
-
-buildopts = 'CC="$CC" CXX="$CXX" CPPFLAGS="$CPPFLAGS"'
-
-files_to_copy = [
-    ([name], 'bin'),
-    (['*.h'], 'include/hifiasm'),
-    'LICENSE', 'README.md',
-]  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for hifiasm 0.16.1 .  
+[https://github.com/chhylp123/hifiasm](https://github.com/chhylp123/hifiasm)  

@@ -1,19 +1,20 @@
 # XZ 5.4.5  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 xz: XZ utilities  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load xz/.5.4.5-gcccore-13.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '13.3.0'}  
+GCCcore (13.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load xz/.5.4.5-gcccore-13.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,9 +31,8 @@ Use the command **`module load xz/.5.4.5-gcccore-13.3.0`** to load the module on
   
   
 ## Dependencies  
-dependencies = [
-    # use gettext built with system toolchain as build dep to avoid cyclic dependency (XZ -> gettext -> libxml2 -> XZ)
-    ('gettext', '0.22.5', '', SYSTEM),
-    ('binutils', '2.42'),
-]  
+(none)  
   
+## Homepage  
+The homepage for XZ 5.4.5 .  
+[https://tukaani.org/xz/](https://tukaani.org/xz/)  

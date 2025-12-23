@@ -1,19 +1,20 @@
 # OpenBLAS 0.3.20  
-(numlib)  
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load openblas/0.3.20-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load openblas/0.3.20-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load openblas/0.3.20-gcc-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('make', '4.3'), ('Python', '3.10.4', '-bare')]  
+(none)  
   
+## Homepage  
+The homepage for OpenBLAS 0.3.20 .  
+[http://www.openblas.net/](http://www.openblas.net/)  

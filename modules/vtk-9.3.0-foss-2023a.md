@@ -1,5 +1,5 @@
 # VTK 9.3.0  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 The Visualization Toolkit (VTK) is an open-source, freely available software system for
@@ -9,15 +9,16 @@ The Visualization Toolkit (VTK) is an open-source, freely available software sys
  such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring, and Delaunay triangulation.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load vtk/9.3.0-foss-2023a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2023a'}  
+foss (2023a)  
   
 ### Toolchain Options  
 {'usempi': True}  
   
-  
-### Usage  
-Use the command **`module load vtk/9.3.0-foss-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +34,13 @@ Use the command **`module load vtk/9.3.0-foss-2023a`** to load the module on Bun
   
   
 ## Dependencies  
-[('CMake', '3.26.3'), ('Ninja', '1.11.1')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
+[XZ 5.4.2  (GCCcore 12.3.0)](link)  
+[libGLU 9.0.3  (GCCcore 12.3.0)](link)  
+[X11 20230603  (GCCcore 12.3.0)](link)  
+[Qt5 5.15.10  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for VTK 9.3.0 .  
+[https://www.vtk.org](https://www.vtk.org)  

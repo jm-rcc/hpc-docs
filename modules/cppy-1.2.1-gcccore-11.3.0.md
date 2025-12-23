@@ -1,5 +1,5 @@
 # cppy 1.2.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 A small C++ header library which makes it easier to write
@@ -8,15 +8,16 @@ which automatically handles reference counting and provides convenience
 methods for performing common object operations.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cppy/1.2.1-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cppy/1.2.1-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,9 +34,8 @@ Use the command **`module load cppy/1.2.1-gcccore-11.3.0`** to load the module o
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.38')]
-
-dependencies = [
-    ('Python', '3.10.4'),
-]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for cppy 1.2.1 .  
+[https://github.com/nucleic/cppy](https://github.com/nucleic/cppy)  

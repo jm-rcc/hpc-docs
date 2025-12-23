@@ -1,5 +1,5 @@
 # GObject-Introspection 1.76.1  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 GObject introspection is a middleware layer between C libraries
@@ -9,15 +9,16 @@ GObject introspection is a middleware layer between C libraries
  metadata and automatically provide bindings to call into the C library.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load gobject-introspection/.1.76.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load gobject-introspection/.1.76.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,5 +35,11 @@ Use the command **`module load gobject-introspection/.1.76.1-gcccore-12.3.0`** t
   
   
 ## Dependencies  
-[('binutils', '2.40'), ('pkgconf', '1.9.5'), ('Meson', '1.1.1'), ('Ninja', '1.11.1'), ('flex', '2.6.4'), ('Bison', '3.8.2'), ('cairo', '1.17.8')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[GLib 2.77.1  (GCCcore 12.3.0)](link)  
+[libffi 3.4.4  (GCCcore 12.3.0)](link)  
+[util-linux 2.39  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for GObject-Introspection 1.76.1 .  
+[https://gi.readthedocs.io/en/latest/](https://gi.readthedocs.io/en/latest/)  

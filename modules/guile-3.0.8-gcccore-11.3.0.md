@@ -1,21 +1,24 @@
 # Guile 3.0.8  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
-Guile is a programming language, designed to help programmers create flexible
+
+ Guile is a programming language, designed to help programmers create flexible
  applications that can be extended by users or other programmers with plug-ins,
- modules, or scripts.  
+ modules, or scripts.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load guile/3.0.8-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load guile/3.0.8-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +35,11 @@ Use the command **`module load guile/3.0.8-gcccore-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('Autotools', '20220317'), ('binutils', '2.38'), ('pkgconf', '1.8.0')]  
+[gc 8.2.2  (GCCcore 11.3.0)](link)  
+[GMP 6.2.1  (GCCcore 11.3.0)](link)  
+[libffi 3.4.2  (GCCcore 11.3.0)](link)  
+[libunistring 1.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Guile 3.0.8 .  
+[https://www.gnu.org/software/guile/](https://www.gnu.org/software/guile/)  

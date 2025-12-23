@@ -1,5 +1,5 @@
 # EasyBuild 5.1.1  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 EasyBuild is a software build and installation framework
@@ -7,15 +7,16 @@ EasyBuild is a software build and installation framework
  repeatable and robust way.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load easybuild/5.1.1`**.  
+  
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load easybuild/5.1.1`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 h100  
@@ -24,3 +25,6 @@ Use the command **`module load easybuild/5.1.1`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for EasyBuild 5.1.1 .  
+[https://easybuilders.github.io/easybuild](https://easybuilders.github.io/easybuild)  

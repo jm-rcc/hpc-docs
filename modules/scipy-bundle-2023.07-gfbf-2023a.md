@@ -1,19 +1,20 @@
 # SciPy-bundle 2023.07  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Bundle of Python packages for scientific software  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load scipy-bundle/2023.07-gfbf-2023a`**.  
+  
 ### Toolchain  
-{'name': 'gfbf', 'version': '2023a'}  
+gfbf (2023a)  
   
 ### Toolchain Options  
 {'pic': True, 'lowopt': True}  
   
-  
-### Usage  
-Use the command **`module load scipy-bundle/2023.07-gfbf-2023a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,10 @@ Use the command **`module load scipy-bundle/2023.07-gfbf-2023a`** to load the mo
   
   
 ## Dependencies  
-[('hypothesis', '6.82.0'), ('UnZip', '6.0'), ('Meson', '1.1.1'), ('Ninja', '1.11.1'), ('pkgconf', '1.9.5'), ('Cython', '3.0.8')]  
+[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](link)  
+[pybind11 2.11.1  (GCCcore 12.3.0)](link)  
   
+## Homepage  
+The homepage for SciPy-bundle 2023.07 .  
+[https://python.org/](https://python.org/)  

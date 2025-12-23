@@ -1,20 +1,23 @@
 # CMake 3.12.1  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-CMake, the cross-platform, open-source build system.  CMake is a family of
- tools designed to build, test and package software.  
+
+ CMake, the cross-platform, open-source build system.  CMake is a family of
+ tools designed to build, test and package software.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load cmake/3.12.1`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load cmake/3.12.1`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,3 +33,6 @@ Use the command **`module load cmake/3.12.1`** to load the module on Bunya.
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for CMake 3.12.1 .  
+[https://www.cmake.org](https://www.cmake.org)  

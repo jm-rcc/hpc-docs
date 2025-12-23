@@ -1,21 +1,24 @@
 # flex 2.6.4  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
-Flex (Fast Lexical Analyzer) is a tool for generating scanners. A scanner,
+
+ Flex (Fast Lexical Analyzer) is a tool for generating scanners. A scanner,
  sometimes called a tokenizer, is a program which recognizes lexical patterns
- in text.  
+ in text.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load flex/.2.6.4-gcccore-14.2.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '14.2.0'}  
+GCCcore (14.2.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load flex/.2.6.4-gcccore-14.2.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -27,10 +30,8 @@ Use the command **`module load flex/.2.6.4-gcccore-14.2.0`** to load the module 
   
   
 ## Dependencies  
-dependencies = [
-    ('Bison', '3.8.2'),
-    ('help2man', '1.49.3'),
-    # use same binutils version that was used when building GCC toolchain
-    ('binutils', '2.42', '', SYSTEM),
-]  
+[M4 1.4.19  (GCCcore 14.2.0)](link)  
   
+## Homepage  
+The homepage for flex 2.6.4 .  
+[https://github.com/westes/flex](https://github.com/westes/flex)  

@@ -1,19 +1,20 @@
 # tqdm 4.61.2  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 A fast, extensible progress bar for Python and CLI  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load tqdm/4.61.2-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load tqdm/4.61.2-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -28,5 +29,8 @@ Use the command **`module load tqdm/4.61.2-gcccore-10.3.0`** to load the module 
   
   
 ## Dependencies  
-(none)  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for tqdm 4.61.2 .  
+[https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  

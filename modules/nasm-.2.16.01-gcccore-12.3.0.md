@@ -1,19 +1,20 @@
 # NASM 2.16.01  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 NASM: General-purpose x86 assembler  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nasm/.2.16.01-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nasm/.2.16.01-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,8 @@ Use the command **`module load nasm/.2.16.01-gcccore-12.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.40')]  
+(none)  
   
+## Homepage  
+The homepage for NASM 2.16.01 .  
+[https://www.nasm.us/](https://www.nasm.us/)  

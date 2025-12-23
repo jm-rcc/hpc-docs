@@ -1,5 +1,5 @@
 # Lua 5.4.4  
-(lang)  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
   
 Lua is a powerful, fast, lightweight, embeddable scripting language.
@@ -10,15 +10,16 @@ Lua is a powerful, fast, lightweight, embeddable scripting language.
  making it ideal for configuration, scripting, and rapid prototyping.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load lua/5.4.4-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load lua/5.4.4-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -35,5 +36,9 @@ Use the command **`module load lua/5.4.4-gcccore-11.3.0`** to load the module on
   
   
 ## Dependencies  
-[('binutils', '2.38')]  
+[ncurses 6.3  (GCCcore 11.3.0)](link)  
+[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for Lua 5.4.4 .  
+[https://www.lua.org/](https://www.lua.org/)  

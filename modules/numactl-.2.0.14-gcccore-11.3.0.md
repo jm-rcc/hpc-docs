@@ -1,22 +1,25 @@
 # numactl 2.0.14  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
-The numactl program allows you to run your application program on specific
+
+ The numactl program allows you to run your application program on specific
  cpu's and memory nodes. It does this by supplying a NUMA memory policy to
  the operating system before running your program. The libnuma library provides
- convenient ways for you to add NUMA memory policies into your own program.  
+ convenient ways for you to add NUMA memory policies into your own program.
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load numactl/.2.0.14-gcccore-11.3.0`**.  
   
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load numactl/.2.0.14-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,5 +36,8 @@ Use the command **`module load numactl/.2.0.14-gcccore-11.3.0`** to load the mod
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('Autotools', '20220317')]  
+(none)  
   
+## Homepage  
+The homepage for numactl 2.0.14 .  
+[https://github.com/numactl/numactl](https://github.com/numactl/numactl)  

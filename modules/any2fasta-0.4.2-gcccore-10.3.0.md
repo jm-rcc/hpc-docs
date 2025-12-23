@@ -1,19 +1,20 @@
 # any2fasta 0.4.2  
-(tools)  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Convert various sequence formats to FASTA  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load any2fasta/0.4.2-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load any2fasta/0.4.2-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,17 +31,8 @@ Use the command **`module load any2fasta/0.4.2-gcccore-10.3.0`** to load the mod
   
   
 ## Dependencies  
-dependencies = [('Perl', '5.32.1')]
-
-modextrapaths = {'PATH': ''}
-
-sanity_check_paths = {
-    'files': ['any2fasta'],
-    'dirs': [],
-}
-
-sanity_check_commands = [
-    'any2fasta -h',
-    'any2fasta -q %(builddir)s/%(name)s-%(version)s/test.fq',
-]  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for any2fasta 0.4.2 .  
+[https://github.com/tseemann/any2fasta](https://github.com/tseemann/any2fasta)  

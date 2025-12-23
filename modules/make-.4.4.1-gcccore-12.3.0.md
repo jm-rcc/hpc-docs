@@ -1,19 +1,20 @@
 # make 4.4.1  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
 GNU version of make utility  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load make/.4.4.1-gcccore-12.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '12.3.0'}  
+GCCcore (12.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load make/.4.4.1-gcccore-12.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,17 +31,8 @@ Use the command **`module load make/.4.4.1-gcccore-12.3.0`** to load the module 
   
   
 ## Dependencies  
-dependencies = [('binutils', '2.40')]
-
-postinstallcmds = ["cd %(installdir)s/bin && ln -s make gmake"]
-
-sanity_check_paths = {
-    'files': ['bin/gmake', 'bin/make'],
-    'dirs': []
-}
-
-sanity_check_commands = [
-    "gmake --help",
-    "make --help",
-]  
+(none)  
   
+## Homepage  
+The homepage for make 4.4.1 .  
+[https://www.gnu.org/software/make/make.html](https://www.gnu.org/software/make/make.html)  

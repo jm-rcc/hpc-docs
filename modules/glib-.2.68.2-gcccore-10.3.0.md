@@ -1,19 +1,20 @@
 # GLib 2.68.2  
-(vis)  
+![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
   
 GLib is one of the base libraries of the GTK+ project  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load glib/.2.68.2-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load glib/.2.68.2-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,12 @@ Use the command **`module load glib/.2.68.2-gcccore-10.3.0`** to load the module
   
   
 ## Dependencies  
-[('Python', '3.9.5'), ('Meson', '0.58.0'), ('Ninja', '1.10.2'), ('binutils', '2.36.1'), ('pkg-config', '0.29.2')]  
+[libffi 3.3  (GCCcore 10.3.0)](link)  
+[gettext 0.21  (GCCcore 10.3.0)](link)  
+[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
+[PCRE2 10.36  (GCCcore 10.3.0)](link)  
+[util-linux 2.36  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for GLib 2.68.2 .  
+[https://www.gtk.org/](https://www.gtk.org/)  

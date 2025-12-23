@@ -1,20 +1,21 @@
 # MEGAHIT 1.2.9  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 An ultra-fast single-node solution for large and complex
 metagenomics assembly via succinct de Bruijn graph  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load megahit/1.2.9-gcccore-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '11.3.0'}  
+GCCcore (11.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load megahit/1.2.9-gcccore-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,10 @@ Use the command **`module load megahit/1.2.9-gcccore-11.3.0`** to load the modul
   
   
 ## Dependencies  
-[('binutils', '2.38'), ('CMake', '3.24.3'), ('zlib', '1.2.12')]  
+[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[gzip 1.12  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for MEGAHIT 1.2.9 .  
+[https://github.com/voutcn/megahit](https://github.com/voutcn/megahit)  

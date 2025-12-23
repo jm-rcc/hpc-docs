@@ -1,5 +1,5 @@
 # HMMER 3.3.2  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 HMMER is used for searching sequence databases for homologs
@@ -13,15 +13,16 @@ HMMER is used for searching sequence databases for homologs
  HMMER3 project, HMMER is now essentially as fast as BLAST.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load hmmer/3.3.2-gompi-2022a`**.  
+  
 ### Toolchain  
-{'name': 'gompi', 'version': '2022a'}  
+gompi (2022a)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load hmmer/3.3.2-gompi-2022a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -38,5 +39,8 @@ Use the command **`module load hmmer/3.3.2-gompi-2022a`** to load the module on 
   
   
 ## Dependencies  
-[('Python', '3.10.4'), ('Perl', '5.34.1')]  
+(none)  
   
+## Homepage  
+The homepage for HMMER 3.3.2 .  
+[http://hmmer.org/](http://hmmer.org/)  

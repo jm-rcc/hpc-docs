@@ -1,20 +1,21 @@
 # FLAC 1.3.3  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 FLAC stands for Free Lossless Audio Codec, an audio format similar to MP3, but lossless, meaning
 that audio is compressed in FLAC without any loss in quality.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load flac/1.3.3-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load flac/1.3.3-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load flac/1.3.3-gcccore-10.3.0`** to load the module o
   
   
 ## Dependencies  
-(none)  
+[libogg 1.3.4  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for FLAC 1.3.3 .  
+[https://xiph.org/flac/](https://xiph.org/flac/)  

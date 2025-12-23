@@ -1,5 +1,5 @@
 # BCFtools 1.15.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Samtools is a suite of programs for interacting with high-throughput sequencing data.
@@ -7,15 +7,16 @@ Samtools is a suite of programs for interacting with high-throughput sequencing 
  variants  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load bcftools/1.15.1-gcc-11.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '11.3.0'}  
+GCC (11.3.0)  
   
 ### Toolchain Options  
 {'pic': True}  
   
-  
-### Usage  
-Use the command **`module load bcftools/1.15.1-gcc-11.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -32,5 +33,12 @@ Use the command **`module load bcftools/1.15.1-gcc-11.3.0`** to load the module 
   
   
 ## Dependencies  
-[('zlib', '1.2.12'), ('HTSlib', '1.15.1'), ('bzip2', '1.0.8'), ('XZ', '5.2.5'), ('GSL', '2.7')]  
+[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[HTSlib 1.15.1  (GCC 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[XZ 5.2.5  (GCCcore 11.3.0)](link)  
+[GSL 2.7  (GCC 11.3.0)](link)  
   
+## Homepage  
+The homepage for BCFtools 1.15.1 .  
+[https://www.htslib.org/](https://www.htslib.org/)  

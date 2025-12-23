@@ -1,20 +1,21 @@
 # jemalloc 5.2.1  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 jemalloc is a general purpose malloc(3) implementation that emphasizes fragmentation avoidance and
  scalable concurrency support.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load jemalloc/.5.2.1-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load jemalloc/.5.2.1-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -29,5 +30,8 @@ Use the command **`module load jemalloc/.5.2.1-gcccore-10.3.0`** to load the mod
   
   
 ## Dependencies  
-[('Autotools', '20210128'), ('binutils', '2.36.1')]  
+(none)  
   
+## Homepage  
+The homepage for jemalloc 5.2.1 .  
+[http://jemalloc.net](http://jemalloc.net)  

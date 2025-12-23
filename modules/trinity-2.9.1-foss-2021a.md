@@ -1,5 +1,5 @@
 # Trinity 2.9.1  
-(bio)  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 Trinity represents a novel method for the efficient and robust de novo reconstruction
@@ -7,15 +7,16 @@ Trinity represents a novel method for the efficient and robust de novo reconstru
  Chrysalis, and Butterfly, applied sequentially to process large volumes of RNA-Seq reads.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load trinity/2.9.1-foss-2021a`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2021a'}  
+foss (2021a)  
   
 ### Toolchain Options  
 {'optarch': True}  
   
-  
-### Usage  
-Use the command **`module load trinity/2.9.1-foss-2021a`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,20 @@ Use the command **`module load trinity/2.9.1-foss-2021a`** to load the module on
   
   
 ## Dependencies  
-[('Autotools', '20210128'), ('CMake', '3.20.1')]  
+[Java 11  (system system)](link)  
+[ant 1.10.9 -Java-11 (system system)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[SciPy-bundle 2021.05  (foss 2021a)](link)  
+[Bowtie2 2.4.4  (GCC 10.3.0)](link)  
+[HTSlib 1.12  (GCC 10.3.0)](link)  
+[Jellyfish 2.3.0  (GCC 10.3.0)](link)  
+[kallisto 0.48.0  (gompi 2021a)](link)  
+[ncurses 6.2  (GCCcore 10.3.0)](link)  
+[Salmon 1.4.0  (gompi 2021a)](link)  
+[SAMtools 1.13  (GCC 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](link)  
   
+## Homepage  
+The homepage for Trinity 2.9.1 .  
+[https://trinityrnaseq.github.io](https://trinityrnaseq.github.io)  

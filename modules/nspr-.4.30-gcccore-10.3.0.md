@@ -1,20 +1,21 @@
 # NSPR 4.30  
-(lib)  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
   
 Netscape Portable Runtime (NSPR) provides a platform-neutral API for system level
  and libc-like functions.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load nspr/.4.30-gcccore-10.3.0`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load nspr/.4.30-gcccore-10.3.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -33,3 +34,6 @@ Use the command **`module load nspr/.4.30-gcccore-10.3.0`** to load the module o
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for NSPR 4.30 .  
+[https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR)  

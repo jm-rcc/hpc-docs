@@ -1,20 +1,21 @@
-# git 2.32.0  
-(tools)  
+# git 2.32.0 -nodocs 
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
   
 Git is a free and open source distributed version control system designed
 to handle everything from small to very large projects with speed and efficiency.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load git/2.32.0-gcccore-10.3.0-nodocs`**.  
+  
 ### Toolchain  
-{'name': 'GCCcore', 'version': '10.3.0'}  
+GCCcore (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load git/2.32.0-gcccore-10.3.0-nodocs`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +32,12 @@ Use the command **`module load git/2.32.0-gcccore-10.3.0-nodocs`** to load the m
   
   
 ## Dependencies  
-[('binutils', '2.36.1'), ('Autotools', '20210128')]  
+[cURL 7.76.0  (GCCcore 10.3.0)](link)  
+[expat 2.2.9  (GCCcore 10.3.0)](link)  
+[gettext 0.21  (GCCcore 10.3.0)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[OpenSSL 1.1  (system system)](link)  
   
+## Homepage  
+The homepage for git 2.32.0 -nodocs.  
+[https://git-scm.com/](https://git-scm.com/)  

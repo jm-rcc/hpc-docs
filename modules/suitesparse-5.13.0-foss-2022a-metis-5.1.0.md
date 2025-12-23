@@ -1,19 +1,20 @@
-# SuiteSparse 5.13.0  
-(numlib)  
+# SuiteSparse 5.13.0 -METIS-5.1.0 
+![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
   
 SuiteSparse is a collection of libraries manipulate sparse matrices.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load suitesparse/5.13.0-foss-2022a-metis-5.1.0`**.  
+  
 ### Toolchain  
-{'name': 'foss', 'version': '2022a'}  
+foss (2022a)  
   
 ### Toolchain Options  
 {'unroll': True, 'pic': True}  
   
-  
-### Usage  
-Use the command **`module load suitesparse/5.13.0-foss-2022a-metis-5.1.0`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -30,5 +31,9 @@ Use the command **`module load suitesparse/5.13.0-foss-2022a-metis-5.1.0`** to l
   
   
 ## Dependencies  
-[('CMake', '3.23.1'), ('M4', '1.4.19')]  
+[METIS 5.1.0  (GCCcore 11.3.0)](link)  
+[MPFR 4.1.0  (GCCcore 11.3.0)](link)  
   
+## Homepage  
+The homepage for SuiteSparse 5.13.0 -METIS-5.1.0.  
+[https://faculty.cse.tamu.edu/davis/suitesparse.html](https://faculty.cse.tamu.edu/davis/suitesparse.html)  

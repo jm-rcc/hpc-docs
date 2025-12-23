@@ -1,5 +1,5 @@
-# MAFFT 7.490  
-(bio)  
+# MAFFT 7.490 -with-extensions 
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
   
 MAFFT is a multiple sequence alignment program for unix-like operating systems.
@@ -7,15 +7,16 @@ It offers a range of multiple alignment methods, L-INS-i (accurate; for alignmen
 of <∼200 sequences), FFT-NS-2 (fast; for alignment of <∼30,000 sequences), etc.  
   
   
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load mafft/7.490-gcc-10.3.0-with-extensions`**.  
+  
 ### Toolchain  
-{'name': 'GCC', 'version': '10.3.0'}  
+GCC (10.3.0)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load mafft/7.490-gcc-10.3.0-with-extensions`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -34,3 +35,6 @@ Use the command **`module load mafft/7.490-gcc-10.3.0-with-extensions`** to load
 ## Dependencies  
 (none)  
   
+## Homepage  
+The homepage for MAFFT 7.490 -with-extensions.  
+[https://mafft.cbrc.jp/alignment/software/source.html](https://mafft.cbrc.jp/alignment/software/source.html)  

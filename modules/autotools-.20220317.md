@@ -1,20 +1,23 @@
 # Autotools 20220317  
-(devel)  
+![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
   
-This bundle collect the standard GNU build tools: Autoconf, Automake
- and libtool  
+
+ This bundle collect the standard GNU build tools: Autoconf, Automake
+ and libtool
   
+  
+  
+### Usage  
+To use the module on Bunya, load it with the command  
+  **`module load autotools/.20220317`**.  
   
 ### Toolchain  
-None  
+system (system)  
   
 ### Toolchain Options  
 None  
   
-  
-### Usage  
-Use the command **`module load autotools/.20220317`** to load the module on Bunya.  
   
 ## Available on architecture types  
 - epyc3 a100  
@@ -31,5 +34,10 @@ Use the command **`module load autotools/.20220317`** to load the module on Buny
   
   
 ## Dependencies  
-[('Autoconf', '2.71'), ('Automake', '1.16.5'), ('libtool', '2.4.7')]  
+[Autoconf 2.71  (system system)](link)  
+[Automake 1.16.5  (system system)](link)  
+[libtool 2.4.7  (system system)](link)  
   
+## Homepage  
+The homepage for Autotools 20220317 .  
+[https://autotools.io](https://autotools.io)  
