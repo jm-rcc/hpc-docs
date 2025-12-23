@@ -2,8 +2,8 @@
 # jemalloc  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
 ## Homepage  
-[http://jemalloc.net](http://jemalloc.net)  
 [https://jemalloc.net](https://jemalloc.net)  
+[http://jemalloc.net](http://jemalloc.net)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

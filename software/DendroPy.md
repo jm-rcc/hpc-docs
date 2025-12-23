@@ -2,8 +2,8 @@
 # DendroPy  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
 ## Homepage  
-[https://dendropy.org/](https://dendropy.org/)  
 [https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
+[https://dendropy.org/](https://dendropy.org/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 
