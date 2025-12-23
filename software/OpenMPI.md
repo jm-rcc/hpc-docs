@@ -1,17 +1,17 @@
 [< Software](../software_shortlist.md)  
 # OpenMPI  
-Category: mpi  
+![Static Badge](https://img.shields.io/badge/class-mpi-D7D1CC)  
 ## Homepage  
 [https://www.open-mpi.org/](https://www.open-mpi.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [OpenMPI 5.0.7](../modules/openmpi-5.0.7-gcc-14.2.0.md) | GCC-14.2.0 |  | openmpi/5.0.7-gcc-14.2.0 |  
- | [OpenMPI 5.0.3](../modules/openmpi-5.0.3-gcc-13.3.0.md) | GCC-13.3.0 |  | openmpi/5.0.3-gcc-13.3.0 |  
- | [OpenMPI 4.1.5](../modules/openmpi-4.1.5-gcc-12.3.0.md) | GCC-12.3.0 |  | openmpi/4.1.5-gcc-12.3.0 |  
- | [OpenMPI 4.1.4](../modules/openmpi-4.1.4-gcc-11.3.0.md) | GCC-11.3.0 |  | openmpi/4.1.4-gcc-11.3.0 |  
- | [OpenMPI 4.1.1](../modules/openmpi-4.1.1-gcc-10.3.0.md) | GCC-10.3.0 |  | openmpi/4.1.1-gcc-10.3.0 |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | OpenMPI 5.0.7 | GCC-14.2.0 | [openmpi/5.0.7-gcc-14.2.0](../modules/openmpi-5.0.7-gcc-14.2.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) <br> ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)  |  
+ | OpenMPI 5.0.3 | GCC-13.3.0 | [openmpi/5.0.3-gcc-13.3.0](../modules/openmpi-5.0.3-gcc-13.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | OpenMPI 4.1.5 | GCC-12.3.0 | [openmpi/4.1.5-gcc-12.3.0](../modules/openmpi-4.1.5-gcc-12.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | OpenMPI 4.1.4 | GCC-11.3.0 | [openmpi/4.1.4-gcc-11.3.0](../modules/openmpi-4.1.4-gcc-11.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | OpenMPI 4.1.1 | GCC-10.3.0 | [openmpi/4.1.1-gcc-10.3.0](../modules/openmpi-4.1.1-gcc-10.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
   
 The Open MPI Project is an open source MPI-3 implementation.  
   

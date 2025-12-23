@@ -1,16 +1,16 @@
 [< Software](../software_shortlist.md)  
 # Go  
-Category: compiler  
+![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
 ## Homepage  
 [https://www.golang.org](https://www.golang.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [Go 1.23.6](../modules/go-1.23.6.md) | system-system |  | go/1.23.6 |  
- | [Go 1.20.4](../modules/go-1.20.4.md) | system-system |  | go/1.20.4 |  
- | [Go 1.18.3](../modules/go-1.18.3.md) | system-system |  | go/1.18.3 |  
- | [Go 1.18.1](../modules/go-1.18.1.md) | system-system |  | go/1.18.1 |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | Go 1.23.6 | system-system | [go/1.23.6](../modules/go-1.23.6.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | Go 1.20.4 | system-system | [go/1.20.4](../modules/go-1.20.4.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | Go 1.18.3 | system-system | [go/1.18.3](../modules/go-1.18.3.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | Go 1.18.1 | system-system | [go/1.18.1](../modules/go-1.18.1.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
   
 Go is an open source programming language that makes it easy to build
  simple, reliable, and efficient software.  

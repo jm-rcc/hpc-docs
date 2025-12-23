@@ -1,15 +1,15 @@
 [< Software](../software_shortlist.md)  
 # SciPy-bundle  
-Category: lang  
+![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
 ## Homepage  
 [https://python.org/](https://python.org/)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [SciPy-bundle 2023.07](../modules/scipy-bundle-2023.07-gfbf-2023a.md) | gfbf-2023a | pic: True, <br>lowopt: True | scipy-bundle/2023.07-gfbf-2023a |  
- | [SciPy-bundle 2022.05](../modules/scipy-bundle-2022.05-foss-2022a.md) | foss-2022a | pic: True, <br>lowopt: True | scipy-bundle/2022.05-foss-2022a |  
- | [SciPy-bundle 2021.05](../modules/scipy-bundle-2021.05-foss-2021a.md) | foss-2021a | pic: True, <br>lowopt: True | scipy-bundle/2021.05-foss-2021a |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | SciPy-bundle 2023.07 | gfbf-2023a | [scipy-bundle/2023.07-gfbf-2023a](../modules/scipy-bundle-2023.07-gfbf-2023a.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | SciPy-bundle 2022.05 | foss-2022a | [scipy-bundle/2022.05-foss-2022a](../modules/scipy-bundle-2022.05-foss-2022a.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | SciPy-bundle 2021.05 | foss-2021a | [scipy-bundle/2021.05-foss-2021a](../modules/scipy-bundle-2021.05-foss-2021a.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3)  |  
   
 Bundle of Python packages for scientific software  
   

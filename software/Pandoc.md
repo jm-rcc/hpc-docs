@@ -1,13 +1,13 @@
 [< Software](../software_shortlist.md)  
 # Pandoc  
-Category: tools  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
 ## Homepage  
 [https://pandoc.org](https://pandoc.org)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [Pandoc 3.1.2](../modules/pandoc-3.1.2.md) | system-system |  | pandoc/3.1.2 |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | Pandoc 3.1.2 | system-system | [pandoc/3.1.2](../modules/pandoc-3.1.2.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
   
 If you need to convert files from one markup format into another, pandoc is your swiss-army knife  
   

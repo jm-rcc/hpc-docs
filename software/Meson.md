@@ -1,17 +1,17 @@
 [< Software](../software_shortlist.md)  
 # Meson  
-Category: tools  
+![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
 ## Homepage  
 [https://mesonbuild.com](https://mesonbuild.com)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [Meson 1.6.1](../modules/meson-1.6.1-gcccore-14.2.0.md) | GCCcore-14.2.0 |  | meson/1.6.1-gcccore-14.2.0 |  
- | [Meson 1.4.0](../modules/meson-1.4.0-gcccore-13.3.0.md) | GCCcore-13.3.0 |  | meson/1.4.0-gcccore-13.3.0 |  
- | [Meson 1.1.1](../modules/meson-1.1.1-gcccore-12.3.0.md) | GCCcore-12.3.0 |  | meson/1.1.1-gcccore-12.3.0 |  
- | [Meson 0.62.1](../modules/meson-0.62.1-gcccore-11.3.0.md) | GCCcore-11.3.0 |  | meson/0.62.1-gcccore-11.3.0 |  
- | [Meson 0.58.0](../modules/meson-0.58.0-gcccore-10.3.0.md) | GCCcore-10.3.0 |  | meson/0.58.0-gcccore-10.3.0 |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | Meson 1.6.1 | GCCcore-14.2.0 | [meson/1.6.1-gcccore-14.2.0](../modules/meson-1.6.1-gcccore-14.2.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) <br> ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)  |  
+ | Meson 1.4.0 | GCCcore-13.3.0 | [meson/1.4.0-gcccore-13.3.0](../modules/meson-1.4.0-gcccore-13.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | Meson 1.1.1 | GCCcore-12.3.0 | [meson/1.1.1-gcccore-12.3.0](../modules/meson-1.1.1-gcccore-12.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | Meson 0.62.1 | GCCcore-11.3.0 | [meson/0.62.1-gcccore-11.3.0](../modules/meson-0.62.1-gcccore-11.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | Meson 0.58.0 | GCCcore-10.3.0 | [meson/0.58.0-gcccore-10.3.0](../modules/meson-0.58.0-gcccore-10.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
   
 Meson is a cross-platform build system designed to be both as fast and as user friendly as possible.  
   

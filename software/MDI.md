@@ -1,13 +1,13 @@
 [< Software](../software_shortlist.md)  
 # MDI  
-Category: chem  
+![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
 ## Homepage  
 [https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [MDI 1.4.26](../modules/mdi-1.4.26-gompi-2023a.md) | gompi-2023a |  | mdi/1.4.26-gompi-2023a |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | MDI 1.4.26 | gompi-2023a | [mdi/1.4.26-gompi-2023a](../modules/mdi-1.4.26-gompi-2023a.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) <br> ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
   
 The MolSSI Driver Interface (MDI) project provides a
 standardized API for fast, on-the-fly communication between computational

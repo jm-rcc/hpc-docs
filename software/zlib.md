@@ -1,18 +1,18 @@
 [< Software](../software_shortlist.md)  
 # zlib  
-Category: lib  
+![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
 ## Homepage  
 [https://www.zlib.net/](https://www.zlib.net/)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [zlib 1.3.1](../modules/zlib-1.3.1-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True | zlib/1.3.1-gcccore-13.3.0 |  
- | [zlib 1.3.1](../modules/zlib-.1.3.1-gcccore-14.2.0.md) | GCCcore-14.2.0 | pic: True | zlib/1.3.1-gcccore-14.2.0 |  
- | [zlib 1.3.1](../modules/zlib-.1.3.1-gcccore-13.3.0.md) | GCCcore-13.3.0 | pic: True | zlib/1.3.1-gcccore-13.3.0 |  
- | [zlib 1.2.13](../modules/zlib-.1.2.13-gcccore-12.3.0.md) | GCCcore-12.3.0 | pic: True | zlib/1.2.13-gcccore-12.3.0 |  
- | [zlib 1.2.12](../modules/zlib-.1.2.12-gcccore-11.3.0.md) | GCCcore-11.3.0 | pic: True | zlib/1.2.12-gcccore-11.3.0 |  
- | [zlib 1.2.11](../modules/zlib-.1.2.11-gcccore-10.3.0.md) | GCCcore-10.3.0 | pic: True | zlib/1.2.11-gcccore-10.3.0 |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | zlib 1.3.1 | GCCcore-13.3.0 | [zlib/1.3.1-gcccore-13.3.0](../modules/zlib-1.3.1-gcccore-13.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC)  |  
+ | zlib 1.3.1 | GCCcore-14.2.0 | [zlib/1.3.1-gcccore-14.2.0](../modules/zlib-.1.3.1-gcccore-14.2.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7)  |  
+ | zlib 1.3.1 | GCCcore-13.3.0 | [zlib/1.3.1-gcccore-13.3.0](../modules/zlib-.1.3.1-gcccore-13.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | zlib 1.2.13 | GCCcore-12.3.0 | [zlib/1.2.13-gcccore-12.3.0](../modules/zlib-.1.2.13-gcccore-12.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | zlib 1.2.12 | GCCcore-11.3.0 | [zlib/1.2.12-gcccore-11.3.0](../modules/zlib-.1.2.12-gcccore-11.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | zlib 1.2.11 | GCCcore-10.3.0 | [zlib/1.2.11-gcccore-10.3.0](../modules/zlib-.1.2.11-gcccore-10.3.0.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
   
 zlib is designed to be a free, general-purpose, legally unencumbered -- that is,
  not covered by any patents -- lossless data-compression library for use on virtually any
@@ -20,12 +20,12 @@ zlib is designed to be a free, general-purpose, legally unencumbered -- that is,
   
 ----  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [zlib 1.3.1](../modules/zlib-.1.3.1.md) | system-system |  | zlib/1.3.1 |  
- | [zlib 1.2.13](../modules/zlib-.1.2.13.md) | system-system |  | zlib/1.2.13 |  
- | [zlib 1.2.12](../modules/zlib-.1.2.12.md) | system-system |  | zlib/1.2.12 |  
- | [zlib 1.2.11](../modules/zlib-.1.2.11.md) | system-system |  | zlib/1.2.11 |  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
+ | zlib 1.3.1 | system-system | [zlib/1.3.1](../modules/zlib-.1.3.1.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | zlib 1.2.13 | system-system | [zlib/1.2.13](../modules/zlib-.1.2.13.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | zlib 1.2.12 | system-system | [zlib/1.2.12](../modules/zlib-.1.2.12.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
+ | zlib 1.2.11 | system-system | [zlib/1.2.11](../modules/zlib-.1.2.11.md) | ![Static Badge](https://img.shields.io/badge/epyc3--A100-ADA9A6) ![Static Badge](https://img.shields.io/badge/epyc3--H100-4085C6) ![Static Badge](https://img.shields.io/badge/epyc3--L40-BB9D65) <br> ![Static Badge](https://img.shields.io/badge/epyc3--mi210-FBB800) ![Static Badge](https://img.shields.io/badge/epyc3-D7D1CC) ![Static Badge](https://img.shields.io/badge/epyc4--A16-999490) ![Static Badge](https://img.shields.io/badge/epyc4--L40s-2EA836) ![Static Badge](https://img.shields.io/badge/epyc4--mi210%2Fepyc4--mi300x-EB602B) <br> ![Static Badge](https://img.shields.io/badge/epyc4-D6D4D3) ![Static Badge](https://img.shields.io/badge/xeonsp4--H100-00A2C7) ![Static Badge](https://img.shields.io/badge/xeonsp4-C2BFBC)  |  
   
 zlib is designed to be a free, general-purpose, legally unencumbered -- that
  is, not covered by any patents -- lossless data-compression library for use
