@@ -17,29 +17,3 @@ To use the module on Bunya, load it with the command
 GCCcore-11.3.0  
   
 ### Toolchain Options  
-None  
-  
-  
-## Available on architecture types  
-- epyc3 a100  
-- epyc3 h100  
-- epyc3 l40  
-- epyc3 mi210  
-- epyc3  
-- epyc4 a16  
-- epyc4 l40s  
-- epyc4 mi210  
-- epyc4  
-- xeonsp4 h100  
-- xeonsp4  
-  
-  
-## Dependencies  
-libsndfile depends on the following modules, and they will be loaded automatically with this module.  
-[FLAC 1.3.4  (GCCcore-11.3.0)](flac-1.3.4-gcccore-11.3.0.md)  
-[libvorbis 1.3.7  (GCCcore-11.3.0)](libvorbis-1.3.7-gcccore-11.3.0.md)  
-[libopus 1.3.1  (GCCcore-11.3.0)](libopus-1.3.1-gcccore-11.3.0.md)  
-[LAME 3.100  (GCCcore-11.3.0)](lame-3.100-gcccore-11.3.0.md)  
-  
-## Dependencies  
-The following modules will load libsndfile as dependency.  
