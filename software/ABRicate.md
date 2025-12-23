@@ -1,15 +1,9 @@
 [< Software](../software_shortlist.md)  
 # ABRicate  
-Category: bio  
+![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
 ## Homepage  
 [https://github.com/tseemann/abricate](https://github.com/tseemann/abricate)  
 ## Installed versions  
   
-| Version | Toolchain | Options | Module |  
-| :--------- | :--- | :--- |  
- | [ABRicate 1.0.0](../modules/abricate-1.0.0-gompi-2021a.md) | gompi-2021a |  | abricate/1.0.0-gompi-2021a |  
-  
-Mass screening of contigs for antimicrobial and virulence genes  
-  
-----  
-  
+| Version | Toolchain | Module | Architecture 
+| :--------- | :--- | :--- | ---: |  
