@@ -58,7 +58,5 @@ These other versions of HDF5 are available on Bunya.
   
 [hdf5/1.14.0-gompi-2023a](../modules/hdf5-1.14.0-gompi-2023a.md)  
   
-[hdf5/1.12.2-gompi-2022a](../modules/hdf5-1.12.2-gompi-2022a.md)  
-  
 [hdf5/1.10.7-gompi-2021a](../modules/hdf5-1.10.7-gompi-2021a.md)  
   

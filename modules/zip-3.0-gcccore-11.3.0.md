@@ -45,7 +45,3 @@ The following modules will load Zip as dependency.
   
 [Archive-Zip 1.68  (GCCcore-11.3.0)](archive-zip-1.68-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of Zip are available on Bunya.  
-[zip/3.0-gcccore-11.3.0](../modules/zip-3.0-gcccore-11.3.0.md)  
-  

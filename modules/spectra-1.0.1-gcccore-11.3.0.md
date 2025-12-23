@@ -43,5 +43,3 @@ SpectrA depends on the following modules, and they will be loaded automatically 
 These other versions of SpectrA are available on Bunya.  
 [spectra/1.0.1-gcccore-12.3.0](../modules/spectra-1.0.1-gcccore-12.3.0.md)  
   
-[spectra/1.0.1-gcccore-11.3.0](../modules/spectra-1.0.1-gcccore-11.3.0.md)  
-  

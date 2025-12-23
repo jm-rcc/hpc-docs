@@ -40,7 +40,3 @@ The following modules will load Imath as dependency.
   
 [OpenEXR 3.1.7  (GCCcore-12.3.0)](openexr-3.1.7-gcccore-12.3.0.md)  
   
-## Other available modules  
-These other versions of Imath are available on Bunya.  
-[imath/3.1.7-gcccore-12.3.0](../modules/imath-3.1.7-gcccore-12.3.0.md)  
-  

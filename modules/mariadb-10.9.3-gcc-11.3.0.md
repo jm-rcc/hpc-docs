@@ -55,7 +55,3 @@ The following modules will load MariaDB as dependency.
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  
 [DBD-mysql 4.050  (GCC-11.3.0)](dbd-mysql-4.050-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of MariaDB are available on Bunya.  
-[mariadb/10.9.3-gcc-11.3.0](../modules/mariadb-10.9.3-gcc-11.3.0.md)  
-  

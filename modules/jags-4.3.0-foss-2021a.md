@@ -39,7 +39,3 @@ The following modules will load JAGS as dependency.
   
 [rjags 4-10 -R-4.1.0 (foss-2021a)](rjags-4-10-foss-2021a-r-4.1.0.md)  
   
-## Other available modules  
-These other versions of JAGS are available on Bunya.  
-[jags/4.3.0-foss-2021a](../modules/jags-4.3.0-foss-2021a.md)  
-  

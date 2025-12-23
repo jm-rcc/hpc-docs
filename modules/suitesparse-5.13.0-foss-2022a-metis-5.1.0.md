@@ -46,7 +46,5 @@ The following modules will load SuiteSparse as dependency.
   
 ## Other available modules  
 These other versions of SuiteSparse are available on Bunya.  
-[suitesparse/5.13.0-foss-2022a-metis-5.1.0](../modules/suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
-  
 [suitesparse/5.10.1-foss-2021a-metis-5.1.0](../modules/suitesparse-5.10.1-foss-2021a-metis-5.1.0.md)  
   

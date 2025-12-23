@@ -41,5 +41,3 @@ system-system
 These other versions of EasyBuild are available on Bunya.  
 [easybuild/5.1.1](../modules/easybuild-5.1.1.md)  
   
-[easybuild/5.1.0](../modules/easybuild-5.1.0.md)  
-  

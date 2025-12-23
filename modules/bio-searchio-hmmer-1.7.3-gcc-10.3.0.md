@@ -48,5 +48,3 @@ The following modules will load Bio-SearchIO-hmmer as dependency.
 These other versions of Bio-SearchIO-hmmer are available on Bunya.  
 [bio-searchio-hmmer/1.7.3-gcc-11.3.0](../modules/bio-searchio-hmmer-1.7.3-gcc-11.3.0.md)  
   
-[bio-searchio-hmmer/1.7.3-gcc-10.3.0](../modules/bio-searchio-hmmer-1.7.3-gcc-10.3.0.md)  
-  

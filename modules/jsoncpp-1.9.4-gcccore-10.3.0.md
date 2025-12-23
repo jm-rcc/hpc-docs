@@ -47,5 +47,3 @@ The following modules will load JsonCpp as dependency.
 These other versions of JsonCpp are available on Bunya.  
 [jsoncpp/1.9.5-gcccore-11.3.0](../modules/jsoncpp-1.9.5-gcccore-11.3.0.md)  
   
-[jsoncpp/1.9.4-gcccore-10.3.0](../modules/jsoncpp-1.9.4-gcccore-10.3.0.md)  
-  

@@ -50,5 +50,3 @@ The following modules will load Pysam as dependency.
 These other versions of Pysam are available on Bunya.  
 [pysam/0.19.1-gcc-11.3.0](../modules/pysam-0.19.1-gcc-11.3.0.md)  
   
-[pysam/0.16.0.1-gcc-10.3.0](../modules/pysam-0.16.0.1-gcc-10.3.0.md)  
-  

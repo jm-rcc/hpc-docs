@@ -39,7 +39,3 @@ KronaTools depends on the following modules, and they will be loaded automatical
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of KronaTools are available on Bunya.  
-[kronatools/2.8.1-gcccore-11.3.0](../modules/kronatools-2.8.1-gcccore-11.3.0.md)  
-  

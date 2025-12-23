@@ -46,5 +46,3 @@ The following modules will load libdeflate as dependency.
 These other versions of libdeflate are available on Bunya.  
 [libdeflate/1.18-gcccore-12.3.0](../modules/libdeflate-1.18-gcccore-12.3.0.md)  
   
-[libdeflate/1.10-gcccore-11.3.0](../modules/libdeflate-1.10-gcccore-11.3.0.md)  
-  

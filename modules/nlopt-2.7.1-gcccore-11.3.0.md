@@ -44,7 +44,5 @@ The following modules will load NLopt as dependency.
   
 ## Other available modules  
 These other versions of NLopt are available on Bunya.  
-[nlopt/2.7.1-gcccore-11.3.0](../modules/nlopt-2.7.1-gcccore-11.3.0.md)  
-  
 [nlopt/2.7.0-gcccore-10.3.0](../modules/nlopt-2.7.0-gcccore-10.3.0.md)  
   

@@ -36,7 +36,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of Miller are available on Bunya.  
-[miller/6.4.0](../modules/miller-6.4.0.md)  
-  

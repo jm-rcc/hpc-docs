@@ -38,7 +38,3 @@ picard depends on the following modules, and they will be loaded automatically w
 [Java 11  (system-system)](java-11.md)  
   
   
-## Other available modules  
-These other versions of picard are available on Bunya.  
-[picard/2.25.1-java-11](../modules/picard-2.25.1-java-11.md)  
-  

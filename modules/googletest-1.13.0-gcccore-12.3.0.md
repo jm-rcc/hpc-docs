@@ -36,7 +36,5 @@ GCCcore-12.3.0
   
 ## Other available modules  
 These other versions of googletest are available on Bunya.  
-[googletest/1.13.0-gcccore-12.3.0](../modules/googletest-1.13.0-gcccore-12.3.0.md)  
-  
 [googletest/1.11.0-gcccore-11.3.0](../modules/googletest-1.11.0-gcccore-11.3.0.md)  
   

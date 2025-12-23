@@ -45,5 +45,3 @@ These other versions of Nextflow are available on Bunya.
   
 [nextflow/23.04.2](../modules/nextflow-23.04.2.md)  
   
-[nextflow/22.10.1](../modules/nextflow-22.10.1.md)  
-  

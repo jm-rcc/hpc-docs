@@ -41,7 +41,3 @@ Cython depends on the following modules, and they will be loaded automatically w
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
   
-## Other available modules  
-These other versions of Cython are available on Bunya.  
-[cython/3.0.8-gcccore-12.3.0](../modules/cython-3.0.8-gcccore-12.3.0.md)  
-  

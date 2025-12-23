@@ -45,9 +45,5 @@ SPAdes depends on the following modules, and they will be loaded automatically w
 These other versions of SPAdes are available on Bunya.  
 [spades/3.15.5-gcc-11.3.0](../modules/spades-3.15.5-gcc-11.3.0.md)  
   
-[spades/3.15.3-gcc-10.3.0](../modules/spades-3.15.3-gcc-10.3.0.md)  
-  
 [spades/3.15.5-gcc-11.3.0](../modules/spades-.3.15.5-gcc-11.3.0.bak_20251013205337_1950851.md)  
-  
-[spades/3.15.3-gcc-10.3.0](../modules/spades-.3.15.3-gcc-10.3.0.bak_20251013205322_1950851.md)  
   

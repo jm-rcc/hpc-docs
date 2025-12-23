@@ -32,7 +32,3 @@ DIRAC depends on the following modules, and they will be loaded automatically wi
 [HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
   
   
-## Other available modules  
-These other versions of DIRAC are available on Bunya.  
-[dirac/25.0-intel-2023a-int64](../modules/dirac-25.0-intel-2023a-int64.md)  
-  

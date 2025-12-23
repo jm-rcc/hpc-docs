@@ -40,7 +40,3 @@ The following modules will load LERC as dependency.
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-## Other available modules  
-These other versions of LERC are available on Bunya.  
-[lerc/4.0.0-gcccore-12.3.0](../modules/lerc-4.0.0-gcccore-12.3.0.md)  
-  

@@ -40,7 +40,3 @@ The following modules will load FastTree as dependency.
   
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
   
-## Other available modules  
-These other versions of FastTree are available on Bunya.  
-[fasttree/2.1.11-gcccore-10.3.0](../modules/fasttree-2.1.11-gcccore-10.3.0.md)  
-  

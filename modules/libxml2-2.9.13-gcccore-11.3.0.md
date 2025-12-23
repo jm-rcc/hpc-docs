@@ -44,13 +44,7 @@ libxml2 depends on the following modules, and they will be loaded automatically 
   
 ## Other available modules  
 These other versions of libxml2 are available on Bunya.  
-[libxml2/2.9.13-gcccore-11.3.0](../modules/libxml2-2.9.13-gcccore-11.3.0.md)  
-  
 [libxml2/2.11.4-gcccore-12.3.0](../modules/libxml2-2.11.4-gcccore-12.3.0.md)  
-  
-[libxml2/2.9.13-gcccore-11.3.0](../modules/libxml2-.2.9.13-gcccore-11.3.0.bak_20251013214509_2034437.md)  
-  
-[libxml2/2.9.13-gcccore-11.3.0](../modules/libxml2-.2.9.13-gcccore-11.3.0.md)  
   
 [libxml2/2.9.10-gcccore-10.3.0](../modules/libxml2-.2.9.10-gcccore-10.3.0.md)  
   

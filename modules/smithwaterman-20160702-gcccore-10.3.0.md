@@ -38,7 +38,3 @@ The following modules will load smithwaterman as dependency.
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-## Other available modules  
-These other versions of smithwaterman are available on Bunya.  
-[smithwaterman/20160702-gcccore-10.3.0](../modules/smithwaterman-20160702-gcccore-10.3.0.md)  
-  

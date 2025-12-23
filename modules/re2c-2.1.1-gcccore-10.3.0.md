@@ -45,5 +45,3 @@ These other versions of re2c are available on Bunya.
   
 [re2c/2.2-gcccore-11.3.0](../modules/re2c-2.2-gcccore-11.3.0.md)  
   
-[re2c/2.1.1-gcccore-10.3.0](../modules/re2c-2.1.1-gcccore-10.3.0.md)  
-  

@@ -43,7 +43,3 @@ The following modules will load Compress-Raw-Zlib as dependency.
   
 [VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of Compress-Raw-Zlib are available on Bunya.  
-[compress-raw-zlib/2.202-gcccore-11.3.0](../modules/compress-raw-zlib-2.202-gcccore-11.3.0.md)  
-  

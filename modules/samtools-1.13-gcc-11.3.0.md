@@ -49,7 +49,5 @@ These other versions of SAMtools are available on Bunya.
   
 [samtools/1.16.1-gcc-11.3.0](../modules/samtools-1.16.1-gcc-11.3.0.md)  
   
-[samtools/1.13-gcc-11.3.0](../modules/samtools-1.13-gcc-11.3.0.md)  
-  
 [samtools/1.13-gcc-10.3.0](../modules/samtools-1.13-gcc-10.3.0.md)  
   

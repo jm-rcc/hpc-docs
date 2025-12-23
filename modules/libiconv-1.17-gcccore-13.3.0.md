@@ -42,8 +42,6 @@ The following modules will load libiconv as dependency.
 These other versions of libiconv are available on Bunya.  
 [libiconv/1.18-gcccore-14.2.0](../modules/libiconv-1.18-gcccore-14.2.0.md)  
   
-[libiconv/1.17-gcccore-13.3.0](../modules/libiconv-1.17-gcccore-13.3.0.md)  
-  
 [libiconv/1.17-gcccore-12.3.0](../modules/libiconv-1.17-gcccore-12.3.0.md)  
   
 [libiconv/1.17-gcccore-11.3.0](../modules/libiconv-1.17-gcccore-11.3.0.md)  

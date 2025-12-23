@@ -36,7 +36,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of Pandoc are available on Bunya.  
-[pandoc/3.1.2](../modules/pandoc-3.1.2.md)  
-  

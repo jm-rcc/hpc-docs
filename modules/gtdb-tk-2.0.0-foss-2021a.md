@@ -45,7 +45,3 @@ GTDB-Tk depends on the following modules, and they will be loaded automatically 
 [tqdm 4.61.2  (GCCcore-10.3.0)](tqdm-4.61.2-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of GTDB-Tk are available on Bunya.  
-[gtdb-tk/2.0.0-foss-2021a](../modules/gtdb-tk-2.0.0-foss-2021a.md)  
-  

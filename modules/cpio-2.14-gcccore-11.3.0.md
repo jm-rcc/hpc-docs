@@ -36,7 +36,3 @@ GCCcore-11.3.0
 (none)  
   
   
-## Other available modules  
-These other versions of cpio are available on Bunya.  
-[cpio/2.14-gcccore-11.3.0](../modules/cpio-2.14-gcccore-11.3.0.md)  
-  

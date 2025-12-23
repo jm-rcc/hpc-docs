@@ -46,8 +46,6 @@ The following modules will load imkl-FFTW as dependency.
 These other versions of imkl-FFTW are available on Bunya.  
 [imkl-fftw/2025.1.0-iimpi-2025a](../modules/imkl-fftw-2025.1.0-iimpi-2025a.md)  
   
-[imkl-fftw/2024.2.0-iimpi-2024a](../modules/imkl-fftw-2024.2.0-iimpi-2024a.md)  
-  
 [imkl-fftw/2023.1.0-iimpi-2023a](../modules/imkl-fftw-2023.1.0-iimpi-2023a.md)  
   
 [imkl-fftw/2022.1.0-iimpi-2022a](../modules/imkl-fftw-2022.1.0-iimpi-2022a.md)  

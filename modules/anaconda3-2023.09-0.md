@@ -43,5 +43,3 @@ system-system
 These other versions of Anaconda3 are available on Bunya.  
 [anaconda3/2022.05](../modules/anaconda3-2022.05.md)  
   
-[anaconda3/2023.09-0](../modules/anaconda3-2023.09-0.md)  
-  

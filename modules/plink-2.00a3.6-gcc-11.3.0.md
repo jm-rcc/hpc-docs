@@ -40,7 +40,3 @@ PLINK depends on the following modules, and they will be loaded automatically wi
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of PLINK are available on Bunya.  
-[plink/2.00a3.6-gcc-11.3.0](../modules/plink-2.00a3.6-gcc-11.3.0.md)  
-  

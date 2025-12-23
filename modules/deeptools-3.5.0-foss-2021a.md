@@ -46,5 +46,3 @@ deepTools depends on the following modules, and they will be loaded automaticall
 These other versions of deepTools are available on Bunya.  
 [deeptools/3.5.2-foss-2022a](../modules/deeptools-3.5.2-foss-2022a.md)  
   
-[deeptools/3.5.0-foss-2021a](../modules/deeptools-3.5.0-foss-2021a.md)  
-  

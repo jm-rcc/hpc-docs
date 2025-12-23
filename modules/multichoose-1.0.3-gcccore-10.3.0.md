@@ -38,7 +38,3 @@ The following modules will load multichoose as dependency.
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-## Other available modules  
-These other versions of multichoose are available on Bunya.  
-[multichoose/1.0.3-gcccore-10.3.0](../modules/multichoose-1.0.3-gcccore-10.3.0.md)  
-  

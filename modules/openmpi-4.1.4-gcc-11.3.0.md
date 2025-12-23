@@ -57,7 +57,5 @@ These other versions of OpenMPI are available on Bunya.
   
 [openmpi/4.1.5-gcc-12.3.0](../modules/openmpi-4.1.5-gcc-12.3.0.md)  
   
-[openmpi/4.1.4-gcc-11.3.0](../modules/openmpi-4.1.4-gcc-11.3.0.md)  
-  
 [openmpi/4.1.1-gcc-10.3.0](../modules/openmpi-4.1.1-gcc-10.3.0.md)  
   

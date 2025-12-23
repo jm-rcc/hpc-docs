@@ -46,7 +46,5 @@ The following modules will load Perl-bundle-CPAN as dependency.
   
 ## Other available modules  
 These other versions of Perl-bundle-CPAN are available on Bunya.  
-[perl-bundle-cpan/5.38.2-gcccore-13.3.0](../modules/perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
-  
 [perl-bundle-cpan/5.36.1-gcccore-12.3.0](../modules/perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
   

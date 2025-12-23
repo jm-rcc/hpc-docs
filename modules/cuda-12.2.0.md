@@ -42,8 +42,6 @@ The following modules will load CUDA as dependency.
 These other versions of CUDA are available on Bunya.  
 [cuda/12.6.0](../modules/cuda-12.6.0.md)  
   
-[cuda/12.2.0](../modules/cuda-12.2.0.md)  
-  
 [cuda/12.1.1](../modules/cuda-12.1.1.md)  
   
 [cuda/11.8.0](../modules/cuda-11.8.0.md)  

@@ -40,7 +40,3 @@ The following modules will load LZO as dependency.
   
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of LZO are available on Bunya.  
-[lzo/2.10-gcccore-11.3.0](../modules/lzo-2.10-gcccore-11.3.0.md)  
-  

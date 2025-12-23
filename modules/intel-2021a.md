@@ -52,5 +52,3 @@ These other versions of intel are available on Bunya.
   
 [intel/2022a](../modules/intel-2022a.md)  
   
-[intel/2021a](../modules/intel-2021a.md)  
-  

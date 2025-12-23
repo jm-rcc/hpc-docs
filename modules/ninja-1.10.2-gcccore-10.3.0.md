@@ -50,5 +50,3 @@ These other versions of Ninja are available on Bunya.
   
 [ninja/1.10.2-gcccore-11.3.0](../modules/ninja-1.10.2-gcccore-11.3.0.md)  
   
-[ninja/1.10.2-gcccore-10.3.0](../modules/ninja-1.10.2-gcccore-10.3.0.md)  
-  

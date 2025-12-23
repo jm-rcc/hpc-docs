@@ -38,7 +38,3 @@ pic: True
 (none)  
   
   
-## Other available modules  
-These other versions of LAPACK are available on Bunya.  
-[lapack/3.10.1-gcc-11.3.0](../modules/lapack-3.10.1-gcc-11.3.0.md)  
-  

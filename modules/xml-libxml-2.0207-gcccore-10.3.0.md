@@ -47,5 +47,3 @@ The following modules will load XML-LibXML as dependency.
 These other versions of XML-LibXML are available on Bunya.  
 [xml-libxml/2.0207-gcccore-11.3.0](../modules/xml-libxml-2.0207-gcccore-11.3.0.md)  
   
-[xml-libxml/2.0207-gcccore-10.3.0](../modules/xml-libxml-2.0207-gcccore-10.3.0.md)  
-  

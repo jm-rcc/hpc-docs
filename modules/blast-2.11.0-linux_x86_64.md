@@ -37,7 +37,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of BLAST are available on Bunya.  
-[blast/2.11.0-linux_x86_64](../modules/blast-2.11.0-linux_x86_64.md)  
-  

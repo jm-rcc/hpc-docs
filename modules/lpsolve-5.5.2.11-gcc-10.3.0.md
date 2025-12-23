@@ -42,5 +42,3 @@ The following modules will load lpsolve as dependency.
 These other versions of lpsolve are available on Bunya.  
 [lpsolve/5.5.2.11-gcc-11.3.0](../modules/lpsolve-5.5.2.11-gcc-11.3.0.md)  
   
-[lpsolve/5.5.2.11-gcc-10.3.0](../modules/lpsolve-5.5.2.11-gcc-10.3.0.md)  
-  

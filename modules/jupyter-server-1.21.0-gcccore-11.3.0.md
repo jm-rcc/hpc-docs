@@ -45,7 +45,3 @@ The following modules will load jupyter-server as dependency.
   
 [JupyterLab 3.5.0  (GCCcore-11.3.0)](jupyterlab-3.5.0-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of jupyter-server are available on Bunya.  
-[jupyter-server/1.21.0-gcccore-11.3.0](../modules/jupyter-server-1.21.0-gcccore-11.3.0.md)  
-  

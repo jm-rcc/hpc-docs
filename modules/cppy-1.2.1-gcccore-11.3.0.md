@@ -43,7 +43,5 @@ cppy depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of cppy are available on Bunya.  
-[cppy/1.2.1-gcccore-11.3.0](../modules/cppy-1.2.1-gcccore-11.3.0.md)  
-  
 [cppy/1.1.0-gcccore-10.3.0](../modules/cppy-1.1.0-gcccore-10.3.0.md)  
   

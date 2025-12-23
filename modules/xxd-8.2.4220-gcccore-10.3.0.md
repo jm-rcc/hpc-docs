@@ -41,5 +41,3 @@ These other versions of xxd are available on Bunya.
   
 [xxd/8.2.4220-gcccore-11.3.0](../modules/xxd-8.2.4220-gcccore-11.3.0.md)  
   
-[xxd/8.2.4220-gcccore-10.3.0](../modules/xxd-8.2.4220-gcccore-10.3.0.md)  
-  

@@ -46,5 +46,3 @@ These other versions of GEOS are available on Bunya.
   
 [geos/3.12.0-gcc-12.3.0](../modules/geos-3.12.0-gcc-12.3.0.md)  
   
-[geos/3.10.3-gcc-11.3.0](../modules/geos-3.10.3-gcc-11.3.0.md)  
-  

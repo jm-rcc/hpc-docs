@@ -41,7 +41,3 @@ tmux depends on the following modules, and they will be loaded automatically wit
 [ncurses 6.5  (system-system)](ncurses-.6.5.md)  
   
   
-## Other available modules  
-These other versions of tmux are available on Bunya.  
-[tmux/3.5a](../modules/tmux-3.5a.md)  
-  

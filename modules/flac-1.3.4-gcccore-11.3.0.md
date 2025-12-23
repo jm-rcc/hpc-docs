@@ -45,7 +45,5 @@ The following modules will load FLAC as dependency.
   
 ## Other available modules  
 These other versions of FLAC are available on Bunya.  
-[flac/1.3.4-gcccore-11.3.0](../modules/flac-1.3.4-gcccore-11.3.0.md)  
-  
 [flac/1.3.3-gcccore-10.3.0](../modules/flac-1.3.3-gcccore-10.3.0.md)  
   

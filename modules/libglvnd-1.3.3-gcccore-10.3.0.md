@@ -50,5 +50,3 @@ These other versions of libglvnd are available on Bunya.
   
 [libglvnd/1.4.0-gcccore-11.3.0](../modules/libglvnd-1.4.0-gcccore-11.3.0.md)  
   
-[libglvnd/1.3.3-gcccore-10.3.0](../modules/libglvnd-1.3.3-gcccore-10.3.0.md)  
-  

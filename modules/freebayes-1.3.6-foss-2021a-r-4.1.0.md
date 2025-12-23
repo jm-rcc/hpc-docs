@@ -42,7 +42,3 @@ freebayes depends on the following modules, and they will be loaded automaticall
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of freebayes are available on Bunya.  
-[freebayes/1.3.6-foss-2021a-r-4.1.0](../modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
-  

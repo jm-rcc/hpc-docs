@@ -36,7 +36,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of Cereal are available on Bunya.  
-[cereal/1.3.0](../modules/cereal-1.3.0.md)  
-  

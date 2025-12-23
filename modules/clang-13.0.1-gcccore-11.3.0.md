@@ -56,7 +56,5 @@ These other versions of Clang are available on Bunya.
   
 [clang/15.0.5-gcccore-11.3.0](../modules/clang-15.0.5-gcccore-11.3.0.md)  
   
-[clang/13.0.1-gcccore-11.3.0](../modules/clang-13.0.1-gcccore-11.3.0.md)  
-  
 [clang/12.0.1-gcccore-10.3.0](../modules/clang-12.0.1-gcccore-10.3.0.md)  
   

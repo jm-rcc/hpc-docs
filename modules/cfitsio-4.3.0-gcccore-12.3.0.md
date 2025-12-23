@@ -42,7 +42,3 @@ The following modules will load CFITSIO as dependency.
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-## Other available modules  
-These other versions of CFITSIO are available on Bunya.  
-[cfitsio/4.3.0-gcccore-12.3.0](../modules/cfitsio-4.3.0-gcccore-12.3.0.md)  
-  

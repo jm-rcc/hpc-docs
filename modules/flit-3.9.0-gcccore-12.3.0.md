@@ -38,7 +38,3 @@ flit depends on the following modules, and they will be loaded automatically wit
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
   
-## Other available modules  
-These other versions of flit are available on Bunya.  
-[flit/3.9.0-gcccore-12.3.0](../modules/flit-3.9.0-gcccore-12.3.0.md)  
-  

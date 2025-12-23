@@ -45,7 +45,3 @@ The following modules will load FastANI as dependency.
   
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
   
-## Other available modules  
-These other versions of FastANI are available on Bunya.  
-[fastani/1.33-gcc-10.3.0](../modules/fastani-1.33-gcc-10.3.0.md)  
-  

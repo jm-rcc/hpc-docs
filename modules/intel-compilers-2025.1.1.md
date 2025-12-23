@@ -47,5 +47,3 @@ These other versions of intel-compilers are available on Bunya.
   
 [intel-compilers/2021.2.0](../modules/intel-compilers-2021.2.0.md)  
   
-[intel-compilers/2025.1.1](../modules/intel-compilers-2025.1.1.md)  
-  

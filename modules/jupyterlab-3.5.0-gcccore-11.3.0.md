@@ -43,7 +43,3 @@ JupyterLab depends on the following modules, and they will be loaded automatical
 [jupyter-server 1.21.0  (GCCcore-11.3.0)](jupyter-server-1.21.0-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of JupyterLab are available on Bunya.  
-[jupyterlab/3.5.0-gcccore-11.3.0](../modules/jupyterlab-3.5.0-gcccore-11.3.0.md)  
-  

@@ -45,7 +45,5 @@ The following modules will load libvorbis as dependency.
   
 ## Other available modules  
 These other versions of libvorbis are available on Bunya.  
-[libvorbis/1.3.7-gcccore-11.3.0](../modules/libvorbis-1.3.7-gcccore-11.3.0.md)  
-  
 [libvorbis/1.3.7-gcccore-10.3.0](../modules/libvorbis-1.3.7-gcccore-10.3.0.md)  
   

@@ -38,7 +38,3 @@ Bowtie depends on the following modules, and they will be loaded automatically w
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of Bowtie are available on Bunya.  
-[bowtie/1.3.1-gcc-11.3.0](../modules/bowtie-1.3.1-gcc-11.3.0.md)  
-  

@@ -43,7 +43,3 @@ The following modules will load mpi4py as dependency.
 [GROMACS 2023.3  (foss-2023a)](gromacs-2023.3-foss-2023a.md)  
 [GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
   
-## Other available modules  
-These other versions of mpi4py are available on Bunya.  
-[mpi4py/3.1.4-gompi-2023a](../modules/mpi4py-3.1.4-gompi-2023a.md)  
-  

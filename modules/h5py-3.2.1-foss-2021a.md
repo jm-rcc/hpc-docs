@@ -44,7 +44,3 @@ The following modules will load h5py as dependency.
   
 [pycoQC 2.5.2  (foss-2021a)](pycoqc-2.5.2-foss-2021a.md)  
   
-## Other available modules  
-These other versions of h5py are available on Bunya.  
-[h5py/3.2.1-foss-2021a](../modules/h5py-3.2.1-foss-2021a.md)  
-  

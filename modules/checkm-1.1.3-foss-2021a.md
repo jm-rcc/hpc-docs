@@ -48,5 +48,3 @@ CheckM depends on the following modules, and they will be loaded automatically w
 These other versions of CheckM are available on Bunya.  
 [checkm/1.2.2-foss-2022a](../modules/checkm-1.2.2-foss-2022a.md)  
   
-[checkm/1.1.3-foss-2021a](../modules/checkm-1.1.3-foss-2021a.md)  
-  

@@ -50,5 +50,3 @@ BUSCO depends on the following modules, and they will be loaded automatically wi
 These other versions of BUSCO are available on Bunya.  
 [busco/5.4.5-foss-2022a](../modules/busco-5.4.5-foss-2022a.md)  
   
-[busco/5.4.2-foss-2021a](../modules/busco-5.4.2-foss-2021a.md)  
-  

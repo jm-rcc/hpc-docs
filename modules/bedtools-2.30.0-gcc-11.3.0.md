@@ -46,7 +46,5 @@ BEDTools depends on the following modules, and they will be loaded automatically
   
 ## Other available modules  
 These other versions of BEDTools are available on Bunya.  
-[bedtools/2.30.0-gcc-11.3.0](../modules/bedtools-2.30.0-gcc-11.3.0.md)  
-  
 [bedtools/2.30.0-gcc-10.3.0](../modules/bedtools-2.30.0-gcc-10.3.0.md)  
   

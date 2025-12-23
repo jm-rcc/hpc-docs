@@ -41,8 +41,6 @@ The following modules will load FlexiBLAS as dependency.
   
 ## Other available modules  
 These other versions of FlexiBLAS are available on Bunya.  
-[flexiblas/3.4.5-gcc-14.2.0](../modules/flexiblas-3.4.5-gcc-14.2.0.md)  
-  
 [flexiblas/3.4.4-gcc-13.3.0](../modules/flexiblas-3.4.4-gcc-13.3.0.md)  
   
 [flexiblas/3.3.1-gcc-12.3.0](../modules/flexiblas-3.3.1-gcc-12.3.0.md)  

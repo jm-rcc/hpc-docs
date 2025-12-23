@@ -46,7 +46,5 @@ QUAST depends on the following modules, and they will be loaded automatically wi
   
 ## Other available modules  
 These other versions of QUAST are available on Bunya.  
-[quast/5.2.0-foss-2022a](../modules/quast-5.2.0-foss-2022a.md)  
-  
 [quast/5.0.2-foss-2021a](../modules/quast-5.0.2-foss-2021a.md)  
   

@@ -48,8 +48,6 @@ These other versions of UnZip are available on Bunya.
   
 [unzip/6.0-gcccore-13.3.0](../modules/unzip-6.0-gcccore-13.3.0.md)  
   
-[unzip/6.0-gcccore-12.3.0](../modules/unzip-6.0-gcccore-12.3.0.md)  
-  
 [unzip/6.0-gcccore-11.3.0](../modules/unzip-6.0-gcccore-11.3.0.md)  
   
 [unzip/6.0-gcccore-10.3.0](../modules/unzip-6.0-gcccore-10.3.0.md)  

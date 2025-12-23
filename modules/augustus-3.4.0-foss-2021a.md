@@ -53,5 +53,3 @@ The following modules will load AUGUSTUS as dependency.
 These other versions of AUGUSTUS are available on Bunya.  
 [augustus/3.5.0-foss-2022a](../modules/augustus-3.5.0-foss-2022a.md)  
   
-[augustus/3.4.0-foss-2021a](../modules/augustus-3.4.0-foss-2021a.md)  
-  

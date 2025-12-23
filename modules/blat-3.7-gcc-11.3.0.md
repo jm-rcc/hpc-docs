@@ -42,7 +42,3 @@ BLAT depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of BLAT are available on Bunya.  
-[blat/3.7-gcc-11.3.0](../modules/blat-3.7-gcc-11.3.0.md)  
-  

@@ -50,7 +50,5 @@ The following modules will load BioPerl as dependency.
   
 ## Other available modules  
 These other versions of BioPerl are available on Bunya.  
-[bioperl/1.7.8-gcccore-11.3.0](../modules/bioperl-1.7.8-gcccore-11.3.0.md)  
-  
 [bioperl/1.7.8-gcccore-10.3.0](../modules/bioperl-1.7.8-gcccore-10.3.0.md)  
   

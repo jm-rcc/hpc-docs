@@ -51,7 +51,5 @@ These other versions of Brotli are available on Bunya.
   
 [brotli/1.0.9-gcccore-12.3.0](../modules/brotli-1.0.9-gcccore-12.3.0.md)  
   
-[brotli/1.0.9-gcccore-11.3.0](../modules/brotli-1.0.9-gcccore-11.3.0.md)  
-  
 [brotli/1.0.9-gcccore-10.3.0](../modules/brotli-1.0.9-gcccore-10.3.0.md)  
   

@@ -45,8 +45,6 @@ The following modules will load OpenMPI as dependency.
   
 ## Other available modules  
 These other versions of OpenMPI are available on Bunya.  
-[openmpi/5.0.7-gcc-14.2.0](../modules/openmpi-5.0.7-gcc-14.2.0.md)  
-  
 [openmpi/5.0.3-gcc-13.3.0](../modules/openmpi-5.0.3-gcc-13.3.0.md)  
   
 [openmpi/4.1.5-gcc-12.3.0](../modules/openmpi-4.1.5-gcc-12.3.0.md)  

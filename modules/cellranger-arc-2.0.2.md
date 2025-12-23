@@ -41,7 +41,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of CellRanger-ARC are available on Bunya.  
-[cellranger-arc/2.0.2](../modules/cellranger-arc-2.0.2.md)  
-  

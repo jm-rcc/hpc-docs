@@ -44,7 +44,3 @@ The following modules will load Xerces-C++ as dependency.
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-## Other available modules  
-These other versions of Xerces-C++ are available on Bunya.  
-[xerces-c++/3.2.4-gcccore-12.3.0](../modules/xerces-c++-3.2.4-gcccore-12.3.0.md)  
-  

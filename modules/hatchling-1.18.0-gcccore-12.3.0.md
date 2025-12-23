@@ -43,7 +43,3 @@ The following modules will load hatchling as dependency.
   
 [poetry 1.5.1  (GCCcore-12.3.0)](poetry-1.5.1-gcccore-12.3.0.md)  
   
-## Other available modules  
-These other versions of hatchling are available on Bunya.  
-[hatchling/1.18.0-gcccore-12.3.0](../modules/hatchling-1.18.0-gcccore-12.3.0.md)  
-  

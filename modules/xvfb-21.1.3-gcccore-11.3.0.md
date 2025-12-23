@@ -47,7 +47,5 @@ Xvfb depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of Xvfb are available on Bunya.  
-[xvfb/21.1.3-gcccore-11.3.0](../modules/xvfb-21.1.3-gcccore-11.3.0.md)  
-  
 [xvfb/1.20.11-gcccore-10.3.0](../modules/xvfb-1.20.11-gcccore-10.3.0.md)  
   

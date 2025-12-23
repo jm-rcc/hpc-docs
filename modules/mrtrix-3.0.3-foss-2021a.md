@@ -43,7 +43,3 @@ MRtrix depends on the following modules, and they will be loaded automatically w
 [libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of MRtrix are available on Bunya.  
-[mrtrix/3.0.3-foss-2021a](../modules/mrtrix-3.0.3-foss-2021a.md)  
-  

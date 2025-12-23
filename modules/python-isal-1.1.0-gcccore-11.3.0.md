@@ -47,7 +47,5 @@ The following modules will load python-isal as dependency.
   
 ## Other available modules  
 These other versions of python-isal are available on Bunya.  
-[python-isal/1.1.0-gcccore-11.3.0](../modules/python-isal-1.1.0-gcccore-11.3.0.md)  
-  
 [python-isal/0.11.0-gcccore-10.3.0](../modules/python-isal-0.11.0-gcccore-10.3.0.md)  
   

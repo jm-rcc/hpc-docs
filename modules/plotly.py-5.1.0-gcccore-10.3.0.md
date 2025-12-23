@@ -45,5 +45,3 @@ The following modules will load plotly.py as dependency.
 These other versions of plotly.py are available on Bunya.  
 [plotly.py/5.12.0-gcccore-11.3.0](../modules/plotly.py-5.12.0-gcccore-11.3.0.md)  
   
-[plotly.py/5.1.0-gcccore-10.3.0](../modules/plotly.py-5.1.0-gcccore-10.3.0.md)  
-  

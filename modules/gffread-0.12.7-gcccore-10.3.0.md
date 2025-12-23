@@ -37,7 +37,3 @@ pic: True
 (none)  
   
   
-## Other available modules  
-These other versions of gffread are available on Bunya.  
-[gffread/0.12.7-gcccore-10.3.0](../modules/gffread-0.12.7-gcccore-10.3.0.md)  
-  

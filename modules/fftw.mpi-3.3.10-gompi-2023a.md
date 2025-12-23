@@ -49,7 +49,5 @@ These other versions of FFTW.MPI are available on Bunya.
   
 [fftw.mpi/3.3.10-gompi-2024a](../modules/fftw.mpi-3.3.10-gompi-2024a.md)  
   
-[fftw.mpi/3.3.10-gompi-2023a](../modules/fftw.mpi-3.3.10-gompi-2023a.md)  
-  
 [fftw.mpi/3.3.10-gompi-2022a](../modules/fftw.mpi-3.3.10-gompi-2022a.md)  
   

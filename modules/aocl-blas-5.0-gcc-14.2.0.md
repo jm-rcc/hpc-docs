@@ -30,7 +30,3 @@ GCC-14.2.0
 (none)  
   
   
-## Other available modules  
-These other versions of AOCL-BLAS are available on Bunya.  
-[aocl-blas/5.0-gcc-14.2.0](../modules/aocl-blas-5.0-gcc-14.2.0.md)  
-  

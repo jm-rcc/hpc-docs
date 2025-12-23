@@ -42,7 +42,3 @@ HTSeq depends on the following modules, and they will be loaded automatically wi
 [matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
   
   
-## Other available modules  
-These other versions of HTSeq are available on Bunya.  
-[htseq/2.0.2-foss-2022a](../modules/htseq-2.0.2-foss-2022a.md)  
-  

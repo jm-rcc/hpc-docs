@@ -39,5 +39,3 @@ MrBayes depends on the following modules, and they will be loaded automatically 
 These other versions of MrBayes are available on Bunya.  
 [mrbayes/3.2.7-gompi-2022a](../modules/mrbayes-3.2.7-gompi-2022a.md)  
   
-[mrbayes/3.2.7a-foss-2022a](../modules/mrbayes-3.2.7a-foss-2022a.md)  
-  

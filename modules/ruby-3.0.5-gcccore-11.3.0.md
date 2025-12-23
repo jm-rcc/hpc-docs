@@ -44,7 +44,5 @@ Ruby depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of Ruby are available on Bunya.  
-[ruby/3.0.5-gcccore-11.3.0](../modules/ruby-3.0.5-gcccore-11.3.0.md)  
-  
 [ruby/3.0.1-gcccore-10.3.0](../modules/ruby-3.0.1-gcccore-10.3.0.md)  
   

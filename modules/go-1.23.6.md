@@ -39,8 +39,6 @@ system-system
   
 ## Other available modules  
 These other versions of Go are available on Bunya.  
-[go/1.23.6](../modules/go-1.23.6.md)  
-  
 [go/1.20.4](../modules/go-1.20.4.md)  
   
 [go/1.18.3](../modules/go-1.18.3.md)  

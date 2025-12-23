@@ -38,7 +38,3 @@ hifiasm depends on the following modules, and they will be loaded automatically 
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of hifiasm are available on Bunya.  
-[hifiasm/0.16.1-gcccore-10.3.0](../modules/hifiasm-0.16.1-gcccore-10.3.0.md)  
-  

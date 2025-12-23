@@ -43,5 +43,3 @@ The following modules will load libxsmm as dependency.
 These other versions of libxsmm are available on Bunya.  
 [libxsmm/1.17-gcc-11.3.0](../modules/libxsmm-1.17-gcc-11.3.0.md)  
   
-[libxsmm/1.16.2-gcc-10.3.0](../modules/libxsmm-1.16.2-gcc-10.3.0.md)  
-  

@@ -48,5 +48,3 @@ The following modules will load pyBigWig as dependency.
 These other versions of pyBigWig are available on Bunya.  
 [pybigwig/0.3.18-foss-2022a](../modules/pybigwig-0.3.18-foss-2022a.md)  
   
-[pybigwig/0.3.18-foss-2021a](../modules/pybigwig-0.3.18-foss-2021a.md)  
-  

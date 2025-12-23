@@ -33,7 +33,3 @@ hipSYCL depends on the following modules, and they will be loaded automatically 
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of hipSYCL are available on Bunya.  
-[hipsycl/0.9.1-gcc-10.3.0](../modules/hipsycl-0.9.1-gcc-10.3.0.md)  
-  

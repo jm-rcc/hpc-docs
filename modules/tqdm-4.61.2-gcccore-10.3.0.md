@@ -41,7 +41,3 @@ The following modules will load tqdm as dependency.
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
 [pycoQC 2.5.2  (foss-2021a)](pycoqc-2.5.2-foss-2021a.md)  
   
-## Other available modules  
-These other versions of tqdm are available on Bunya.  
-[tqdm/4.61.2-gcccore-10.3.0](../modules/tqdm-4.61.2-gcccore-10.3.0.md)  
-  

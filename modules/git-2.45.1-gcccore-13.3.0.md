@@ -42,8 +42,6 @@ git depends on the following modules, and they will be loaded automatically with
   
 ## Other available modules  
 These other versions of git are available on Bunya.  
-[git/2.45.1-gcccore-13.3.0](../modules/git-2.45.1-gcccore-13.3.0.md)  
-  
 [git/2.41.0-gcccore-12.3.0-nodocs](../modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
   
 [git/2.36.0-gcccore-11.3.0-nodocs](../modules/git-2.36.0-gcccore-11.3.0-nodocs.md)  

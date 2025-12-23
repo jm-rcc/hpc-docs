@@ -43,8 +43,6 @@ Perl depends on the following modules, and they will be loaded automatically wit
   
 ## Other available modules  
 These other versions of Perl are available on Bunya.  
-[perl/5.34.1-gcccore-11.3.0-minimal](../modules/perl-5.34.1-gcccore-11.3.0-minimal.md)  
-  
 [perl/5.32.1-gcccore-10.3.0-minimal](../modules/perl-5.32.1-gcccore-10.3.0-minimal.md)  
   
 [perl/5.34.1-gcccore-11.3.0](../modules/perl-5.34.1-gcccore-11.3.0.md)  

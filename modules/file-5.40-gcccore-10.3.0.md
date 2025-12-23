@@ -45,5 +45,3 @@ The following modules will load file as dependency.
 These other versions of file are available on Bunya.  
 [file/5.43-gcccore-11.3.0](../modules/file-5.43-gcccore-11.3.0.md)  
   
-[file/5.40-gcccore-10.3.0](../modules/file-5.40-gcccore-10.3.0.md)  
-  

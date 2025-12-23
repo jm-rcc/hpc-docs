@@ -55,5 +55,3 @@ These other versions of GCC are available on Bunya.
   
 [gcc/11.3.0](../modules/gcc-11.3.0.md)  
   
-[gcc/10.3.0](../modules/gcc-10.3.0.md)  
-  

@@ -46,5 +46,3 @@ These other versions of LAME are available on Bunya.
   
 [lame/3.100-gcccore-11.3.0](../modules/lame-3.100-gcccore-11.3.0.md)  
   
-[lame/3.100-gcccore-10.3.0](../modules/lame-3.100-gcccore-10.3.0.md)  
-  

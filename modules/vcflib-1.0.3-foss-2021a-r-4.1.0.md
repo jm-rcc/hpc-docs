@@ -55,7 +55,3 @@ The following modules will load vcflib as dependency.
   
 [freebayes 1.3.6 -R-4.1.0 (foss-2021a)](freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
   
-## Other available modules  
-These other versions of vcflib are available on Bunya.  
-[vcflib/1.0.3-foss-2021a-r-4.1.0](../modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-  

@@ -50,5 +50,3 @@ These other versions of Tkinter are available on Bunya.
   
 [tkinter/3.11.3-gcccore-12.3.0](../modules/tkinter-3.11.3-gcccore-12.3.0.md)  
   
-[tkinter/3.10.4-gcccore-11.3.0](../modules/tkinter-3.10.4-gcccore-11.3.0.md)  
-  

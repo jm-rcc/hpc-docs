@@ -42,5 +42,3 @@ makeinfo depends on the following modules, and they will be loaded automatically
 These other versions of makeinfo are available on Bunya.  
 [makeinfo/6.7-gcccore-10.3.0-minimal](../modules/makeinfo-6.7-gcccore-10.3.0-minimal.md)  
   
-[makeinfo/6.8-gcccore-11.3.0](../modules/makeinfo-6.8-gcccore-11.3.0.md)  
-  

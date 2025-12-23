@@ -50,7 +50,5 @@ The following modules will load Lua as dependency.
   
 ## Other available modules  
 These other versions of Lua are available on Bunya.  
-[lua/5.4.4-gcccore-11.3.0](../modules/lua-5.4.4-gcccore-11.3.0.md)  
-  
 [lua/5.4.3-gcccore-10.3.0](../modules/lua-5.4.3-gcccore-10.3.0.md)  
   

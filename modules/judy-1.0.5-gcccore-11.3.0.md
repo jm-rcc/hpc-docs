@@ -40,7 +40,3 @@ The following modules will load Judy as dependency.
   
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of Judy are available on Bunya.  
-[judy/1.0.5-gcccore-11.3.0](../modules/judy-1.0.5-gcccore-11.3.0.md)  
-  

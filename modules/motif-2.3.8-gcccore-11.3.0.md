@@ -48,7 +48,3 @@ The following modules will load motif as dependency.
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of motif are available on Bunya.  
-[motif/2.3.8-gcccore-11.3.0](../modules/motif-2.3.8-gcccore-11.3.0.md)  
-  

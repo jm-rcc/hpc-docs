@@ -49,7 +49,3 @@ The following modules will load Guile as dependency.
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of Guile are available on Bunya.  
-[guile/3.0.8-gcccore-11.3.0](../modules/guile-3.0.8-gcccore-11.3.0.md)  
-  

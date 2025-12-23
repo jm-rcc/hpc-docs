@@ -38,7 +38,3 @@ GCC-10.3.0
 (none)  
   
   
-## Other available modules  
-These other versions of MAFFT are available on Bunya.  
-[mafft/7.490-gcc-10.3.0-with-extensions](../modules/mafft-7.490-gcc-10.3.0-with-extensions.md)  
-  

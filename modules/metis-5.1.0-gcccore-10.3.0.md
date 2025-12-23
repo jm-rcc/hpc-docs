@@ -48,5 +48,3 @@ The following modules will load METIS as dependency.
 These other versions of METIS are available on Bunya.  
 [metis/5.1.0-gcccore-11.3.0](../modules/metis-5.1.0-gcccore-11.3.0.md)  
   
-[metis/5.1.0-gcccore-10.3.0](../modules/metis-5.1.0-gcccore-10.3.0.md)  
-  

@@ -49,7 +49,5 @@ The following modules will load pigz as dependency.
   
 ## Other available modules  
 These other versions of pigz are available on Bunya.  
-[pigz/2.7-gcccore-11.3.0](../modules/pigz-2.7-gcccore-11.3.0.md)  
-  
 [pigz/2.6-gcccore-10.3.0](../modules/pigz-2.6-gcccore-10.3.0.md)  
   

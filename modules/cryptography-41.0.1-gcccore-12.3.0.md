@@ -44,7 +44,3 @@ The following modules will load cryptography as dependency.
 [Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
 [poetry 1.5.1  (GCCcore-12.3.0)](poetry-1.5.1-gcccore-12.3.0.md)  
   
-## Other available modules  
-These other versions of cryptography are available on Bunya.  
-[cryptography/41.0.1-gcccore-12.3.0](../modules/cryptography-41.0.1-gcccore-12.3.0.md)  
-  

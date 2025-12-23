@@ -48,7 +48,3 @@ The following modules will load SeqLib as dependency.
   
 [freebayes 1.3.6 -R-4.1.0 (foss-2021a)](freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
   
-## Other available modules  
-These other versions of SeqLib are available on Bunya.  
-[seqlib/1.2.0-gcc-10.3.0](../modules/seqlib-1.2.0-gcc-10.3.0.md)  
-  

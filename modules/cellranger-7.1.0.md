@@ -38,7 +38,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of CellRanger are available on Bunya.  
-[cellranger/7.1.0](../modules/cellranger-7.1.0.md)  
-  

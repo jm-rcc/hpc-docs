@@ -64,7 +64,5 @@ LAMMPS depends on the following modules, and they will be loaded automatically w
 These other versions of LAMMPS are available on Bunya.  
 [lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1](../modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
   
-[lammps/2aug2023_update2-foss-2023a-kokkos](../modules/lammps-2aug2023_update2-foss-2023a-kokkos.md)  
-  
 [lammps/23jun2022-foss-2021a-kokkos](../modules/lammps-23jun2022-foss-2021a-kokkos.md)  
   

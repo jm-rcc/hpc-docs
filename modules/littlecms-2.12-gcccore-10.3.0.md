@@ -45,5 +45,3 @@ The following modules will load LittleCMS as dependency.
 These other versions of LittleCMS are available on Bunya.  
 [littlecms/2.13.1-gcccore-11.3.0](../modules/littlecms-2.13.1-gcccore-11.3.0.md)  
   
-[littlecms/2.12-gcccore-10.3.0](../modules/littlecms-2.12-gcccore-10.3.0.md)  
-  

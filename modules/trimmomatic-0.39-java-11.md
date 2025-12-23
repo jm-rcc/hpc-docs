@@ -40,7 +40,3 @@ Trimmomatic depends on the following modules, and they will be loaded automatica
 [Java 11  (system-system)](java-11.md)  
   
   
-## Other available modules  
-These other versions of Trimmomatic are available on Bunya.  
-[trimmomatic/0.39-java-11](../modules/trimmomatic-0.39-java-11.md)  
-  

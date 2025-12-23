@@ -43,7 +43,3 @@ The following modules will load libopus as dependency.
   
 [libsndfile 1.1.0  (GCCcore-11.3.0)](libsndfile-1.1.0-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of libopus are available on Bunya.  
-[libopus/1.3.1-gcccore-11.3.0](../modules/libopus-1.3.1-gcccore-11.3.0.md)  
-  

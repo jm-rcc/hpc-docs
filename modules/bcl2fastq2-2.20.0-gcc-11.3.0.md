@@ -47,7 +47,3 @@ The following modules will load bcl2fastq2 as dependency.
 [SpaceRanger 2.0.1  (GCC-11.3.0)](spaceranger-2.0.1-gcc-11.3.0.md)  
 [SpaceRanger 2.1.0  (GCC-11.3.0)](spaceranger-2.1.0-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of bcl2fastq2 are available on Bunya.  
-[bcl2fastq2/2.20.0-gcc-11.3.0](../modules/bcl2fastq2-2.20.0-gcc-11.3.0.md)  
-  

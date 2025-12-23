@@ -48,8 +48,6 @@ The following modules will load intel-compilers as dependency.
 These other versions of intel-compilers are available on Bunya.  
 [intel-compilers/2024.2.0](../modules/intel-compilers-2024.2.0.md)  
   
-[intel-compilers/2023.1.0](../modules/intel-compilers-2023.1.0.md)  
-  
 [intel-compilers/2022.1.0](../modules/intel-compilers-2022.1.0.md)  
   
 [intel-compilers/2021.2.0](../modules/intel-compilers-2021.2.0.md)  

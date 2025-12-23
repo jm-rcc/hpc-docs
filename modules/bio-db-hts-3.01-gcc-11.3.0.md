@@ -44,7 +44,3 @@ The following modules will load Bio-DB-HTS as dependency.
   
 [VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of Bio-DB-HTS are available on Bunya.  
-[bio-db-hts/3.01-gcc-11.3.0](../modules/bio-db-hts-3.01-gcc-11.3.0.md)  
-  

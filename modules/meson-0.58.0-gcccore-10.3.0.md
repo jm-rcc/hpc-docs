@@ -49,5 +49,3 @@ These other versions of Meson are available on Bunya.
   
 [meson/0.62.1-gcccore-11.3.0](../modules/meson-0.62.1-gcccore-11.3.0.md)  
   
-[meson/0.58.0-gcccore-10.3.0](../modules/meson-0.58.0-gcccore-10.3.0.md)  
-  

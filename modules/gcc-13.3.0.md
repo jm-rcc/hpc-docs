@@ -49,8 +49,6 @@ The following modules will load GCC as dependency.
 These other versions of GCC are available on Bunya.  
 [gcc/14.2.0](../modules/gcc-14.2.0.md)  
   
-[gcc/13.3.0](../modules/gcc-13.3.0.md)  
-  
 [gcc/12.3.0](../modules/gcc-12.3.0.md)  
   
 [gcc/11.3.0](../modules/gcc-11.3.0.md)  

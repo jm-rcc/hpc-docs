@@ -47,7 +47,3 @@ The following modules will load UCX-CUDA as dependency.
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
 [NCCL 2.18.3 -CUDA-12.1.1 (GCCcore-12.3.0)](nccl-2.18.3-gcccore-12.3.0-cuda-12.1.1.md)  
   
-## Other available modules  
-These other versions of UCX-CUDA are available on Bunya.  
-[ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1](../modules/ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
-  

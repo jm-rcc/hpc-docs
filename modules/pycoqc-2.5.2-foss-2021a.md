@@ -42,7 +42,3 @@ pycoQC depends on the following modules, and they will be loaded automatically w
 [Pysam 0.16.0.1  (GCC-10.3.0)](pysam-0.16.0.1-gcc-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of pycoQC are available on Bunya.  
-[pycoqc/2.5.2-foss-2021a](../modules/pycoqc-2.5.2-foss-2021a.md)  
-  

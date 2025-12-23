@@ -39,5 +39,3 @@ system-system
 These other versions of ffnvcodec are available on Bunya.  
 [ffnvcodec/12.0.16.0](../modules/ffnvcodec-12.0.16.0.md)  
   
-[ffnvcodec/11.1.5.2](../modules/ffnvcodec-11.1.5.2.md)  
-  

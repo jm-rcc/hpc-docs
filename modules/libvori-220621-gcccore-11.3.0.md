@@ -42,7 +42,3 @@ The following modules will load libvori as dependency.
   
 [CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  
   
-## Other available modules  
-These other versions of libvori are available on Bunya.  
-[libvori/220621-gcccore-11.3.0](../modules/libvori-220621-gcccore-11.3.0.md)  
-  

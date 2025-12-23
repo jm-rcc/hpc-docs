@@ -42,7 +42,3 @@ InterProScan depends on the following modules, and they will be loaded automatic
 [PCRE 8.44  (GCCcore-10.3.0)](pcre-.8.44-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of InterProScan are available on Bunya.  
-[interproscan/5.55-88.0-foss-2021a](../modules/interproscan-5.55-88.0-foss-2021a.md)  
-  

@@ -38,7 +38,3 @@ The following modules will load fastahack as dependency.
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-## Other available modules  
-These other versions of fastahack are available on Bunya.  
-[fastahack/1.0.0-gcccore-10.3.0](../modules/fastahack-1.0.0-gcccore-10.3.0.md)  
-  

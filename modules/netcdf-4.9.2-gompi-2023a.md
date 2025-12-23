@@ -55,8 +55,6 @@ The following modules will load netCDF as dependency.
   
 ## Other available modules  
 These other versions of netCDF are available on Bunya.  
-[netcdf/4.9.2-gompi-2023a](../modules/netcdf-4.9.2-gompi-2023a.md)  
-  
 [netcdf/4.9.0-gompi-2022a](../modules/netcdf-4.9.0-gompi-2022a.md)  
   
 [netcdf/4.8.0-gompi-2021a](../modules/netcdf-4.8.0-gompi-2021a.md)  

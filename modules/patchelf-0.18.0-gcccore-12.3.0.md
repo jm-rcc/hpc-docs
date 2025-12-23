@@ -36,7 +36,3 @@ GCCcore-12.3.0
 (none)  
   
   
-## Other available modules  
-These other versions of patchelf are available on Bunya.  
-[patchelf/0.18.0-gcccore-12.3.0](../modules/patchelf-0.18.0-gcccore-12.3.0.md)  
-  

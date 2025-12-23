@@ -46,5 +46,3 @@ The following modules will load prodigal as dependency.
 These other versions of prodigal are available on Bunya.  
 [prodigal/2.6.3-gcccore-11.3.0](../modules/prodigal-2.6.3-gcccore-11.3.0.md)  
   
-[prodigal/2.6.3-gcccore-10.3.0](../modules/prodigal-2.6.3-gcccore-10.3.0.md)  
-  

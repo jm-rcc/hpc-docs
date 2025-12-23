@@ -51,5 +51,3 @@ The following modules will load libxslt as dependency.
 These other versions of libxslt are available on Bunya.  
 [libxslt/1.1.38-gcccore-12.3.0](../modules/libxslt-1.1.38-gcccore-12.3.0.md)  
   
-[libxslt/1.1.34-gcccore-11.3.0](../modules/libxslt-1.1.34-gcccore-11.3.0.md)  
-  

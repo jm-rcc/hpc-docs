@@ -50,8 +50,6 @@ These other versions of Python are available on Bunya.
   
 [python/3.9.5-gcccore-10.3.0](../modules/python-3.9.5-gcccore-10.3.0.md)  
   
-[python/3.13.1-gcccore-14.2.0](../modules/python-3.13.1-gcccore-14.2.0.md)  
-  
 [python/3.12.3-gcccore-13.3.0](../modules/python-3.12.3-gcccore-13.3.0.md)  
   
 [python/3.11.3-gcccore-12.3.0](../modules/python-3.11.3-gcccore-12.3.0.md)  

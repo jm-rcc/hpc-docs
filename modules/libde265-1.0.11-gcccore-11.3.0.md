@@ -36,5 +36,3 @@ These other versions of libde265 are available on Bunya.
   
 [libde265/1.0.15-gcccore-12.3.0](../modules/libde265-1.0.15-gcccore-12.3.0.md)  
   
-[libde265/1.0.11-gcccore-11.3.0](../modules/libde265-1.0.11-gcccore-11.3.0.md)  
-  

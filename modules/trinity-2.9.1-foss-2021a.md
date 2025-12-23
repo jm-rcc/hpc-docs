@@ -50,7 +50,3 @@ Trinity depends on the following modules, and they will be loaded automatically 
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of Trinity are available on Bunya.  
-[trinity/2.9.1-foss-2021a](../modules/trinity-2.9.1-foss-2021a.md)  
-  

@@ -40,7 +40,3 @@ The following modules will load fermi-lite as dependency.
   
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
   
-## Other available modules  
-These other versions of fermi-lite are available on Bunya.  
-[fermi-lite/20190320-gcccore-10.3.0](../modules/fermi-lite-20190320-gcccore-10.3.0.md)  
-  

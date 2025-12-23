@@ -42,7 +42,3 @@ The following modules will load BeautifulSoup as dependency.
   
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-8.5.0-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of BeautifulSoup are available on Bunya.  
-[beautifulsoup/4.10.0-gcccore-11.3.0](../modules/beautifulsoup-4.10.0-gcccore-11.3.0.md)  
-  

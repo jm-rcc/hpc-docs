@@ -42,5 +42,3 @@ These other versions of archspec are available on Bunya.
   
 [archspec/0.2.1-gcccore-12.3.0](../modules/archspec-0.2.1-gcccore-12.3.0.md)  
   
-[archspec/0.1.2-gcccore-10.3.0](../modules/archspec-0.1.2-gcccore-10.3.0.md)  
-  

@@ -50,5 +50,3 @@ These other versions of libiconv are available on Bunya.
   
 [libiconv/1.17-gcccore-11.3.0](../modules/libiconv-1.17-gcccore-11.3.0.md)  
   
-[libiconv/1.16-gcccore-10.3.0](../modules/libiconv-1.16-gcccore-10.3.0.md)  
-  

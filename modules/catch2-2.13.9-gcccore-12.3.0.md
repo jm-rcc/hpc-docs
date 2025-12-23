@@ -39,7 +39,3 @@ GCCcore-12.3.0
 (none)  
   
   
-## Other available modules  
-These other versions of Catch2 are available on Bunya.  
-[catch2/2.13.9-gcccore-12.3.0](../modules/catch2-2.13.9-gcccore-12.3.0.md)  
-  

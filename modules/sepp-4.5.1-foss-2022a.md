@@ -46,7 +46,5 @@ The following modules will load SEPP as dependency.
   
 ## Other available modules  
 These other versions of SEPP are available on Bunya.  
-[sepp/4.5.1-foss-2022a](../modules/sepp-4.5.1-foss-2022a.md)  
-  
 [sepp/4.5.0-foss-2021a](../modules/sepp-4.5.0-foss-2021a.md)  
   

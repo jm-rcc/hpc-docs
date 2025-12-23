@@ -48,8 +48,6 @@ These other versions of FFTW are available on Bunya.
   
 [fftw/3.3.10-gcc-14.2.0](../modules/fftw-3.3.10-gcc-14.2.0.md)  
   
-[fftw/3.3.10-gcc-13.3.0](../modules/fftw-3.3.10-gcc-13.3.0.md)  
-  
 [fftw/3.3.10-gcc-12.3.0](../modules/fftw-3.3.10-gcc-12.3.0.md)  
   
 [fftw/3.3.10-gcc-11.3.0](../modules/fftw-3.3.10-gcc-11.3.0.md)  

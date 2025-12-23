@@ -44,7 +44,3 @@ The following modules will load pplacer as dependency.
 [CheckM 1.2.2  (foss-2022a)](checkm-1.2.2-foss-2022a.md)  
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
   
-## Other available modules  
-These other versions of pplacer are available on Bunya.  
-[pplacer/1.1.alpha19](../modules/pplacer-1.1.alpha19.md)  
-  

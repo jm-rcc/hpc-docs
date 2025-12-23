@@ -45,5 +45,3 @@ These other versions of groff are available on Bunya.
   
 [groff/1.22.4-gcccore-11.3.0](../modules/groff-1.22.4-gcccore-11.3.0.md)  
   
-[groff/1.22.4-gcccore-10.3.0](../modules/groff-1.22.4-gcccore-10.3.0.md)  
-  

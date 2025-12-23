@@ -45,7 +45,5 @@ The following modules will load ant as dependency.
   
 ## Other available modules  
 These other versions of ant are available on Bunya.  
-[ant/1.10.9-java-11](../modules/ant-1.10.9-java-11.md)  
-  
 [ant/1.10.12-java-11](../modules/ant-1.10.12-java-11.md)  
   

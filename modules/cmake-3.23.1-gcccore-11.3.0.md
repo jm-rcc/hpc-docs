@@ -56,8 +56,6 @@ These other versions of CMake are available on Bunya.
   
 [cmake/3.24.3-gcccore-11.3.0](../modules/cmake-3.24.3-gcccore-11.3.0.md)  
   
-[cmake/3.23.1-gcccore-11.3.0](../modules/cmake-3.23.1-gcccore-11.3.0.md)  
-  
 [cmake/3.20.1-gcccore-10.3.0](../modules/cmake-3.20.1-gcccore-10.3.0.md)  
   
 [cmake/3.18.4](../modules/cmake-3.18.4.md)  

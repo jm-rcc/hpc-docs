@@ -44,5 +44,3 @@ These other versions of CUDA are available on Bunya.
   
 [cuda/11.8.0](../modules/cuda-11.8.0.md)  
   
-[cuda/11.7.0](../modules/cuda-11.7.0.md)  
-  

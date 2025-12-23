@@ -108,8 +108,6 @@ The following modules will load Python as dependency.
 These other versions of Python are available on Bunya.  
 [python/3.9.5-gcccore-10.3.0-bare](../modules/python-3.9.5-gcccore-10.3.0-bare.md)  
   
-[python/3.9.5-gcccore-10.3.0](../modules/python-3.9.5-gcccore-10.3.0.md)  
-  
 [python/3.13.1-gcccore-14.2.0](../modules/python-3.13.1-gcccore-14.2.0.md)  
   
 [python/3.12.3-gcccore-13.3.0](../modules/python-3.12.3-gcccore-13.3.0.md)  

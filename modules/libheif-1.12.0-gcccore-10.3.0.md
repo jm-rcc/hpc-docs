@@ -42,5 +42,3 @@ These other versions of libheif are available on Bunya.
   
 [libheif/1.16.2-gcccore-11.3.0](../modules/libheif-1.16.2-gcccore-11.3.0.md)  
   
-[libheif/1.12.0-gcccore-10.3.0](../modules/libheif-1.12.0-gcccore-10.3.0.md)  
-  

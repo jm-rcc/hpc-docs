@@ -47,7 +47,5 @@ The following modules will load DendroPy as dependency.
   
 ## Other available modules  
 These other versions of DendroPy are available on Bunya.  
-[dendropy/4.5.2-gcccore-11.3.0](../modules/dendropy-4.5.2-gcccore-11.3.0.md)  
-  
 [dendropy/4.5.2-gcccore-10.3.0](../modules/dendropy-4.5.2-gcccore-10.3.0.md)  
   

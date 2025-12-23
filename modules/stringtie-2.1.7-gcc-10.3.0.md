@@ -38,7 +38,3 @@ StringTie depends on the following modules, and they will be loaded automaticall
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of StringTie are available on Bunya.  
-[stringtie/2.1.7-gcc-10.3.0](../modules/stringtie-2.1.7-gcc-10.3.0.md)  
-  

@@ -52,7 +52,3 @@ Ansys-dependencies depends on the following modules, and they will be loaded aut
 [tbb 2021.5.0  (GCCcore-11.3.0)](tbb-2021.5.0-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of Ansys-dependencies are available on Bunya.  
-[ansys-dependencies/2023-gcc-11.3.0](../modules/ansys-dependencies-2023-gcc-11.3.0.md)  
-  

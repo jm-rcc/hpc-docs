@@ -44,7 +44,3 @@ The following modules will load NGS as dependency.
 [HISAT2 2.2.1  (gompi-2021a)](hisat2-2.2.1-gompi-2021a.md)  
 [ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  
   
-## Other available modules  
-These other versions of NGS are available on Bunya.  
-[ngs/2.10.9-gcccore-10.3.0](../modules/ngs-2.10.9-gcccore-10.3.0.md)  
-  

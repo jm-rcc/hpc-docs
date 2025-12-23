@@ -42,7 +42,3 @@ The following modules will load libnsl as dependency.
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of libnsl are available on Bunya.  
-[libnsl/1.3.0-gcccore-11.3.0](../modules/libnsl-1.3.0-gcccore-11.3.0.md)  
-  

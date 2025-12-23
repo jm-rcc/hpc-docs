@@ -45,5 +45,3 @@ VirtualGL depends on the following modules, and they will be loaded automaticall
 These other versions of VirtualGL are available on Bunya.  
 [virtualgl/3.1-gcc-11.3.0](../modules/virtualgl-3.1-gcc-11.3.0.md)  
   
-[virtualgl/3.1.3-gcc-13.3.0](../modules/virtualgl-3.1.3-gcc-13.3.0.md)  
-  

@@ -44,7 +44,3 @@ The following modules will load lxml as dependency.
   
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-8.5.0-gcccore-11.3.0.md)  
   
-## Other available modules  
-These other versions of lxml are available on Bunya.  
-[lxml/4.9.1-gcccore-11.3.0](../modules/lxml-4.9.1-gcccore-11.3.0.md)  
-  

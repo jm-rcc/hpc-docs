@@ -42,7 +42,5 @@ Boost.Python depends on the following modules, and they will be loaded automatic
   
 ## Other available modules  
 These other versions of Boost.Python are available on Bunya.  
-[boost.python/1.79.0-gcc-11.3.0](../modules/boost.python-1.79.0-gcc-11.3.0.md)  
-  
 [boost.python/1.76.0-gcc-10.3.0](../modules/boost.python-1.76.0-gcc-10.3.0.md)  
   

@@ -59,5 +59,3 @@ These other versions of zstd are available on Bunya.
   
 [zstd/1.5.2-gcccore-11.3.0](../modules/zstd-1.5.2-gcccore-11.3.0.md)  
   
-[zstd/1.4.9-gcccore-10.3.0](../modules/zstd-1.4.9-gcccore-10.3.0.md)  
-  

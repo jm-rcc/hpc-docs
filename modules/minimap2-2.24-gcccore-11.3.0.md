@@ -46,7 +46,3 @@ minimap2 depends on the following modules, and they will be loaded automatically
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of minimap2 are available on Bunya.  
-[minimap2/2.24-gcccore-11.3.0](../modules/minimap2-2.24-gcccore-11.3.0.md)  
-  

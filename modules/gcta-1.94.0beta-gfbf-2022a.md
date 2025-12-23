@@ -46,7 +46,3 @@ GCTA depends on the following modules, and they will be loaded automatically wit
 [GSL 2.7  (GCC-11.3.0)](gsl-2.7-gcc-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of GCTA are available on Bunya.  
-[gcta/1.94.0beta-gfbf-2022a](../modules/gcta-1.94.0beta-gfbf-2022a.md)  
-  

@@ -46,5 +46,3 @@ The following modules will load MetaEuk as dependency.
 These other versions of MetaEuk are available on Bunya.  
 [metaeuk/6-gcc-11.3.0](../modules/metaeuk-6-gcc-11.3.0.md)  
   
-[metaeuk/5-gcc-10.3.0](../modules/metaeuk-5-gcc-10.3.0.md)  
-  

@@ -42,7 +42,3 @@ The following modules will load any2fasta as dependency.
   
 [ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  
   
-## Other available modules  
-These other versions of any2fasta are available on Bunya.  
-[any2fasta/0.4.2-gcccore-10.3.0](../modules/any2fasta-0.4.2-gcccore-10.3.0.md)  
-  

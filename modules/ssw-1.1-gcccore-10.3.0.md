@@ -48,7 +48,3 @@ The following modules will load SSW as dependency.
   
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
   
-## Other available modules  
-These other versions of SSW are available on Bunya.  
-[ssw/1.1-gcccore-10.3.0](../modules/ssw-1.1-gcccore-10.3.0.md)  
-  

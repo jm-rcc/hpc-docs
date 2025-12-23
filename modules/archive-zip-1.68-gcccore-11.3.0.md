@@ -44,7 +44,3 @@ The following modules will load Archive-Zip as dependency.
   
 [VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of Archive-Zip are available on Bunya.  
-[archive-zip/1.68-gcccore-11.3.0](../modules/archive-zip-1.68-gcccore-11.3.0.md)  
-  

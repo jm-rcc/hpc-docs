@@ -45,7 +45,3 @@ The following modules will load Python-bundle-PyPI as dependency.
 [SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
 [hypothesis 6.82.0  (GCCcore-12.3.0)](hypothesis-6.82.0-gcccore-12.3.0.md)  
   
-## Other available modules  
-These other versions of Python-bundle-PyPI are available on Bunya.  
-[python-bundle-pypi/2023.06-gcccore-12.3.0](../modules/python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
-  

@@ -37,7 +37,3 @@ GMAP-GSNAP depends on the following modules, and they will be loaded automatical
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of GMAP-GSNAP are available on Bunya.  
-[gmap-gsnap/2023-02-17-gcc-11.3.0](../modules/gmap-gsnap-2023-02-17-gcc-11.3.0.md)  
-  

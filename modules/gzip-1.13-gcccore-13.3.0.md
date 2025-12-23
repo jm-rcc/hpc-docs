@@ -39,8 +39,6 @@ The following modules will load gzip as dependency.
   
 ## Other available modules  
 These other versions of gzip are available on Bunya.  
-[gzip/1.13-gcccore-13.3.0](../modules/gzip-1.13-gcccore-13.3.0.md)  
-  
 [gzip/1.12-gcccore-12.3.0](../modules/gzip-1.12-gcccore-12.3.0.md)  
   
 [gzip/1.12-gcccore-11.3.0](../modules/gzip-1.12-gcccore-11.3.0.md)  

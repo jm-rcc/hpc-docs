@@ -45,5 +45,3 @@ These other versions of Go are available on Bunya.
   
 [go/1.18.3](../modules/go-1.18.3.md)  
   
-[go/1.18.1](../modules/go-1.18.1.md)  
-  

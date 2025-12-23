@@ -56,7 +56,3 @@ The following modules will load GnuTLS as dependency.
 [glib-networking 2.72.1  (GCCcore-11.3.0)](glib-networking-2.72.1-gcccore-11.3.0.md)  
 [ngtcp2 0.7.0  (GCC-11.3.0)](ngtcp2-0.7.0-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of GnuTLS are available on Bunya.  
-[gnutls/3.7.8-gcccore-11.3.0](../modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-  

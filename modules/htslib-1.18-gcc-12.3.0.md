@@ -48,8 +48,6 @@ The following modules will load HTSlib as dependency.
   
 ## Other available modules  
 These other versions of HTSlib are available on Bunya.  
-[htslib/1.18-gcc-12.3.0](../modules/htslib-1.18-gcc-12.3.0.md)  
-  
 [htslib/1.15.1-gcc-11.3.0](../modules/htslib-1.15.1-gcc-11.3.0.md)  
   
 [htslib/1.12-gcc-10.3.0](../modules/htslib-1.12-gcc-10.3.0.md)  

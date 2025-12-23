@@ -37,7 +37,3 @@ pkgconfig depends on the following modules, and they will be loaded automaticall
 [pkg-config 0.29.2  (GCCcore-10.3.0)](pkg-config-.0.29.2-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of pkgconfig are available on Bunya.  
-[pkgconfig/1.5.4-gcccore-10.3.0-python](../modules/pkgconfig-1.5.4-gcccore-10.3.0-python.md)  
-  

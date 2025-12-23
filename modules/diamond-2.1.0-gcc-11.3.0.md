@@ -40,7 +40,5 @@ DIAMOND depends on the following modules, and they will be loaded automatically 
   
 ## Other available modules  
 These other versions of DIAMOND are available on Bunya.  
-[diamond/2.1.0-gcc-11.3.0](../modules/diamond-2.1.0-gcc-11.3.0.md)  
-  
 [diamond/2.0.13-gcc-10.3.0](../modules/diamond-2.0.13-gcc-10.3.0.md)  
   

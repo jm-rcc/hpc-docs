@@ -56,7 +56,5 @@ The following modules will load matplotlib as dependency.
   
 ## Other available modules  
 These other versions of matplotlib are available on Bunya.  
-[matplotlib/3.5.2-foss-2022a](../modules/matplotlib-3.5.2-foss-2022a.md)  
-  
 [matplotlib/3.4.2-foss-2021a](../modules/matplotlib-3.4.2-foss-2021a.md)  
   

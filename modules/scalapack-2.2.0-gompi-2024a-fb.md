@@ -50,8 +50,6 @@ The following modules will load ScaLAPACK as dependency.
 These other versions of ScaLAPACK are available on Bunya.  
 [scalapack/2.2.2-gompi-2025a-fb](../modules/scalapack-2.2.2-gompi-2025a-fb.md)  
   
-[scalapack/2.2.0-gompi-2024a-fb](../modules/scalapack-2.2.0-gompi-2024a-fb.md)  
-  
 [scalapack/2.2.0-gompi-2023a-fb](../modules/scalapack-2.2.0-gompi-2023a-fb.md)  
   
 [scalapack/2.2.0-gompi-2022a-fb](../modules/scalapack-2.2.0-gompi-2022a-fb.md)  

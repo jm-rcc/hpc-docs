@@ -37,7 +37,3 @@ rjags depends on the following modules, and they will be loaded automatically wi
 [JAGS 4.3.0  (foss-2021a)](jags-4.3.0-foss-2021a.md)  
   
   
-## Other available modules  
-These other versions of rjags are available on Bunya.  
-[rjags/4-10-foss-2021a-r-4.1.0](../modules/rjags-4-10-foss-2021a-r-4.1.0.md)  
-  

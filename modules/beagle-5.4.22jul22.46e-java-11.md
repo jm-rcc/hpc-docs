@@ -39,7 +39,3 @@ Beagle depends on the following modules, and they will be loaded automatically w
 [Java 11  (system-system)](java-11.md)  
   
   
-## Other available modules  
-These other versions of Beagle are available on Bunya.  
-[beagle/5.4.22jul22.46e-java-11](../modules/beagle-5.4.22jul22.46e-java-11.md)  
-  

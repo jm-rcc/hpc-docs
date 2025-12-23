@@ -51,7 +51,3 @@ The following modules will load SRA-Toolkit as dependency.
   
 [HISAT2 2.2.1  (gompi-2022a)](hisat2-2.2.1-gompi-2022a.md)  
   
-## Other available modules  
-These other versions of SRA-Toolkit are available on Bunya.  
-[sra-toolkit/3.0.3-gompi-2022a](../modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-  

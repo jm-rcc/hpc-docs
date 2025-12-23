@@ -45,7 +45,3 @@ The following modules will load DBD-mysql as dependency.
   
 [VEP 107  (GCC-11.3.0)](vep-107-gcc-11.3.0.md)  
   
-## Other available modules  
-These other versions of DBD-mysql are available on Bunya.  
-[dbd-mysql/4.050-gcc-11.3.0](../modules/dbd-mysql-4.050-gcc-11.3.0.md)  
-  

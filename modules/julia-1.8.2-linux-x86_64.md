@@ -36,7 +36,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of Julia are available on Bunya.  
-[julia/1.8.2-linux-x86_64](../modules/julia-1.8.2-linux-x86_64.md)  
-  

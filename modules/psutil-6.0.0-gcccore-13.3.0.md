@@ -29,7 +29,3 @@ psutil depends on the following modules, and they will be loaded automatically w
 [Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
   
   
-## Other available modules  
-These other versions of psutil are available on Bunya.  
-[psutil/6.0.0-gcccore-13.3.0](../modules/psutil-6.0.0-gcccore-13.3.0.md)  
-  

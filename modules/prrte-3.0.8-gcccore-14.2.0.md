@@ -39,7 +39,5 @@ The following modules will load PRRTE as dependency.
   
 ## Other available modules  
 These other versions of PRRTE are available on Bunya.  
-[prrte/3.0.8-gcccore-14.2.0](../modules/prrte-3.0.8-gcccore-14.2.0.md)  
-  
 [prrte/3.0.5-gcccore-13.3.0](../modules/prrte-3.0.5-gcccore-13.3.0.md)  
   

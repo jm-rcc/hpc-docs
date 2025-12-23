@@ -51,7 +51,3 @@ The following modules will load VTK as dependency.
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
   
-## Other available modules  
-These other versions of VTK are available on Bunya.  
-[vtk/9.3.0-foss-2023a](../modules/vtk-9.3.0-foss-2023a.md)  
-  

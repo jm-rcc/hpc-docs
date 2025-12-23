@@ -44,5 +44,3 @@ HISAT2 depends on the following modules, and they will be loaded automatically w
 These other versions of HISAT2 are available on Bunya.  
 [hisat2/2.2.1-gompi-2022a](../modules/hisat2-2.2.1-gompi-2022a.md)  
   
-[hisat2/2.2.1-gompi-2021a](../modules/hisat2-2.2.1-gompi-2021a.md)  
-  

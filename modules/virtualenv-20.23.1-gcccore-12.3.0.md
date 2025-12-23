@@ -43,7 +43,3 @@ The following modules will load virtualenv as dependency.
 [Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
 [poetry 1.5.1  (GCCcore-12.3.0)](poetry-1.5.1-gcccore-12.3.0.md)  
   
-## Other available modules  
-These other versions of virtualenv are available on Bunya.  
-[virtualenv/20.23.1-gcccore-12.3.0](../modules/virtualenv-20.23.1-gcccore-12.3.0.md)  
-  

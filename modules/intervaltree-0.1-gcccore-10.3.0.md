@@ -41,7 +41,3 @@ The following modules will load intervaltree as dependency.
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-## Other available modules  
-These other versions of intervaltree are available on Bunya.  
-[intervaltree/0.1-gcccore-10.3.0](../modules/intervaltree-0.1-gcccore-10.3.0.md)  
-  

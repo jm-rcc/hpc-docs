@@ -48,7 +48,5 @@ These other versions of OpenBLAS are available on Bunya.
   
 [openblas/0.3.23-gcc-12.3.0](../modules/openblas-0.3.23-gcc-12.3.0.md)  
   
-[openblas/0.3.20-gcc-11.3.0](../modules/openblas-0.3.20-gcc-11.3.0.md)  
-  
 [openblas/0.3.15-gcc-10.3.0](../modules/openblas-0.3.15-gcc-10.3.0.md)  
   

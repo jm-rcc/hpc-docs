@@ -44,5 +44,3 @@ The following modules will load nlohmann_json as dependency.
 These other versions of nlohmann_json are available on Bunya.  
 [nlohmann_json/3.11.2-gcccore-12.3.0](../modules/nlohmann_json-3.11.2-gcccore-12.3.0.md)  
   
-[nlohmann_json/3.10.5-gcccore-11.3.0](../modules/nlohmann_json-3.10.5-gcccore-11.3.0.md)  
-  

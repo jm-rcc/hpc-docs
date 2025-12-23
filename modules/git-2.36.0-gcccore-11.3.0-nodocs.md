@@ -53,7 +53,5 @@ These other versions of git are available on Bunya.
   
 [git/2.41.0-gcccore-12.3.0-nodocs](../modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
   
-[git/2.36.0-gcccore-11.3.0-nodocs](../modules/git-2.36.0-gcccore-11.3.0-nodocs.md)  
-  
 [git/2.32.0-gcccore-10.3.0-nodocs](../modules/git-2.32.0-gcccore-10.3.0-nodocs.md)  
   

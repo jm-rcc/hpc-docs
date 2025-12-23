@@ -54,7 +54,5 @@ These other versions of ScaLAPACK are available on Bunya.
   
 [scalapack/2.2.0-gompi-2023a-fb](../modules/scalapack-2.2.0-gompi-2023a-fb.md)  
   
-[scalapack/2.2.0-gompi-2022a-fb](../modules/scalapack-2.2.0-gompi-2022a-fb.md)  
-  
 [scalapack/2.1.0-gompi-2021a-fb](../modules/scalapack-2.1.0-gompi-2021a-fb.md)  
   

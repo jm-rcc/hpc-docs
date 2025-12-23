@@ -47,5 +47,3 @@ These other versions of snappy are available on Bunya.
   
 [snappy/1.1.8-gcccore-10.3.0](../modules/snappy-1.1.8-gcccore-10.3.0.md)  
   
-[snappy/1.1.10-gcccore-12.3.0](../modules/snappy-1.1.10-gcccore-12.3.0.md)  
-  

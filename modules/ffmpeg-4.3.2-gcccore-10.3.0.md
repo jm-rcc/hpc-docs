@@ -53,5 +53,3 @@ The following modules will load FFmpeg as dependency.
 These other versions of FFmpeg are available on Bunya.  
 [ffmpeg/6.0-gcccore-12.3.0](../modules/ffmpeg-6.0-gcccore-12.3.0.md)  
   
-[ffmpeg/4.3.2-gcccore-10.3.0](../modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
-  

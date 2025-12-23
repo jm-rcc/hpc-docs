@@ -43,7 +43,5 @@ Rust depends on the following modules, and they will be loaded automatically wit
 These other versions of Rust are available on Bunya.  
 [rust/1.70.0-gcccore-12.3.0](../modules/rust-1.70.0-gcccore-12.3.0.md)  
   
-[rust/1.60.0-gcccore-11.3.0](../modules/rust-1.60.0-gcccore-11.3.0.md)  
-  
 [rust/1.52.1-gcccore-10.3.0](../modules/rust-1.52.1-gcccore-10.3.0.md)  
   

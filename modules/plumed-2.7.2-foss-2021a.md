@@ -56,5 +56,3 @@ These other versions of PLUMED are available on Bunya.
   
 [plumed/2.8.1-foss-2022a](../modules/plumed-2.8.1-foss-2022a.md)  
   
-[plumed/2.7.2-foss-2021a](../modules/plumed-2.7.2-foss-2021a.md)  
-  

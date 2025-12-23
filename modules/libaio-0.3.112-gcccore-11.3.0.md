@@ -36,7 +36,3 @@ pic: True
 (none)  
   
   
-## Other available modules  
-These other versions of libaio are available on Bunya.  
-[libaio/0.3.112-gcccore-11.3.0](../modules/libaio-0.3.112-gcccore-11.3.0.md)  
-  

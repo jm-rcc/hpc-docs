@@ -39,7 +39,3 @@ The following modules will load CapnProto as dependency.
   
 [Mash 2.3  (GCC-10.3.0)](mash-2.3-gcc-10.3.0.md)  
   
-## Other available modules  
-These other versions of CapnProto are available on Bunya.  
-[capnproto/0.9.1-gcccore-10.3.0](../modules/capnproto-0.9.1-gcccore-10.3.0.md)  
-  

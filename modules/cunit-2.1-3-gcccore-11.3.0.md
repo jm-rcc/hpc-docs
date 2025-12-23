@@ -36,7 +36,3 @@ GCCcore-11.3.0
 (none)  
   
   
-## Other available modules  
-These other versions of CUnit are available on Bunya.  
-[cunit/2.1-3-gcccore-11.3.0](../modules/cunit-2.1-3-gcccore-11.3.0.md)  
-  

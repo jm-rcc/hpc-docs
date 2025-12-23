@@ -53,5 +53,3 @@ The following modules will load HMMER as dependency.
 These other versions of HMMER are available on Bunya.  
 [hmmer/3.3.2-gompi-2022a](../modules/hmmer-3.3.2-gompi-2022a.md)  
   
-[hmmer/3.3.2-gompi-2021a](../modules/hmmer-3.3.2-gompi-2021a.md)  
-  

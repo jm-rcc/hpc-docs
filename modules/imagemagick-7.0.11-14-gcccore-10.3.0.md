@@ -54,5 +54,3 @@ The following modules will load ImageMagick as dependency.
 These other versions of ImageMagick are available on Bunya.  
 [imagemagick/7.1.0-37-gcccore-11.3.0](../modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
   
-[imagemagick/7.0.11-14-gcccore-10.3.0](../modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-  

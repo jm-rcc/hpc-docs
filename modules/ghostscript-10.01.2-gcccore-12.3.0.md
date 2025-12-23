@@ -53,5 +53,3 @@ These other versions of Ghostscript are available on Bunya.
   
 [ghostscript/9.54.0-gcccore-10.3.0](../modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
   
-[ghostscript/10.01.2-gcccore-12.3.0](../modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
-  

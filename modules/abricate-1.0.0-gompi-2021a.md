@@ -41,7 +41,3 @@ ABRicate depends on the following modules, and they will be loaded automatically
 [BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
   
   
-## Other available modules  
-These other versions of ABRicate are available on Bunya.  
-[abricate/1.0.0-gompi-2021a](../modules/abricate-1.0.0-gompi-2021a.md)  
-  

@@ -37,7 +37,3 @@ pic: True
 (none)  
   
   
-## Other available modules  
-These other versions of GffCompare are available on Bunya.  
-[gffcompare/0.12.2-gcc-10.3.0](../modules/gffcompare-0.12.2-gcc-10.3.0.md)  
-  

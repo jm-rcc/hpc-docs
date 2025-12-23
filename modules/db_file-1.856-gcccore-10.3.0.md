@@ -47,5 +47,3 @@ The following modules will load DB_File as dependency.
 These other versions of DB_File are available on Bunya.  
 [db_file/1.858-gcccore-11.3.0](../modules/db_file-1.858-gcccore-11.3.0.md)  
   
-[db_file/1.856-gcccore-10.3.0](../modules/db_file-1.856-gcccore-10.3.0.md)  
-  

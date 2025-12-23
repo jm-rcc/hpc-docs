@@ -44,7 +44,3 @@ The following modules will load CheckM-Database as dependency.
   
 [CheckM 1.2.2  (foss-2022a)](checkm-1.2.2-foss-2022a.md)  
   
-## Other available modules  
-These other versions of CheckM-Database are available on Bunya.  
-[checkm-database/2015_01_16](../modules/checkm-database-2015_01_16.md)  
-  

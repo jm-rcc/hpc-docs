@@ -44,5 +44,3 @@ These other versions of hypothesis are available on Bunya.
   
 [hypothesis/6.46.7-gcccore-11.3.0](../modules/hypothesis-6.46.7-gcccore-11.3.0.md)  
   
-[hypothesis/6.13.1-gcccore-10.3.0](../modules/hypothesis-6.13.1-gcccore-10.3.0.md)  
-  

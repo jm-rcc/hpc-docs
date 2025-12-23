@@ -43,7 +43,3 @@ system-system
 (none)  
   
   
-## Other available modules  
-These other versions of VSCode are available on Bunya.  
-[vscode/1.87.0](../modules/vscode-1.87.0.md)  
-  

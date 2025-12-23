@@ -49,5 +49,3 @@ These other versions of pybind11 are available on Bunya.
   
 [pybind11/2.6.2-gcccore-10.3.0](../modules/pybind11-2.6.2-gcccore-10.3.0.md)  
   
-[pybind11/2.11.1-gcccore-12.3.0](../modules/pybind11-2.11.1-gcccore-12.3.0.md)  
-  

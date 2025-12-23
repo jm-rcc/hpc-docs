@@ -41,7 +41,3 @@ fastp depends on the following modules, and they will be loaded automatically wi
 [ISA-L 2.30.0  (GCCcore-11.3.0)](isa-l-2.30.0-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of fastp are available on Bunya.  
-[fastp/0.23.2-gcc-11.3.0](../modules/fastp-0.23.2-gcc-11.3.0.md)  
-  

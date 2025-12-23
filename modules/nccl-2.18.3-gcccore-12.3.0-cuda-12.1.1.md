@@ -39,7 +39,3 @@ The following modules will load NCCL as dependency.
   
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
   
-## Other available modules  
-These other versions of NCCL are available on Bunya.  
-[nccl/2.18.3-gcccore-12.3.0-cuda-12.1.1](../modules/nccl-2.18.3-gcccore-12.3.0-cuda-12.1.1.md)  
-  

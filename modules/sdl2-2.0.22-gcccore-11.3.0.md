@@ -46,5 +46,3 @@ The following modules will load SDL2 as dependency.
 These other versions of SDL2 are available on Bunya.  
 [sdl2/2.28.2-gcccore-12.3.0](../modules/sdl2-2.28.2-gcccore-12.3.0.md)  
   
-[sdl2/2.0.22-gcccore-11.3.0](../modules/sdl2-2.0.22-gcccore-11.3.0.md)  
-  

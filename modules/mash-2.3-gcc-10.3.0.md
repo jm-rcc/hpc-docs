@@ -42,7 +42,3 @@ The following modules will load Mash as dependency.
   
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
   
-## Other available modules  
-These other versions of Mash are available on Bunya.  
-[mash/2.3-gcc-10.3.0](../modules/mash-2.3-gcc-10.3.0.md)  
-  

@@ -44,5 +44,3 @@ The following modules will load BBMap as dependency.
 These other versions of BBMap are available on Bunya.  
 [bbmap/39.01-gcc-11.3.0](../modules/bbmap-39.01-gcc-11.3.0.md)  
   
-[bbmap/38.96-gcc-10.3.0](../modules/bbmap-38.96-gcc-10.3.0.md)  
-  

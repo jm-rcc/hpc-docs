@@ -46,5 +46,3 @@ The following modules will load Voro++ as dependency.
 These other versions of Voro++ are available on Bunya.  
 [voro++/0.4.6-gcccore-12.3.0](../modules/voro++-0.4.6-gcccore-12.3.0.md)  
   
-[voro++/0.4.6-gcccore-10.3.0](../modules/voro++-0.4.6-gcccore-10.3.0.md)  
-  

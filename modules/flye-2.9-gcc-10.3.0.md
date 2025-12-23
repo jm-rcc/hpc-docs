@@ -39,7 +39,3 @@ Flye depends on the following modules, and they will be loaded automatically wit
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
   
-## Other available modules  
-These other versions of Flye are available on Bunya.  
-[flye/2.9-gcc-10.3.0](../modules/flye-2.9-gcc-10.3.0.md)  
-  

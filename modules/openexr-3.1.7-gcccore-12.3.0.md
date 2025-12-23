@@ -42,7 +42,3 @@ The following modules will load OpenEXR as dependency.
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-## Other available modules  
-These other versions of OpenEXR are available on Bunya.  
-[openexr/3.1.7-gcccore-12.3.0](../modules/openexr-3.1.7-gcccore-12.3.0.md)  
-  

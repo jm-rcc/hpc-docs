@@ -35,7 +35,3 @@ The following modules will load GDRCopy as dependency.
   
 [UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
   
-## Other available modules  
-These other versions of GDRCopy are available on Bunya.  
-[gdrcopy/2.3.1-gcccore-12.3.0](../modules/gdrcopy-2.3.1-gcccore-12.3.0.md)  
-  

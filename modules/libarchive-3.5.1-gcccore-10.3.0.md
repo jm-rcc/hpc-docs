@@ -57,5 +57,3 @@ These other versions of libarchive are available on Bunya.
   
 [libarchive/3.6.1-gcccore-11.3.0](../modules/libarchive-3.6.1-gcccore-11.3.0.md)  
   
-[libarchive/3.5.1-gcccore-10.3.0](../modules/libarchive-3.5.1-gcccore-10.3.0.md)  
-  

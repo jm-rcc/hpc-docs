@@ -49,5 +49,3 @@ The following modules will load beagle-lib as dependency.
 These other versions of beagle-lib are available on Bunya.  
 [beagle-lib/4.0.0-gcc-11.3.0](../modules/beagle-lib-4.0.0-gcc-11.3.0.md)  
   
-[beagle-lib/3.1.2-gcc-11.3.0](../modules/beagle-lib-3.1.2-gcc-11.3.0.md)  
-  

@@ -50,5 +50,3 @@ These other versions of libgit2 are available on Bunya.
   
 [libgit2/1.4.3-gcccore-11.3.0](../modules/libgit2-1.4.3-gcccore-11.3.0.md)  
   
-[libgit2/1.1.0-gcccore-10.3.0](../modules/libgit2-1.1.0-gcccore-10.3.0.md)  
-  

@@ -42,7 +42,3 @@ poetry depends on the following modules, and they will be loaded automatically w
 [virtualenv 20.23.1  (GCCcore-12.3.0)](virtualenv-20.23.1-gcccore-12.3.0.md)  
   
   
-## Other available modules  
-These other versions of poetry are available on Bunya.  
-[poetry/1.5.1-gcccore-12.3.0](../modules/poetry-1.5.1-gcccore-12.3.0.md)  
-  

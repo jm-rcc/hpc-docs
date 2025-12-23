@@ -49,7 +49,5 @@ Kraken2 depends on the following modules, and they will be loaded automatically 
   
 ## Other available modules  
 These other versions of Kraken2 are available on Bunya.  
-[kraken2/2.1.2-gompi-2022a](../modules/kraken2-2.1.2-gompi-2022a.md)  
-  
 [kraken2/2.1.2-gompi-2021a](../modules/kraken2-2.1.2-gompi-2021a.md)  
   

@@ -47,7 +47,3 @@ VEP depends on the following modules, and they will be loaded automatically with
 [Compress-Raw-Zlib 2.202  (GCCcore-11.3.0)](compress-raw-zlib-2.202-gcccore-11.3.0.md)  
   
   
-## Other available modules  
-These other versions of VEP are available on Bunya.  
-[vep/107-gcc-11.3.0](../modules/vep-107-gcc-11.3.0.md)  
-  

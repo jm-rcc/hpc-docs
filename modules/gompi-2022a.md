@@ -48,15 +48,11 @@ These other versions of gompi are available on Bunya.
   
 [gompi/2023a](../modules/gompi-2023a.md)  
   
-[gompi/2022a](../modules/gompi-2022a.md)  
-  
 [gompi/2021a](../modules/gompi-2021a.md)  
   
 [gompi/2024a](../modules/gompi-.2024a.md)  
   
 [gompi/2023a](../modules/gompi-.2023a.md)  
-  
-[gompi/2022a](../modules/gompi-.2022a.md)  
   
 [gompi/2021a](../modules/gompi-.2021a.md)  
   

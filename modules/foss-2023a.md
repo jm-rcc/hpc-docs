@@ -50,8 +50,6 @@ These other versions of foss are available on Bunya.
   
 [foss/2024a](../modules/foss-2024a.md)  
   
-[foss/2023a](../modules/foss-2023a.md)  
-  
 [foss/2022a](../modules/foss-2022a.md)  
   
 [foss/2021a](../modules/foss-2021a.md)  

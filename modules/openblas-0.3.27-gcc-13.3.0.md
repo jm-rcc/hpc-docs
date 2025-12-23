@@ -44,8 +44,6 @@ The following modules will load OpenBLAS as dependency.
 These other versions of OpenBLAS are available on Bunya.  
 [openblas/0.3.29-gcc-14.2.0](../modules/openblas-0.3.29-gcc-14.2.0.md)  
   
-[openblas/0.3.27-gcc-13.3.0](../modules/openblas-0.3.27-gcc-13.3.0.md)  
-  
 [openblas/0.3.23-gcc-12.3.0](../modules/openblas-0.3.23-gcc-12.3.0.md)  
   
 [openblas/0.3.20-gcc-11.3.0](../modules/openblas-0.3.20-gcc-11.3.0.md)  

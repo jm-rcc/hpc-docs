@@ -30,11 +30,7 @@ pic: True
   
 ## Other available modules  
 These other versions of zlib are available on Bunya.  
-[zlib/1.3.1-gcccore-13.3.0](../modules/zlib-1.3.1-gcccore-13.3.0.md)  
-  
 [zlib/1.3.1-gcccore-14.2.0](../modules/zlib-.1.3.1-gcccore-14.2.0.md)  
-  
-[zlib/1.3.1-gcccore-13.3.0](../modules/zlib-.1.3.1-gcccore-13.3.0.md)  
   
 [zlib/1.2.13-gcccore-12.3.0](../modules/zlib-.1.2.13-gcccore-12.3.0.md)  
   

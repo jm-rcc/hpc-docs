@@ -45,7 +45,3 @@ The following modules will load cffi as dependency.
   
 [cryptography 41.0.1  (GCCcore-12.3.0)](cryptography-41.0.1-gcccore-12.3.0.md)  
   
-## Other available modules  
-These other versions of cffi are available on Bunya.  
-[cffi/1.15.1-gcccore-12.3.0](../modules/cffi-1.15.1-gcccore-12.3.0.md)  
-  

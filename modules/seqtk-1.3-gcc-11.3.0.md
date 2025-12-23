@@ -41,7 +41,5 @@ seqtk depends on the following modules, and they will be loaded automatically wi
   
 ## Other available modules  
 These other versions of seqtk are available on Bunya.  
-[seqtk/1.3-gcc-11.3.0](../modules/seqtk-1.3-gcc-11.3.0.md)  
-  
 [seqtk/1.3-gcc-10.3.0](../modules/seqtk-1.3-gcc-10.3.0.md)  
   

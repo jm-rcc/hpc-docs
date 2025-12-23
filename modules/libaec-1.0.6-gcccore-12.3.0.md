@@ -41,7 +41,3 @@ The following modules will load libaec as dependency.
   
 [HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
   
-## Other available modules  
-These other versions of libaec are available on Bunya.  
-[libaec/1.0.6-gcccore-12.3.0](../modules/libaec-1.0.6-gcccore-12.3.0.md)  
-  

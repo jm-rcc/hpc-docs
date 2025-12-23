@@ -65,5 +65,3 @@ These other versions of Perl are available on Bunya.
   
 [perl/5.38.0](../modules/perl-5.38.0.md)  
   
-[perl/5.36.1-gcccore-12.3.0](../modules/perl-5.36.1-gcccore-12.3.0.md)  
-  
