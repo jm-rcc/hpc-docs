@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ImageMagick 7.0.11-14  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ ImageMagick is a software suite to create, edit, compose, or convert bitmap imag
   
   
 ## Homepage  
-The homepage for ImageMagick 7.0.11-14 
+The homepage for ImageMagick 7.0.11-14   
 [https://www.imagemagick.org/](https://www.imagemagick.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,12 +46,9 @@ ImageMagick depends on the following modules, and they will be loaded automatica
 [pixman 0.40.0  (GCCcore-10.3.0)](pixman-.0.40.0-gcccore-10.3.0.md)  
 [FriBidi 1.0.10  (GCCcore-10.3.0)](fribidi-.1.0.10-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ImageMagick as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

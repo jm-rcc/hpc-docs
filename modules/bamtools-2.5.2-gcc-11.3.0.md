@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BamTools 2.5.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ BamTools provides both a programmer's API and an end-user's toolkit for handling
   
   
 ## Homepage  
-The homepage for BamTools 2.5.2 
+The homepage for BamTools 2.5.2   
 [https://github.com/pezmaster31/bamtools](https://github.com/pezmaster31/bamtools)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ BamTools depends on the following modules, and they will be loaded automatically
   
 [JsonCpp 1.9.5  (GCCcore-11.3.0)](jsoncpp-1.9.5-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BamTools as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
 [BEDTools 2.30.0  (GCC-11.3.0)](bedtools-2.30.0-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

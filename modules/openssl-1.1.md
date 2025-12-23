@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # OpenSSL 1.1  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -8,7 +11,7 @@ The OpenSSL Project is a collaborative effort to develop a robust, commercial-gr
   
   
 ## Homepage  
-The homepage for OpenSSL 1.1 
+The homepage for OpenSSL 1.1   
 [https://www.openssl.org/](https://www.openssl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ OpenSSL depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load OpenSSL as dependency.  
   
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  
@@ -98,6 +101,3 @@ The following modules will load OpenSSL as dependency.
 [wget 1.21.1  (GCCcore-10.3.0)](wget-1.21.1-gcccore-10.3.0.md)  
 [wget 1.21.3  (GCCcore-11.3.0)](wget-1.21.3-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

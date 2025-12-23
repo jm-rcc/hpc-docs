@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MariaDB 10.9.3  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -7,7 +10,7 @@ Included engines: myISAM, Aria, InnoDB, RocksDB, TokuDB, OQGraph, Mroonga.
   
   
 ## Homepage  
-The homepage for MariaDB 10.9.3 
+The homepage for MariaDB 10.9.3   
 [https://mariadb.org/](https://mariadb.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -48,12 +51,9 @@ MariaDB depends on the following modules, and they will be loaded automatically 
 [PCRE2 10.40  (GCCcore-11.3.0)](pcre2-10.40-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MariaDB as dependency.  
   
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  
 [DBD-mysql 4.050  (GCC-11.3.0)](dbd-mysql-4.050-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

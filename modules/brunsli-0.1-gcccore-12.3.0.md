@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Brunsli 0.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Brunsli is a lossless JPEG repacking library.
   
   
 ## Homepage  
-The homepage for Brunsli 0.1 
+The homepage for Brunsli 0.1   
 [https://github.com/google/brunsli/](https://github.com/google/brunsli/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ Brunsli depends on the following modules, and they will be loaded automatically 
   
 [Brotli 1.0.9  (GCCcore-12.3.0)](brotli-1.0.9-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Brunsli as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

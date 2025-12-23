@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # OpenBLAS 0.3.29  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -6,7 +9,7 @@ OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
   
   
 ## Homepage  
-The homepage for OpenBLAS 0.3.29 
+The homepage for OpenBLAS 0.3.29   
 [https://www.openblas.net/](https://www.openblas.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -29,11 +32,8 @@ OpenBLAS depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load OpenBLAS as dependency.  
   
 [FlexiBLAS 3.4.5  (GCC-14.2.0)](flexiblas-3.4.5-gcc-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

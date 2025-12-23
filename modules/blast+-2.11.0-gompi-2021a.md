@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BLAST+ 2.11.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ Basic Local Alignment Search Tool, or BLAST, is an algorithm
   
   
 ## Homepage  
-The homepage for BLAST+ 2.11.0 
+The homepage for BLAST+ 2.11.0   
 [https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -46,7 +49,7 @@ BLAST+ depends on the following modules, and they will be loaded automatically w
 [libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
 [LMDB 0.9.28  (GCCcore-10.3.0)](lmdb-.0.9.28-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BLAST+ as dependency.  
   
 [ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  
@@ -54,6 +57,3 @@ The following modules will load BLAST+ as dependency.
 [Kraken2 2.1.2  (gompi-2021a)](kraken2-2.1.2-gompi-2021a.md)  
 [prokka 1.14.5  (gompi-2021a)](prokka-1.14.5-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

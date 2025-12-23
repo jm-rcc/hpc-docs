@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Anaconda3 2022.05  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -9,7 +12,7 @@ that empowers companies to adopt a modern open data science analytics architectu
   
   
 ## Homepage  
-The homepage for Anaconda3 2022.05 
+The homepage for Anaconda3 2022.05   
 [https://www.anaconda.com](https://www.anaconda.com)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ Anaconda3 depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Anaconda3 as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libdeflate 1.10  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -6,7 +9,7 @@ Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.
   
   
 ## Homepage  
-The homepage for libdeflate 1.10 
+The homepage for libdeflate 1.10   
 [https://github.com/ebiggers/libdeflate](https://github.com/ebiggers/libdeflate)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,13 +39,10 @@ libdeflate depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libdeflate as dependency.  
   
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-4.3.0-gcccore-11.3.0.md)  
 [PLINK 2.00a3.6  (GCC-11.3.0)](plink-2.00a3.6-gcc-11.3.0.md)  
 [fastp 0.23.2  (GCC-11.3.0)](fastp-0.23.2-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

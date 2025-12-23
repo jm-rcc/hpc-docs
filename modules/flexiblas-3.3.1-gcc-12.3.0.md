@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FlexiBLAS 3.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ used by a program without recompiling or relinking it.
   
   
 ## Homepage  
-The homepage for FlexiBLAS 3.3.1 
+The homepage for FlexiBLAS 3.3.1   
 [https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,13 +42,10 @@ FlexiBLAS depends on the following modules, and they will be loaded automaticall
   
 [OpenBLAS 0.3.23  (GCC-12.3.0)](openblas-0.3.23-gcc-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FlexiBLAS as dependency.  
   
 [ScaLAPACK 2.2.0 -fb (gompi-2023a)](scalapack-2.2.0-gompi-2023a-fb.md)  
 [foss 2023a  (system-system)](foss-2023a.md)  
 [gfbf 2023a  (system-system)](gfbf-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

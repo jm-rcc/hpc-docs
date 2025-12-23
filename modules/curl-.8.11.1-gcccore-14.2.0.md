@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cURL 8.11.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -14,7 +17,7 @@
   
   
 ## Homepage  
-The homepage for cURL 8.11.1 
+The homepage for cURL 8.11.1   
 [https://curl.haxx.se](https://curl.haxx.se)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,11 +42,8 @@ cURL depends on the following modules, and they will be loaded automatically wit
 [libpsl 0.21.5  (GCCcore-14.2.0)](libpsl-.0.21.5-gcccore-14.2.0.md)  
 [OpenSSL 3  (system-system)](openssl-3.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cURL as dependency.  
   
 [CMake 3.31.3  (GCCcore-14.2.0)](cmake-3.31.3-gcccore-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

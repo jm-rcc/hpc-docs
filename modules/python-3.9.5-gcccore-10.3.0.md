@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Python 3.9.5  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -7,7 +10,7 @@ Python is a programming language that lets you work more quickly and integrate y
   
   
 ## Homepage  
-The homepage for Python 3.9.5 
+The homepage for Python 3.9.5   
 [https://python.org/](https://python.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -46,7 +49,7 @@ Python depends on the following modules, and they will be loaded automatically w
 [libffi 3.3  (GCCcore-10.3.0)](libffi-.3.3-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Python as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  
@@ -103,6 +106,3 @@ The following modules will load Python as dependency.
 [tqdm 4.61.2  (GCCcore-10.3.0)](tqdm-4.61.2-gcccore-10.3.0.md)  
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

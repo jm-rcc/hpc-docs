@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Xerces-C++ 3.2.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@ APIs.
   
   
 ## Homepage  
-The homepage for Xerces-C++ 3.2.4 
+The homepage for Xerces-C++ 3.2.4   
 [https://xerces.apache.org/xerces-c/](https://xerces.apache.org/xerces-c/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ Xerces-C++ depends on the following modules, and they will be loaded automatical
   
 [cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Xerces-C++ as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # xxd 9.0.2112  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ xxd converts to/from hexdumps of binary files.
   
   
 ## Homepage  
-The homepage for xxd 9.0.2112 
+The homepage for xxd 9.0.2112   
 [https://www.vim.org](https://www.vim.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ xxd depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load xxd as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

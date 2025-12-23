@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Clang 13.0.1  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -7,7 +10,7 @@ C, C++, Objective-C compiler, based on LLVM.  Does not
   
   
 ## Homepage  
-The homepage for Clang 13.0.1 
+The homepage for Clang 13.0.1   
 [https://clang.llvm.org/](https://clang.llvm.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,11 +47,8 @@ Clang depends on the following modules, and they will be loaded automatically wi
 [libffi 3.4.2  (GCCcore-11.3.0)](libffi-.3.4.2-gcccore-11.3.0.md)  
 [elfutils 0.187  (GCCcore-11.3.0)](elfutils-0.187-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Clang as dependency.  
   
 [pocl 1.8  (GCC-11.3.0)](pocl-1.8-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

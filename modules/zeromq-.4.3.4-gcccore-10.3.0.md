@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ZeroMQ 4.3.4  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -11,7 +14,7 @@ ZeroMQ looks like an embeddable networking library but acts like a concurrency f
   
   
 ## Homepage  
-The homepage for ZeroMQ 4.3.4 
+The homepage for ZeroMQ 4.3.4   
 [https://www.zeromq.org/](https://www.zeromq.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,11 +44,8 @@ ZeroMQ depends on the following modules, and they will be loaded automatically w
 [libsodium 1.0.18  (GCCcore-10.3.0)](libsodium-.1.0.18-gcccore-10.3.0.md)  
 [util-linux 2.36  (GCCcore-10.3.0)](util-linux-.2.36-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ZeroMQ as dependency.  
   
 [IPython 7.25.0  (GCCcore-10.3.0)](ipython-7.25.0-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

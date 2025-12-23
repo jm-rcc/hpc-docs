@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # hifiasm 0.16.1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.
   
   
 ## Homepage  
-The homepage for hifiasm 0.16.1 
+The homepage for hifiasm 0.16.1   
 [https://github.com/chhylp123/hifiasm](https://github.com/chhylp123/hifiasm)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ hifiasm depends on the following modules, and they will be loaded automatically 
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load hifiasm as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

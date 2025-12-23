@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Libint 2.7.2 -lmax-6-cp2k 
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -7,7 +10,7 @@ Libint library is used to evaluate the traditional (electron repulsion) and cert
   
   
 ## Homepage  
-The homepage for Libint 2.7.2 -lmax-6-cp2k
+The homepage for Libint 2.7.2 -lmax-6-cp2k  
 [https://github.com/evaleev/libint](https://github.com/evaleev/libint)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ Libint depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Libint as dependency.  
   
 [CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

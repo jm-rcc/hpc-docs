@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # zlib 1.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ zlib is designed to be a free, general-purpose, legally unencumbered -- that is,
   
   
 ## Homepage  
-The homepage for zlib 1.3.1 
+The homepage for zlib 1.3.1   
 [https://www.zlib.net/](https://www.zlib.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ zlib depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load zlib as dependency.  
   
 [CMake 3.29.3  (GCCcore-13.3.0)](cmake-3.29.3-gcccore-13.3.0.md)  
@@ -62,6 +65,3 @@ The following modules will load zlib as dependency.
 [util-linux 2.40  (GCCcore-13.3.0)](util-linux-2.40-gcccore-13.3.0.md)  
 [zstd 1.5.6  (GCCcore-13.3.0)](zstd-1.5.6-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

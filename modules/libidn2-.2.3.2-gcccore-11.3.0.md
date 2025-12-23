@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libidn2 2.3.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Libidn2 implements the revised algorithm for internationalized domain names call
   
   
 ## Homepage  
-The homepage for libidn2 2.3.2 
+The homepage for libidn2 2.3.2   
 [http://www.gnu.org/software/libidn2](http://www.gnu.org/software/libidn2)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,7 +39,7 @@ libidn2 depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libidn2 as dependency.  
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
@@ -44,6 +47,3 @@ The following modules will load libidn2 as dependency.
 [libpsl 0.21.1  (GCCcore-11.3.0)](libpsl-0.21.1-gcccore-11.3.0.md)  
 [wget 1.21.3  (GCCcore-11.3.0)](wget-1.21.3-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

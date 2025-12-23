@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libaio 0.3.112  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Asynchronous input/output library that uses the kernels native interface.
   
   
 ## Homepage  
-The homepage for libaio 0.3.112 
+The homepage for libaio 0.3.112   
 [https://pagure.io/libaio](https://pagure.io/libaio)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ libaio depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libaio as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

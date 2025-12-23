@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Rust 1.70.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -7,7 +10,7 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
   
   
 ## Homepage  
-The homepage for Rust 1.70.0 
+The homepage for Rust 1.70.0   
 [https://www.rust-lang.org](https://www.rust-lang.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Rust depends on the following modules, and they will be loaded automatically wit
   
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Rust as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

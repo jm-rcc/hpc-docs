@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # LZO 2.10  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ Portable lossless data compression library
   
   
 ## Homepage  
-The homepage for LZO 2.10 
+The homepage for LZO 2.10   
 [https://www.oberhumer.com/opensource/lzo/](https://www.oberhumer.com/opensource/lzo/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ LZO depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load LZO as dependency.  
   
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

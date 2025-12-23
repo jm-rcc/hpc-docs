@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # JsonCpp 1.9.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@
   
   
 ## Homepage  
-The homepage for JsonCpp 1.9.5 
+The homepage for JsonCpp 1.9.5   
 [https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html](https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ JsonCpp depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load JsonCpp as dependency.  
   
 [BamTools 2.5.2  (GCC-11.3.0)](bamtools-2.5.2-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

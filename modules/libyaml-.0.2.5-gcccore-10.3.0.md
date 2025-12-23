@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libyaml 0.2.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ LibYAML is a YAML parser and emitter written in C.
   
   
 ## Homepage  
-The homepage for libyaml 0.2.5 
+The homepage for libyaml 0.2.5   
 [https://pyyaml.org/wiki/LibYAML](https://pyyaml.org/wiki/LibYAML)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ libyaml depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libyaml as dependency.  
   
 [PyYAML 5.4.1  (GCCcore-10.3.0)](pyyaml-5.4.1-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

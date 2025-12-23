@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FLAC 1.3.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ that audio is compressed in FLAC without any loss in quality.
   
   
 ## Homepage  
-The homepage for FLAC 1.3.4 
+The homepage for FLAC 1.3.4   
 [https://xiph.org/flac/](https://xiph.org/flac/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ FLAC depends on the following modules, and they will be loaded automatically wit
   
 [libogg 1.3.5  (GCCcore-11.3.0)](libogg-1.3.5-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FLAC as dependency.  
   
 [libsndfile 1.1.0  (GCCcore-11.3.0)](libsndfile-1.1.0-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

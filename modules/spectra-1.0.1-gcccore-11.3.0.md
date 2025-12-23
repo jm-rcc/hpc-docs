@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SpectrA 1.0.1  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -7,7 +10,7 @@ Spectra stands for Sparse Eigenvalue Computation Toolkit as a Redesigned ARPACK.
   
   
 ## Homepage  
-The homepage for SpectrA 1.0.1 
+The homepage for SpectrA 1.0.1   
 [https://spectralib.org/](https://spectralib.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ SpectrA depends on the following modules, and they will be loaded automatically 
   
 [Eigen 3.4.0  (GCCcore-11.3.0)](eigen-.3.4.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SpectrA as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

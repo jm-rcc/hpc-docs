@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Miller 6.4.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, 
   
   
 ## Homepage  
-The homepage for Miller 6.4.0 
+The homepage for Miller 6.4.0   
 [https://miller.readthedocs.io/](https://miller.readthedocs.io/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ Miller depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Miller as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

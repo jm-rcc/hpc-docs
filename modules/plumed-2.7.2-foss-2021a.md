@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PLUMED 2.7.2  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -11,7 +14,7 @@ PLUMED is an open source library for free energy calculations in molecular syste
   
   
 ## Homepage  
-The homepage for PLUMED 2.7.2 
+The homepage for PLUMED 2.7.2   
 [https://www.plumed.org](https://www.plumed.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,12 +46,9 @@ PLUMED depends on the following modules, and they will be loaded automatically w
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PLUMED as dependency.  
   
 [CP2K 8.2  (foss-2021a)](cp2k-8.2-foss-2021a.md)  
 [LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

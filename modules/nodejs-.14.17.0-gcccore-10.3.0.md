@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # nodejs 14.17.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -9,7 +12,7 @@ Node.js is a platform built on Chrome's JavaScript runtime
   
   
 ## Homepage  
-The homepage for nodejs 14.17.0 
+The homepage for nodejs 14.17.0   
 [https://nodejs.org](https://nodejs.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,12 +41,9 @@ nodejs depends on the following modules, and they will be loaded automatically w
 [ICU 69.1  (GCCcore-10.3.0)](icu-.69.1-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load nodejs as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

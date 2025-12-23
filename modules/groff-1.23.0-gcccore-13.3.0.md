@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # groff 1.23.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ Groff (GNU troff) is a typesetting system that reads plain text mixed with forma
   
   
 ## Homepage  
-The homepage for groff 1.23.0 
+The homepage for groff 1.23.0   
 [https://www.gnu.org/software/groff](https://www.gnu.org/software/groff)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,10 +37,7 @@ groff depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load groff as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

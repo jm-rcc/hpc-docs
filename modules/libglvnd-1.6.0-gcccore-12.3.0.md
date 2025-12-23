@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libglvnd 1.6.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ libglvnd is a vendor-neutral dispatch layer for arbitrating OpenGL API calls bet
   
   
 ## Homepage  
-The homepage for libglvnd 1.6.0 
+The homepage for libglvnd 1.6.0   
 [https://gitlab.freedesktop.org/glvnd/libglvnd](https://gitlab.freedesktop.org/glvnd/libglvnd)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ libglvnd depends on the following modules, and they will be loaded automatically
   
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libglvnd as dependency.  
   
 [Mesa 23.1.4  (GCCcore-12.3.0)](mesa-23.1.4-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

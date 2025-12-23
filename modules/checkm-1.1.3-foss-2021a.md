@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CheckM 1.1.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ CheckM provides a set of tools for assessing the quality of genomes recovered fr
   
   
 ## Homepage  
-The homepage for CheckM 1.1.3 
+The homepage for CheckM 1.1.3   
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,10 +45,7 @@ CheckM depends on the following modules, and they will be loaded automatically w
 [Pysam 0.16.0.1  (GCC-10.3.0)](pysam-0.16.0.1-gcc-10.3.0.md)  
 [DendroPy 4.5.2  (GCCcore-10.3.0)](dendropy-4.5.2-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CheckM as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

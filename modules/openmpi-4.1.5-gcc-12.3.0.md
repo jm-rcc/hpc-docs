@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # OpenMPI 4.1.5  
 ![Static Badge](https://img.shields.io/badge/class-mpi-D7D1CC)  
   
@@ -6,7 +9,7 @@ The Open MPI Project is an open source MPI-3 implementation.
   
   
 ## Homepage  
-The homepage for OpenMPI 4.1.5 
+The homepage for OpenMPI 4.1.5   
 [https://www.open-mpi.org/](https://www.open-mpi.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,12 +45,9 @@ OpenMPI depends on the following modules, and they will be loaded automatically 
 [PMIx 4.2.4  (GCCcore-12.3.0)](pmix-.4.2.4-gcccore-12.3.0.md)  
 [UCC 1.3.0  (GCCcore-12.3.0)](ucc-1.3.0-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load OpenMPI as dependency.  
   
 [foss 2023a  (system-system)](foss-2023a.md)  
 [gompi 2023a  (system-system)](gompi-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

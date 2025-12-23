@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MrBayes 3.2.7a  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ MrBayes is a program for the Bayesian estimation of phylogeny.
   
   
 ## Homepage  
-The homepage for MrBayes 3.2.7a 
+The homepage for MrBayes 3.2.7a   
 [http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -33,10 +36,7 @@ MrBayes depends on the following modules, and they will be loaded automatically 
 [libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-.8.1.2-gcccore-11.3.0.md)  
 [beagle-lib 3.1.2  (GCC-11.3.0)](beagle-lib-3.1.2-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MrBayes as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

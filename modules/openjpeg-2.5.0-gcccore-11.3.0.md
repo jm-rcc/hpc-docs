@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # OpenJPEG 2.5.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@ OpenJPEG is an open-source JPEG 2000 codec written in
   
   
 ## Homepage  
-The homepage for OpenJPEG 2.5.0 
+The homepage for OpenJPEG 2.5.0   
 [https://www.openjpeg.org/](https://www.openjpeg.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ OpenJPEG depends on the following modules, and they will be loaded automatically
 [libpng 1.6.37  (GCCcore-11.3.0)](libpng-.1.6.37-gcccore-11.3.0.md)  
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load OpenJPEG as dependency.  
   
 [GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

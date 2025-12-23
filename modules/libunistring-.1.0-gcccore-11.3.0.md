@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libunistring 1.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ This library provides functions for manipulating Unicode strings and for
   
   
 ## Homepage  
-The homepage for libunistring 1.0 
+The homepage for libunistring 1.0   
 [https://www.gnu.org/software/libunistring/](https://www.gnu.org/software/libunistring/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ libunistring depends on the following modules, and they will be loaded automatic
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libunistring as dependency.  
   
 [Guile 3.0.8  (GCCcore-11.3.0)](guile-3.0.8-gcccore-11.3.0.md)  
 [libpsl 0.21.1  (GCCcore-11.3.0)](libpsl-0.21.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

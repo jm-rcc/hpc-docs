@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pkg-config 0.29.2  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -12,7 +15,7 @@
   
   
 ## Homepage  
-The homepage for pkg-config 0.29.2 
+The homepage for pkg-config 0.29.2   
 [https://www.freedesktop.org/wiki/Software/pkg-config/](https://www.freedesktop.org/wiki/Software/pkg-config/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ pkg-config depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pkg-config as dependency.  
   
 [pkgconfig 1.5.4 -python (GCCcore-10.3.0)](pkgconfig-1.5.4-gcccore-10.3.0-python.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Julia 1.8.2 -linux-x86_64 
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Julia is a high-level, high-performance dynamic programming language for numeric
   
   
 ## Homepage  
-The homepage for Julia 1.8.2 -linux-x86_64
+The homepage for Julia 1.8.2 -linux-x86_64  
 [https://julialang.org](https://julialang.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ Julia depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Julia as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

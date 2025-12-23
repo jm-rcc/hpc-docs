@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Go 1.18.1  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -7,7 +10,7 @@ Go is an open source programming language that makes it easy to build
   
   
 ## Homepage  
-The homepage for Go 1.18.1 
+The homepage for Go 1.18.1   
 [https://www.golang.org](https://www.golang.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Go depends on the following modules, and they will be loaded automatically with 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Go as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

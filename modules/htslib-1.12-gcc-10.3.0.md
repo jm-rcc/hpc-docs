@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # HTSlib 1.12  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ A C library for reading/writing high-throughput sequencing data.
   
   
 ## Homepage  
-The homepage for HTSlib 1.12 
+The homepage for HTSlib 1.12   
 [https://www.htslib.org/](https://www.htslib.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ HTSlib depends on the following modules, and they will be loaded automatically w
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
 [cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load HTSlib as dependency.  
   
 [AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  
@@ -51,6 +54,3 @@ The following modules will load HTSlib as dependency.
 [tabixpp 1.1.0  (GCC-10.3.0)](tabixpp-1.1.0-gcc-10.3.0.md)  
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

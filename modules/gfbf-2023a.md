@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gfbf 2023a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -7,7 +10,7 @@ GNU Compiler Collection (GCC) based compiler toolchain, including
   
   
 ## Homepage  
-The homepage for gfbf 2023a 
+The homepage for gfbf 2023a   
 (none)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ gfbf depends on the following modules, and they will be loaded automatically wit
 [FlexiBLAS 3.3.1  (GCC-12.3.0)](flexiblas-3.3.1-gcc-12.3.0.md)  
 [FFTW 3.3.10  (GCC-12.3.0)](fftw-3.3.10-gcc-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gfbf as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

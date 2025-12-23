@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libxsmm 1.17  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -7,7 +10,7 @@ targeting Intel Architecture (x86).
   
   
 ## Homepage  
-The homepage for libxsmm 1.17 
+The homepage for libxsmm 1.17   
 [https://github.com/libxsmm/libxsmm](https://github.com/libxsmm/libxsmm)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ libxsmm depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libxsmm as dependency.  
   
 [CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # setuptools-rust 1.6.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ implemented with PyO3 or rust-cpython.
   
   
 ## Homepage  
-The homepage for setuptools-rust 1.6.0 
+The homepage for setuptools-rust 1.6.0   
 [https://github.com/PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ setuptools-rust depends on the following modules, and they will be loaded automa
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load setuptools-rust as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

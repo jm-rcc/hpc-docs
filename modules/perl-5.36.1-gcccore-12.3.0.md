@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Perl 5.36.1  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -9,7 +12,7 @@ Includes a small selection of extra CPAN packages for core functionality.
   
   
 ## Homepage  
-The homepage for Perl 5.36.1 
+The homepage for Perl 5.36.1   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,7 +42,7 @@ Perl depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Perl as dependency.  
   
 [Autoconf 2.71  (GCCcore-12.3.0)](autoconf-2.71-gcccore-12.3.0.md)  
@@ -48,6 +51,3 @@ The following modules will load Perl as dependency.
 [Perl-bundle-CPAN 5.36.1  (GCCcore-12.3.0)](perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
 [git 2.41.0 -nodocs (GCCcore-12.3.0)](git-2.41.0-gcccore-12.3.0-nodocs.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # binutils 2.36.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ binutils: GNU binary utilities
   
   
 ## Homepage  
-The homepage for binutils 2.36.1 
+The homepage for binutils 2.36.1   
 [https://directory.fsf.org/project/binutils/](https://directory.fsf.org/project/binutils/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ binutils depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load binutils as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

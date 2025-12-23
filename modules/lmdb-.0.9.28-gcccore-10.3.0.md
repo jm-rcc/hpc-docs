@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # LMDB 0.9.28  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ LMDB is a fast, memory-efficient database. With memory-mapped files, it has the 
   
   
 ## Homepage  
-The homepage for LMDB 0.9.28 
+The homepage for LMDB 0.9.28   
 [https://symas.com/lmdb](https://symas.com/lmdb)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ LMDB depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load LMDB as dependency.  
   
 [BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

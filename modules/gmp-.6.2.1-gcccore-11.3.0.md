@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GMP 6.2.1  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for GMP 6.2.1 
+The homepage for GMP 6.2.1   
 [https://gmplib.org/](https://gmplib.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ GMP depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GMP as dependency.  
   
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
@@ -55,6 +58,3 @@ The following modules will load GMP as dependency.
 [Z3 4.10.2  (GCCcore-11.3.0)](z3-4.10.2-gcccore-11.3.0.md)  
 [nettle 3.8  (GCCcore-11.3.0)](nettle-3.8-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

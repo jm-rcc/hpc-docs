@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Doxygen 1.11.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for Doxygen 1.11.0 
+The homepage for Doxygen 1.11.0   
 [https://www.doxygen.org](https://www.doxygen.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Doxygen depends on the following modules, and they will be loaded automatically 
   
 [libiconv 1.17  (GCCcore-13.3.0)](libiconv-1.17-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Doxygen as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

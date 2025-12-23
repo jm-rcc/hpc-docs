@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Boost 1.79.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ Boost provides free peer-reviewed portable C++ source libraries.
   
   
 ## Homepage  
-The homepage for Boost 1.79.0 
+The homepage for Boost 1.79.0   
 [https://www.boost.org/](https://www.boost.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ Boost depends on the following modules, and they will be loaded automatically wi
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
 [ICU 71.1  (GCCcore-11.3.0)](icu-.71.1-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Boost as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
@@ -55,6 +58,3 @@ The following modules will load Boost as dependency.
 [Salmon 1.9.0  (GCC-11.3.0)](salmon-1.9.0-gcc-11.3.0.md)  
 [maeparser 1.3.0  (gompi-2022a)](maeparser-1.3.0-gompi-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GTDB-Tk 2.0.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ A toolkit for assigning objective taxonomic classifications to bacterial and arc
   
   
 ## Homepage  
-The homepage for GTDB-Tk 2.0.0 
+The homepage for GTDB-Tk 2.0.0   
 [https://github.com/Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,10 +46,7 @@ GTDB-Tk depends on the following modules, and they will be loaded automatically 
 [Mash 2.3  (GCC-10.3.0)](mash-2.3-gcc-10.3.0.md)  
 [tqdm 4.61.2  (GCCcore-10.3.0)](tqdm-4.61.2-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GTDB-Tk as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

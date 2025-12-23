@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Salmon 1.9.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ Salmon is a wicked-fast program to produce a highly-accurate,
   
   
 ## Homepage  
-The homepage for Salmon 1.9.0 
+The homepage for Salmon 1.9.0   
 [https://github.com/COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ Salmon depends on the following modules, and they will be loaded automatically w
 [XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Salmon as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libvorbis 1.3.7  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ audio format
   
   
 ## Homepage  
-The homepage for libvorbis 1.3.7 
+The homepage for libvorbis 1.3.7   
 [https://xiph.org/vorbis/](https://xiph.org/vorbis/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ libvorbis depends on the following modules, and they will be loaded automaticall
   
 [libogg 1.3.5  (GCCcore-11.3.0)](libogg-1.3.5-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libvorbis as dependency.  
   
 [libsndfile 1.1.0  (GCCcore-11.3.0)](libsndfile-1.1.0-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

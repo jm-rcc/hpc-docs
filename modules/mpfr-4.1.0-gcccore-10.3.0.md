@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MPFR 4.1.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for MPFR 4.1.0 
+The homepage for MPFR 4.1.0   
 [https://www.mpfr.org](https://www.mpfr.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ MPFR depends on the following modules, and they will be loaded automatically wit
   
 [GMP 6.2.1  (GCCcore-10.3.0)](gmp-.6.2.1-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MPFR as dependency.  
   
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
 [SuiteSparse 5.10.1 -METIS-5.1.0 (foss-2021a)](suitesparse-5.10.1-foss-2021a-metis-5.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

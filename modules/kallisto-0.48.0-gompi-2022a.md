@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # kallisto 0.48.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ kallisto is a program for quantifying abundances of transcripts from RNA-Seq dat
   
   
 ## Homepage  
-The homepage for kallisto 0.48.0 
+The homepage for kallisto 0.48.0   
 [https://pachterlab.github.io/kallisto/](https://pachterlab.github.io/kallisto/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ kallisto depends on the following modules, and they will be loaded automatically
 [HDF5 1.12.2  (gompi-2022a)](hdf5-1.12.2-gompi-2022a.md)  
 [HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load kallisto as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

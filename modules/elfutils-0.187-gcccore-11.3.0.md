@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # elfutils 0.187  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for elfutils 0.187 
+The homepage for elfutils 0.187   
 [https://elfutils.org/](https://elfutils.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,11 +46,8 @@ elfutils depends on the following modules, and they will be loaded automatically
 [XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load elfutils as dependency.  
   
 [Clang 13.0.1  (GCCcore-11.3.0)](clang-13.0.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

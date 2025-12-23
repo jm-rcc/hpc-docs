@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libxslt 1.1.34  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ Libxslt is the XSLT C library developed for the GNOME project
   
   
 ## Homepage  
-The homepage for libxslt 1.1.34 
+The homepage for libxslt 1.1.34   
 [http://xmlsoft.org/](http://xmlsoft.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ libxslt depends on the following modules, and they will be loaded automatically 
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libxslt as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
@@ -46,6 +49,3 @@ The following modules will load libxslt as dependency.
 [bcl2fastq2 2.20.0  (GCC-11.3.0)](bcl2fastq2-2.20.0-gcc-11.3.0.md)  
 [lxml 4.9.1  (GCCcore-11.3.0)](lxml-4.9.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

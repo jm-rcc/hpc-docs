@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cURL 8.0.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -14,7 +17,7 @@
   
   
 ## Homepage  
-The homepage for cURL 8.0.1 
+The homepage for cURL 8.0.1   
 [https://curl.haxx.se](https://curl.haxx.se)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,7 +48,7 @@ cURL depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cURL as dependency.  
   
 [CFITSIO 4.3.0  (GCCcore-12.3.0)](cfitsio-4.3.0-gcccore-12.3.0.md)  
@@ -63,6 +66,3 @@ The following modules will load cURL as dependency.
 [libgeotiff 1.7.1  (GCCcore-12.3.0)](libgeotiff-1.7.1-gcccore-12.3.0.md)  
 [netCDF 4.9.2  (gompi-2023a)](netcdf-4.9.2-gompi-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

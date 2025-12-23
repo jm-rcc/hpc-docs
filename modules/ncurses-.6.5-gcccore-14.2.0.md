@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ncurses 6.5  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for ncurses 6.5 
+The homepage for ncurses 6.5   
 [https://www.gnu.org/software/ncurses/](https://www.gnu.org/software/ncurses/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,13 +37,10 @@ ncurses depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ncurses as dependency.  
   
 [CMake 3.31.3  (GCCcore-14.2.0)](cmake-3.31.3-gcccore-14.2.0.md)  
 [Python 3.13.1  (GCCcore-14.2.0)](python-3.13.1-gcccore-14.2.0.md)  
 [libreadline 8.2  (GCCcore-14.2.0)](libreadline-8.2-gcccore-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

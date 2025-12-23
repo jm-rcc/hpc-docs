@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BLAT 3.7  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ greater similarity of length 25 bases or more.
   
   
 ## Homepage  
-The homepage for BLAT 3.7 
+The homepage for BLAT 3.7   
 [https://genome.ucsc.edu/goldenPath/help/blatSpec.html](https://genome.ucsc.edu/goldenPath/help/blatSpec.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ BLAT depends on the following modules, and they will be loaded automatically wit
 [util-linux 2.38  (GCCcore-11.3.0)](util-linux-.2.38-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BLAT as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Perl-bundle-CPAN 5.36.1  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ A set of common packages from CPAN
   
   
 ## Homepage  
-The homepage for Perl-bundle-CPAN 5.36.1 
+The homepage for Perl-bundle-CPAN 5.36.1   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,11 +44,8 @@ Perl-bundle-CPAN depends on the following modules, and they will be loaded autom
 [libreadline 8.2  (GCCcore-12.3.0)](libreadline-.8.2-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Perl-bundle-CPAN as dependency.  
   
 [intltool 0.51.0  (GCCcore-12.3.0)](intltool-0.51.0-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

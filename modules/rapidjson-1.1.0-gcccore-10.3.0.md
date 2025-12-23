@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # RapidJSON 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ A fast JSON parser/generator for C++ with both SAX/DOM style API
   
   
 ## Homepage  
-The homepage for RapidJSON 1.1.0 
+The homepage for RapidJSON 1.1.0   
 [https://rapidjson.org](https://rapidjson.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ RapidJSON depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load RapidJSON as dependency.  
   
 [OpenBabel 3.1.1  (gompi-2021a)](openbabel-3.1.1-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

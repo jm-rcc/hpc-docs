@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # maeparser 1.3.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ maeparser is a parser for Schrodinger Maestro files.
   
   
 ## Homepage  
-The homepage for maeparser 1.3.0 
+The homepage for maeparser 1.3.0   
 [https://github.com/schrodinger/maeparser](https://github.com/schrodinger/maeparser)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ maeparser depends on the following modules, and they will be loaded automaticall
   
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load maeparser as dependency.  
   
 [CoordgenLibs 3.0.1  (gompi-2021a)](coordgenlibs-3.0.1-gompi-2021a.md)  
 [OpenBabel 3.1.1  (gompi-2021a)](openbabel-3.1.1-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

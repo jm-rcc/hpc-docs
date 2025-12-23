@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Nextflow 23.04.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ Nextflow is a reactive workflow framework and a programming DSL
   
   
 ## Homepage  
-The homepage for Nextflow 23.04.2 
+The homepage for Nextflow 23.04.2   
 [https://www.nextflow.io/](https://www.nextflow.io/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Nextflow depends on the following modules, and they will be loaded automatically
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Nextflow as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

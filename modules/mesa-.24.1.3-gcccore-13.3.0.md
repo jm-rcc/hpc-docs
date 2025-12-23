@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Mesa 24.1.3  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -7,7 +10,7 @@ Mesa is an open-source implementation of the OpenGL specification -
   
   
 ## Homepage  
-The homepage for Mesa 24.1.3 
+The homepage for Mesa 24.1.3   
 [https://www.mesa3d.org/](https://www.mesa3d.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,12 +44,9 @@ Mesa depends on the following modules, and they will be loaded automatically wit
 [X11 20240607  (GCCcore-13.3.0)](x11-.20240607-gcccore-13.3.0.md)  
 [Wayland 1.23.0  (GCCcore-13.3.0)](wayland-1.23.0-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Mesa as dependency.  
   
 [VirtualGL 3.1.3  (GCC-13.3.0)](virtualgl-3.1.3-gcc-13.3.0.md)  
 [libGLU 9.0.3  (GCCcore-13.3.0)](libglu-9.0.3-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

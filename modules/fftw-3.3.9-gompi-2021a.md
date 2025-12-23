@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FFTW 3.3.9  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -7,7 +10,7 @@ FFTW is a C subroutine library for computing the discrete Fourier transform (DFT
   
   
 ## Homepage  
-The homepage for FFTW 3.3.9 
+The homepage for FFTW 3.3.9   
 [http://www.fftw.org](http://www.fftw.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,7 +39,7 @@ FFTW depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FFTW as dependency.  
   
 [CP2K 8.2  (foss-2021a)](cp2k-8.2-foss-2021a.md)  
@@ -45,6 +48,3 @@ The following modules will load FFTW as dependency.
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
 [foss 2021a  (system-system)](foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

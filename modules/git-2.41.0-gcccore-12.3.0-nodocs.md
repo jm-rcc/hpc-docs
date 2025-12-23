@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # git 2.41.0 -nodocs 
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ to handle everything from small to very large projects with speed and efficiency
   
   
 ## Homepage  
-The homepage for git 2.41.0 -nodocs
+The homepage for git 2.41.0 -nodocs  
 [https://git-scm.com](https://git-scm.com)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ git depends on the following modules, and they will be loaded automatically with
 [Perl 5.36.1  (GCCcore-12.3.0)](perl-5.36.1-gcccore-12.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load git as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

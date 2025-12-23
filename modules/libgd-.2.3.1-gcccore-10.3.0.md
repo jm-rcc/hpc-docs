@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libgd 2.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ GD is an open source code library for the dynamic creation of images by programm
   
   
 ## Homepage  
-The homepage for libgd 2.3.1 
+The homepage for libgd 2.3.1   
 [https://libgd.github.io/](https://libgd.github.io/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,12 +42,9 @@ libgd depends on the following modules, and they will be loaded automatically wi
 [libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libgd as dependency.  
   
 [InterProScan 5.55-88.0  (foss-2021a)](interproscan-5.55-88.0-foss-2021a.md)  
 [gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-5.4.2-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

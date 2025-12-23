@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Clang 18.1.8  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -7,7 +10,7 @@ C, C++, Objective-C compiler, based on LLVM.  Does not
   
   
 ## Homepage  
-The homepage for Clang 18.1.8 
+The homepage for Clang 18.1.8   
 [https://clang.llvm.org/](https://clang.llvm.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,11 +42,8 @@ Clang depends on the following modules, and they will be loaded automatically wi
 [GMP 6.3.0  (GCCcore-13.3.0)](gmp-.6.3.0-gcccore-13.3.0.md)  
 [Z3 4.13.0  (GCCcore-13.3.0)](z3-4.13.0-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Clang as dependency.  
   
 [pocl 6.0  (GCC-13.3.0)](pocl-6.0-gcc-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

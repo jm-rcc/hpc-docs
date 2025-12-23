@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Cython 3.0.8  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -9,7 +12,7 @@ language and the extended Cython programming language (based on Pyrex).
   
   
 ## Homepage  
-The homepage for Cython 3.0.8 
+The homepage for Cython 3.0.8   
 [https://cython.org/](https://cython.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ Cython depends on the following modules, and they will be loaded automatically w
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Cython as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

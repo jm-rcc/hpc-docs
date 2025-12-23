@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GTK3 3.24.33  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -11,7 +14,7 @@ GTK+ is the primary library used to construct user interfaces in GNOME. It
   
   
 ## Homepage  
-The homepage for GTK3 3.24.33 
+The homepage for GTK3 3.24.33   
 [https://developer.gnome.org/gtk3/stable/](https://developer.gnome.org/gtk3/stable/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -47,11 +50,8 @@ GTK3 depends on the following modules, and they will be loaded automatically wit
 [X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
 [FriBidi 1.0.12  (GCCcore-11.3.0)](fribidi-.1.0.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GTK3 as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

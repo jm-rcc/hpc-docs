@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # wget 1.21.3  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -8,7 +11,7 @@ GNU Wget is a free software package for retrieving files using HTTP, HTTPS and F
   
   
 ## Homepage  
-The homepage for wget 1.21.3 
+The homepage for wget 1.21.3   
 [https://www.gnu.org/software/wget](https://www.gnu.org/software/wget)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,11 +44,8 @@ wget depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load wget as dependency.  
   
 [Kraken2 2.1.2  (gompi-2022a)](kraken2-2.1.2-gompi-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

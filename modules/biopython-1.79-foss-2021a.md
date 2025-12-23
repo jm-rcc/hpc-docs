@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Biopython 1.79  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -10,7 +13,7 @@ Biopython is a set of freely available tools for biological
   
   
 ## Homepage  
-The homepage for Biopython 1.79 
+The homepage for Biopython 1.79   
 [https://www.biopython.org](https://www.biopython.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,11 +42,8 @@ Biopython depends on the following modules, and they will be loaded automaticall
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Biopython as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

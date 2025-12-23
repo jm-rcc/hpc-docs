@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GDRCopy 2.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ A low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.
   
   
 ## Homepage  
-The homepage for GDRCopy 2.3.1 
+The homepage for GDRCopy 2.3.1   
 [https://github.com/NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -31,11 +34,8 @@ GDRCopy depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GDRCopy as dependency.  
   
 [UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # networkx 2.5.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ and study of the structure, dynamics, and functions of complex networks.
   
   
 ## Homepage  
-The homepage for networkx 2.5.1 
+The homepage for networkx 2.5.1   
 [https://pypi.python.org/pypi/networkx](https://pypi.python.org/pypi/networkx)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ networkx depends on the following modules, and they will be loaded automatically
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load networkx as dependency.  
   
 [GROMACS 2021.3  (foss-2021a)](gromacs-2021.3-foss-2021a.md)  
 [MultiQC 1.11  (foss-2021a)](multiqc-1.11-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

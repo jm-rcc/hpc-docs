@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # DIRAC 25.0 -int64 
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -6,7 +9,7 @@ DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electr
   
   
 ## Homepage  
-The homepage for DIRAC 25.0 -int64
+The homepage for DIRAC 25.0 -int64  
 [http://www.diracprogram.org](http://www.diracprogram.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -30,10 +33,7 @@ DIRAC depends on the following modules, and they will be loaded automatically wi
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
 [HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load DIRAC as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

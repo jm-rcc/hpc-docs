@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # HDF 4.2.15  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for HDF 4.2.15 
+The homepage for HDF 4.2.15   
 [https://support.hdfgroup.org/products/hdf4/](https://support.hdfgroup.org/products/hdf4/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ HDF depends on the following modules, and they will be loaded automatically with
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
 [libtirpc 1.3.2  (GCCcore-10.3.0)](libtirpc-1.3.2-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load HDF as dependency.  
   
 [GDAL 3.3.0  (foss-2021a)](gdal-3.3.0-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

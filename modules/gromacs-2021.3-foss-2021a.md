@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GROMACS 2021.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -15,7 +18,7 @@ It also contains the gmxapi extension for the single precision MPI build.
   
   
 ## Homepage  
-The homepage for GROMACS 2021.3 
+The homepage for GROMACS 2021.3   
 [https://www.gromacs.org](https://www.gromacs.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ GROMACS depends on the following modules, and they will be loaded automatically 
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
 [networkx 2.5.1  (foss-2021a)](networkx-.2.5.1-foss-2021a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GROMACS as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

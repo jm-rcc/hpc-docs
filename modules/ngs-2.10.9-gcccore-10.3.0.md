@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # NGS 2.10.9  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ produced from Next Generation Sequencing.
   
   
 ## Homepage  
-The homepage for NGS 2.10.9 
+The homepage for NGS 2.10.9   
 [https://github.com/ncbi/ngs](https://github.com/ncbi/ngs)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ NGS depends on the following modules, and they will be loaded automatically with
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load NGS as dependency.  
   
 [HISAT2 2.2.1  (gompi-2021a)](hisat2-2.2.1-gompi-2021a.md)  
 [ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

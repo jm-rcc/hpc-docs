@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GSL 2.7  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -8,7 +11,7 @@ The GNU Scientific Library (GSL) is a numerical library for C and C++ programmer
   
   
 ## Homepage  
-The homepage for GSL 2.7 
+The homepage for GSL 2.7   
 [https://www.gnu.org/software/gsl/](https://www.gnu.org/software/gsl/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,7 +42,7 @@ GSL depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GSL as dependency.  
   
 [BCFtools 1.18  (GCC-12.3.0)](bcftools-1.18-gcc-12.3.0.md)  
@@ -48,6 +51,3 @@ The following modules will load GSL as dependency.
 [PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
 [ScaFaCoS 1.0.4  (foss-2023a)](scafacos-1.0.4-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

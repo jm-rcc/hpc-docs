@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libpciaccess 0.16  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -6,7 +9,7 @@ Generic PCI access library.
   
   
 ## Homepage  
-The homepage for libpciaccess 0.16 
+The homepage for libpciaccess 0.16   
 [https://cgit.freedesktop.org/xorg/lib/libpciaccess/](https://cgit.freedesktop.org/xorg/lib/libpciaccess/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ libpciaccess depends on the following modules, and they will be loaded automatic
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libpciaccess as dependency.  
   
 [X11 20220504  (GCCcore-11.3.0)](x11-20220504-gcccore-11.3.0.md)  
 [hwloc 2.7.1  (GCCcore-11.3.0)](hwloc-2.7.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

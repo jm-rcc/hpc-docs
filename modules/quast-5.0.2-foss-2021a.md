@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # QUAST 5.0.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ assemblies, thus is suitable for comparison.
   
   
 ## Homepage  
-The homepage for QUAST 5.0.2 
+The homepage for QUAST 5.0.2   
 [https://github.com/ablab/quast](https://github.com/ablab/quast)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ QUAST depends on the following modules, and they will be loaded automatically wi
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
 [wget 1.21.1  (GCCcore-10.3.0)](wget-1.21.1-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load QUAST as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

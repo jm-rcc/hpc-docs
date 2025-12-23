@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gettext 0.21.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@ and documentation
   
   
 ## Homepage  
-The homepage for gettext 0.21.1 
+The homepage for gettext 0.21.1   
 [https://www.gnu.org/software/gettext/](https://www.gnu.org/software/gettext/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ gettext depends on the following modules, and they will be loaded automatically 
   
 [ncurses 6.3  (system-system)](ncurses-.6.3.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gettext as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

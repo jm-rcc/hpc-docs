@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MultiQC 1.14  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -9,7 +12,7 @@ Aggregate results from bioinformatics analyses across many samples into a single
   
   
 ## Homepage  
-The homepage for MultiQC 1.14 
+The homepage for MultiQC 1.14   
 [https://multiqc.info](https://multiqc.info)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,10 +45,7 @@ MultiQC depends on the following modules, and they will be loaded automatically 
 [PyYAML 6.0  (GCCcore-11.3.0)](pyyaml-.6.0-gcccore-11.3.0.md)  
 [networkx 2.8.4  (foss-2022a)](networkx-.2.8.4-foss-2022a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MultiQC as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

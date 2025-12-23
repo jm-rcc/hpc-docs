@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Armadillo 12.6.2  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -8,7 +11,7 @@ Armadillo is an open-source C++ linear algebra library (matrix maths) aiming tow
   
   
 ## Homepage  
-The homepage for Armadillo 12.6.2 
+The homepage for Armadillo 12.6.2   
 [https://arma.sourceforge.net/](https://arma.sourceforge.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ Armadillo depends on the following modules, and they will be loaded automaticall
 [HDF5 1.14.0  (gompi-2023a)](hdf5-1.14.0-gompi-2023a.md)  
 [arpack-ng 3.9.0  (foss-2023a)](arpack-ng-.3.9.0-foss-2023a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Armadillo as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

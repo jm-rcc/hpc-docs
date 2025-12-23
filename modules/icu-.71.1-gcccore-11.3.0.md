@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ICU 71.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode a
   
   
 ## Homepage  
-The homepage for ICU 71.1 
+The homepage for ICU 71.1   
 [https://icu.unicode.org](https://icu.unicode.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,7 +40,7 @@ ICU depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ICU as dependency.  
   
 [Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
@@ -46,6 +49,3 @@ The following modules will load ICU as dependency.
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
 [nodejs 16.15.1  (GCCcore-11.3.0)](nodejs-16.15.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

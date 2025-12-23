@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libarchive 3.7.4  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@
   
   
 ## Homepage  
-The homepage for libarchive 3.7.4 
+The homepage for libarchive 3.7.4   
 [https://www.libarchive.org/](https://www.libarchive.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ libarchive depends on the following modules, and they will be loaded automatical
 [XZ 5.4.5  (GCCcore-13.3.0)](xz-.5.4.5-gcccore-13.3.0.md)  
 [OpenSSL 3  (system-system)](openssl-3.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libarchive as dependency.  
   
 [CMake 3.29.3  (GCCcore-13.3.0)](cmake-3.29.3-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

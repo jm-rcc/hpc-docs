@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libvori 220621  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ version, which is hard-coded to work with the CP2k program package.
   
   
 ## Homepage  
-The homepage for libvori 220621 
+The homepage for libvori 220621   
 [https://brehm-research.de/libvori.php](https://brehm-research.de/libvori.php)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ libvori depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libvori as dependency.  
   
 [CP2K 9.1  (foss-2022a)](cp2k-9.1-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

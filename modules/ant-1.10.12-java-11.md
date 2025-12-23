@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ant 1.10.12 -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -8,7 +11,7 @@ Apache Ant is a Java library and command-line tool whose mission is to drive pro
   
   
 ## Homepage  
-The homepage for ant 1.10.12 -Java-11
+The homepage for ant 1.10.12 -Java-11  
 [https://ant.apache.org/](https://ant.apache.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,10 +38,7 @@ ant depends on the following modules, and they will be loaded automatically with
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ant as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

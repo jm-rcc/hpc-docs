@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # LAPACK 3.10.1  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -8,7 +11,7 @@ LAPACK is written in Fortran90 and provides routines for solving systems of
   
   
 ## Homepage  
-The homepage for LAPACK 3.10.1 
+The homepage for LAPACK 3.10.1   
 [https://www.netlib.org/lapack/](https://www.netlib.org/lapack/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ LAPACK depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load LAPACK as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

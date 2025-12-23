@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Trinity 2.9.1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ Trinity represents a novel method for the efficient and robust de novo reconstru
   
   
 ## Homepage  
-The homepage for Trinity 2.9.1 
+The homepage for Trinity 2.9.1   
 [https://trinityrnaseq.github.io](https://trinityrnaseq.github.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -48,10 +51,7 @@ Trinity depends on the following modules, and they will be loaded automatically 
 [SAMtools 1.13  (GCC-10.3.0)](samtools-1.13-gcc-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Trinity as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

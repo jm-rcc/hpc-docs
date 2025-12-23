@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Python 2.7.18 -bare 
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -7,7 +10,7 @@ Python is a programming language that lets you work more quickly and integrate y
   
   
 ## Homepage  
-The homepage for Python 2.7.18 -bare
+The homepage for Python 2.7.18 -bare  
 [https://python.org/](https://python.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,10 +46,7 @@ Python depends on the following modules, and they will be loaded automatically w
 [SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-.3.38.3-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Python as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

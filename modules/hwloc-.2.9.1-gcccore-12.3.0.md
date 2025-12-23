@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # hwloc 2.9.1  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -15,7 +18,7 @@
   
   
 ## Homepage  
-The homepage for hwloc 2.9.1 
+The homepage for hwloc 2.9.1   
 [https://www.open-mpi.org/projects/hwloc/](https://www.open-mpi.org/projects/hwloc/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -47,13 +50,10 @@ hwloc depends on the following modules, and they will be loaded automatically wi
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
 [libpciaccess 0.17  (GCCcore-12.3.0)](libpciaccess-.0.17-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load hwloc as dependency.  
   
 [OpenMPI 4.1.5  (GCC-12.3.0)](openmpi-4.1.5-gcc-12.3.0.md)  
 [PMIx 4.2.4  (GCCcore-12.3.0)](pmix-4.2.4-gcccore-12.3.0.md)  
 [tbb 2021.11.0  (GCCcore-12.3.0)](tbb-2021.11.0-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

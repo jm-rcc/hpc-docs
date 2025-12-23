@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # multichoose 1.0.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ generate multiset combinations (n multichoose k).
   
   
 ## Homepage  
-The homepage for multichoose 1.0.3 
+The homepage for multichoose 1.0.3   
 [https://github.com/ekg/multichoose](https://github.com/ekg/multichoose)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ multichoose depends on the following modules, and they will be loaded automatica
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load multichoose as dependency.  
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

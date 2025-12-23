@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GROMACS 2023.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -15,7 +18,7 @@ It also contains the gmxapi extension for the single precision MPI build.
   
   
 ## Homepage  
-The homepage for GROMACS 2023.3 
+The homepage for GROMACS 2023.3   
 [https://www.gromacs.org](https://www.gromacs.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ GROMACS depends on the following modules, and they will be loaded automatically 
 [networkx 3.1  (gfbf-2023a)](networkx-.3.1-gfbf-2023a.md)  
 [mpi4py 3.1.4  (gompi-2023a)](mpi4py-3.1.4-gompi-2023a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GROMACS as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

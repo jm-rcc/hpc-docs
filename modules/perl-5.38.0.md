@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Perl 5.38.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -9,7 +12,7 @@ Includes a small selection of extra CPAN packages for core functionality.
   
   
 ## Homepage  
-The homepage for Perl 5.38.0 
+The homepage for Perl 5.38.0   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ Perl depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.13  (system-system)](zlib-.1.2.13.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Perl as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

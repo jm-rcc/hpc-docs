@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SEPP 4.5.1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ placement of short reads into reference alignments and trees.
   
   
 ## Homepage  
-The homepage for SEPP 4.5.1 
+The homepage for SEPP 4.5.1   
 [https://github.com/smirarab/sepp](https://github.com/smirarab/sepp)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ SEPP depends on the following modules, and they will be loaded automatically wit
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [DendroPy 4.5.2  (GCCcore-11.3.0)](dendropy-4.5.2-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SEPP as dependency.  
   
 [BUSCO 5.4.5  (foss-2022a)](busco-5.4.5-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

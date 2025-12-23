@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # NASM 2.15.05  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ NASM: General-purpose x86 assembler
   
   
 ## Homepage  
-The homepage for NASM 2.15.05 
+The homepage for NASM 2.15.05   
 [https://www.nasm.us/](https://www.nasm.us/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ NASM depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load NASM as dependency.  
   
 [ISA-L 2.30.0  (GCCcore-11.3.0)](isa-l-2.30.0-gcccore-11.3.0.md)  
 [libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-2.1.3-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Cereal 1.3.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ used standalone.
   
   
 ## Homepage  
-The homepage for Cereal 1.3.0 
+The homepage for Cereal 1.3.0   
 [https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ Cereal depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Cereal as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

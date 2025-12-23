@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # bzip2 1.0.8  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for bzip2 1.0.8 
+The homepage for bzip2 1.0.8   
 [https://sourceware.org/bzip2](https://sourceware.org/bzip2)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,13 +37,10 @@ bzip2 depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load bzip2 as dependency.  
   
 [CMake 3.31.3  (GCCcore-14.2.0)](cmake-3.31.3-gcccore-14.2.0.md)  
 [Python 3.13.1  (GCCcore-14.2.0)](python-3.13.1-gcccore-14.2.0.md)  
 [UnZip 6.0  (GCCcore-14.2.0)](unzip-6.0-gcccore-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

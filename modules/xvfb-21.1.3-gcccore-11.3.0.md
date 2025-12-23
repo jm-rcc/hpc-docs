@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Xvfb 21.1.3  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -7,7 +10,7 @@ Xvfb is an X server that can run on machines with no display hardware and no phy
   
   
 ## Homepage  
-The homepage for Xvfb 21.1.3 
+The homepage for Xvfb 21.1.3   
 [https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,10 +46,7 @@ Xvfb depends on the following modules, and they will be loaded automatically wit
 [libunwind 1.6.2  (GCCcore-11.3.0)](libunwind-.1.6.2-gcccore-11.3.0.md)  
 [XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Xvfb as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

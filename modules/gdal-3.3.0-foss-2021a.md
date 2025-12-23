@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GDAL 3.3.0  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -9,7 +12,7 @@ GDAL is a translator library for raster geospatial data formats that is released
   
   
 ## Homepage  
-The homepage for GDAL 3.3.0 
+The homepage for GDAL 3.3.0   
 [https://www.gdal.org](https://www.gdal.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -54,12 +57,9 @@ GDAL depends on the following modules, and they will be loaded automatically wit
 [HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
 [HDF 4.2.15  (GCCcore-10.3.0)](hdf-4.2.15-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GDAL as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

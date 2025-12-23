@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # UCC 1.3.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ feature-rich for current and emerging programming models and runtimes.
   
   
 ## Homepage  
-The homepage for UCC 1.3.0 
+The homepage for UCC 1.3.0   
 [https://www.openucx.org/](https://www.openucx.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,11 +42,8 @@ UCC depends on the following modules, and they will be loaded automatically with
   
 [UCX 1.16.0  (GCCcore-12.3.0)](ucx-.1.16.0-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load UCC as dependency.  
   
 [OpenMPI 4.1.5  (GCC-12.3.0)](openmpi-4.1.5-gcc-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

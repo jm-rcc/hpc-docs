@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PyYAML 5.4.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ PyYAML is a YAML parser and emitter for the Python programming language.
   
   
 ## Homepage  
-The homepage for PyYAML 5.4.1 
+The homepage for PyYAML 5.4.1   
 [https://github.com/yaml/pyyaml](https://github.com/yaml/pyyaml)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,12 +38,9 @@ PyYAML depends on the following modules, and they will be loaded automatically w
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [libyaml 0.2.5  (GCCcore-10.3.0)](libyaml-.0.2.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PyYAML as dependency.  
   
 [MultiQC 1.11  (foss-2021a)](multiqc-1.11-foss-2021a.md)  
 [snakemake 6.6.1  (foss-2021a)](snakemake-6.6.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

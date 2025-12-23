@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PCRE2 10.36  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for PCRE2 10.36 
+The homepage for PCRE2 10.36   
 [https://www.pcre.org/](https://www.pcre.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,7 +42,7 @@ PCRE2 depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PCRE2 as dependency.  
   
 [GLib 2.68.2  (GCCcore-10.3.0)](glib-2.68.2-gcccore-10.3.0.md)  
@@ -47,6 +50,3 @@ The following modules will load PCRE2 as dependency.
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

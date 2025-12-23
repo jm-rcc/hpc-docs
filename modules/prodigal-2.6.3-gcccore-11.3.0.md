@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # prodigal 2.6.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
   
   
 ## Homepage  
-The homepage for prodigal 2.6.3 
+The homepage for prodigal 2.6.3   
 [https://github.com/hyattpd/Prodigal/](https://github.com/hyattpd/Prodigal/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,12 +41,9 @@ prodigal depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load prodigal as dependency.  
   
 [BUSCO 5.4.5  (foss-2022a)](busco-5.4.5-foss-2022a.md)  
 [CheckM 1.2.2  (foss-2022a)](checkm-1.2.2-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MRtrix 3.0.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ MRtrix provides a set of tools to perform diffusion-weighted MR white-matter tra
   
   
 ## Homepage  
-The homepage for MRtrix 3.0.3 
+The homepage for MRtrix 3.0.3   
 [http://www.brain.org.au/software/index.html#mrtrix](http://www.brain.org.au/software/index.html#mrtrix)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ MRtrix depends on the following modules, and they will be loaded automatically w
 [FFTW 3.3.9  (gompi-2021a)](fftw-3.3.9-gompi-2021a.md)  
 [libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MRtrix as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

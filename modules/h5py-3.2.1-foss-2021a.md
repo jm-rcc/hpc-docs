@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # h5py 3.2.1  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -8,7 +11,7 @@ HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical
   
   
 ## Homepage  
-The homepage for h5py 3.2.1 
+The homepage for h5py 3.2.1   
 [https://www.h5py.org/](https://www.h5py.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ h5py depends on the following modules, and they will be loaded automatically wit
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
 [HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load h5py as dependency.  
   
 [pycoQC 2.5.2  (foss-2021a)](pycoqc-2.5.2-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

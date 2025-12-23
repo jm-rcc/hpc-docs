@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # binutils 2.42  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ binutils: GNU binary utilities
   
   
 ## Homepage  
-The homepage for binutils 2.42 
+The homepage for binutils 2.42   
 [https://directory.fsf.org/project/binutils/](https://directory.fsf.org/project/binutils/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -29,7 +32,7 @@ binutils depends on the following modules, and they will be loaded automatically
   
 [zlib 1.3.1  (GCCcore-14.2.0)](zlib-.1.3.1-gcccore-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load binutils as dependency.  
   
 [GCC 14.2.0  (system-system)](gcc-14.2.0.md)  
@@ -37,6 +40,3 @@ The following modules will load binutils as dependency.
 [intel 2025a  (system-system)](intel-2025a.md)  
 [intel-compilers 2025.1.1  (system-system)](intel-compilers-2025.1.1.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # VEP 107  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -10,7 +13,7 @@ Variant Effect Predictor (VEP) determines the effect of your
   
   
 ## Homepage  
-The homepage for VEP 107 
+The homepage for VEP 107   
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,10 +48,7 @@ VEP depends on the following modules, and they will be loaded automatically with
 [Bio-DB-HTS 3.01  (GCC-11.3.0)](bio-db-hts-3.01-gcc-11.3.0.md)  
 [Compress-Raw-Zlib 2.202  (GCCcore-11.3.0)](compress-raw-zlib-2.202-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load VEP as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

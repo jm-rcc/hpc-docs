@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # LLVM 11.1.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -12,7 +15,7 @@ The LLVM Core libraries provide a modern source- and target-independent
   
   
 ## Homepage  
-The homepage for LLVM 11.1.0 
+The homepage for LLVM 11.1.0   
 [https://llvm.org/](https://llvm.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,11 +47,8 @@ LLVM depends on the following modules, and they will be loaded automatically wit
 [ncurses 6.2  (GCCcore-10.3.0)](ncurses-.6.2-gcccore-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load LLVM as dependency.  
   
 [Mesa 21.1.1  (GCCcore-10.3.0)](mesa-21.1.1-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

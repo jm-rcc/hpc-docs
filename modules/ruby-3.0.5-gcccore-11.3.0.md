@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Ruby 3.0.5  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -8,7 +11,7 @@ Ruby is a dynamic, open source programming language with
   
   
 ## Homepage  
-The homepage for Ruby 3.0.5 
+The homepage for Ruby 3.0.5   
 [https://www.ruby-lang.org](https://www.ruby-lang.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ Ruby depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Ruby as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Szip 2.1.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@
   
   
 ## Homepage  
-The homepage for Szip 2.1.1 
+The homepage for Szip 2.1.1   
 [https://support.hdfgroup.org/doc_resource/SZIP/](https://support.hdfgroup.org/doc_resource/SZIP/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,13 +41,10 @@ Szip depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Szip as dependency.  
   
 [HDF 4.2.15  (GCCcore-10.3.0)](hdf-4.2.15-gcccore-10.3.0.md)  
 [HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
 [netCDF 4.8.0  (gompi-2021a)](netcdf-4.8.0-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

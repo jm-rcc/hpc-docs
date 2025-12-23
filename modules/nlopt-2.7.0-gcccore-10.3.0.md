@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # NLopt 2.7.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -8,7 +11,7 @@
   
   
 ## Homepage  
-The homepage for NLopt 2.7.0 
+The homepage for NLopt 2.7.0   
 [http://ab-initio.mit.edu/wiki/index.php/NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ NLopt depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load NLopt as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

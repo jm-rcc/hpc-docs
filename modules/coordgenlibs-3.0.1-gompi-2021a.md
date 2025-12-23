@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CoordgenLibs 3.0.1  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -6,7 +9,7 @@ Schrodinger-developed 2D Coordinate Generation
   
   
 ## Homepage  
-The homepage for CoordgenLibs 3.0.1 
+The homepage for CoordgenLibs 3.0.1   
 [https://github.com/schrodinger/coordgenlibs](https://github.com/schrodinger/coordgenlibs)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ CoordgenLibs depends on the following modules, and they will be loaded automatic
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
 [maeparser 1.3.0  (gompi-2021a)](maeparser-1.3.0-gompi-2021a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CoordgenLibs as dependency.  
   
 [OpenBabel 3.1.1  (gompi-2021a)](openbabel-3.1.1-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

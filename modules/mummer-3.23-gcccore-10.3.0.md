@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MUMmer 3.23  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for MUMmer 3.23 
+The homepage for MUMmer 3.23   
 [http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ MUMmer depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MUMmer as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

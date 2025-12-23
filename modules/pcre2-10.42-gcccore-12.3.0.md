@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PCRE2 10.42  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for PCRE2 10.42 
+The homepage for PCRE2 10.42   
 [https://www.pcre.org/](https://www.pcre.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,7 +42,7 @@ PCRE2 depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PCRE2 as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
@@ -49,6 +52,3 @@ The following modules will load PCRE2 as dependency.
 [R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
 [SWIG 4.1.1  (GCCcore-12.3.0)](swig-4.1.1-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

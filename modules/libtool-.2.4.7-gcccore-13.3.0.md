@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libtool 2.4.7  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for libtool 2.4.7 
+The homepage for libtool 2.4.7   
 [https://www.gnu.org/software/libtool](https://www.gnu.org/software/libtool)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,12 +42,9 @@ libtool depends on the following modules, and they will be loaded automatically 
   
 [M4 1.4.19  (GCCcore-13.3.0)](m4-.1.4.19-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libtool as dependency.  
   
 [Autotools 20231222  (GCCcore-13.3.0)](autotools-20231222-gcccore-13.3.0.md)  
 [pocl 6.0  (GCC-13.3.0)](pocl-6.0-gcc-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

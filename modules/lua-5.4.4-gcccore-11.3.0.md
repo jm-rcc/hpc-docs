@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Lua 5.4.4  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -11,7 +14,7 @@ Lua is a powerful, fast, lightweight, embeddable scripting language.
   
   
 ## Homepage  
-The homepage for Lua 5.4.4 
+The homepage for Lua 5.4.4   
 [https://www.lua.org/](https://www.lua.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ Lua depends on the following modules, and they will be loaded automatically with
 [ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
 [libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-.8.1.2-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Lua as dependency.  
   
 [gnuplot 5.4.4  (GCCcore-11.3.0)](gnuplot-5.4.4-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

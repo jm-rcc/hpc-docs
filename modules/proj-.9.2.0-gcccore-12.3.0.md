@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PROJ 9.2.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ geographic longitude and latitude coordinates into cartesian coordinates
   
   
 ## Homepage  
-The homepage for PROJ 9.2.0 
+The homepage for PROJ 9.2.0   
 [https://proj.org](https://proj.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,12 +42,9 @@ PROJ depends on the following modules, and they will be loaded automatically wit
 [XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
 [nlohmann_json 3.11.2  (GCCcore-12.3.0)](nlohmann_json-3.11.2-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PROJ as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
 [libgeotiff 1.7.1  (GCCcore-12.3.0)](libgeotiff-1.7.1-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

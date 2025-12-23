@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # canu 2.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Canu is a fork of the Celera Assembler designed for high-noise single-molecule s
   
   
 ## Homepage  
-The homepage for canu 2.2 
+The homepage for canu 2.2   
 [https://canu.readthedocs.io](https://canu.readthedocs.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ canu depends on the following modules, and they will be loaded automatically wit
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-.5.4.2-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load canu as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

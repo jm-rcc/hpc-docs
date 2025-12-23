@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libreadline 8.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -13,7 +16,7 @@
   
   
 ## Homepage  
-The homepage for libreadline 8.2 
+The homepage for libreadline 8.2   
 [https://tiswww.case.edu/php/chet/readline/rltop.html](https://tiswww.case.edu/php/chet/readline/rltop.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,7 +46,7 @@ libreadline depends on the following modules, and they will be loaded automatica
   
 [ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libreadline as dependency.  
   
 [Perl-bundle-CPAN 5.36.1  (GCCcore-12.3.0)](perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
@@ -52,6 +55,3 @@ The following modules will load libreadline as dependency.
 [R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
 [SQLite 3.42.0  (GCCcore-12.3.0)](sqlite-3.42.0-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

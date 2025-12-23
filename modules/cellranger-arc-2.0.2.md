@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CellRanger-ARC 2.0.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -11,7 +14,7 @@ Cell Ranger ARC is a set of analysis pipelines that process
   
   
 ## Homepage  
-The homepage for CellRanger-ARC 2.0.2 
+The homepage for CellRanger-ARC 2.0.2   
 [https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/what-is-cell-ranger-arc](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/what-is-cell-ranger-arc)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ CellRanger-ARC depends on the following modules, and they will be loaded automat
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CellRanger-ARC as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # JasPer 2.0.33  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for JasPer 2.0.33 
+The homepage for JasPer 2.0.33   
 [https://www.ece.uvic.ca/~frodo/jasper/](https://www.ece.uvic.ca/~frodo/jasper/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,12 +43,9 @@ JasPer depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load JasPer as dependency.  
   
 [ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

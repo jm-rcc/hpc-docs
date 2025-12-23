@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Autoconf 2.71  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -10,7 +13,7 @@ Autoconf is an extensible package of M4 macros that produce shell scripts
   
   
 ## Homepage  
-The homepage for Autoconf 2.71 
+The homepage for Autoconf 2.71   
 [https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,12 +43,9 @@ Autoconf depends on the following modules, and they will be loaded automatically
   
 [M4 1.4.18  (system-system)](m4-.1.4.18.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Autoconf as dependency.  
   
 [Automake 1.16.5  (system-system)](automake-1.16.5.md)  
 [Autotools 20220317  (system-system)](autotools-20220317.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

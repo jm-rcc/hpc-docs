@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Flye 2.9  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ Flye is a de novo assembler for long and noisy reads, such as those produced by 
   
   
 ## Homepage  
-The homepage for Flye 2.9 
+The homepage for Flye 2.9   
 [https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Flye depends on the following modules, and they will be loaded automatically wit
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Flye as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

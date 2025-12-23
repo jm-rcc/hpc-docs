@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # zlib 1.2.12  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ zlib is designed to be a free, general-purpose, legally unencumbered -- that is,
   
   
 ## Homepage  
-The homepage for zlib 1.2.12 
+The homepage for zlib 1.2.12   
 [https://www.zlib.net/](https://www.zlib.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ zlib depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load zlib as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
@@ -117,6 +120,3 @@ The following modules will load zlib as dependency.
 [wget 1.21.3  (GCCcore-11.3.0)](wget-1.21.3-gcccore-11.3.0.md)  
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Brotli 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@ The specification of the Brotli Compressed Data Format is defined in RFC 7932.
   
   
 ## Homepage  
-The homepage for Brotli 1.1.0 
+The homepage for Brotli 1.1.0   
 [https://github.com/google/brotli](https://github.com/google/brotli)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ Brotli depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Brotli as dependency.  
   
 [freetype 2.13.2  (GCCcore-13.3.0)](freetype-2.13.2-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

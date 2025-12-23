@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libtirpc 1.3.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Libtirpc is a port of Suns Transport-Independent RPC library to Linux.
   
   
 ## Homepage  
-The homepage for libtirpc 1.3.2 
+The homepage for libtirpc 1.3.2   
 [https://sourceforge.net/projects/libtirpc/](https://sourceforge.net/projects/libtirpc/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ libtirpc depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libtirpc as dependency.  
   
 [HDF 4.2.15  (GCCcore-10.3.0)](hdf-4.2.15-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

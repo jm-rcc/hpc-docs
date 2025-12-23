@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # VCFtools 0.1.16  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ The aim of VCFtools is to provide
   
   
 ## Homepage  
-The homepage for VCFtools 0.1.16 
+The homepage for VCFtools 0.1.16   
 [https://vcftools.github.io](https://vcftools.github.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ VCFtools depends on the following modules, and they will be loaded automatically
 [HTSlib 1.12  (GCC-10.3.0)](htslib-1.12-gcc-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load VCFtools as dependency.  
   
 [freebayes 1.3.6 -R-4.1.0 (foss-2021a)](freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

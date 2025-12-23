@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libevent 2.1.12  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for libevent 2.1.12 
+The homepage for libevent 2.1.12   
 [https://libevent.org](https://libevent.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ libevent depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libevent as dependency.  
   
 [tmux 3.5a  (system-system)](tmux-3.5a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

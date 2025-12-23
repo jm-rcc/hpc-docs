@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gzip 1.10  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ gzip (GNU zip) is a popular data compression program as a replacement for compre
   
   
 ## Homepage  
-The homepage for gzip 1.10 
+The homepage for gzip 1.10   
 [https://www.gnu.org/software/gzip/](https://www.gnu.org/software/gzip/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,13 +39,10 @@ gzip depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gzip as dependency.  
   
 [LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
 [MEGAHIT 1.2.9  (GCCcore-10.3.0)](megahit-1.2.9-gcccore-10.3.0.md)  
 [zstd 1.4.9  (GCCcore-10.3.0)](zstd-1.4.9-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

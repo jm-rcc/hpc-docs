@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # xorg-macros 1.19.3  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ X.org macros utilities.
   
   
 ## Homepage  
-The homepage for xorg-macros 1.19.3 
+The homepage for xorg-macros 1.19.3   
 [https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ xorg-macros depends on the following modules, and they will be loaded automatica
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load xorg-macros as dependency.  
   
 [X11 20220504  (GCCcore-11.3.0)](x11-20220504-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

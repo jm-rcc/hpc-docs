@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # c-ares 1.18.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ c-ares is a C library for asynchronous DNS requests (including name resolves)
   
   
 ## Homepage  
-The homepage for c-ares 1.18.1 
+The homepage for c-ares 1.18.1   
 [https://c-ares.org/](https://c-ares.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ c-ares depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load c-ares as dependency.  
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

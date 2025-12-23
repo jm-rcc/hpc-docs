@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # googletest 1.13.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Google's framework for writing C++ tests on a variety of platforms
   
   
 ## Homepage  
-The homepage for googletest 1.13.0 
+The homepage for googletest 1.13.0   
 [https://github.com/google/googletest](https://github.com/google/googletest)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,10 +37,7 @@ googletest depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load googletest as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

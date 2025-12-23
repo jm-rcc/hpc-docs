@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # psutil 6.0.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ A cross-platform process and system utilities module for Python
   
   
 ## Homepage  
-The homepage for psutil 6.0.0 
+The homepage for psutil 6.0.0   
 [https://github.com/giampaolo/psutil](https://github.com/giampaolo/psutil)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -27,10 +30,7 @@ psutil depends on the following modules, and they will be loaded automatically w
   
 [Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load psutil as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # snakemake 6.6.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ The Snakemake workflow management system is a tool to create reproducible and sc
   
   
 ## Homepage  
-The homepage for snakemake 6.6.1 
+The homepage for snakemake 6.6.1   
 [https://snakemake.readthedocs.io](https://snakemake.readthedocs.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ snakemake depends on the following modules, and they will be loaded automaticall
 [GitPython 3.1.18  (GCCcore-10.3.0)](gitpython-3.1.18-gcccore-10.3.0.md)  
 [IPython 7.25.0  (GCCcore-10.3.0)](ipython-.7.25.0-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load snakemake as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

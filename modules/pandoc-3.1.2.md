@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Pandoc 3.1.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ If you need to convert files from one markup format into another, pandoc is your
   
   
 ## Homepage  
-The homepage for Pandoc 3.1.2 
+The homepage for Pandoc 3.1.2   
 [https://pandoc.org](https://pandoc.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ Pandoc depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Pandoc as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

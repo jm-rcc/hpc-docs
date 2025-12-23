@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FFmpeg 4.3.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
   
   
 ## Homepage  
-The homepage for FFmpeg 4.3.2 
+The homepage for FFmpeg 4.3.2   
 [https://www.ffmpeg.org/](https://www.ffmpeg.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,11 +46,8 @@ FFmpeg depends on the following modules, and they will be loaded automatically w
 [fontconfig 2.13.93  (GCCcore-10.3.0)](fontconfig-.2.13.93-gcccore-10.3.0.md)  
 [FriBidi 1.0.10  (GCCcore-10.3.0)](fribidi-.1.0.10-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FFmpeg as dependency.  
   
 [LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

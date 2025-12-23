@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libgeotiff 1.7.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Library for reading and writing coordinate system information from/to GeoTIFF fi
   
   
 ## Homepage  
-The homepage for libgeotiff 1.7.1 
+The homepage for libgeotiff 1.7.1   
 [https://directory.fsf.org/wiki/Libgeotiff](https://directory.fsf.org/wiki/Libgeotiff)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,11 +44,8 @@ libgeotiff depends on the following modules, and they will be loaded automatical
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
 [cURL 7.83.0  (GCCcore-11.3.0)](curl-.7.83.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libgeotiff as dependency.  
   
 [GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

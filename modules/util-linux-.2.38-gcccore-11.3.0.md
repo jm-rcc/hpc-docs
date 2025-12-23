@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # util-linux 2.38  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Set of Linux utilities
   
   
 ## Homepage  
-The homepage for util-linux 2.38 
+The homepage for util-linux 2.38   
 [https://www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,7 +40,7 @@ util-linux depends on the following modules, and they will be loaded automatical
 [ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load util-linux as dependency.  
   
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  
@@ -46,6 +49,3 @@ The following modules will load util-linux as dependency.
 [ZeroMQ 4.3.4  (GCCcore-11.3.0)](zeromq-4.3.4-gcccore-11.3.0.md)  
 [fontconfig 2.14.0  (GCCcore-11.3.0)](fontconfig-2.14.0-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GObject-Introspection 1.76.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -10,7 +13,7 @@ GObject introspection is a middleware layer between C libraries
   
   
 ## Homepage  
-The homepage for GObject-Introspection 1.76.1 
+The homepage for GObject-Introspection 1.76.1   
 [https://gi.readthedocs.io/en/latest/](https://gi.readthedocs.io/en/latest/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,10 +46,7 @@ GObject-Introspection depends on the following modules, and they will be loaded 
 [libffi 3.4.4  (GCCcore-12.3.0)](libffi-.3.4.4-gcccore-12.3.0.md)  
 [util-linux 2.39  (GCCcore-12.3.0)](util-linux-.2.39-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GObject-Introspection as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

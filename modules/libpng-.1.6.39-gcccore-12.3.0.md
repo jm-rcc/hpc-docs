@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libpng 1.6.39  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ libpng is the official PNG reference library
   
   
 ## Homepage  
-The homepage for libpng 1.6.39 
+The homepage for libpng 1.6.39   
 [http://www.libpng.org/pub/png/libpng.html](http://www.libpng.org/pub/png/libpng.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,7 +39,7 @@ libpng depends on the following modules, and they will be loaded automatically w
   
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libpng as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
@@ -52,6 +55,3 @@ The following modules will load libpng as dependency.
 [freetype 2.13.0  (GCCcore-12.3.0)](freetype-2.13.0-gcccore-12.3.0.md)  
 [libheif 1.17.6  (GCCcore-12.3.0)](libheif-1.17.6-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

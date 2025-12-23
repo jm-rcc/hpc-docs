@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BioPerl 1.7.8  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ Bioperl is the product of a community effort to produce Perl code which is usefu
   
   
 ## Homepage  
-The homepage for BioPerl 1.7.8 
+The homepage for BioPerl 1.7.8   
 [https://bioperl.org/](https://bioperl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,13 +42,10 @@ BioPerl depends on the following modules, and they will be loaded automatically 
 [XML-LibXML 2.0207  (GCCcore-10.3.0)](xml-libxml-2.0207-gcccore-10.3.0.md)  
 [DB_File 1.856  (GCCcore-10.3.0)](db_file-1.856-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BioPerl as dependency.  
   
 [ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  
 [Bio-SearchIO-hmmer 1.7.3  (GCC-10.3.0)](bio-searchio-hmmer-1.7.3-gcc-10.3.0.md)  
 [prokka 1.14.5  (gompi-2021a)](prokka-1.14.5-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

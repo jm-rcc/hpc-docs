@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # poetry 1.5.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ Python packaging and dependency management made easy. Poetry helps you declare, 
   
   
 ## Homepage  
-The homepage for poetry 1.5.1 
+The homepage for poetry 1.5.1   
 [https://python-poetry.org](https://python-poetry.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ poetry depends on the following modules, and they will be loaded automatically w
 [cryptography 41.0.1  (GCCcore-12.3.0)](cryptography-41.0.1-gcccore-12.3.0.md)  
 [virtualenv 20.23.1  (GCCcore-12.3.0)](virtualenv-20.23.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load poetry as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

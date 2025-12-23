@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ISA-L 2.30.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Intelligent Storage Acceleration Library
   
   
 ## Homepage  
-The homepage for ISA-L 2.30.0 
+The homepage for ISA-L 2.30.0   
 [https://github.com/intel/isa-l](https://github.com/intel/isa-l)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ ISA-L depends on the following modules, and they will be loaded automatically wi
   
 [NASM 2.15.05  (GCCcore-10.3.0)](nasm-.2.15.05-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ISA-L as dependency.  
   
 [python-isal 0.11.0  (GCCcore-10.3.0)](python-isal-0.11.0-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

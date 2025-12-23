@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libfabric 1.21.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -11,7 +14,7 @@ often integrated directly into libfabric.
   
   
 ## Homepage  
-The homepage for libfabric 1.21.0 
+The homepage for libfabric 1.21.0   
 [https://ofiwg.github.io/libfabric/](https://ofiwg.github.io/libfabric/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,11 +44,8 @@ libfabric depends on the following modules, and they will be loaded automaticall
   
 [numactl 2.0.18  (GCCcore-13.3.0)](numactl-.2.0.18-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libfabric as dependency.  
   
 [OpenMPI 5.0.3  (GCC-13.3.0)](openmpi-5.0.3-gcc-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

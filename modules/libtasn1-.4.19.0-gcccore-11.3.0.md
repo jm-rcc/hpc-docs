@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libtasn1 4.19.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ Libtasn1 is the ASN.1 library used by GnuTLS, GNU Shishi and
   
   
 ## Homepage  
-The homepage for libtasn1 4.19.0 
+The homepage for libtasn1 4.19.0   
 [https://www.gnu.org/software/libtasn1/](https://www.gnu.org/software/libtasn1/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,12 +41,9 @@ libtasn1 depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libtasn1 as dependency.  
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
 [p11-kit 0.24.1  (GCCcore-11.3.0)](p11-kit-0.24.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

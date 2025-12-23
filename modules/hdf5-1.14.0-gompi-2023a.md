@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # HDF5 1.14.0  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -8,7 +11,7 @@ HDF5 is a data model, library, and file format for storing and managing data.
   
   
 ## Homepage  
-The homepage for HDF5 1.14.0 
+The homepage for HDF5 1.14.0   
 [https://portal.hdfgroup.org/display/support](https://portal.hdfgroup.org/display/support)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ HDF5 depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [Szip 2.1.1  (GCCcore-12.3.0)](szip-.2.1.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load HDF5 as dependency.  
   
 [Armadillo 12.6.2  (foss-2023a)](armadillo-12.6.2-foss-2023a.md)  
@@ -50,6 +53,3 @@ The following modules will load HDF5 as dependency.
 [ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
 [netCDF 4.9.2  (gompi-2023a)](netcdf-4.9.2-gompi-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

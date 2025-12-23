@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # netCDF 4.9.2  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -8,7 +11,7 @@ NetCDF (network Common Data Form) is a set of software libraries
   
   
 ## Homepage  
-The homepage for netCDF 4.9.2 
+The homepage for netCDF 4.9.2   
 [https://www.unidata.ucar.edu/software/netcdf/](https://www.unidata.ucar.edu/software/netcdf/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,7 +47,7 @@ netCDF depends on the following modules, and they will be loaded automatically w
 [bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load netCDF as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
@@ -52,6 +55,3 @@ The following modules will load netCDF as dependency.
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
 [ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

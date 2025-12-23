@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ParaView 5.11.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ ParaView is a scientific parallel visualizer.
   
   
 ## Homepage  
-The homepage for ParaView 5.11.2 
+The homepage for ParaView 5.11.2   
 [https://www.paraview.org](https://www.paraview.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ ParaView depends on the following modules, and they will be loaded automatically
 [FFmpeg 6.0  (GCCcore-12.3.0)](ffmpeg-6.0-gcccore-12.3.0.md)  
 [Szip 2.1.1  (GCCcore-12.3.0)](szip-.2.1.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ParaView as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

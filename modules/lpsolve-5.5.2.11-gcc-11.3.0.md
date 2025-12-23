@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # lpsolve 5.5.2.11  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -6,7 +9,7 @@ Mixed Integer Linear Programming (MILP) solver
   
   
 ## Homepage  
-The homepage for lpsolve 5.5.2.11 
+The homepage for lpsolve 5.5.2.11   
 [https://sourceforge.net/projects/lpsolve/](https://sourceforge.net/projects/lpsolve/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ lpsolve depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load lpsolve as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

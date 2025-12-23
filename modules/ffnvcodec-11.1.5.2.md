@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ffnvcodec 11.1.5.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ FFmpeg nvidia headers. Adds support for nvenc and nvdec. Requires Nvidia GPU and
   
   
 ## Homepage  
-The homepage for ffnvcodec 11.1.5.2 
+The homepage for ffnvcodec 11.1.5.2   
 [https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git](https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,10 +38,7 @@ ffnvcodec depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ffnvcodec as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

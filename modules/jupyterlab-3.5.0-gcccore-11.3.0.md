@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # JupyterLab 3.5.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -9,7 +12,7 @@ JupyterLab is the next-generation user interface for Project Jupyter offering al
   
   
 ## Homepage  
-The homepage for JupyterLab 3.5.0 
+The homepage for JupyterLab 3.5.0   
 [https://jupyter.org/](https://jupyter.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ JupyterLab depends on the following modules, and they will be loaded automatical
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-.8.5.0-gcccore-11.3.0.md)  
 [jupyter-server 1.21.0  (GCCcore-11.3.0)](jupyter-server-1.21.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load JupyterLab as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

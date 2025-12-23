@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pocl 1.8  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Pocl is a portable open source (MIT-licensed) implementation of the OpenCL stand
   
   
 ## Homepage  
-The homepage for pocl 1.8 
+The homepage for pocl 1.8   
 [http://portablecl.org](http://portablecl.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,13 +42,10 @@ pocl depends on the following modules, and they will be loaded automatically wit
 [libtool 2.4.7  (GCCcore-11.3.0)](libtool-.2.4.7-gcccore-11.3.0.md)  
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pocl as dependency.  
   
 [VirtualGL 3.1  (GCC-11.3.0)](virtualgl-3.1-gcc-11.3.0.md)  
 [beagle-lib 3.1.2  (GCC-11.3.0)](beagle-lib-3.1.2-gcc-11.3.0.md)  
 [beagle-lib 4.0.0  (GCC-11.3.0)](beagle-lib-4.0.0-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

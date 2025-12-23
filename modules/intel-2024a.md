@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # intel 2024a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -6,7 +9,7 @@ Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel Li
   
   
 ## Homepage  
-The homepage for intel 2024a 
+The homepage for intel 2024a   
 [https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ intel depends on the following modules, and they will be loaded automatically wi
 [imkl 2024.2.0  (system-system)](imkl-2024.2.0.md)  
 [imkl-FFTW 2024.2.0  (iimpi-2024a)](imkl-fftw-2024.2.0-iimpi-2024a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load intel as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

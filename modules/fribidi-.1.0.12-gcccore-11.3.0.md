@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FriBidi 1.0.12  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -8,7 +11,7 @@
   
   
 ## Homepage  
-The homepage for FriBidi 1.0.12 
+The homepage for FriBidi 1.0.12   
 [https://github.com/fribidi/fribidi](https://github.com/fribidi/fribidi)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ FriBidi depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FriBidi as dependency.  
   
 [GTK3 3.24.33  (GCCcore-11.3.0)](gtk3-3.24.33-gcccore-11.3.0.md)  
@@ -46,6 +49,3 @@ The following modules will load FriBidi as dependency.
 [Pango 1.50.7  (GCCcore-11.3.0)](pango-1.50.7-gcccore-11.3.0.md)  
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # EasyBuild 5.1.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@ EasyBuild is a software build and installation framework
   
   
 ## Homepage  
-The homepage for EasyBuild 5.1.0 
+The homepage for EasyBuild 5.1.0   
 [https://easybuilders.github.io/easybuild](https://easybuilders.github.io/easybuild)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ EasyBuild depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load EasyBuild as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

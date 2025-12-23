@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GDAL 3.7.1  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -9,7 +12,7 @@ GDAL is a translator library for raster geospatial data formats that is released
   
   
 ## Homepage  
-The homepage for GDAL 3.7.1 
+The homepage for GDAL 3.7.1   
 [https://www.gdal.org](https://www.gdal.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -67,10 +70,7 @@ GDAL depends on the following modules, and they will be loaded automatically wit
 [OpenJPEG 2.5.0  (GCCcore-12.3.0)](openjpeg-2.5.0-gcccore-12.3.0.md)  
 [SWIG 4.1.1  (GCCcore-12.3.0)](swig-.4.1.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GDAL as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

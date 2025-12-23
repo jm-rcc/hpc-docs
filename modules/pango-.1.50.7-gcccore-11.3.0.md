@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Pango 1.50.7  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -8,7 +11,7 @@ context of the GTK+ widget toolkit. Pango forms the core of text and font handli
   
   
 ## Homepage  
-The homepage for Pango 1.50.7 
+The homepage for Pango 1.50.7   
 [https://www.pango.org/](https://www.pango.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,7 +45,7 @@ Pango depends on the following modules, and they will be loaded automatically wi
 [HarfBuzz 4.2.1  (GCCcore-11.3.0)](harfbuzz-.4.2.1-gcccore-11.3.0.md)  
 [FriBidi 1.0.12  (GCCcore-11.3.0)](fribidi-.1.0.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Pango as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
@@ -51,6 +54,3 @@ The following modules will load Pango as dependency.
 [ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  
 [gnuplot 5.4.4  (GCCcore-11.3.0)](gnuplot-5.4.4-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

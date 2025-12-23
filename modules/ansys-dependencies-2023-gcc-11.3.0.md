@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Ansys-dependencies 2023  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ A collection of software to meet the requirements of Ansys.
   
   
 ## Homepage  
-The homepage for Ansys-dependencies 2023 
+The homepage for Ansys-dependencies 2023   
 [https://www.ansys.com/](https://www.ansys.com/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -50,10 +53,7 @@ Ansys-dependencies depends on the following modules, and they will be loaded aut
 [SDL2 2.0.22  (GCCcore-11.3.0)](sdl2-2.0.22-gcccore-11.3.0.md)  
 [tbb 2021.5.0  (GCCcore-11.3.0)](tbb-2021.5.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Ansys-dependencies as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

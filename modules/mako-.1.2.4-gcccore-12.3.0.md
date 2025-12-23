@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Mako 1.2.4  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ A super-fast templating language that borrows the best ideas from the existing t
   
   
 ## Homepage  
-The homepage for Mako 1.2.4 
+The homepage for Mako 1.2.4   
 [https://www.makotemplates.org](https://www.makotemplates.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ Mako depends on the following modules, and they will be loaded automatically wit
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Mako as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

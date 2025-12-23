@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # filevercmp 20191210  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ filevercmp function as in sort --version-sort.
   
   
 ## Homepage  
-The homepage for filevercmp 20191210 
+The homepage for filevercmp 20191210   
 [https://github.com/ekg/filevercmp](https://github.com/ekg/filevercmp)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ filevercmp depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load filevercmp as dependency.  
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

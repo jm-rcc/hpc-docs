@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # expat 2.5.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@ in the XML document (like start tags).
   
   
 ## Homepage  
-The homepage for expat 2.5.0 
+The homepage for expat 2.5.0   
 [https://libexpat.github.io](https://libexpat.github.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ expat depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load expat as dependency.  
   
 [DBus 1.15.4  (GCCcore-12.3.0)](dbus-1.15.4-gcccore-12.3.0.md)  
@@ -50,6 +53,3 @@ The following modules will load expat as dependency.
 [fontconfig 2.14.2  (GCCcore-12.3.0)](fontconfig-2.14.2-gcccore-12.3.0.md)  
 [git 2.41.0 -nodocs (GCCcore-12.3.0)](git-2.41.0-gcccore-12.3.0-nodocs.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # VirtualGL 3.1.3  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -8,7 +11,7 @@ hardware acceleration.
   
   
 ## Homepage  
-The homepage for VirtualGL 3.1.3 
+The homepage for VirtualGL 3.1.3   
 [https://virtualgl.org/](https://virtualgl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ VirtualGL depends on the following modules, and they will be loaded automaticall
 [pocl 6.0  (GCC-13.3.0)](pocl-6.0-gcc-13.3.0.md)  
 [X11 20240607  (GCCcore-13.3.0)](x11-.20240607-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load VirtualGL as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

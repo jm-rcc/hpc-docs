@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # deepTools 3.5.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ deepTools is a suite of python tools particularly developed for the efficient an
   
   
 ## Homepage  
-The homepage for deepTools 3.5.2 
+The homepage for deepTools 3.5.2   
 [https://deeptools.readthedocs.io/](https://deeptools.readthedocs.io/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,10 +45,7 @@ deepTools depends on the following modules, and they will be loaded automaticall
 [Pysam 0.19.1  (GCC-11.3.0)](pysam-0.19.1-gcc-11.3.0.md)  
 [pyBigWig 0.3.18  (foss-2022a)](pybigwig-0.3.18-foss-2022a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load deepTools as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

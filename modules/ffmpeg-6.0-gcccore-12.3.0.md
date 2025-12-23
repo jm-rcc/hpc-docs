@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FFmpeg 6.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
   
   
 ## Homepage  
-The homepage for FFmpeg 6.0 
+The homepage for FFmpeg 6.0   
 [https://www.ffmpeg.org/](https://www.ffmpeg.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,13 +48,10 @@ FFmpeg depends on the following modules, and they will be loaded automatically w
 [FriBidi 1.0.12  (GCCcore-12.3.0)](fribidi-.1.0.12-gcccore-12.3.0.md)  
 [SDL2 2.28.2  (GCCcore-12.3.0)](sdl2-2.28.2-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FFmpeg as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
 [ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

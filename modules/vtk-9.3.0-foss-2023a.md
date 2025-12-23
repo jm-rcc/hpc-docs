@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # VTK 9.3.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -10,7 +13,7 @@ The Visualization Toolkit (VTK) is an open-source, freely available software sys
   
   
 ## Homepage  
-The homepage for VTK 9.3.0 
+The homepage for VTK 9.3.0   
 [https://www.vtk.org](https://www.vtk.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,12 +47,9 @@ VTK depends on the following modules, and they will be loaded automatically with
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
 [Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load VTK as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

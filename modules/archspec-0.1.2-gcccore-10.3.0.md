@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # archspec 0.1.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ A library for detecting, labeling, and reasoning about microarchitectures
   
   
 ## Homepage  
-The homepage for archspec 0.1.2 
+The homepage for archspec 0.1.2   
 [https://github.com/archspec/archspec](https://github.com/archspec/archspec)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,10 +37,7 @@ archspec depends on the following modules, and they will be loaded automatically
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load archspec as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BEDTools 2.30.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -9,7 +12,7 @@ The utilities are largely based on four widely-used file formats: BED, GFF/GTF, 
   
   
 ## Homepage  
-The homepage for BEDTools 2.30.0 
+The homepage for BEDTools 2.30.0   
 [https://bedtools.readthedocs.io/](https://bedtools.readthedocs.io/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,10 +45,7 @@ BEDTools depends on the following modules, and they will be loaded automatically
 [bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
 [BamTools 2.5.2  (GCC-10.3.0)](bamtools-2.5.2-gcc-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BEDTools as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

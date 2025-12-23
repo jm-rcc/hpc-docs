@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Gdk-Pixbuf 2.42.6  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for Gdk-Pixbuf 2.42.6 
+The homepage for Gdk-Pixbuf 2.42.6   
 [https://developer.gnome.org/gdk-pixbuf/stable/](https://developer.gnome.org/gdk-pixbuf/stable/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,11 +38,8 @@ Gdk-Pixbuf depends on the following modules, and they will be loaded automatical
 [LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-.4.2.0-gcccore-10.3.0.md)  
 [X11 20210518  (GCCcore-10.3.0)](x11-.20210518-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Gdk-Pixbuf as dependency.  
   
 [libheif 1.12.0  (GCCcore-10.3.0)](libheif-1.12.0-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

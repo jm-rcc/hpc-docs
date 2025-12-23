@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # seqtk 1.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FA
   
   
 ## Homepage  
-The homepage for seqtk 1.3 
+The homepage for seqtk 1.3   
 [https://github.com/lh3/seqtk/](https://github.com/lh3/seqtk/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ seqtk depends on the following modules, and they will be loaded automatically wi
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load seqtk as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

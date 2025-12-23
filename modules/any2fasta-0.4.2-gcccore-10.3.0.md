@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # any2fasta 0.4.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Convert various sequence formats to FASTA
   
   
 ## Homepage  
-The homepage for any2fasta 0.4.2 
+The homepage for any2fasta 0.4.2   
 [https://github.com/tseemann/any2fasta](https://github.com/tseemann/any2fasta)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ any2fasta depends on the following modules, and they will be loaded automaticall
   
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load any2fasta as dependency.  
   
 [ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

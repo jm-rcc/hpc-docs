@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SpaceRanger 2.1.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ perform clustering and gene expression analysis, and place spots in spatial cont
   
   
 ## Homepage  
-The homepage for SpaceRanger 2.1.0 
+The homepage for SpaceRanger 2.1.0   
 [https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ SpaceRanger depends on the following modules, and they will be loaded automatica
 [bcl2fastq2 2.20.0  (GCC-11.3.0)](bcl2fastq2-2.20.0-gcc-11.3.0.md)  
 [libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SpaceRanger as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

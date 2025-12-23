@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # tabixpp 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ C++ wrapper to tabix indexer
   
   
 ## Homepage  
-The homepage for tabixpp 1.1.0 
+The homepage for tabixpp 1.1.0   
 [https://github.com/ekg/tabixpp](https://github.com/ekg/tabixpp)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ tabixpp depends on the following modules, and they will be loaded automatically 
 [HTSlib 1.12  (GCC-10.3.0)](htslib-1.12-gcc-10.3.0.md)  
 [PCRE 8.44  (GCCcore-10.3.0)](pcre-.8.44-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load tabixpp as dependency.  
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

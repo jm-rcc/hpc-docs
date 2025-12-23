@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pkgconf 2.2.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -7,7 +10,7 @@ pkgconf is a program which helps to configure compiler and linker flags for deve
   
   
 ## Homepage  
-The homepage for pkgconf 2.2.0 
+The homepage for pkgconf 2.2.0   
 [https://github.com/pkgconf/pkgconf](https://github.com/pkgconf/pkgconf)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ pkgconf depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pkgconf as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # help2man 1.49.3  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ help2man produces simple manual pages from the '--help' and '--version' output o
   
   
 ## Homepage  
-The homepage for help2man 1.49.3 
+The homepage for help2man 1.49.3   
 [https://www.gnu.org/software/help2man/](https://www.gnu.org/software/help2man/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -31,10 +34,7 @@ help2man depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load help2man as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

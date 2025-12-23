@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Guile 3.0.8  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for Guile 3.0.8 
+The homepage for Guile 3.0.8   
 [https://www.gnu.org/software/guile/](https://www.gnu.org/software/guile/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,11 +46,8 @@ Guile depends on the following modules, and they will be loaded automatically wi
 [libffi 3.4.2  (GCCcore-11.3.0)](libffi-.3.4.2-gcccore-11.3.0.md)  
 [libunistring 1.0  (GCCcore-11.3.0)](libunistring-.1.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Guile as dependency.  
   
 [GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

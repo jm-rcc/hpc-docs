@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pkg-config 0.29.2  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -12,7 +15,7 @@
   
   
 ## Homepage  
-The homepage for pkg-config 0.29.2 
+The homepage for pkg-config 0.29.2   
 [https://www.freedesktop.org/wiki/Software/pkg-config/](https://www.freedesktop.org/wiki/Software/pkg-config/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ pkg-config depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pkg-config as dependency.  
   
 [beagle-lib 3.1.2  (GCC-11.3.0)](beagle-lib-3.1.2-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # UnZip 6.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -10,7 +13,7 @@ non-MSDOS functionality.
   
   
 ## Homepage  
-The homepage for UnZip 6.0 
+The homepage for UnZip 6.0   
 [http://www.info-zip.org/UnZip.html](http://www.info-zip.org/UnZip.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ UnZip depends on the following modules, and they will be loaded automatically wi
   
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load UnZip as dependency.  
   
 [Archive-Zip 1.68  (GCCcore-11.3.0)](archive-zip-1.68-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

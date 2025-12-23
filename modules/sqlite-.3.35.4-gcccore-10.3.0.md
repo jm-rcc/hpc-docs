@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SQLite 3.35.4  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ SQLite: SQL Database Engine in a C Library
   
   
 ## Homepage  
-The homepage for SQLite 3.35.4 
+The homepage for SQLite 3.35.4   
 [https://www.sqlite.org/](https://www.sqlite.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,7 +40,7 @@ SQLite depends on the following modules, and they will be loaded automatically w
 [libreadline 8.1  (GCCcore-10.3.0)](libreadline-.8.1-gcccore-10.3.0.md)  
 [Tcl 8.6.11  (GCCcore-10.3.0)](tcl-.8.6.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SQLite as dependency.  
   
 [AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  
@@ -50,6 +53,3 @@ The following modules will load SQLite as dependency.
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
 [libgeotiff 1.6.0  (GCCcore-10.3.0)](libgeotiff-1.6.0-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

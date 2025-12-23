@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SSW 1.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -14,7 +17,7 @@ SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
   
   
 ## Homepage  
-The homepage for SSW 1.1 
+The homepage for SSW 1.1   
 [https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library](https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ SSW depends on the following modules, and they will be loaded automatically with
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SSW as dependency.  
   
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

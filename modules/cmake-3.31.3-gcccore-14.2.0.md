@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CMake 3.31.3  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for CMake 3.31.3 
+The homepage for CMake 3.31.3   
 [https://www.cmake.org](https://www.cmake.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ CMake depends on the following modules, and they will be loaded automatically wi
 [libarchive 3.7.7  (GCCcore-14.2.0)](libarchive-3.7.7-gcccore-14.2.0.md)  
 [OpenSSL 3  (system-system)](openssl-3.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CMake as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

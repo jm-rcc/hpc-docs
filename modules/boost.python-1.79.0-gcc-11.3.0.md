@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Boost.Python 1.79.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ Boost.Python is a C++ library which enables seamless interoperability between C+
   
   
 ## Homepage  
-The homepage for Boost.Python 1.79.0 
+The homepage for Boost.Python 1.79.0   
 [https://boostorg.github.io/python](https://boostorg.github.io/python)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ Boost.Python depends on the following modules, and they will be loaded automatic
 [Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Boost.Python as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

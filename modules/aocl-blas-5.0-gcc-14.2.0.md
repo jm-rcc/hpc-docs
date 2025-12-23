@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # AOCL-BLAS 5.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -7,7 +10,7 @@ AOCL-BLAS is AMD's optimized version of
   
   
 ## Homepage  
-The homepage for AOCL-BLAS 5.0 
+The homepage for AOCL-BLAS 5.0   
 [https://github.com/amd/blis](https://github.com/amd/blis)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -30,10 +33,7 @@ AOCL-BLAS depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load AOCL-BLAS as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

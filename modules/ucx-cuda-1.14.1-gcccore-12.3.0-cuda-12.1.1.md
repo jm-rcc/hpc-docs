@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # UCX-CUDA 1.14.1 -CUDA-12.1.1 
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -11,7 +14,7 @@ This module adds the UCX CUDA support.
   
   
 ## Homepage  
-The homepage for UCX-CUDA 1.14.1 -CUDA-12.1.1
+The homepage for UCX-CUDA 1.14.1 -CUDA-12.1.1  
 [http://www.openucx.org/](http://www.openucx.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,13 +42,10 @@ UCX-CUDA depends on the following modules, and they will be loaded automatically
 [CUDA 12.1.1  (system-system)](cuda-12.1.1.md)  
 [GDRCopy 2.3.1  (GCCcore-12.3.0)](gdrcopy-2.3.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load UCX-CUDA as dependency.  
   
 [GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
 [NCCL 2.18.3 -CUDA-12.1.1 (GCCcore-12.3.0)](nccl-2.18.3-gcccore-12.3.0-cuda-12.1.1.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

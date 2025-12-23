@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libpsl 0.21.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ C library for the Public Suffix List
   
   
 ## Homepage  
-The homepage for libpsl 0.21.5 
+The homepage for libpsl 0.21.5   
 [https://rockdaboot.github.io/libpsl](https://rockdaboot.github.io/libpsl)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -30,11 +33,8 @@ libpsl depends on the following modules, and they will be loaded automatically w
 [libidn2 2.3.7  (GCCcore-14.2.0)](libidn2-.2.3.7-gcccore-14.2.0.md)  
 [libunistring 1.3  (GCCcore-14.2.0)](libunistring-.1.3-gcccore-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libpsl as dependency.  
   
 [cURL 8.11.1  (GCCcore-14.2.0)](curl-8.11.1-gcccore-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

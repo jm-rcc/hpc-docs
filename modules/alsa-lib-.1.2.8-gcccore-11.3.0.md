@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # alsa-lib 1.2.8  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionali
   
   
 ## Homepage  
-The homepage for alsa-lib 1.2.8 
+The homepage for alsa-lib 1.2.8   
 [https://www.alsa-project.org](https://www.alsa-project.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ alsa-lib depends on the following modules, and they will be loaded automatically
   
 [binutils 2.38  (GCCcore-11.3.0)](binutils-.2.38-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load alsa-lib as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

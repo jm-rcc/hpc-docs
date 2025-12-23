@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # plotly.py 5.1.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ An open-source, interactive graphing library for Python
   
   
 ## Homepage  
-The homepage for plotly.py 5.1.0 
+The homepage for plotly.py 5.1.0   
 [https://plot.ly/python](https://plot.ly/python)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,12 +37,9 @@ plotly.py depends on the following modules, and they will be loaded automaticall
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load plotly.py as dependency.  
   
 [deepTools 3.5.0  (foss-2021a)](deeptools-3.5.0-foss-2021a.md)  
 [pycoQC 2.5.2  (foss-2021a)](pycoqc-2.5.2-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

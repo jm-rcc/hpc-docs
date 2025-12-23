@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # matplotlib 3.4.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -8,7 +11,7 @@ matplotlib is a python 2D plotting library which produces publication quality fi
   
   
 ## Homepage  
-The homepage for matplotlib 3.4.2 
+The homepage for matplotlib 3.4.2   
 [https://matplotlib.org](https://matplotlib.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,7 +45,7 @@ matplotlib depends on the following modules, and they will be loaded automatical
 [Pillow 8.2.0  (GCCcore-10.3.0)](pillow-.8.2.0-gcccore-10.3.0.md)  
 [Qhull 2020.2  (GCCcore-10.3.0)](qhull-.2020.2-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load matplotlib as dependency.  
   
 [CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  
@@ -51,6 +54,3 @@ The following modules will load matplotlib as dependency.
 [QUAST 5.0.2  (foss-2021a)](quast-5.0.2-foss-2021a.md)  
 [deepTools 3.5.0  (foss-2021a)](deeptools-3.5.0-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

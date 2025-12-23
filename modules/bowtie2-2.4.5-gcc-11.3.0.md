@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Bowtie2 2.4.5  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for Bowtie2 2.4.5 
+The homepage for Bowtie2 2.4.5   
 [https://bowtie-bio.sourceforge.net/bowtie2/index.shtml](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,10 +45,7 @@ Bowtie2 depends on the following modules, and they will be loaded automatically 
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Bowtie2 as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

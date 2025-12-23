@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Jellyfish 2.3.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.
   
   
 ## Homepage  
-The homepage for Jellyfish 2.3.0 
+The homepage for Jellyfish 2.3.0   
 [http://www.genome.umd.edu/jellyfish.html](http://www.genome.umd.edu/jellyfish.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ Jellyfish depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Jellyfish as dependency.  
   
 [Trinity 2.9.1  (foss-2021a)](trinity-2.9.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

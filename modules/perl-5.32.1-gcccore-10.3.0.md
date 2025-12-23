@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Perl 5.32.1  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Larry Wall's Practical Extraction and Report Language
   
   
 ## Homepage  
-The homepage for Perl 5.32.1 
+The homepage for Perl 5.32.1   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,7 +44,7 @@ Perl depends on the following modules, and they will be loaded automatically wit
 [DB 18.1.40  (GCCcore-10.3.0)](db-18.1.40-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Perl as dependency.  
   
 [ABRicate 1.0.0  (gompi-2021a)](abricate-1.0.0-gompi-2021a.md)  
@@ -64,6 +67,3 @@ The following modules will load Perl as dependency.
 [parallel 20210622  (GCCcore-10.3.0)](parallel-20210622-gcccore-10.3.0.md)  
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

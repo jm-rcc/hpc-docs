@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Voro++ 0.4.6  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -10,7 +13,7 @@ to analyze a system of particles.
   
   
 ## Homepage  
-The homepage for Voro++ 0.4.6 
+The homepage for Voro++ 0.4.6   
 [http://math.lbl.gov/voro++/](http://math.lbl.gov/voro++/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,12 +42,9 @@ Voro++ depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Voro++ as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

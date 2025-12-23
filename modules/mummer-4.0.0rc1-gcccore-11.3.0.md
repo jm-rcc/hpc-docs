@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MUMmer 4.0.0rc1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for MUMmer 4.0.0rc1 
+The homepage for MUMmer 4.0.0rc1   
 [https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ MUMmer depends on the following modules, and they will be loaded automatically w
   
 [gnuplot 5.4.4  (GCCcore-11.3.0)](gnuplot-.5.4.4-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MUMmer as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

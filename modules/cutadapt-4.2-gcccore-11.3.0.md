@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cutadapt 4.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ Cutadapt finds and removes adapter sequences, primers, poly-A tails and
   
   
 ## Homepage  
-The homepage for cutadapt 4.2 
+The homepage for cutadapt 4.2   
 [https://opensource.scilifelab.se/projects/cutadapt/](https://opensource.scilifelab.se/projects/cutadapt/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ cutadapt depends on the following modules, and they will be loaded automatically
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [python-isal 1.1.0  (GCCcore-11.3.0)](python-isal-1.1.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cutadapt as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

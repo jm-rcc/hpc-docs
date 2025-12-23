@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Autoconf 2.71  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -13,7 +16,7 @@
   
   
 ## Homepage  
-The homepage for Autoconf 2.71 
+The homepage for Autoconf 2.71   
 [https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,12 +47,9 @@ Autoconf depends on the following modules, and they will be loaded automatically
 [M4 1.4.19  (GCCcore-11.3.0)](m4-.1.4.19-gcccore-11.3.0.md)  
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Autoconf as dependency.  
   
 [Automake 1.16.5  (GCCcore-11.3.0)](automake-1.16.5-gcccore-11.3.0.md)  
 [Autotools 20220317  (GCCcore-11.3.0)](autotools-20220317-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CP2K 9.1  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -9,7 +12,7 @@ CP2K is a freely available (GPL) program, written in Fortran 95, to perform atom
   
   
 ## Homepage  
-The homepage for CP2K 9.1 
+The homepage for CP2K 9.1   
 [https://www.cp2k.org/](https://www.cp2k.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,10 +48,7 @@ CP2K depends on the following modules, and they will be loaded automatically wit
 [FFTW 3.3.10  (GCC-11.3.0)](fftw-3.3.10-gcc-11.3.0.md)  
 [PLUMED 2.8.1  (foss-2022a)](plumed-2.8.1-foss-2022a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CP2K as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

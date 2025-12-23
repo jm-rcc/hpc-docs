@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libepoxy 1.5.10  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Epoxy is a library for handling OpenGL function pointer management for you
   
   
 ## Homepage  
-The homepage for libepoxy 1.5.10 
+The homepage for libepoxy 1.5.10   
 [https://github.com/anholt/libepoxy](https://github.com/anholt/libepoxy)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ libepoxy depends on the following modules, and they will be loaded automatically
 [X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
 [Mesa 22.0.3  (GCCcore-11.3.0)](mesa-.22.0.3-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libepoxy as dependency.  
   
 [GTK3 3.24.33  (GCCcore-11.3.0)](gtk3-3.24.33-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

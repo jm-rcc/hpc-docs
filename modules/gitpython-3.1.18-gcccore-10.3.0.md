@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GitPython 3.1.18  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@
   
   
 ## Homepage  
-The homepage for GitPython 3.1.18 
+The homepage for GitPython 3.1.18   
 [https://gitpython.readthedocs.org](https://gitpython.readthedocs.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,11 +38,8 @@ GitPython depends on the following modules, and they will be loaded automaticall
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [git 2.32.0 -nodocs (GCCcore-10.3.0)](git-2.32.0-gcccore-10.3.0-nodocs.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GitPython as dependency.  
   
 [snakemake 6.6.1  (foss-2021a)](snakemake-6.6.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Eigen 3.4.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -7,7 +10,7 @@ Eigen is a C++ template library for linear algebra: matrices, vectors, numerical
   
   
 ## Homepage  
-The homepage for Eigen 3.4.0 
+The homepage for Eigen 3.4.0   
 [https://eigen.tuxfamily.org](https://eigen.tuxfamily.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ Eigen depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Eigen as dependency.  
   
 [OpenBabel 3.1.1  (gompi-2022a)](openbabel-3.1.1-gompi-2022a.md)  
 [SpectrA 1.0.1  (GCCcore-11.3.0)](spectra-1.0.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

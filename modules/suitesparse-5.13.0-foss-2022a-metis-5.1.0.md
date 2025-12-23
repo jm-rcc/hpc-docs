@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SuiteSparse 5.13.0 -METIS-5.1.0 
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -6,7 +9,7 @@ SuiteSparse is a collection of libraries manipulate sparse matrices.
   
   
 ## Homepage  
-The homepage for SuiteSparse 5.13.0 -METIS-5.1.0
+The homepage for SuiteSparse 5.13.0 -METIS-5.1.0  
 [https://faculty.cse.tamu.edu/davis/suitesparse.html](https://faculty.cse.tamu.edu/davis/suitesparse.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ SuiteSparse depends on the following modules, and they will be loaded automatica
 [METIS 5.1.0  (GCCcore-11.3.0)](metis-5.1.0-gcccore-11.3.0.md)  
 [MPFR 4.1.0  (GCCcore-11.3.0)](mpfr-4.1.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SuiteSparse as dependency.  
   
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

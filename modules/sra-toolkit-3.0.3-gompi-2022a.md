@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SRA-Toolkit 3.0.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ The SRA Toolkit, and the source-code SRA System Development
   
   
 ## Homepage  
-The homepage for SRA-Toolkit 3.0.3 
+The homepage for SRA-Toolkit 3.0.3   
 [https://github.com/ncbi/sra-tools](https://github.com/ncbi/sra-tools)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,11 +48,8 @@ SRA-Toolkit depends on the following modules, and they will be loaded automatica
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SRA-Toolkit as dependency.  
   
 [HISAT2 2.2.1  (gompi-2022a)](hisat2-2.2.1-gompi-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

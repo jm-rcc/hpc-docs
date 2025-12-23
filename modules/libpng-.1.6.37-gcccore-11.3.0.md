@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libpng 1.6.37  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ libpng is the official PNG reference library
   
   
 ## Homepage  
-The homepage for libpng 1.6.37 
+The homepage for libpng 1.6.37   
 [http://www.libpng.org/pub/png/libpng.html](http://www.libpng.org/pub/png/libpng.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,7 +39,7 @@ libpng depends on the following modules, and they will be loaded automatically w
   
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libpng as dependency.  
   
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
@@ -57,6 +60,3 @@ The following modules will load libpng as dependency.
 [matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
 [motif 2.3.8  (GCCcore-11.3.0)](motif-2.3.8-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

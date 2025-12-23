@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ngtcp2 0.7.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ ngtcp2 project is an effort to implement RFC9000 QUIC protocol.
   
   
 ## Homepage  
-The homepage for ngtcp2 0.7.0 
+The homepage for ngtcp2 0.7.0   
 [https://github.com/ngtcp2/ngtcp2](https://github.com/ngtcp2/ngtcp2)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ ngtcp2 depends on the following modules, and they will be loaded automatically w
 [nghttp3 0.6.0  (GCCcore-11.3.0)](nghttp3-.0.6.0-gcccore-11.3.0.md)  
 [libev 4.33  (GCC-11.3.0)](libev-.4.33-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ngtcp2 as dependency.  
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

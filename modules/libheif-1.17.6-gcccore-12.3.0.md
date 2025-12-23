@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libheif 1.17.6  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ libheif is an HEIF and AVIF file format decoder and encoder
   
   
 ## Homepage  
-The homepage for libheif 1.17.6 
+The homepage for libheif 1.17.6   
 [https://github.com/strukturag/libheif](https://github.com/strukturag/libheif)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -30,11 +33,8 @@ libheif depends on the following modules, and they will be loaded automatically 
 [x265 3.5  (GCCcore-12.3.0)](x265-3.5-gcccore-12.3.0.md)  
 [Gdk-Pixbuf 2.42.10  (GCCcore-12.3.0)](gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libheif as dependency.  
   
 [JasPer 4.0.0  (GCCcore-12.3.0)](jasper-4.0.0-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

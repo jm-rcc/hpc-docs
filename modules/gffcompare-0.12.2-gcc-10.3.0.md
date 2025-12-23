@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GffCompare 0.12.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ GffCompare provides classification and reference annotation mapping and
   
   
 ## Homepage  
-The homepage for GffCompare 0.12.2 
+The homepage for GffCompare 0.12.2   
 [https://ccb.jhu.edu/software/stringtie/gffcompare.shtml](https://ccb.jhu.edu/software/stringtie/gffcompare.shtml)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ GffCompare depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GffCompare as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

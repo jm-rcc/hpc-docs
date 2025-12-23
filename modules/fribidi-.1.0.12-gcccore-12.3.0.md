@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FriBidi 1.0.12  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -8,7 +11,7 @@
   
   
 ## Homepage  
-The homepage for FriBidi 1.0.12 
+The homepage for FriBidi 1.0.12   
 [https://github.com/fribidi/fribidi](https://github.com/fribidi/fribidi)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ FriBidi depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FriBidi as dependency.  
   
 [FFmpeg 6.0  (GCCcore-12.3.0)](ffmpeg-6.0-gcccore-12.3.0.md)  
@@ -47,6 +50,3 @@ The following modules will load FriBidi as dependency.
 [R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  
 [R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

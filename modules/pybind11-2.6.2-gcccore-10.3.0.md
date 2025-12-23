@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pybind11 2.6.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ pybind11 is a lightweight header-only library that exposes C++ types in Python a
   
   
 ## Homepage  
-The homepage for pybind11 2.6.2 
+The homepage for pybind11 2.6.2   
 [https://pybind11.readthedocs.io](https://pybind11.readthedocs.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,11 +38,8 @@ pybind11 depends on the following modules, and they will be loaded automatically
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pybind11 as dependency.  
   
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

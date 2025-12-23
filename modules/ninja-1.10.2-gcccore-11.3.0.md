@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Ninja 1.10.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Ninja is a small build system with a focus on speed.
   
   
 ## Homepage  
-The homepage for Ninja 1.10.2 
+The homepage for Ninja 1.10.2   
 [https://ninja-build.org/](https://ninja-build.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ Ninja depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Ninja as dependency.  
   
 [Meson 0.62.1  (GCCcore-11.3.0)](meson-0.62.1-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

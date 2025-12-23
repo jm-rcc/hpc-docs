@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # zlib 1.2.13  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ zlib is designed to be a free, general-purpose, legally unencumbered -- that is,
   
   
 ## Homepage  
-The homepage for zlib 1.2.13 
+The homepage for zlib 1.2.13   
 [https://www.zlib.net/](https://www.zlib.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,7 +41,7 @@ zlib depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load zlib as dependency.  
   
 [BCFtools 1.18  (GCC-12.3.0)](bcftools-1.18-gcc-12.3.0.md)  
@@ -91,6 +94,3 @@ The following modules will load zlib as dependency.
 [util-linux 2.39  (GCCcore-12.3.0)](util-linux-2.39-gcccore-12.3.0.md)  
 [zstd 1.5.5  (GCCcore-12.3.0)](zstd-1.5.5-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # file 5.43  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -7,7 +10,7 @@ The file command is 'a file type guesser', that is, a command-line tool
   
   
 ## Homepage  
-The homepage for file 5.43 
+The homepage for file 5.43   
 [https://www.darwinsys.com/file/](https://www.darwinsys.com/file/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ file depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load file as dependency.  
   
 [SRA-Toolkit 3.0.3  (gompi-2022a)](sra-toolkit-3.0.3-gompi-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

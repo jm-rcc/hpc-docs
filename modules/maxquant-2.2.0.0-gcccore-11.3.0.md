@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MaxQuant 2.2.0.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ MaxQuant is a quantitative proteomics software package designed for analyzing la
   
   
 ## Homepage  
-The homepage for MaxQuant 2.2.0.0 
+The homepage for MaxQuant 2.2.0.0   
 [https://maxquant.org/maxquant](https://maxquant.org/maxquant)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ MaxQuant depends on the following modules, and they will be loaded automatically
   
 [Mono 6.12.0.122  (GCCcore-11.3.0)](mono-6.12.0.122-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MaxQuant as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

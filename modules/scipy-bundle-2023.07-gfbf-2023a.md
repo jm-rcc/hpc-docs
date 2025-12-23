@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SciPy-bundle 2023.07  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Bundle of Python packages for scientific software
   
   
 ## Homepage  
-The homepage for SciPy-bundle 2023.07 
+The homepage for SciPy-bundle 2023.07   
 [https://python.org/](https://python.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,7 +42,7 @@ SciPy-bundle depends on the following modules, and they will be loaded automatic
 [Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
 [pybind11 2.11.1  (GCCcore-12.3.0)](pybind11-2.11.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SciPy-bundle as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
@@ -52,6 +55,3 @@ The following modules will load SciPy-bundle as dependency.
 [VTK 9.3.0  (foss-2023a)](vtk-9.3.0-foss-2023a.md)  
 [networkx 3.1  (gfbf-2023a)](networkx-3.1-gfbf-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

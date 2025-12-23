@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Yasm 1.3.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Yasm: Complete rewrite of the NASM assembler with BSD license
   
   
 ## Homepage  
-The homepage for Yasm 1.3.0 
+The homepage for Yasm 1.3.0   
 [https://www.tortall.net/projects/yasm/](https://www.tortall.net/projects/yasm/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -26,10 +29,7 @@ Yasm depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Yasm as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

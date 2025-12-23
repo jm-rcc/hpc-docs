@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libffi 3.4.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ The libffi library provides a portable, high level programming interface to
   
   
 ## Homepage  
-The homepage for libffi 3.4.5 
+The homepage for libffi 3.4.5   
 [https://sourceware.org/libffi/](https://sourceware.org/libffi/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,12 +41,9 @@ libffi depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libffi as dependency.  
   
 [Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
 [Wayland 1.23.0  (GCCcore-13.3.0)](wayland-1.23.0-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

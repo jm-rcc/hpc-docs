@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # LittleCMS 2.13.1  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -7,7 +10,7 @@
   
   
 ## Homepage  
-The homepage for LittleCMS 2.13.1 
+The homepage for LittleCMS 2.13.1   
 [https://www.littlecms.com/](https://www.littlecms.com/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ LittleCMS depends on the following modules, and they will be loaded automaticall
   
 [libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load LittleCMS as dependency.  
   
 [ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

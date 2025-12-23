@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # picard 2.25.1 -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ A set of tools (in Java) for working with next generation sequencing data in the
   
   
 ## Homepage  
-The homepage for picard 2.25.1 -Java-11
+The homepage for picard 2.25.1 -Java-11  
 [https://broadinstitute.github.io/picard/](https://broadinstitute.github.io/picard/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ picard depends on the following modules, and they will be loaded automatically w
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load picard as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

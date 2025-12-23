@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # json-c 0.16  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ objects.
   
   
 ## Homepage  
-The homepage for json-c 0.16 
+The homepage for json-c 0.16   
 [https://github.com/json-c/json-c](https://github.com/json-c/json-c)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ json-c depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load json-c as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Jansson 2.14  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -12,7 +15,7 @@ Jansson is a C library for encoding, decoding and manipulating JSON data.
   
   
 ## Homepage  
-The homepage for Jansson 2.14 
+The homepage for Jansson 2.14   
 [https://www.digip.org/jansson/](https://www.digip.org/jansson/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -32,10 +35,7 @@ Jansson depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Jansson as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

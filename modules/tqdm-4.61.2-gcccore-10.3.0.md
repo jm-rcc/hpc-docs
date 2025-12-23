@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # tqdm 4.61.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ A fast, extensible progress bar for Python and CLI
   
   
 ## Homepage  
-The homepage for tqdm 4.61.2 
+The homepage for tqdm 4.61.2   
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,12 +37,9 @@ tqdm depends on the following modules, and they will be loaded automatically wit
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load tqdm as dependency.  
   
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
 [pycoQC 2.5.2  (foss-2021a)](pycoqc-2.5.2-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

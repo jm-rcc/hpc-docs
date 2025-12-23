@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # tmux 3.5a  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -9,7 +12,7 @@ later reattached.
   
   
 ## Homepage  
-The homepage for tmux 3.5a 
+The homepage for tmux 3.5a   
 [https://github.com/tmux/tmux/](https://github.com/tmux/tmux/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ tmux depends on the following modules, and they will be loaded automatically wit
 [libevent 2.1.12  (system-system)](libevent-.2.1.12.md)  
 [ncurses 6.5  (system-system)](ncurses-.6.5.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load tmux as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # mpi4py 3.1.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI)
   
   
 ## Homepage  
-The homepage for mpi4py 3.1.4 
+The homepage for mpi4py 3.1.4   
 [https://github.com/mpi4py/mpi4py](https://github.com/mpi4py/mpi4py)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ mpi4py depends on the following modules, and they will be loaded automatically w
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load mpi4py as dependency.  
   
 [GROMACS 2023.3  (foss-2023a)](gromacs-2023.3-foss-2023a.md)  
 [GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

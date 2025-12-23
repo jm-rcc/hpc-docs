@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PMIx 3.2.3  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -16,7 +19,7 @@ the desired level of scalability.
   
   
 ## Homepage  
-The homepage for PMIx 3.2.3 
+The homepage for PMIx 3.2.3   
 [https://pmix.org/](https://pmix.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -48,11 +51,8 @@ PMIx depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
 [hwloc 2.4.1  (GCCcore-10.3.0)](hwloc-.2.4.1-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PMIx as dependency.  
   
 [OpenMPI 4.1.1  (GCC-10.3.0)](openmpi-4.1.1-gcc-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

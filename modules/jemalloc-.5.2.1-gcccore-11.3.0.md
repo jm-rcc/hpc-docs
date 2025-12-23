@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # jemalloc 5.2.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ jemalloc is a general purpose malloc(3) implementation that emphasizes fragmenta
   
   
 ## Homepage  
-The homepage for jemalloc 5.2.1 
+The homepage for jemalloc 5.2.1   
 [http://jemalloc.net](http://jemalloc.net)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,10 +37,7 @@ jemalloc depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load jemalloc as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

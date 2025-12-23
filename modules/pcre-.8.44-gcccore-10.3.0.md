@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PCRE 8.44  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for PCRE 8.44 
+The homepage for PCRE 8.44   
 [https://www.pcre.org/](https://www.pcre.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ PCRE depends on the following modules, and they will be loaded automatically wit
 [bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PCRE as dependency.  
   
 [BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
@@ -53,6 +56,3 @@ The following modules will load PCRE as dependency.
 [tabixpp 1.1.0  (GCC-10.3.0)](tabixpp-1.1.0-gcc-10.3.0.md)  
 [wget 1.21.1  (GCCcore-10.3.0)](wget-1.21.1-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

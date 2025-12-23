@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ncbi-vdb 3.0.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for
   
   
 ## Homepage  
-The homepage for ncbi-vdb 3.0.2 
+The homepage for ncbi-vdb 3.0.2   
 [https://github.com/ncbi/ncbi-vdb](https://github.com/ncbi/ncbi-vdb)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,12 +42,9 @@ ncbi-vdb depends on the following modules, and they will be loaded automatically
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ncbi-vdb as dependency.  
   
 [HISAT2 2.2.1  (gompi-2022a)](hisat2-2.2.1-gompi-2022a.md)  
 [SRA-Toolkit 3.0.3  (gompi-2022a)](sra-toolkit-3.0.3-gompi-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

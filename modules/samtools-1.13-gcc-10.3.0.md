@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SAMtools 1.13  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ SAM Tools provide various utilities for manipulating alignments in the SAM forma
   
   
 ## Homepage  
-The homepage for SAMtools 1.13 
+The homepage for SAMtools 1.13   
 [https://www.htslib.org/](https://www.htslib.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,12 +44,9 @@ SAMtools depends on the following modules, and they will be loaded automatically
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
 [cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SAMtools as dependency.  
   
 [AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  
 [Trinity 2.9.1  (foss-2021a)](trinity-2.9.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GLib 2.68.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ GLib is one of the base libraries of the GTK+ project
   
   
 ## Homepage  
-The homepage for GLib 2.68.2 
+The homepage for GLib 2.68.2   
 [https://www.gtk.org/](https://www.gtk.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ GLib depends on the following modules, and they will be loaded automatically wit
 [PCRE2 10.36  (GCCcore-10.3.0)](pcre2-10.36-gcccore-10.3.0.md)  
 [util-linux 2.36  (GCCcore-10.3.0)](util-linux-.2.36-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GLib as dependency.  
   
 [GObject-Introspection 1.68.0  (GCCcore-10.3.0)](gobject-introspection-1.68.0-gcccore-10.3.0.md)  
@@ -51,6 +54,3 @@ The following modules will load GLib as dependency.
 [Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  
 [cairo 1.16.0  (GCCcore-10.3.0)](cairo-1.16.0-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

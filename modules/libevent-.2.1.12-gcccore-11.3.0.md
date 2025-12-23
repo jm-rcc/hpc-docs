@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libevent 2.1.12  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for libevent 2.1.12 
+The homepage for libevent 2.1.12   
 [https://libevent.org/](https://libevent.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,7 +45,7 @@ libevent depends on the following modules, and they will be loaded automatically
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libevent as dependency.  
   
 [OpenMPI 4.1.4  (GCC-11.3.0)](openmpi-4.1.4-gcc-11.3.0.md)  
@@ -50,6 +53,3 @@ The following modules will load libevent as dependency.
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

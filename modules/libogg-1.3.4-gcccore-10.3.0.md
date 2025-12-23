@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libogg 1.3.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ multimedia codecs.
   
   
 ## Homepage  
-The homepage for libogg 1.3.4 
+The homepage for libogg 1.3.4   
 [https://xiph.org/ogg/](https://xiph.org/ogg/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,12 +38,9 @@ libogg depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libogg as dependency.  
   
 [FLAC 1.3.3  (GCCcore-10.3.0)](flac-1.3.3-gcccore-10.3.0.md)  
 [libvorbis 1.3.7  (GCCcore-10.3.0)](libvorbis-1.3.7-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

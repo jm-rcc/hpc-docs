@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # hatchling 1.18.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ a modern, extensible Python project manager.
   
   
 ## Homepage  
-The homepage for hatchling 1.18.0 
+The homepage for hatchling 1.18.0   
 [https://hatch.pypa.io](https://hatch.pypa.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ hatchling depends on the following modules, and they will be loaded automaticall
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load hatchling as dependency.  
   
 [poetry 1.5.1  (GCCcore-12.3.0)](poetry-1.5.1-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -2,8 +2,8 @@
 # MUMmer  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
 ## Homepage  
-[https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
 [http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
+[https://mummer.sourceforge.net/](https://mummer.sourceforge.net/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

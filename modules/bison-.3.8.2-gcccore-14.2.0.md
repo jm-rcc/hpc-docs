@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Bison 3.8.2  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -7,7 +10,7 @@ Bison is a general-purpose parser generator that converts an annotated context-f
   
   
 ## Homepage  
-The homepage for Bison 3.8.2 
+The homepage for Bison 3.8.2   
 [https://www.gnu.org/software/bison](https://www.gnu.org/software/bison)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -32,10 +35,7 @@ Bison depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Bison as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

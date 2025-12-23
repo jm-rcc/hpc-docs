@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # motif 2.3.8  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -8,7 +11,7 @@ Motif refers to both a graphical user interface (GUI) specification and the widg
   
   
 ## Homepage  
-The homepage for motif 2.3.8 
+The homepage for motif 2.3.8   
 [https://motif.ics.com/](https://motif.ics.com/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ motif depends on the following modules, and they will be loaded automatically wi
 [libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load motif as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

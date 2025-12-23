@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pixman 0.42.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for pixman 0.42.2 
+The homepage for pixman 0.42.2   
 [http://www.pixman.org/](http://www.pixman.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ pixman depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pixman as dependency.  
   
 [cairo 1.17.8  (GCCcore-12.3.0)](cairo-1.17.8-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

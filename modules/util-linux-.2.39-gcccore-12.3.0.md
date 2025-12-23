@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # util-linux 2.39  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Set of Linux utilities
   
   
 ## Homepage  
-The homepage for util-linux 2.39 
+The homepage for util-linux 2.39   
 [https://www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,13 +40,10 @@ util-linux depends on the following modules, and they will be loaded automatical
 [ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load util-linux as dependency.  
   
 [GLib 2.77.1  (GCCcore-12.3.0)](glib-2.77.1-gcccore-12.3.0.md)  
 [GObject-Introspection 1.76.1  (GCCcore-12.3.0)](gobject-introspection-1.76.1-gcccore-12.3.0.md)  
 [fontconfig 2.14.2  (GCCcore-12.3.0)](fontconfig-2.14.2-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

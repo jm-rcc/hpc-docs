@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # HarfBuzz 4.2.1  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ HarfBuzz is an OpenType text shaping engine.
   
   
 ## Homepage  
-The homepage for HarfBuzz 4.2.1 
+The homepage for HarfBuzz 4.2.1   
 [https://www.freedesktop.org/wiki/Software/HarfBuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,13 +42,10 @@ HarfBuzz depends on the following modules, and they will be loaded automatically
 [cairo 1.17.4  (GCCcore-11.3.0)](cairo-.1.17.4-gcccore-11.3.0.md)  
 [freetype 2.12.1  (GCCcore-11.3.0)](freetype-.2.12.1-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load HarfBuzz as dependency.  
   
 [Pango 1.50.7  (GCCcore-11.3.0)](pango-1.50.7-gcccore-11.3.0.md)  
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

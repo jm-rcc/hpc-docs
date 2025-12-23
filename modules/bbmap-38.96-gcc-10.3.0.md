@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BBMap 38.96  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ BBMap short read aligner, and other bioinformatic tools.
   
   
 ## Homepage  
-The homepage for BBMap 38.96 
+The homepage for BBMap 38.96   
 [https://sourceforge.net/projects/bbmap/](https://sourceforge.net/projects/bbmap/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ BBMap depends on the following modules, and they will be loaded automatically wi
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BBMap as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

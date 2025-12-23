@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # METIS 5.1.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -12,7 +15,7 @@
   
   
 ## Homepage  
-The homepage for METIS 5.1.0 
+The homepage for METIS 5.1.0   
 [https://karypis.github.io/glaros/projects/gp.html](https://karypis.github.io/glaros/projects/gp.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ METIS depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load METIS as dependency.  
   
 [SuiteSparse 5.10.1 -METIS-5.1.0 (foss-2021a)](suitesparse-5.10.1-foss-2021a-metis-5.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

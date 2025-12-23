@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GMP 6.3.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for GMP 6.3.0 
+The homepage for GMP 6.3.0   
 [https://gmplib.org/](https://gmplib.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ GMP depends on the following modules, and they will be loaded automatically with
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GMP as dependency.  
   
 [Clang 18.1.8  (GCCcore-13.3.0)](clang-18.1.8-gcccore-13.3.0.md)  
 [Z3 4.13.0  (GCCcore-13.3.0)](z3-4.13.0-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

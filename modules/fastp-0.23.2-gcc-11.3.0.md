@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # fastp 0.23.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ A tool designed to provide fast all-in-one preprocessing for FastQ files.
   
   
 ## Homepage  
-The homepage for fastp 0.23.2 
+The homepage for fastp 0.23.2   
 [https://github.com/OpenGene/fastp](https://github.com/OpenGene/fastp)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ fastp depends on the following modules, and they will be loaded automatically wi
 [libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
 [ISA-L 2.30.0  (GCCcore-11.3.0)](isa-l-2.30.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load fastp as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

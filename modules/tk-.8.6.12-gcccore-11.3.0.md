@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Tk 8.6.12  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -7,7 +10,7 @@ Tk is an open source, cross-platform widget toolchain that provides a library of
   
   
 ## Homepage  
-The homepage for Tk 8.6.12 
+The homepage for Tk 8.6.12   
 [https://www.tcl.tk/](https://www.tcl.tk/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,12 +42,9 @@ Tk depends on the following modules, and they will be loaded automatically with 
 [X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Tk as dependency.  
   
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
 [Tkinter 3.10.4  (GCCcore-11.3.0)](tkinter-3.10.4-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

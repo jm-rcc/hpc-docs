@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # JsonCpp 1.9.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@
   
   
 ## Homepage  
-The homepage for JsonCpp 1.9.4 
+The homepage for JsonCpp 1.9.4   
 [https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html](https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,12 +41,9 @@ JsonCpp depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load JsonCpp as dependency.  
   
 [BamTools 2.5.2  (GCC-10.3.0)](bamtools-2.5.2-gcc-10.3.0.md)  
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

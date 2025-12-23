@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # DBus 1.15.4  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -12,7 +15,7 @@
   
   
 ## Homepage  
-The homepage for DBus 1.15.4 
+The homepage for DBus 1.15.4   
 [https://dbus.freedesktop.org/](https://dbus.freedesktop.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,13 +45,10 @@ DBus depends on the following modules, and they will be loaded automatically wit
   
 [expat 2.5.0  (GCCcore-12.3.0)](expat-.2.5.0-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load DBus as dependency.  
   
 [Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
 [at-spi2-atk 2.38.0  (GCCcore-12.3.0)](at-spi2-atk-2.38.0-gcccore-12.3.0.md)  
 [at-spi2-core 2.49.91  (GCCcore-12.3.0)](at-spi2-core-2.49.91-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

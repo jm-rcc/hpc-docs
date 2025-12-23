@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # arpack-ng 3.9.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -6,7 +9,7 @@ ARPACK is a collection of Fortran77 subroutines designed to solve large scale ei
   
   
 ## Homepage  
-The homepage for arpack-ng 3.9.0 
+The homepage for arpack-ng 3.9.0   
 [https://github.com/opencollab/arpack-ng](https://github.com/opencollab/arpack-ng)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,11 +38,8 @@ arpack-ng depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load arpack-ng as dependency.  
   
 [Armadillo 12.6.2  (foss-2023a)](armadillo-12.6.2-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ScaLAPACK 2.2.0 -fb 
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -7,7 +10,7 @@ The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines
   
   
 ## Homepage  
-The homepage for ScaLAPACK 2.2.0 -fb
+The homepage for ScaLAPACK 2.2.0 -fb  
 [https://www.netlib.org/scalapack/](https://www.netlib.org/scalapack/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ ScaLAPACK depends on the following modules, and they will be loaded automaticall
   
 [FlexiBLAS 3.2.0  (GCC-11.3.0)](flexiblas-3.2.0-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ScaLAPACK as dependency.  
   
 [foss 2022a  (system-system)](foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

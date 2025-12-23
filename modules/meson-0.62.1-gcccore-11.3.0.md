@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Meson 0.62.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Meson is a cross-platform build system designed to be both as fast and as user f
   
   
 ## Homepage  
-The homepage for Meson 0.62.1 
+The homepage for Meson 0.62.1   
 [https://mesonbuild.com](https://mesonbuild.com)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Meson depends on the following modules, and they will be loaded automatically wi
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [Ninja 1.10.2  (GCCcore-11.3.0)](ninja-1.10.2-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Meson as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # JAGS 4.3.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -7,7 +10,7 @@ JAGS is Just Another Gibbs Sampler.  It is a program for analysis
   
   
 ## Homepage  
-The homepage for JAGS 4.3.0 
+The homepage for JAGS 4.3.0   
 [http://mcmc-jags.sourceforge.net/](http://mcmc-jags.sourceforge.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,11 +38,8 @@ JAGS depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load JAGS as dependency.  
   
 [rjags 4-10 -R-4.1.0 (foss-2021a)](rjags-4-10-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

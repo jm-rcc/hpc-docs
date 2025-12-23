@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Automake 1.17  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ Automake: GNU Standards-compliant Makefile generator
   
   
 ## Homepage  
-The homepage for Automake 1.17 
+The homepage for Automake 1.17   
 [https://www.gnu.org/software/automake/automake.html](https://www.gnu.org/software/automake/automake.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -30,11 +33,8 @@ Automake depends on the following modules, and they will be loaded automatically
 [Autoconf 2.72  (GCCcore-14.2.0)](autoconf-.2.72-gcccore-14.2.0.md)  
 [Perl 5.40.0  (GCCcore-14.2.0)](perl-5.40.0-gcccore-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Automake as dependency.  
   
 [Autotools 20240712  (GCCcore-14.2.0)](autotools-20240712-gcccore-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

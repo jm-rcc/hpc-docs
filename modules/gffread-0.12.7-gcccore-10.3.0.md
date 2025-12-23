@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gffread 0.12.7  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ region filtering, FASTA sequence extraction and more.
   
   
 ## Homepage  
-The homepage for gffread 0.12.7 
+The homepage for gffread 0.12.7   
 [https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread](https://ccb.jhu.edu/software/stringtie/gff.shtml#gffread)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ gffread depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gffread as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

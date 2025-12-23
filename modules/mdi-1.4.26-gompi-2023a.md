@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MDI 1.4.26  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -16,7 +19,7 @@ enables tight coupling between codes using either the MPI or TCP/IP methods.
   
   
 ## Homepage  
-The homepage for MDI 1.4.26 
+The homepage for MDI 1.4.26   
 [https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,12 +48,9 @@ MDI depends on the following modules, and they will be loaded automatically with
   
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MDI as dependency.  
   
 [LAMMPS 2Aug2023_update2 -kokkos (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos.md)  
 [LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1 (foss-2023a)](lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

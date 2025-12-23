@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # QuantumESPRESSO 7.1  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -10,7 +13,7 @@ It is based on density-functional theory, plane waves, and pseudopotentials
   
   
 ## Homepage  
-The homepage for QuantumESPRESSO 7.1 
+The homepage for QuantumESPRESSO 7.1   
 [https://www.quantum-espresso.org](https://www.quantum-espresso.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,10 +46,7 @@ QuantumESPRESSO depends on the following modules, and they will be loaded automa
 [ELPA 2021.11.001  (foss-2022a)](elpa-2021.11.001-foss-2022a.md)  
 [libxc 5.2.3  (GCC-11.3.0)](libxc-.5.2.3-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load QuantumESPRESSO as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

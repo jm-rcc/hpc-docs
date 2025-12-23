@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libsndfile 1.0.31  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ Libsndfile is a C library for reading and writing files containing sampled sound
   
   
 ## Homepage  
-The homepage for libsndfile 1.0.31 
+The homepage for libsndfile 1.0.31   
 [http://www.mega-nerd.com/libsndfile](http://www.mega-nerd.com/libsndfile)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,12 +39,9 @@ libsndfile depends on the following modules, and they will be loaded automatical
 [FLAC 1.3.3  (GCCcore-10.3.0)](flac-1.3.3-gcccore-10.3.0.md)  
 [libvorbis 1.3.7  (GCCcore-10.3.0)](libvorbis-1.3.7-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libsndfile as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

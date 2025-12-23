@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # KronaTools 2.8.1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ several Bioinformatics tools as well as from text and XML files.
   
   
 ## Homepage  
-The homepage for KronaTools 2.8.1 
+The homepage for KronaTools 2.8.1   
 [https://github.com/marbl/Krona/wiki/KronaTools](https://github.com/marbl/Krona/wiki/KronaTools)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ KronaTools depends on the following modules, and they will be loaded automatical
   
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load KronaTools as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

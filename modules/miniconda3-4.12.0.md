@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Miniconda3 4.12.0  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -8,7 +11,7 @@ Miniconda is a free minimal installer for conda. It is a small,
   
   
 ## Homepage  
-The homepage for Miniconda3 4.12.0 
+The homepage for Miniconda3 4.12.0   
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ Miniconda3 depends on the following modules, and they will be loaded automatical
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Miniconda3 as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GLPK 5.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -10,7 +13,7 @@ The GLPK (GNU Linear Programming Kit) package is intended for
   
   
 ## Homepage  
-The homepage for GLPK 5.0 
+The homepage for GLPK 5.0   
 [https://www.gnu.org/software/glpk/](https://www.gnu.org/software/glpk/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,12 +41,9 @@ GLPK depends on the following modules, and they will be loaded automatically wit
   
 [GMP 6.2.1  (GCCcore-10.3.0)](gmp-.6.2.1-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GLPK as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

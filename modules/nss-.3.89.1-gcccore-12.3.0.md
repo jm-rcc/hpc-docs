@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # NSS 3.89.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ Network Security Services (NSS) is a set of libraries designed to support cross-
   
   
 ## Homepage  
-The homepage for NSS 3.89.1 
+The homepage for NSS 3.89.1   
 [https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ NSS depends on the following modules, and they will be loaded automatically with
 [NSPR 4.35  (GCCcore-12.3.0)](nspr-.4.35-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load NSS as dependency.  
   
 [Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

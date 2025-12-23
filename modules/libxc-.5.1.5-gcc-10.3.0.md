@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libxc 5.1.5  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -7,7 +10,7 @@ Libxc is a library of exchange-correlation functionals for density-functional th
   
   
 ## Homepage  
-The homepage for libxc 5.1.5 
+The homepage for libxc 5.1.5   
 [https://libxc.gitlab.io](https://libxc.gitlab.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,12 +38,9 @@ libxc depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libxc as dependency.  
   
 [CP2K 8.2  (foss-2021a)](cp2k-8.2-foss-2021a.md)  
 [QuantumESPRESSO 6.8  (foss-2021a)](quantumespresso-6.8-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

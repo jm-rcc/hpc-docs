@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Qhull 2020.2  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -12,7 +15,7 @@
   
   
 ## Homepage  
-The homepage for Qhull 2020.2 
+The homepage for Qhull 2020.2   
 [http://www.qhull.org](http://www.qhull.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ Qhull depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Qhull as dependency.  
   
 [matplotlib 3.4.2  (foss-2021a)](matplotlib-3.4.2-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

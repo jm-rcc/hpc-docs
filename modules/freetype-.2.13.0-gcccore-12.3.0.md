@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # freetype 2.13.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -12,7 +15,7 @@
   
   
 ## Homepage  
-The homepage for freetype 2.13.0 
+The homepage for freetype 2.13.0   
 [https://www.freetype.org](https://www.freetype.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,7 +48,7 @@ freetype depends on the following modules, and they will be loaded automatically
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
 [Brotli 1.0.9  (GCCcore-12.3.0)](brotli-1.0.9-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load freetype as dependency.  
   
 [FFmpeg 6.0  (GCCcore-12.3.0)](ffmpeg-6.0-gcccore-12.3.0.md)  
@@ -55,6 +58,3 @@ The following modules will load freetype as dependency.
 [cairo 1.17.8  (GCCcore-12.3.0)](cairo-1.17.8-gcccore-12.3.0.md)  
 [fontconfig 2.14.2  (GCCcore-12.3.0)](fontconfig-2.14.2-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

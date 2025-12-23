@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # flex 2.6.4  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for flex 2.6.4 
+The homepage for flex 2.6.4   
 [https://github.com/westes/flex](https://github.com/westes/flex)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,10 +38,7 @@ flex depends on the following modules, and they will be loaded automatically wit
   
 [M4 1.4.19  (GCCcore-14.2.0)](m4-.1.4.19-gcccore-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load flex as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

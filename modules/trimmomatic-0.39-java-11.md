@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Trimmomatic 0.39 -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ Trimmomatic performs a variety of useful trimming tasks for illumina
   
   
 ## Homepage  
-The homepage for Trimmomatic 0.39 -Java-11
+The homepage for Trimmomatic 0.39 -Java-11  
 [http://www.usadellab.org/cms/?page=trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ Trimmomatic depends on the following modules, and they will be loaded automatica
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Trimmomatic as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

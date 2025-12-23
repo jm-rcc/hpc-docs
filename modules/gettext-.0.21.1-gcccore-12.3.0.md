@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gettext 0.21.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@ and documentation
   
   
 ## Homepage  
-The homepage for gettext 0.21.1 
+The homepage for gettext 0.21.1   
 [https://www.gnu.org/software/gettext/](https://www.gnu.org/software/gettext/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,12 +42,9 @@ gettext depends on the following modules, and they will be loaded automatically 
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
 [ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gettext as dependency.  
   
 [GLib 2.77.1  (GCCcore-12.3.0)](glib-2.77.1-gcccore-12.3.0.md)  
 [git 2.41.0 -nodocs (GCCcore-12.3.0)](git-2.41.0-gcccore-12.3.0-nodocs.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

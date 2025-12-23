@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cuDNN 8.9.2.26 -CUDA-12.2.0 
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -7,7 +10,7 @@ a GPU-accelerated library of primitives for deep neural networks.
   
   
 ## Homepage  
-The homepage for cuDNN 8.9.2.26 -CUDA-12.2.0
+The homepage for cuDNN 8.9.2.26 -CUDA-12.2.0  
 [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -32,10 +35,7 @@ cuDNN depends on the following modules, and they will be loaded automatically wi
   
 [CUDA 12.2.0  (system-system)](cuda-12.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cuDNN as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

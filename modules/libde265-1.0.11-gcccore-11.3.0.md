@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libde265 1.0.11  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ libde265 is an open source implementation of the h.265 video codec
   
   
 ## Homepage  
-The homepage for libde265 1.0.11 
+The homepage for libde265 1.0.11   
 [https://github.com/strukturag/libde265](https://github.com/strukturag/libde265)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -26,11 +29,8 @@ libde265 depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libde265 as dependency.  
   
 [libheif 1.16.2  (GCCcore-11.3.0)](libheif-1.16.2-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

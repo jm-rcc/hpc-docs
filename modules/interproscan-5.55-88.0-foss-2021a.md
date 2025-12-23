@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # InterProScan 5.55-88.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ InterProScan is a sequence analysis application (nucleotide and protein sequence
   
   
 ## Homepage  
-The homepage for InterProScan 5.55-88.0 
+The homepage for InterProScan 5.55-88.0   
 [https://www.ebi.ac.uk/interpro/](https://www.ebi.ac.uk/interpro/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ InterProScan depends on the following modules, and they will be loaded automatic
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [PCRE 8.44  (GCCcore-10.3.0)](pcre-.8.44-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load InterProScan as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CUDA 12.1.1  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -9,7 +12,7 @@ CUDA (formerly Compute Unified Device Architecture) is a parallel
   
   
 ## Homepage  
-The homepage for CUDA 12.1.1 
+The homepage for CUDA 12.1.1   
 [https://developer.nvidia.com/cuda-toolkit](https://developer.nvidia.com/cuda-toolkit)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,7 +37,7 @@ CUDA depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CUDA as dependency.  
   
 [GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0 (foss-2023a)](gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
@@ -42,6 +45,3 @@ The following modules will load CUDA as dependency.
 [NCCL 2.18.3 -CUDA-12.1.1 (GCCcore-12.3.0)](nccl-2.18.3-gcccore-12.3.0-cuda-12.1.1.md)  
 [UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

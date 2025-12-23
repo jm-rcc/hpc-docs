@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cairo 1.17.8  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -8,7 +11,7 @@ Cairo is a 2D graphics library with support for multiple output devices.
   
   
 ## Homepage  
-The homepage for cairo 1.17.8 
+The homepage for cairo 1.17.8   
 [https://cairographics.org](https://cairographics.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,7 +48,7 @@ cairo depends on the following modules, and they will be loaded automatically wi
 [GLib 2.77.1  (GCCcore-12.3.0)](glib-.2.77.1-gcccore-12.3.0.md)  
 [X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cairo as dependency.  
   
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  
@@ -55,6 +58,3 @@ The following modules will load cairo as dependency.
 [R 4.3.3  (gfbf-2023a)](r-4.3.3-gfbf-2023a.md)  
 [R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

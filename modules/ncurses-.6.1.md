@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # ncurses 6.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -8,7 +11,7 @@ The Ncurses (new curses) library is a free software emulation of curses in Syste
   
   
 ## Homepage  
-The homepage for ncurses 6.1 
+The homepage for ncurses 6.1   
 [https://www.gnu.org/software/ncurses/](https://www.gnu.org/software/ncurses/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,10 +38,7 @@ ncurses depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load ncurses as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

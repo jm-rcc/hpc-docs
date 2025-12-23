@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MAFFT 7.490 -with-extensions 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ of <∼200 sequences), FFT-NS-2 (fast; for alignment of <∼30,000 sequences), e
   
   
 ## Homepage  
-The homepage for MAFFT 7.490 -with-extensions
+The homepage for MAFFT 7.490 -with-extensions  
 [https://mafft.cbrc.jp/alignment/software/source.html](https://mafft.cbrc.jp/alignment/software/source.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ MAFFT depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MAFFT as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

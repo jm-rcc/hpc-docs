@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # fontconfig 2.14.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for fontconfig 2.14.0 
+The homepage for fontconfig 2.14.0   
 [https://www.freedesktop.org/wiki/Software/fontconfig/](https://www.freedesktop.org/wiki/Software/fontconfig/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,13 +44,10 @@ fontconfig depends on the following modules, and they will be loaded automatical
 [freetype 2.12.1  (GCCcore-11.3.0)](freetype-.2.12.1-gcccore-11.3.0.md)  
 [util-linux 2.38  (GCCcore-11.3.0)](util-linux-.2.38-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load fontconfig as dependency.  
   
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
 [X11 20220504  (GCCcore-11.3.0)](x11-20220504-gcccore-11.3.0.md)  
 [libgd 2.3.3  (GCCcore-11.3.0)](libgd-2.3.3-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

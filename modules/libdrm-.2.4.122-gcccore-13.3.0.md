@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libdrm 2.4.122  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Direct Rendering Manager runtime library.
   
   
 ## Homepage  
-The homepage for libdrm 2.4.122 
+The homepage for libdrm 2.4.122   
 [https://dri.freedesktop.org](https://dri.freedesktop.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -33,11 +36,8 @@ libdrm depends on the following modules, and they will be loaded automatically w
   
 [X11 20240607  (GCCcore-13.3.0)](x11-.20240607-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libdrm as dependency.  
   
 [Mesa 24.1.3  (GCCcore-13.3.0)](mesa-24.1.3-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

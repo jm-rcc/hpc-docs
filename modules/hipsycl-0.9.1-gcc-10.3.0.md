@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # hipSYCL 0.9.1  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -7,7 +10,7 @@ GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP
   
   
 ## Homepage  
-The homepage for hipSYCL 0.9.1 
+The homepage for hipSYCL 0.9.1   
 [https://github.com/illuhad/hipSYCL](https://github.com/illuhad/hipSYCL)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -31,10 +34,7 @@ hipSYCL depends on the following modules, and they will be loaded automatically 
 [Clang 12.0.1  (GCCcore-10.3.0)](clang-12.0.1-gcccore-10.3.0.md)  
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load hipSYCL as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

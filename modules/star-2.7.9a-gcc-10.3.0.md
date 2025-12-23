@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # STAR 2.7.9a  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ STAR aligns RNA-seq reads to a reference genome using uncompressed suffix arrays
   
   
 ## Homepage  
-The homepage for STAR 2.7.9a 
+The homepage for STAR 2.7.9a   
 [https://github.com/alexdobin/STAR](https://github.com/alexdobin/STAR)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ STAR depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load STAR as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

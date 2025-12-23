@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # HTSeq 2.0.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ HTSeq is a Python library to facilitate processing and analysis
   
   
 ## Homepage  
-The homepage for HTSeq 2.0.2 
+The homepage for HTSeq 2.0.2   
 [https://github.com/simon-anders/htseq](https://github.com/simon-anders/htseq)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ HTSeq depends on the following modules, and they will be loaded automatically wi
 [SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
 [matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load HTSeq as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

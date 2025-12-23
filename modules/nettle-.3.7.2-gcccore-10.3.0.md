@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # nettle 3.7.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ Nettle is a cryptographic library that is designed to fit easily
   
   
 ## Homepage  
-The homepage for nettle 3.7.2 
+The homepage for nettle 3.7.2   
 [https://www.lysator.liu.se/~nisse/nettle/](https://www.lysator.liu.se/~nisse/nettle/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ nettle depends on the following modules, and they will be loaded automatically w
   
 [GMP 6.2.1  (GCCcore-10.3.0)](gmp-.6.2.1-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load nettle as dependency.  
   
 [Xvfb 1.20.11  (GCCcore-10.3.0)](xvfb-1.20.11-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # StringTie 2.1.7  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ StringTie is a fast and highly efficient assembler of RNA-Seq alignments into po
   
   
 ## Homepage  
-The homepage for StringTie 2.1.7 
+The homepage for StringTie 2.1.7   
 [https://ccb.jhu.edu/software/stringtie/](https://ccb.jhu.edu/software/stringtie/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ StringTie depends on the following modules, and they will be loaded automaticall
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load StringTie as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

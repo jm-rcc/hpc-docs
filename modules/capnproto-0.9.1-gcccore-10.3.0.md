@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CapnProto 0.9.1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Cap’n Proto is an insanely fast data interchange format and capability-based R
   
   
 ## Homepage  
-The homepage for CapnProto 0.9.1 
+The homepage for CapnProto 0.9.1   
 [https://capnproto.org](https://capnproto.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,11 +38,8 @@ CapnProto depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CapnProto as dependency.  
   
 [Mash 2.3  (GCC-10.3.0)](mash-2.3-gcc-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

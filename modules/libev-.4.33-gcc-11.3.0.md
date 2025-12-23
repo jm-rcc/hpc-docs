@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libev 4.33  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@ other programs.
   
   
 ## Homepage  
-The homepage for libev 4.33 
+The homepage for libev 4.33   
 [http://software.schmorp.de/pkg/libev.html](http://software.schmorp.de/pkg/libev.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,12 +43,9 @@ libev depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libev as dependency.  
   
 [nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-1.48.0-gcc-11.3.0.md)  
 [ngtcp2 0.7.0  (GCC-11.3.0)](ngtcp2-0.7.0-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

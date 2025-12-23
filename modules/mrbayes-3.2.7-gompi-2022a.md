@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MrBayes 3.2.7  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ MrBayes is a program for Bayesian inference and model choice across
   
   
 ## Homepage  
-The homepage for MrBayes 3.2.7 
+The homepage for MrBayes 3.2.7   
 [https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ MrBayes depends on the following modules, and they will be loaded automatically 
 [libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-.8.1.2-gcccore-11.3.0.md)  
 [beagle-lib 4.0.0  (GCC-11.3.0)](beagle-lib-4.0.0-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MrBayes as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

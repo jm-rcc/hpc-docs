@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GLib 2.77.1  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ GLib is one of the base libraries of the GTK+ project
   
   
 ## Homepage  
-The homepage for GLib 2.77.1 
+The homepage for GLib 2.77.1   
 [https://www.gtk.org/](https://www.gtk.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ GLib depends on the following modules, and they will be loaded automatically wit
 [PCRE2 10.42  (GCCcore-12.3.0)](pcre2-10.42-gcccore-12.3.0.md)  
 [util-linux 2.39  (GCCcore-12.3.0)](util-linux-.2.39-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GLib as dependency.  
   
 [ATK 2.38.0  (GCCcore-12.3.0)](atk-2.38.0-gcccore-12.3.0.md)  
@@ -55,6 +58,3 @@ The following modules will load GLib as dependency.
 [at-spi2-core 2.49.91  (GCCcore-12.3.0)](at-spi2-core-2.49.91-gcccore-12.3.0.md)  
 [cairo 1.17.8  (GCCcore-12.3.0)](cairo-1.17.8-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

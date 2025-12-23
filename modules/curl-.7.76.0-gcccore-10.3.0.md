@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cURL 7.76.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -14,7 +17,7 @@
   
   
 ## Homepage  
-The homepage for cURL 7.76.0 
+The homepage for cURL 7.76.0   
 [https://curl.haxx.se](https://curl.haxx.se)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,7 +48,7 @@ cURL depends on the following modules, and they will be loaded automatically wit
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cURL as dependency.  
   
 [CMake 3.20.1  (GCCcore-10.3.0)](cmake-3.20.1-gcccore-10.3.0.md)  
@@ -62,6 +65,3 @@ The following modules will load cURL as dependency.
 [netCDF 4.8.0  (gompi-2021a)](netcdf-4.8.0-gompi-2021a.md)  
 [pyBigWig 0.3.18  (foss-2021a)](pybigwig-0.3.18-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

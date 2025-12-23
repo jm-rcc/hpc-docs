@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GnuTLS 3.7.8  
 ![Static Badge](https://img.shields.io/badge/class-system-D7D1CC)  
   
@@ -11,7 +14,7 @@ GnuTLS is a secure communications library implementing the SSL, TLS
   
   
 ## Homepage  
-The homepage for GnuTLS 3.7.8 
+The homepage for GnuTLS 3.7.8   
 [https://www.gnutls.org](https://www.gnutls.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -48,13 +51,10 @@ GnuTLS depends on the following modules, and they will be loaded automatically w
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GnuTLS as dependency.  
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
 [glib-networking 2.72.1  (GCCcore-11.3.0)](glib-networking-2.72.1-gcccore-11.3.0.md)  
 [ngtcp2 0.7.0  (GCC-11.3.0)](ngtcp2-0.7.0-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

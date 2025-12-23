@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libunwind 1.6.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@ The primary goal of libunwind is to define a portable and efficient C programmin
   
   
 ## Homepage  
-The homepage for libunwind 1.6.2 
+The homepage for libunwind 1.6.2   
 [https://www.nongnu.org/libunwind/](https://www.nongnu.org/libunwind/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,12 +43,9 @@ libunwind depends on the following modules, and they will be loaded automaticall
   
 [XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libunwind as dependency.  
   
 [Mesa 22.0.3  (GCCcore-11.3.0)](mesa-22.0.3-gcccore-11.3.0.md)  
 [Xvfb 21.1.3  (GCCcore-11.3.0)](xvfb-21.1.3-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

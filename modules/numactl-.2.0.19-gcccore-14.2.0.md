@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # numactl 2.0.19  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for numactl 2.0.19 
+The homepage for numactl 2.0.19   
 [https://github.com/numactl/numactl](https://github.com/numactl/numactl)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,13 +37,10 @@ numactl depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load numactl as dependency.  
   
 [UCX 1.18.0  (GCCcore-14.2.0)](ucx-1.18.0-gcccore-14.2.0.md)  
 [hwloc 2.11.2  (GCCcore-14.2.0)](hwloc-2.11.2-gcccore-14.2.0.md)  
 [libfabric 2.0.0  (GCCcore-14.2.0)](libfabric-2.0.0-gcccore-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

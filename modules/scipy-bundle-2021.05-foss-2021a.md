@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # SciPy-bundle 2021.05  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Bundle of Python packages for scientific software
   
   
 ## Homepage  
-The homepage for SciPy-bundle 2021.05 
+The homepage for SciPy-bundle 2021.05   
 [https://python.org/](https://python.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,7 +39,7 @@ SciPy-bundle depends on the following modules, and they will be loaded automatic
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [pybind11 2.6.2  (GCCcore-10.3.0)](pybind11-2.6.2-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load SciPy-bundle as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  
@@ -55,6 +58,3 @@ The following modules will load SciPy-bundle as dependency.
 [pycoQC 2.5.2  (foss-2021a)](pycoqc-2.5.2-foss-2021a.md)  
 [snakemake 6.6.1  (foss-2021a)](snakemake-6.6.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

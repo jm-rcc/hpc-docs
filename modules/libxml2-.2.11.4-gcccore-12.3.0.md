@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libxml2 2.11.4  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for libxml2 2.11.4 
+The homepage for libxml2 2.11.4   
 [http://xmlsoft.org/](http://xmlsoft.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ libxml2 depends on the following modules, and they will be loaded automatically 
 [XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libxml2 as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
@@ -54,6 +57,3 @@ The following modules will load libxml2 as dependency.
 [libxslt 1.1.38  (GCCcore-12.3.0)](libxslt-1.1.38-gcccore-12.3.0.md)  
 [netCDF 4.9.2  (gompi-2023a)](netcdf-4.9.2-gompi-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

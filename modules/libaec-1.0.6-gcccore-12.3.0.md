@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libaec 1.0.6  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ are not directly supported, they can also be efficiently coded by grouping expon
   
   
 ## Homepage  
-The homepage for libaec 1.0.6 
+The homepage for libaec 1.0.6   
 [https://gitlab.dkrz.de/k202009/libaec](https://gitlab.dkrz.de/k202009/libaec)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ libaec depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libaec as dependency.  
   
 [HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

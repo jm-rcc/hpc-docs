@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # zlib 1.3.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for zlib 1.3.1 
+The homepage for zlib 1.3.1   
 [https://www.zlib.net/](https://www.zlib.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ zlib depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load zlib as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

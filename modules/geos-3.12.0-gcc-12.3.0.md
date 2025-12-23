@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GEOS 3.12.0  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -6,7 +9,7 @@ GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (J
   
   
 ## Homepage  
-The homepage for GEOS 3.12.0 
+The homepage for GEOS 3.12.0   
 [https://trac.osgeo.org/geos](https://trac.osgeo.org/geos)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ GEOS depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GEOS as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

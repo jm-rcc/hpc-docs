@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gc 8.2.2  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ garbage collecting replacement for C malloc or C++ new.
   
   
 ## Homepage  
-The homepage for gc 8.2.2 
+The homepage for gc 8.2.2   
 [https://hboehm.info/gc/](https://hboehm.info/gc/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ gc depends on the following modules, and they will be loaded automatically with 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gc as dependency.  
   
 [Guile 3.0.8  (GCCcore-11.3.0)](guile-3.0.8-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

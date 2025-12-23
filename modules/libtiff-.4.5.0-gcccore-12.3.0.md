@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # LibTIFF 4.5.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ tiff: Library and tools for reading and writing TIFF data files
   
   
 ## Homepage  
-The homepage for LibTIFF 4.5.0 
+The homepage for LibTIFF 4.5.0   
 [https://libtiff.gitlab.io/libtiff/](https://libtiff.gitlab.io/libtiff/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,7 +44,7 @@ LibTIFF depends on the following modules, and they will be loaded automatically 
 [zstd 1.5.5  (GCCcore-12.3.0)](zstd-1.5.5-gcccore-12.3.0.md)  
 [libdeflate 1.18  (GCCcore-12.3.0)](libdeflate-1.18-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load LibTIFF as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
@@ -53,6 +56,3 @@ The following modules will load LibTIFF as dependency.
 [R 4.4.0  (gfbf-2023a)](r-4.4.0-gfbf-2023a.md)  
 [libgeotiff 1.7.1  (GCCcore-12.3.0)](libgeotiff-1.7.1-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

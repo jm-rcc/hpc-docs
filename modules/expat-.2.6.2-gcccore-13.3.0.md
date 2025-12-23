@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # expat 2.6.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@ in the XML document (like start tags).
   
   
 ## Homepage  
-The homepage for expat 2.6.2 
+The homepage for expat 2.6.2   
 [https://libexpat.github.io](https://libexpat.github.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,7 +38,7 @@ expat depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load expat as dependency.  
   
 [Perl-bundle-CPAN 5.38.2  (GCCcore-13.3.0)](perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
@@ -43,6 +46,3 @@ The following modules will load expat as dependency.
 [fontconfig 2.15.0  (GCCcore-13.3.0)](fontconfig-2.15.0-gcccore-13.3.0.md)  
 [git 2.45.1  (GCCcore-13.3.0)](git-2.45.1-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

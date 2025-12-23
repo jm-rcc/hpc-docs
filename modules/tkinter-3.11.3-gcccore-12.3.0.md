@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Tkinter 3.11.3  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Tkinter module, built with the Python buildsystem
   
   
 ## Homepage  
-The homepage for Tkinter 3.11.3 
+The homepage for Tkinter 3.11.3   
 [https://python.org/](https://python.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ Tkinter depends on the following modules, and they will be loaded automatically 
 [Tk 8.6.13  (GCCcore-12.3.0)](tk-.8.6.13-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Tkinter as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

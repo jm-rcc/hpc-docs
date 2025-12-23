@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # UDUNITS 2.2.28  
 ![Static Badge](https://img.shields.io/badge/class-phys-D7D1CC)  
   
@@ -7,7 +10,7 @@ UDUNITS supports conversion of unit specifications between formatted and binary 
   
   
 ## Homepage  
-The homepage for UDUNITS 2.2.28 
+The homepage for UDUNITS 2.2.28   
 [https://www.unidata.ucar.edu/software/udunits/](https://www.unidata.ucar.edu/software/udunits/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,12 +38,9 @@ UDUNITS depends on the following modules, and they will be loaded automatically 
   
 [expat 2.2.9  (GCCcore-10.3.0)](expat-.2.2.9-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load UDUNITS as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

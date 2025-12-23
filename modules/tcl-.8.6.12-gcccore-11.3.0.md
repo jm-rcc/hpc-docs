@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Tcl 8.6.12  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for Tcl 8.6.12 
+The homepage for Tcl 8.6.12   
 [https://www.tcl.tk/](https://www.tcl.tk/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,12 +43,9 @@ Tcl depends on the following modules, and they will be loaded automatically with
   
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Tcl as dependency.  
   
 [SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-3.38.3-gcccore-11.3.0.md)  
 [Tk 8.6.12  (GCCcore-11.3.0)](tk-8.6.12-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

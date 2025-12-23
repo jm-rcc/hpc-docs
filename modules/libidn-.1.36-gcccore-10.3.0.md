@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libidn 1.36  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ Libidn's purpose is to encode and decode internationalized domain names.
   
   
 ## Homepage  
-The homepage for libidn 1.36 
+The homepage for libidn 1.36   
 [http://www.gnu.org/software/libidn](http://www.gnu.org/software/libidn)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ libidn depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libidn as dependency.  
   
 [tbl2asn 20230119 -linux64 (system-system)](tbl2asn-20230119-linux64.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

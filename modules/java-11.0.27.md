@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Java 11.0.27  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -7,7 +10,7 @@ Java applications on desktops and servers.
   
   
 ## Homepage  
-The homepage for Java 11.0.27 
+The homepage for Java 11.0.27   
 [http://openjdk.java.net](http://openjdk.java.net)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Java depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Java as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

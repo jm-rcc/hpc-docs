@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BCFtools 1.12  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ Samtools is a suite of programs for interacting with high-throughput sequencing 
   
   
 ## Homepage  
-The homepage for BCFtools 1.12 
+The homepage for BCFtools 1.12   
 [https://www.htslib.org/](https://www.htslib.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,11 +45,8 @@ BCFtools depends on the following modules, and they will be loaded automatically
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
 [GSL 2.7  (GCC-10.3.0)](gsl-2.7-gcc-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BCFtools as dependency.  
   
 [AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

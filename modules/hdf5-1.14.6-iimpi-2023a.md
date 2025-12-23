@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # HDF5 1.14.6  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -8,7 +11,7 @@ HDF5 is a data model, library, and file format for storing and managing data.
   
   
 ## Homepage  
-The homepage for HDF5 1.14.6 
+The homepage for HDF5 1.14.6   
 [https://portal.hdfgroup.org/display/support](https://portal.hdfgroup.org/display/support)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -32,11 +35,8 @@ HDF5 depends on the following modules, and they will be loaded automatically wit
 [Perl 5.36.1  (GCCcore-12.3.0)](perl-5.36.1-gcccore-12.3.0.md)  
 [zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load HDF5 as dependency.  
   
 [DIRAC 25.0 -int64 (intel-2023a)](dirac-25.0-intel-2023a-int64.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

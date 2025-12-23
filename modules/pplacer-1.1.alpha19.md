@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pplacer 1.1.alpha19  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ Pplacer places query sequences on a fixed reference phylogenetic tree to maximiz
   
   
 ## Homepage  
-The homepage for pplacer 1.1.alpha19 
+The homepage for pplacer 1.1.alpha19   
 [http://matsen.fhcrc.org/pplacer/](http://matsen.fhcrc.org/pplacer/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,13 +41,10 @@ pplacer depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pplacer as dependency.  
   
 [CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  
 [CheckM 1.2.2  (foss-2022a)](checkm-1.2.2-foss-2022a.md)  
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

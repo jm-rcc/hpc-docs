@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gompi 2025a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -7,7 +10,7 @@ GNU Compiler Collection (GCC) based compiler toolchain,
   
   
 ## Homepage  
-The homepage for gompi 2025a 
+The homepage for gompi 2025a   
 (none)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -31,10 +34,7 @@ gompi depends on the following modules, and they will be loaded automatically wi
 [GCC 14.2.0  (system-system)](gcc-14.2.0.md)  
 [OpenMPI 5.0.7  (GCC-14.2.0)](openmpi-5.0.7-gcc-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gompi as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

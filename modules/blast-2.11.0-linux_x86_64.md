@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BLAST 2.11.0 -Linux_x86_64 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ sequence information, such as the amino-acid sequences of different proteins or 
   
   
 ## Homepage  
-The homepage for BLAST 2.11.0 -Linux_x86_64
+The homepage for BLAST 2.11.0 -Linux_x86_64  
 [https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ BLAST depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BLAST as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

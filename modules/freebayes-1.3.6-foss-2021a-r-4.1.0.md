@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # freebayes 1.3.6 -R-4.1.0 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Bayesian haplotype-based genetic polymorphism discovery and genotyping.
   
   
 ## Homepage  
-The homepage for freebayes 1.3.6 -R-4.1.0
+The homepage for freebayes 1.3.6 -R-4.1.0  
 [https://github.com/freebayes/freebayes](https://github.com/freebayes/freebayes)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,10 +43,7 @@ freebayes depends on the following modules, and they will be loaded automaticall
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
 [SeqLib 1.2.0  (GCC-10.3.0)](seqlib-1.2.0-gcc-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load freebayes as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # VSCode 1.87.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -13,7 +16,7 @@
   
   
 ## Homepage  
-The homepage for VSCode 1.87.0 
+The homepage for VSCode 1.87.0   
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,10 +46,7 @@ VSCode depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load VSCode as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

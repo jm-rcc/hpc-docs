@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # util-linux 2.40  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ Set of Linux utilities
   
   
 ## Homepage  
-The homepage for util-linux 2.40 
+The homepage for util-linux 2.40   
 [https://www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,11 +38,8 @@ util-linux depends on the following modules, and they will be loaded automatical
 [zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
 [SQLite 3.45.3  (GCCcore-13.3.0)](sqlite-.3.45.3-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load util-linux as dependency.  
   
 [fontconfig 2.15.0  (GCCcore-13.3.0)](fontconfig-2.15.0-gcccore-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GCC 14.2.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -7,7 +10,7 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
   
   
 ## Homepage  
-The homepage for GCC 14.2.0 
+The homepage for GCC 14.2.0   
 [https://gcc.gnu.org/](https://gcc.gnu.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -31,12 +34,9 @@ GCC depends on the following modules, and they will be loaded automatically with
 [GCCcore 14.2.0  (system-system)](gcccore-.14.2.0.md)  
 [binutils 2.42  (GCCcore-14.2.0)](binutils-.2.42-gcccore-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GCC as dependency.  
   
 [foss 2025a  (system-system)](foss-2025a.md)  
 [gompi 2025a  (system-system)](gompi-2025a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

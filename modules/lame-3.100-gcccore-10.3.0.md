@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # LAME 3.100  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -6,7 +9,7 @@ LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGP
   
   
 ## Homepage  
-The homepage for LAME 3.100 
+The homepage for LAME 3.100   
 [http://lame.sourceforge.net/](http://lame.sourceforge.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,11 +37,8 @@ LAME depends on the following modules, and they will be loaded automatically wit
   
 [ncurses 6.2  (GCCcore-10.3.0)](ncurses-.6.2-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load LAME as dependency.  
   
 [FFmpeg 4.3.2  (GCCcore-10.3.0)](ffmpeg-4.3.2-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

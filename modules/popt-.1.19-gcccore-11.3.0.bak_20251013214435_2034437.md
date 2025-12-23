@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # popt 1.19  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Popt is a C library for parsing command line parameters.
   
   
 ## Homepage  
-The homepage for popt 1.19 
+The homepage for popt 1.19   
 [http://freecode.com/projects/popt](http://freecode.com/projects/popt)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -26,10 +29,7 @@ popt depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load popt as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

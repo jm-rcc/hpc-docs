@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Beagle 5.4.22Jul22.46e -Java-11 
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ Beagle is a software package for phasing genotypes and for imputing
   
   
 ## Homepage  
-The homepage for Beagle 5.4.22Jul22.46e -Java-11
+The homepage for Beagle 5.4.22Jul22.46e -Java-11  
 [https://faculty.washington.edu/browning/beagle/beagle.html](https://faculty.washington.edu/browning/beagle/beagle.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ Beagle depends on the following modules, and they will be loaded automatically w
   
 [Java 11  (system-system)](java-11.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Beagle as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

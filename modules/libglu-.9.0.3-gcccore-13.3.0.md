@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libGLU 9.0.3  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL.
   
   
 ## Homepage  
-The homepage for libGLU 9.0.3 
+The homepage for libGLU 9.0.3   
 [https://gitlab.freedesktop.org/mesa/glu](https://gitlab.freedesktop.org/mesa/glu)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -33,11 +36,8 @@ libGLU depends on the following modules, and they will be loaded automatically w
   
 [Mesa 24.1.3  (GCCcore-13.3.0)](mesa-.24.1.3-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libGLU as dependency.  
   
 [VirtualGL 3.1.3  (GCC-13.3.0)](virtualgl-3.1.3-gcc-13.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

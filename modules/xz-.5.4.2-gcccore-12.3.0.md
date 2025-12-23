@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # XZ 5.4.2  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ xz: XZ utilities
   
   
 ## Homepage  
-The homepage for XZ 5.4.2 
+The homepage for XZ 5.4.2   
 [https://tukaani.org/xz/](https://tukaani.org/xz/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,7 +39,7 @@ XZ depends on the following modules, and they will be loaded automatically with 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load XZ as dependency.  
   
 [BCFtools 1.18  (GCC-12.3.0)](bcftools-1.18-gcc-12.3.0.md)  
@@ -55,6 +58,3 @@ The following modules will load XZ as dependency.
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-2.11.4-gcccore-12.3.0.md)  
 [zstd 1.5.5  (GCCcore-12.3.0)](zstd-1.5.5-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

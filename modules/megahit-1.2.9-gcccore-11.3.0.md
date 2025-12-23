@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # MEGAHIT 1.2.9  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ metagenomics assembly via succinct de Bruijn graph
   
   
 ## Homepage  
-The homepage for MEGAHIT 1.2.9 
+The homepage for MEGAHIT 1.2.9   
 [https://github.com/voutcn/megahit](https://github.com/voutcn/megahit)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ MEGAHIT depends on the following modules, and they will be loaded automatically 
 [bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
 [gzip 1.12  (GCCcore-11.3.0)](gzip-1.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load MEGAHIT as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

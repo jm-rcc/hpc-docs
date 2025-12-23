@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CD-HIT 4.8.1  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@
   
   
 ## Homepage  
-The homepage for CD-HIT 4.8.1 
+The homepage for CD-HIT 4.8.1   
 [http://weizhongli-lab.org/cd-hit/](http://weizhongli-lab.org/cd-hit/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ CD-HIT depends on the following modules, and they will be loaded automatically w
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CD-HIT as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libjpeg-turbo 2.1.3  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for libjpeg-turbo 2.1.3 
+The homepage for libjpeg-turbo 2.1.3   
 [https://sourceforge.net/projects/libjpeg-turbo/](https://sourceforge.net/projects/libjpeg-turbo/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ libjpeg-turbo depends on the following modules, and they will be loaded automati
   
 [NASM 2.15.05  (GCCcore-11.3.0)](nasm-.2.15.05-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libjpeg-turbo as dependency.  
   
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
@@ -62,6 +65,3 @@ The following modules will load libjpeg-turbo as dependency.
 [libwebp 1.2.4  (GCCcore-11.3.0)](libwebp-1.2.4-gcccore-11.3.0.md)  
 [motif 2.3.8  (GCCcore-11.3.0)](motif-2.3.8-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

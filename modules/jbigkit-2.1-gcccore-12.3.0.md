@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # jbigkit 2.1  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -8,7 +11,7 @@ JBIG-KIT is a software implementation of the JBIG1 data
   
   
 ## Homepage  
-The homepage for jbigkit 2.1 
+The homepage for jbigkit 2.1   
 [https://www.cl.cam.ac.uk/~mgk25/jbigkit/](https://www.cl.cam.ac.uk/~mgk25/jbigkit/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ jbigkit depends on the following modules, and they will be loaded automatically 
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load jbigkit as dependency.  
   
 [LibTIFF 4.5.0  (GCCcore-12.3.0)](libtiff-4.5.0-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

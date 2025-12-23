@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Catch2 2.13.9  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ A modern, C++-native, header-only,
   
   
 ## Homepage  
-The homepage for Catch2 2.13.9 
+The homepage for Catch2 2.13.9   
 [https://github.com/catchorg/Catch2](https://github.com/catchorg/Catch2)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ Catch2 depends on the following modules, and they will be loaded automatically w
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Catch2 as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

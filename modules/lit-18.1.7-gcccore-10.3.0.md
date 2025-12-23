@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # lit 18.1.7  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ providing indication of failures.
   
   
 ## Homepage  
-The homepage for lit 18.1.7 
+The homepage for lit 18.1.7   
 [https://llvm.org/docs/CommandGuide/lit.html](https://llvm.org/docs/CommandGuide/lit.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ lit depends on the following modules, and they will be loaded automatically with
   
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load lit as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

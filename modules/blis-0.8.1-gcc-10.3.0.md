@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BLIS 0.8.1  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -7,7 +10,7 @@ BLAS-like dense linear algebra libraries.
   
   
 ## Homepage  
-The homepage for BLIS 0.8.1 
+The homepage for BLIS 0.8.1   
 [https://github.com/flame/blis/](https://github.com/flame/blis/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,10 +38,7 @@ BLIS depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BLIS as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

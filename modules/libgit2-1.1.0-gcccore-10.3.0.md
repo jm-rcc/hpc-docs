@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libgit2 1.1.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -8,7 +11,7 @@ which supports C bindings.
   
   
 ## Homepage  
-The homepage for libgit2 1.1.0 
+The homepage for libgit2 1.1.0   
 [https://libgit2.org/](https://libgit2.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ libgit2 depends on the following modules, and they will be loaded automatically 
 [PCRE 8.44  (GCCcore-10.3.0)](pcre-.8.44-gcccore-10.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libgit2 as dependency.  
   
 [R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
 [R 4.2.1  (foss-2021a)](r-4.2.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

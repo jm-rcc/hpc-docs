@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Judy 1.0.5  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ A C library that implements a dynamic array.
   
   
 ## Homepage  
-The homepage for Judy 1.0.5 
+The homepage for Judy 1.0.5   
 [http://judy.sourceforge.net/](http://judy.sourceforge.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ Judy depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Judy as dependency.  
   
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

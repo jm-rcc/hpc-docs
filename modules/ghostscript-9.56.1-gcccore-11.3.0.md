@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Ghostscript 9.56.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -7,7 +10,7 @@ Ghostscript is a versatile processor for PostScript data with the ability to ren
   
   
 ## Homepage  
-The homepage for Ghostscript 9.56.1 
+The homepage for Ghostscript 9.56.1   
 [https://ghostscript.com](https://ghostscript.com)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,11 +48,8 @@ Ghostscript depends on the following modules, and they will be loaded automatica
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
 [GTK2 2.24.33  (GCCcore-11.3.0)](gtk2-2.24.33-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Ghostscript as dependency.  
   
 [ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

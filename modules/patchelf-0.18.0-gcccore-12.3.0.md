@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # patchelf 0.18.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ PatchELF is a small utility to modify the dynamic linker and RPATH of ELF execut
   
   
 ## Homepage  
-The homepage for patchelf 0.18.0 
+The homepage for patchelf 0.18.0   
 [https://github.com/NixOS/patchelf](https://github.com/NixOS/patchelf)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ patchelf depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load patchelf as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

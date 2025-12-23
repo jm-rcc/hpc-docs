@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # DendroPy 4.5.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ reading, writing, simulation, processing and manipulation of phylogenetic trees
   
   
 ## Homepage  
-The homepage for DendroPy 4.5.2 
+The homepage for DendroPy 4.5.2   
 [https://dendropy.org/](https://dendropy.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,12 +41,9 @@ DendroPy depends on the following modules, and they will be loaded automatically
   
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load DendroPy as dependency.  
   
 [CheckM 1.2.2  (foss-2022a)](checkm-1.2.2-foss-2022a.md)  
 [SEPP 4.5.1  (foss-2022a)](sepp-4.5.1-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

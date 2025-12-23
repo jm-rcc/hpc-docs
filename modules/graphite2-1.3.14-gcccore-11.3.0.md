@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # graphite2 1.3.14  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -7,7 +10,7 @@ Graphite is a "smart font" system developed specifically to
   
   
 ## Homepage  
-The homepage for graphite2 1.3.14 
+The homepage for graphite2 1.3.14   
 [https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home](https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ graphite2 depends on the following modules, and they will be loaded automaticall
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load graphite2 as dependency.  
   
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

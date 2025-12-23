@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PRRTE 3.0.8  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ PRRTE is the PMIx Reference RunTime Environment
   
   
 ## Homepage  
-The homepage for PRRTE 3.0.8 
+The homepage for PRRTE 3.0.8   
 [https://docs.prrte.org/](https://docs.prrte.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -31,11 +34,8 @@ PRRTE depends on the following modules, and they will be loaded automatically wi
 [hwloc 2.11.2  (GCCcore-14.2.0)](hwloc-.2.11.2-gcccore-14.2.0.md)  
 [PMIx 5.0.6  (GCCcore-14.2.0)](pmix-.5.0.6-gcccore-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PRRTE as dependency.  
   
 [OpenMPI 5.0.7  (GCC-14.2.0)](openmpi-5.0.7-gcc-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

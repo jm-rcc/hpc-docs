@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CheckM-Database 2015_01_16  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -10,7 +13,7 @@ This is the corresponding database.
   
   
 ## Homepage  
-The homepage for CheckM-Database 2015_01_16 
+The homepage for CheckM-Database 2015_01_16   
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,11 +43,8 @@ CheckM-Database depends on the following modules, and they will be loaded automa
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CheckM-Database as dependency.  
   
 [CheckM 1.2.2  (foss-2022a)](checkm-1.2.2-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

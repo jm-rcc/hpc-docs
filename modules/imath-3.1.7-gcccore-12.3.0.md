@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Imath 3.1.7  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ Imath is a C++ and python library of 2D and 3D vector, matrix, and math operatio
   
   
 ## Homepage  
-The homepage for Imath 3.1.7 
+The homepage for Imath 3.1.7   
 [https://imath.readthedocs.io/en/latest/](https://imath.readthedocs.io/en/latest/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ Imath depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Imath as dependency.  
   
 [OpenEXR 3.1.7  (GCCcore-12.3.0)](openexr-3.1.7-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

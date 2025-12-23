@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Wayland 1.22.0  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -13,7 +16,7 @@ Wayland is a project to define a protocol for a compositor to talk to
   
   
 ## Homepage  
-The homepage for Wayland 1.22.0 
+The homepage for Wayland 1.22.0   
 [https://wayland.freedesktop.org/](https://wayland.freedesktop.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,11 +48,8 @@ Wayland depends on the following modules, and they will be loaded automatically 
 [expat 2.5.0  (GCCcore-12.3.0)](expat-.2.5.0-gcccore-12.3.0.md)  
 [libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Wayland as dependency.  
   
 [GTK3 3.24.37  (GCCcore-12.3.0)](gtk3-3.24.37-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

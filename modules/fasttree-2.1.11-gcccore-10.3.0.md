@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # FastTree 2.1.11  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -8,7 +11,7 @@ FastTree infers approximately-maximum-likelihood phylogenetic trees from alignme
   
   
 ## Homepage  
-The homepage for FastTree 2.1.11 
+The homepage for FastTree 2.1.11   
 [http://www.microbesonline.org/fasttree/](http://www.microbesonline.org/fasttree/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ FastTree depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load FastTree as dependency.  
   
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

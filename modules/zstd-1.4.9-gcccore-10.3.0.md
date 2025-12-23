@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # zstd 1.4.9  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ Zstandard is a real-time compression algorithm, providing high compression ratio
   
   
 ## Homepage  
-The homepage for zstd 1.4.9 
+The homepage for zstd 1.4.9   
 [https://facebook.github.io/zstd](https://facebook.github.io/zstd)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,7 +45,7 @@ zstd depends on the following modules, and they will be loaded automatically wit
 [XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
 [lz4 1.9.3  (GCCcore-10.3.0)](lz4-1.9.3-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load zstd as dependency.  
   
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
@@ -50,6 +53,3 @@ The following modules will load zstd as dependency.
 [Mesa 21.1.1  (GCCcore-10.3.0)](mesa-21.1.1-gcccore-10.3.0.md)  
 [elfutils 0.185  (GCCcore-10.3.0)](elfutils-0.185-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

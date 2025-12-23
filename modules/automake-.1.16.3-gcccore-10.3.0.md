@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Automake 1.16.3  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ Automake: GNU Standards-compliant Makefile generator
   
   
 ## Homepage  
-The homepage for Automake 1.16.3 
+The homepage for Automake 1.16.3   
 [https://www.gnu.org/software/automake/automake.html](https://www.gnu.org/software/automake/automake.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ Automake depends on the following modules, and they will be loaded automatically
   
 [Autoconf 2.71  (GCCcore-10.3.0)](autoconf-.2.71-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Automake as dependency.  
   
 [Autotools 20210128  (GCCcore-10.3.0)](autotools-20210128-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # make 4.4.1  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ GNU version of make utility
   
   
 ## Homepage  
-The homepage for make 4.4.1 
+The homepage for make 4.4.1   
 [https://www.gnu.org/software/make/make.html](https://www.gnu.org/software/make/make.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -29,10 +32,7 @@ make depends on the following modules, and they will be loaded automatically wit
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load make as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

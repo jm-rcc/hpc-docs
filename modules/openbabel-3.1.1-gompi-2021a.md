@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # OpenBabel 3.1.1  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -9,7 +12,7 @@ Open Babel is a chemical toolbox designed to speak the many
   
   
 ## Homepage  
-The homepage for OpenBabel 3.1.1 
+The homepage for OpenBabel 3.1.1   
 [https://openbabel.org](https://openbabel.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -48,10 +51,7 @@ OpenBabel depends on the following modules, and they will be loaded automaticall
 [maeparser 1.3.0  (gompi-2021a)](maeparser-1.3.0-gompi-2021a.md)  
 [CoordgenLibs 3.0.1  (gompi-2021a)](coordgenlibs-3.0.1-gompi-2021a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load OpenBabel as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

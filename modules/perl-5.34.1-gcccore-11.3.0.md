@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Perl 5.34.1  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Larry Wall's Practical Extraction and Report Language
   
   
 ## Homepage  
-The homepage for Perl 5.34.1 
+The homepage for Perl 5.34.1   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,7 +44,7 @@ Perl depends on the following modules, and they will be loaded automatically wit
 [DB 18.1.40  (GCCcore-11.3.0)](db-18.1.40-gcccore-11.3.0.md)  
 [OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Perl as dependency.  
   
 [Archive-Zip 1.68  (GCCcore-11.3.0)](archive-zip-1.68-gcccore-11.3.0.md)  
@@ -68,6 +71,3 @@ The following modules will load Perl as dependency.
 [makeinfo 6.8  (GCCcore-11.3.0)](makeinfo-6.8-gcccore-11.3.0.md)  
 [parallel 20220722  (GCCcore-11.3.0)](parallel-20220722-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

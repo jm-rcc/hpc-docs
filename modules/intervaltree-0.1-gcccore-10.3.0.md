@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # intervaltree 0.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -9,7 +12,7 @@ An interval tree can be used to efficiently find a set of numeric intervals
   
   
 ## Homepage  
-The homepage for intervaltree 0.1 
+The homepage for intervaltree 0.1   
 [https://github.com/ekg/intervaltree](https://github.com/ekg/intervaltree)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ intervaltree depends on the following modules, and they will be loaded automatic
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load intervaltree as dependency.  
   
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

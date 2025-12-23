@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # PLINK 2.00a3.6  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Whole-genome association analysis toolset
   
   
 ## Homepage  
-The homepage for PLINK 2.00a3.6 
+The homepage for PLINK 2.00a3.6   
 [https://www.cog-genomics.org/plink/2.0/](https://www.cog-genomics.org/plink/2.0/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ PLINK depends on the following modules, and they will be loaded automatically wi
 [libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load PLINK as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

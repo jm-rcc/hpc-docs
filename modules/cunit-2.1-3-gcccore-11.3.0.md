@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # CUnit 2.1-3  
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -6,7 +9,7 @@ Automated testing framework for C.
   
   
 ## Homepage  
-The homepage for CUnit 2.1-3 
+The homepage for CUnit 2.1-3   
 [https://sourceforge.net/projects/cunit/](https://sourceforge.net/projects/cunit/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ CUnit depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load CUnit as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

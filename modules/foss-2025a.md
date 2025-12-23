@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # foss 2025a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -7,7 +10,7 @@ GNU Compiler Collection (GCC) based compiler toolchain, including
   
   
 ## Homepage  
-The homepage for foss 2025a 
+The homepage for foss 2025a   
 [https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#foss-toolchain)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -35,10 +38,7 @@ foss depends on the following modules, and they will be loaded automatically wit
 [FFTW.MPI 3.3.10  (gompi-2025a)](fftw.mpi-3.3.10-gompi-2025a.md)  
 [ScaLAPACK 2.2.2 -fb (gompi-2025a)](scalapack-2.2.2-gompi-2025a-fb.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load foss as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

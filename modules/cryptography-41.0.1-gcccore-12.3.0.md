@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cryptography 41.0.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -6,7 +9,7 @@ cryptography is a package designed to expose cryptographic primitives and recipe
   
   
 ## Homepage  
-The homepage for cryptography 41.0.1 
+The homepage for cryptography 41.0.1   
 [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ cryptography depends on the following modules, and they will be loaded automatic
 [Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
 [cffi 1.15.1  (GCCcore-12.3.0)](cffi-1.15.1-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cryptography as dependency.  
   
 [Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
 [poetry 1.5.1  (GCCcore-12.3.0)](poetry-1.5.1-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

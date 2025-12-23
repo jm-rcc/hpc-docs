@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pyBigWig 0.3.18  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ A python extension, written in C, for quick access to bigBed
   
   
 ## Homepage  
-The homepage for pyBigWig 0.3.18 
+The homepage for pyBigWig 0.3.18   
 [https://github.com/deeptools/pyBigWig](https://github.com/deeptools/pyBigWig)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ pyBigWig depends on the following modules, and they will be loaded automatically
 [NSS 3.65  (GCCcore-10.3.0)](nss-.3.65-gcccore-10.3.0.md)  
 [SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pyBigWig as dependency.  
   
 [deepTools 3.5.0  (foss-2021a)](deeptools-3.5.0-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

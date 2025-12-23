@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libjpeg-turbo 2.1.5.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -10,7 +13,7 @@
   
   
 ## Homepage  
-The homepage for libjpeg-turbo 2.1.5.1 
+The homepage for libjpeg-turbo 2.1.5.1   
 [https://sourceforge.net/projects/libjpeg-turbo/](https://sourceforge.net/projects/libjpeg-turbo/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,7 +43,7 @@ libjpeg-turbo depends on the following modules, and they will be loaded automati
   
 [NASM 2.16.01  (GCCcore-12.3.0)](nasm-.2.16.01-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libjpeg-turbo as dependency.  
   
 [GDAL 3.7.1  (foss-2023a)](gdal-3.7.1-foss-2023a.md)  
@@ -56,6 +59,3 @@ The following modules will load libjpeg-turbo as dependency.
 [libgeotiff 1.7.1  (GCCcore-12.3.0)](libgeotiff-1.7.1-gcccore-12.3.0.md)  
 [libheif 1.17.6  (GCCcore-12.3.0)](libheif-1.17.6-gcccore-12.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

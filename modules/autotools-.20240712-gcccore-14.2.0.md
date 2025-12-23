@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Autotools 20240712  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -9,7 +12,7 @@
   
   
 ## Homepage  
-The homepage for Autotools 20240712 
+The homepage for Autotools 20240712   
 [https://autotools.io](https://autotools.io)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -34,10 +37,7 @@ Autotools depends on the following modules, and they will be loaded automaticall
 [Automake 1.17  (GCCcore-14.2.0)](automake-.1.17-gcccore-14.2.0.md)  
 [libtool 2.5.4  (GCCcore-14.2.0)](libtool-.2.5.4-gcccore-14.2.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Autotools as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

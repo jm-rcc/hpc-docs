@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # BUSCO 5.4.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ BUSCO: assessing genome assembly and annotation completeness with single-copy or
   
   
 ## Homepage  
-The homepage for BUSCO 5.4.2 
+The homepage for BUSCO 5.4.2   
 [https://busco.ezlab.org/](https://busco.ezlab.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,10 +47,7 @@ BUSCO depends on the following modules, and they will be loaded automatically wi
 [MetaEuk 5  (GCC-10.3.0)](metaeuk-5-gcc-10.3.0.md)  
 [BBMap 38.96  (GCC-10.3.0)](bbmap-38.96-gcc-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load BUSCO as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

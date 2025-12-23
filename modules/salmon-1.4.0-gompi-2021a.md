@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Salmon 1.4.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ Salmon is a wicked-fast program to produce a highly-accurate,
   
   
 ## Homepage  
-The homepage for Salmon 1.4.0 
+The homepage for Salmon 1.4.0   
 [https://github.com/COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ Salmon depends on the following modules, and they will be loaded automatically w
 [Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
 [tbb 2020.3  (GCCcore-10.3.0)](tbb-2020.3-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Salmon as dependency.  
   
 [Trinity 2.9.1  (foss-2021a)](trinity-2.9.1-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

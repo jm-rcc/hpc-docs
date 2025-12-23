@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # cppy 1.2.1  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -9,7 +12,7 @@ methods for performing common object operations.
   
   
 ## Homepage  
-The homepage for cppy 1.2.1 
+The homepage for cppy 1.2.1   
 [https://github.com/nucleic/cppy](https://github.com/nucleic/cppy)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ cppy depends on the following modules, and they will be loaded automatically wit
   
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load cppy as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

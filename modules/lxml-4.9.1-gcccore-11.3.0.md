@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # lxml 4.9.1  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxs
   
   
 ## Homepage  
-The homepage for lxml 4.9.1 
+The homepage for lxml 4.9.1   
 [https://lxml.de/](https://lxml.de/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ lxml depends on the following modules, and they will be loaded automatically wit
 [libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
 [libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load lxml as dependency.  
   
 [IPython 8.5.0  (GCCcore-11.3.0)](ipython-8.5.0-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

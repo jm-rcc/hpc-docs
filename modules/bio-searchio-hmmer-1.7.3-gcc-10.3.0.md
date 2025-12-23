@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Bio-SearchIO-hmmer 1.7.3  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -7,7 +10,7 @@ with both version 2 and version 3 of the HMMER package from http://hmmer.org.
   
   
 ## Homepage  
-The homepage for Bio-SearchIO-hmmer 1.7.3 
+The homepage for Bio-SearchIO-hmmer 1.7.3   
 [https://metacpan.org/pod/Bio::SearchIO::hmmer3](https://metacpan.org/pod/Bio::SearchIO::hmmer3)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,11 +41,8 @@ Bio-SearchIO-hmmer depends on the following modules, and they will be loaded aut
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Bio-SearchIO-hmmer as dependency.  
   
 [prokka 1.14.5  (gompi-2021a)](prokka-1.14.5-gompi-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

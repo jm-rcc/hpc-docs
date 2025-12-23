@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Qhull 2020.2  
 ![Static Badge](https://img.shields.io/badge/class-math-D7D1CC)  
   
@@ -12,7 +15,7 @@
   
   
 ## Homepage  
-The homepage for Qhull 2020.2 
+The homepage for Qhull 2020.2   
 [http://www.qhull.org](http://www.qhull.org)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -42,12 +45,9 @@ Qhull depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Qhull as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
 [matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # intel-compilers 2024.2.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -6,7 +9,7 @@ Intel C, C++ & Fortran compilers (classic and oneAPI)
   
   
 ## Homepage  
-The homepage for intel-compilers 2024.2.0 
+The homepage for intel-compilers 2024.2.0   
 [https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html](https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,12 +40,9 @@ intel-compilers depends on the following modules, and they will be loaded automa
 [GCCcore 13.3.0  (system-system)](gcccore-.13.3.0.md)  
 [binutils 2.42  (GCCcore-13.3.0)](binutils-.2.42-gcccore-13.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load intel-compilers as dependency.  
   
 [iimpi 2024a  (system-system)](iimpi-2024a.md)  
 [intel 2024a  (system-system)](intel-2024a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

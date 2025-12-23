@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # HMMER 3.3.2  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -14,7 +17,7 @@ HMMER is used for searching sequence databases for homologs
   
   
 ## Homepage  
-The homepage for HMMER 3.3.2 
+The homepage for HMMER 3.3.2   
 [http://hmmer.org/](http://hmmer.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -43,13 +46,10 @@ HMMER depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load HMMER as dependency.  
   
 [BUSCO 5.4.2  (foss-2021a)](busco-5.4.2-foss-2021a.md)  
 [CheckM 1.1.3  (foss-2021a)](checkm-1.1.3-foss-2021a.md)  
 [GTDB-Tk 2.0.0  (foss-2021a)](gtdb-tk-2.0.0-foss-2021a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

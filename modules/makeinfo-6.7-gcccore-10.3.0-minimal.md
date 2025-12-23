@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # makeinfo 6.7 -minimal 
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -9,7 +12,7 @@ This is a minimal build with very basic functionality. Should only be used for b
   
   
 ## Homepage  
-The homepage for makeinfo 6.7 -minimal
+The homepage for makeinfo 6.7 -minimal  
 [https://www.gnu.org/software/texinfo/](https://www.gnu.org/software/texinfo/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ makeinfo depends on the following modules, and they will be loaded automatically
   
 [Perl 5.32.1 -minimal (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0-minimal.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load makeinfo as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

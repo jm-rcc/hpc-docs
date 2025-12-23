@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # IPython 8.5.0  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -11,7 +14,7 @@ IPython provides a rich architecture for interactive computing with:
   
   
 ## Homepage  
-The homepage for IPython 8.5.0 
+The homepage for IPython 8.5.0   
 [https://ipython.org/index.html](https://ipython.org/index.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,13 +47,10 @@ IPython depends on the following modules, and they will be loaded automatically 
 [lxml 4.9.1  (GCCcore-11.3.0)](lxml-4.9.1-gcccore-11.3.0.md)  
 [BeautifulSoup 4.10.0  (GCCcore-11.3.0)](beautifulsoup-4.10.0-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load IPython as dependency.  
   
 [JupyterLab 3.5.0  (GCCcore-11.3.0)](jupyterlab-3.5.0-gcccore-11.3.0.md)  
 [jupyter-server 1.21.0  (GCCcore-11.3.0)](jupyter-server-1.21.0-gcccore-11.3.0.md)  
 [snakemake 7.22.0  (foss-2022a)](snakemake-7.22.0-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

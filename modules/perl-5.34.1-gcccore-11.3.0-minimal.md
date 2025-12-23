@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Perl 5.34.1 -minimal 
 ![Static Badge](https://img.shields.io/badge/class-lang-D7D1CC)  
   
@@ -9,7 +12,7 @@ This is a minimal build without any modules. Should only be used for build depen
   
   
 ## Homepage  
-The homepage for Perl 5.34.1 -minimal
+The homepage for Perl 5.34.1 -minimal  
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,10 +42,7 @@ Perl depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Perl as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # minimap2 2.24  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -14,7 +17,7 @@ alignment.
   
   
 ## Homepage  
-The homepage for minimap2 2.24 
+The homepage for minimap2 2.24   
 [https://github.com/lh3/minimap2](https://github.com/lh3/minimap2)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,10 +47,7 @@ minimap2 depends on the following modules, and they will be loaded automatically
   
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load minimap2 as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

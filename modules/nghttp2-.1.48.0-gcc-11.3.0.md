@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # nghttp2 1.48.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -13,7 +16,7 @@ An HPACK encoder and decoder are available as a public API.
   
   
 ## Homepage  
-The homepage for nghttp2 1.48.0 
+The homepage for nghttp2 1.48.0   
 [https://github.com/nghttp2/nghttp2](https://github.com/nghttp2/nghttp2)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -52,11 +55,8 @@ nghttp2 depends on the following modules, and they will be loaded automatically 
 [libev 4.33  (GCC-11.3.0)](libev-.4.33-gcc-11.3.0.md)  
 [c-ares 1.18.1  (GCCcore-11.3.0)](c-ares-.1.18.1-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load nghttp2 as dependency.  
   
 [LibSoup 3.0.8  (GCC-11.3.0)](libsoup-3.0.8-gcc-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

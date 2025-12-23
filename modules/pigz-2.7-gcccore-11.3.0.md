@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # pigz 2.7  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for pigz 2.7 
+The homepage for pigz 2.7   
 [https://zlib.net/pigz/](https://zlib.net/pigz/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,11 +44,8 @@ pigz depends on the following modules, and they will be loaded automatically wit
   
 [zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load pigz as dependency.  
   
 [cutadapt 4.2  (GCCcore-11.3.0)](cutadapt-4.2-gcccore-11.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # imkl-FFTW 2022.1.0  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -6,7 +9,7 @@ FFTW interfaces using Intel oneAPI Math Kernel Library
   
   
 ## Homepage  
-The homepage for imkl-FFTW 2022.1.0 
+The homepage for imkl-FFTW 2022.1.0   
 [https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,11 +39,8 @@ imkl-FFTW depends on the following modules, and they will be loaded automaticall
   
 [imkl 2022.1.0  (system-system)](imkl-2022.1.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load imkl-FFTW as dependency.  
   
 [intel 2022a  (system-system)](intel-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # hypothesis 6.46.7  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -8,7 +11,7 @@ Hypothesis is an advanced testing library for Python. It lets you write tests wh
   
   
 ## Homepage  
-The homepage for hypothesis 6.46.7 
+The homepage for hypothesis 6.46.7   
 [https://github.com/HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,10 +41,7 @@ hypothesis depends on the following modules, and they will be loaded automatical
   
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load hypothesis as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # DB_File 1.856  
 ![Static Badge](https://img.shields.io/badge/class-data-D7D1CC)  
   
@@ -6,7 +9,7 @@ Perl5 access to Berkeley DB version 1.x.
   
   
 ## Homepage  
-The homepage for DB_File 1.856 
+The homepage for DB_File 1.856   
 [https://perldoc.perl.org/DB_File.html](https://perldoc.perl.org/DB_File.html)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,11 +40,8 @@ DB_File depends on the following modules, and they will be loaded automatically 
 [Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
 [DB 18.1.40  (GCCcore-10.3.0)](db-18.1.40-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load DB_File as dependency.  
   
 [BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

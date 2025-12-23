@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # iimpi 2023a  
 ![Static Badge](https://img.shields.io/badge/class-toolchain-D7D1CC)  
   
@@ -6,7 +9,7 @@ Intel C/C++ and Fortran compilers, alongside Intel MPI.
   
   
 ## Homepage  
-The homepage for iimpi 2023a 
+The homepage for iimpi 2023a   
 [https://software.intel.com/parallel-studio-xe](https://software.intel.com/parallel-studio-xe)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -37,10 +40,7 @@ iimpi depends on the following modules, and they will be loaded automatically wi
 [intel-compilers 2023.1.0  (system-system)](intel-compilers-2023.1.0.md)  
 [impi 2021.9.0  (intel-compilers-2023.1.0)](impi-2021.9.0-intel-compilers-2023.1.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load iimpi as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

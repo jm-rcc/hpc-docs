@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # bzip2 1.0.8  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
   
@@ -11,7 +14,7 @@
   
   
 ## Homepage  
-The homepage for bzip2 1.0.8 
+The homepage for bzip2 1.0.8   
 [https://sourceware.org/bzip2](https://sourceware.org/bzip2)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,7 +44,7 @@ bzip2 depends on the following modules, and they will be loaded automatically wi
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load bzip2 as dependency.  
   
 [BCFtools 1.12  (GCC-10.3.0)](bcftools-1.12-gcc-10.3.0.md)  
@@ -73,6 +76,3 @@ The following modules will load bzip2 as dependency.
 [tabixpp 1.1.0  (GCC-10.3.0)](tabixpp-1.1.0-gcc-10.3.0.md)  
 [vcflib 1.0.3 -R-4.1.0 (foss-2021a)](vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # prokka 1.14.5  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Prokka is a software tool for the rapid annotation of prokaryotic genomes.
   
   
 ## Homepage  
-The homepage for prokka 1.14.5 
+The homepage for prokka 1.14.5   
 [https://www.vicbioinformatics.com/software.prokka.shtml](https://www.vicbioinformatics.com/software.prokka.shtml)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -41,10 +44,7 @@ prokka depends on the following modules, and they will be loaded automatically w
 [parallel 20210622  (GCCcore-10.3.0)](parallel-20210622-gcccore-10.3.0.md)  
 [tbl2asn 20230119 -linux64 (system-system)](tbl2asn-20230119-linux64.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load prokka as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

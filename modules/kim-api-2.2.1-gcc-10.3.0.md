@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # kim-api 2.2.1  
 ![Static Badge](https://img.shields.io/badge/class-chem-D7D1CC)  
   
@@ -18,7 +21,7 @@ to install them all.
   
   
 ## Homepage  
-The homepage for kim-api 2.2.1 
+The homepage for kim-api 2.2.1   
 [https://openkim.org/](https://openkim.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -46,11 +49,8 @@ kim-api depends on the following modules, and they will be loaded automatically 
   
 [CMake 3.20.1  (GCCcore-10.3.0)](cmake-3.20.1-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load kim-api as dependency.  
   
 [LAMMPS 23Jun2022 -kokkos (foss-2021a)](lammps-23jun2022-foss-2021a-kokkos.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

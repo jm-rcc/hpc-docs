@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GCC 11.3.0  
 ![Static Badge](https://img.shields.io/badge/class-compiler-D7D1CC)  
   
@@ -7,7 +10,7 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
   
   
 ## Homepage  
-The homepage for GCC 11.3.0 
+The homepage for GCC 11.3.0   
 [https://gcc.gnu.org/](https://gcc.gnu.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -38,13 +41,10 @@ GCC depends on the following modules, and they will be loaded automatically with
 [GCCcore 11.3.0  (system-system)](gcccore-.11.3.0.md)  
 [binutils 2.38  (GCCcore-11.3.0)](binutils-.2.38-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GCC as dependency.  
   
 [foss 2022a  (system-system)](foss-2022a.md)  
 [gfbf 2022a  (system-system)](gfbf-2022a.md)  
 [gompi 2022a  (system-system)](gompi-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # libiconv 1.18  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -6,7 +9,7 @@ Libiconv converts from one character encoding to another through Unicode convers
   
   
 ## Homepage  
-The homepage for libiconv 1.18 
+The homepage for libiconv 1.18   
 [https://www.gnu.org/software/libiconv](https://www.gnu.org/software/libiconv)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -29,11 +32,8 @@ libiconv depends on the following modules, and they will be loaded automatically
   
 (none)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load libiconv as dependency.  
   
 [libunistring 1.3  (GCCcore-14.2.0)](libunistring-1.3-gcccore-14.2.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

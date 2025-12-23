@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # python-isal 0.11.0  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
   
@@ -8,7 +11,7 @@ Faster zlib and gzip compatible compression and decompression
   
   
 ## Homepage  
-The homepage for python-isal 0.11.0 
+The homepage for python-isal 0.11.0   
 [https://github.com/pycompression/python-isal](https://github.com/pycompression/python-isal)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,11 +42,8 @@ python-isal depends on the following modules, and they will be loaded automatica
 [Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
 [ISA-L 2.30.0  (GCCcore-10.3.0)](isa-l-2.30.0-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load python-isal as dependency.  
   
 [cutadapt 3.4  (GCCcore-10.3.0)](cutadapt-3.4-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

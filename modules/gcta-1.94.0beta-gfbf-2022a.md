@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # GCTA 1.94.0beta  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -11,7 +14,7 @@ GCTA (Genome-wide Complex Trait Analysis) is a software package, which was
   
   
 ## Homepage  
-The homepage for GCTA 1.94.0beta 
+The homepage for GCTA 1.94.0beta   
 [https://yanglab.westlake.edu.cn/software/gcta/](https://yanglab.westlake.edu.cn/software/gcta/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -44,10 +47,7 @@ GCTA depends on the following modules, and they will be loaded automatically wit
 [zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
 [GSL 2.7  (GCC-11.3.0)](gsl-2.7-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load GCTA as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

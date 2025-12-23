@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # AUGUSTUS 3.5.0  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
   
   
 ## Homepage  
-The homepage for AUGUSTUS 3.5.0 
+The homepage for AUGUSTUS 3.5.0   
 [https://bioinf.uni-greifswald.de/augustus/](https://bioinf.uni-greifswald.de/augustus/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,11 +48,8 @@ AUGUSTUS depends on the following modules, and they will be loaded automatically
 [BamTools 2.5.2  (GCC-11.3.0)](bamtools-2.5.2-gcc-11.3.0.md)  
 [SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-.3.38.3-gcccore-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load AUGUSTUS as dependency.  
   
 [BUSCO 5.4.5  (foss-2022a)](busco-5.4.5-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

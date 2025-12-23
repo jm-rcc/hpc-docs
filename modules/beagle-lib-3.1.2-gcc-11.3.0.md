@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # beagle-lib 3.1.2  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
   
@@ -7,7 +10,7 @@ beagle-lib is a high-performance library that can perform the core calculations 
   
   
 ## Homepage  
-The homepage for beagle-lib 3.1.2 
+The homepage for beagle-lib 3.1.2   
 [https://github.com/beagle-dev/beagle-lib](https://github.com/beagle-dev/beagle-lib)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -39,11 +42,8 @@ beagle-lib depends on the following modules, and they will be loaded automatical
 [pkg-config 0.29.2  (GCCcore-11.3.0)](pkg-config-.0.29.2-gcccore-11.3.0.md)  
 [pocl 1.8  (GCC-11.3.0)](pocl-1.8-gcc-11.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load beagle-lib as dependency.  
   
 [MrBayes 3.2.7a  (foss-2022a)](mrbayes-3.2.7a-foss-2022a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

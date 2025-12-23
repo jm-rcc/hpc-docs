@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # DIAMOND 2.0.13  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
   
@@ -6,7 +9,7 @@ Accelerated BLAST compatible local sequence aligner
   
   
 ## Homepage  
-The homepage for DIAMOND 2.0.13 
+The homepage for DIAMOND 2.0.13   
 [https://github.com/bbuchfink/diamond](https://github.com/bbuchfink/diamond)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -36,10 +39,7 @@ DIAMOND depends on the following modules, and they will be loaded automatically 
   
 [zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load DIAMOND as dependency.  
   
   
-----  
-  
-[List of Software](../software_shortlist.md)  

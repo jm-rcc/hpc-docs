@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # gnuplot 5.4.2  
 ![Static Badge](https://img.shields.io/badge/class-vis-D7D1CC)  
   
@@ -6,7 +9,7 @@ Portable interactive, function plotting utility
   
   
 ## Homepage  
-The homepage for gnuplot 5.4.2 
+The homepage for gnuplot 5.4.2   
 [http://gnuplot.sourceforge.net/](http://gnuplot.sourceforge.net/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -45,11 +48,8 @@ gnuplot depends on the following modules, and they will be loaded automatically 
 [Qt5 5.15.2  (GCCcore-10.3.0)](qt5-5.15.2-gcccore-10.3.0.md)  
 [Lua 5.4.3  (GCCcore-10.3.0)](lua-5.4.3-gcccore-10.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load gnuplot as dependency.  
   
 [canu 2.2  (GCCcore-10.3.0)](canu-2.2-gcccore-10.3.0.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  

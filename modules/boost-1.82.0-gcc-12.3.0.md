@@ -1,3 +1,6 @@
+[List of Software](../software_shortlist.md)  
+----  
+  
 # Boost 1.82.0  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
   
@@ -6,7 +9,7 @@ Boost provides free peer-reviewed portable C++ source libraries.
   
   
 ## Homepage  
-The homepage for Boost 1.82.0 
+The homepage for Boost 1.82.0   
 [https://www.boost.org/](https://www.boost.org/)  
 ### Usage  
 To use the module on Bunya, load it with this command:  
@@ -40,13 +43,10 @@ Boost depends on the following modules, and they will be loaded automatically wi
 [zstd 1.5.5  (GCCcore-12.3.0)](zstd-1.5.5-gcccore-12.3.0.md)  
 [ICU 73.2  (GCCcore-12.3.0)](icu-.73.2-gcccore-12.3.0.md)  
   
-## Dependency of modules  
+## Dependended on  
 The following modules will load Boost as dependency.  
   
 [Armadillo 12.6.2  (foss-2023a)](armadillo-12.6.2-foss-2023a.md)  
 [PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
 [ParaView 5.11.2  (foss-2023a)](paraview-5.11.2-foss-2023a.md)  
   
-----  
-  
-[List of Software](../software_shortlist.md)  
