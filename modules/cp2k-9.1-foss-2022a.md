@@ -13,7 +13,7 @@ CP2K is a freely available (GPL) program, written in Fortran 95, to perform atom
 The homepage for CP2K 9.1   
 [https://www.cp2k.org/](https://www.cp2k.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cp2k/9.1-foss-2022a`**  
   
 ### Toolchain  

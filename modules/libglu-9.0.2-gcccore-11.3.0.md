@@ -10,7 +10,7 @@ The OpenGL Utility Library (GLU) is a computer graphics library for OpenGL.
 The homepage for libGLU 9.0.2   
 [https://gitlab.freedesktop.org/mesa/glu](https://gitlab.freedesktop.org/mesa/glu)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libglu/9.0.2-gcccore-11.3.0`**  
   
 ### Toolchain  

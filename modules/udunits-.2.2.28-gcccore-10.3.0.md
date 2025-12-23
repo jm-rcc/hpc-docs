@@ -11,7 +11,7 @@ UDUNITS supports conversion of unit specifications between formatted and binary 
 The homepage for UDUNITS 2.2.28   
 [https://www.unidata.ucar.edu/software/udunits/](https://www.unidata.ucar.edu/software/udunits/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load udunits/.2.2.28-gcccore-10.3.0`**  
   
 ### Toolchain  

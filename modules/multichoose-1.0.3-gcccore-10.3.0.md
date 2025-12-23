@@ -10,7 +10,7 @@ generate multiset combinations (n multichoose k).
 The homepage for multichoose 1.0.3   
 [https://github.com/ekg/multichoose](https://github.com/ekg/multichoose)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load multichoose/1.0.3-gcccore-10.3.0`**  
   
 ### Toolchain  

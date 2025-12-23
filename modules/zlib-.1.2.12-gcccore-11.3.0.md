@@ -12,7 +12,7 @@ zlib is designed to be a free, general-purpose, legally unencumbered -- that is,
 The homepage for zlib 1.2.12   
 [https://www.zlib.net/](https://www.zlib.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load zlib/.1.2.12-gcccore-11.3.0`**  
   
 ### Toolchain  

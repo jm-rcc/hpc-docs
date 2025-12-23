@@ -13,7 +13,7 @@
 The homepage for libxml2 2.13.4   
 [http://xmlsoft.org/](http://xmlsoft.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libxml2/.2.13.4-gcccore-14.2.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ Libtasn1 is the ASN.1 library used by GnuTLS, GNU Shishi and
 The homepage for libtasn1 4.19.0   
 [https://www.gnu.org/software/libtasn1/](https://www.gnu.org/software/libtasn1/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libtasn1/.4.19.0-gcccore-11.3.0`**  
   
 ### Toolchain  

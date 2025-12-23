@@ -10,7 +10,7 @@ Intel C, C++ & Fortran compilers
 The homepage for intel-compilers 2025.1.1   
 [https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html](https://software.intel.com/content/www/us/en/develop/tools/oneapi/hpc-toolkit.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load intel-compilers/2025.1.1`**  
   
 ### Toolchain  

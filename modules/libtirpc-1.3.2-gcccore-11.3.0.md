@@ -10,7 +10,7 @@ Libtirpc is a port of Suns Transport-Independent RPC library to Linux.
 The homepage for libtirpc 1.3.2   
 [https://sourceforge.net/projects/libtirpc/](https://sourceforge.net/projects/libtirpc/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libtirpc/1.3.2-gcccore-11.3.0`**  
   
 ### Toolchain  

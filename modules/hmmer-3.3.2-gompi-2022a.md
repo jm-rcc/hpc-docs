@@ -18,7 +18,7 @@ HMMER is used for searching sequence databases for homologs
 The homepage for HMMER 3.3.2   
 [http://hmmer.org/](http://hmmer.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hmmer/3.3.2-gompi-2022a`**  
   
 ### Toolchain  

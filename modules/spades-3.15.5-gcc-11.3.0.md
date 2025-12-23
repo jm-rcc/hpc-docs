@@ -10,7 +10,7 @@ Genome assembler for single-cell and isolates data sets
 The homepage for SPAdes 3.15.5   
 [https://github.com/ablab/spades](https://github.com/ablab/spades)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load spades/3.15.5-gcc-11.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ beagle-lib is a high-performance library that can perform the core calculations 
 The homepage for beagle-lib 3.1.2   
 [https://github.com/beagle-dev/beagle-lib](https://github.com/beagle-dev/beagle-lib)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load beagle-lib/3.1.2-gcc-11.3.0`**  
   
 ### Toolchain  

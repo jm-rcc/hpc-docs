@@ -10,7 +10,7 @@ Bayesian haplotype-based genetic polymorphism discovery and genotyping.
 The homepage for freebayes 1.3.6 -R-4.1.0  
 [https://github.com/freebayes/freebayes](https://github.com/freebayes/freebayes)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load freebayes/1.3.6-foss-2021a-r-4.1.0`**  
   
 ### Toolchain  

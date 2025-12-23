@@ -12,7 +12,7 @@ Basic Local Alignment Search Tool, or BLAST, is an algorithm
 The homepage for BLAST+ 2.13.0   
 [https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load blast+/2.13.0-gompi-2022a`**  
   
 ### Toolchain  

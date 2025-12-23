@@ -12,7 +12,7 @@ The aim of VCFtools is to provide
 The homepage for VCFtools 0.1.16   
 [https://vcftools.github.io](https://vcftools.github.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load vcftools/0.1.16-gcc-11.3.0`**  
   
 ### Toolchain  

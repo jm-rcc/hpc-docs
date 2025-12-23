@@ -11,7 +11,7 @@ in one or more dimensions, of arbitrary input size, and of both real and complex
 The homepage for FFTW 3.3.10   
 [https://www.fftw.org](https://www.fftw.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fftw/3.3.10-gcc-13.3.0`**  
   
 ### Toolchain  

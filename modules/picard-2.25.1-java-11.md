@@ -10,7 +10,7 @@ A set of tools (in Java) for working with next generation sequencing data in the
 The homepage for picard 2.25.1 -Java-11  
 [https://broadinstitute.github.io/picard/](https://broadinstitute.github.io/picard/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load picard/2.25.1-java-11`**  
   
 ### Toolchain  

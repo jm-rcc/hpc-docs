@@ -12,7 +12,7 @@ perform clustering and gene expression analysis, and place spots in spatial cont
 The homepage for SpaceRanger 2.1.0   
 [https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger](https://support.10xgenomics.com/spatial-gene-expression/software/pipelines/latest/what-is-space-ranger)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load spaceranger/2.1.0-gcc-11.3.0`**  
   
 ### Toolchain  

@@ -19,7 +19,7 @@ next to PLUMED.
 The homepage for GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0  
 [https://www.gromacs.org](https://www.gromacs.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0`**  
   
 ### Toolchain  

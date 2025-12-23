@@ -10,7 +10,7 @@ Perl5 access to Berkeley DB version 1.x.
 The homepage for DB_File 1.856   
 [https://perldoc.perl.org/DB_File.html](https://perldoc.perl.org/DB_File.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load db_file/1.856-gcccore-10.3.0`**  
   
 ### Toolchain  

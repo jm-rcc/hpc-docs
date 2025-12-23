@@ -11,7 +11,7 @@ GNU Compiler Collection (GCC) based compiler toolchain,
 The homepage for gompi 2023a   
 (none)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gompi/2023a`**  
   
 ### Toolchain  

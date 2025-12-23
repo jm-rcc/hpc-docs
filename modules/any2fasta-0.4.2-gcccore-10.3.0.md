@@ -10,7 +10,7 @@ Convert various sequence formats to FASTA
 The homepage for any2fasta 0.4.2   
 [https://github.com/tseemann/any2fasta](https://github.com/tseemann/any2fasta)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load any2fasta/0.4.2-gcccore-10.3.0`**  
   
 ### Toolchain  

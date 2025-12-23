@@ -15,7 +15,7 @@ GTK+ is the primary library used to construct user interfaces in GNOME. It
 The homepage for GTK3 3.24.33   
 [https://developer.gnome.org/gtk3/stable/](https://developer.gnome.org/gtk3/stable/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gtk3/3.24.33-gcccore-11.3.0`**  
   
 ### Toolchain  

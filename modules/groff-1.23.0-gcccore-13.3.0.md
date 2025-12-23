@@ -11,7 +11,7 @@ Groff (GNU troff) is a typesetting system that reads plain text mixed with forma
 The homepage for groff 1.23.0   
 [https://www.gnu.org/software/groff](https://www.gnu.org/software/groff)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load groff/1.23.0-gcccore-13.3.0`**  
   
 ### Toolchain  

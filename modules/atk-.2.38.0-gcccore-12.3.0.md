@@ -14,7 +14,7 @@
 The homepage for ATK 2.38.0   
 [https://developer.gnome.org/atk/](https://developer.gnome.org/atk/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load atk/.2.38.0-gcccore-12.3.0`**  
   
 ### Toolchain  

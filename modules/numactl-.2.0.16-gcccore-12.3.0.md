@@ -15,7 +15,7 @@
 The homepage for numactl 2.0.16   
 [https://github.com/numactl/numactl](https://github.com/numactl/numactl)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load numactl/.2.0.16-gcccore-12.3.0`**  
   
 ### Toolchain  

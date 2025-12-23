@@ -15,7 +15,7 @@
 The homepage for libevent 2.1.12   
 [https://libevent.org](https://libevent.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libevent/.2.1.12`**  
   
 ### Toolchain  

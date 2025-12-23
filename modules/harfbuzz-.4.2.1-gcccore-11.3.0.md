@@ -10,7 +10,7 @@ HarfBuzz is an OpenType text shaping engine.
 The homepage for HarfBuzz 4.2.1   
 [https://www.freedesktop.org/wiki/Software/HarfBuzz](https://www.freedesktop.org/wiki/Software/HarfBuzz)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load harfbuzz/.4.2.1-gcccore-11.3.0`**  
   
 ### Toolchain  

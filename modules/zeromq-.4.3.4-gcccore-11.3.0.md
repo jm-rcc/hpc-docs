@@ -15,7 +15,7 @@ ZeroMQ looks like an embeddable networking library but acts like a concurrency f
 The homepage for ZeroMQ 4.3.4   
 [https://www.zeromq.org/](https://www.zeromq.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load zeromq/.4.3.4-gcccore-11.3.0`**  
   
 ### Toolchain  

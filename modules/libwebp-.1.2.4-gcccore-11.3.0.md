@@ -13,7 +13,7 @@ make the web faster.
 The homepage for libwebp 1.2.4   
 [https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libwebp/.1.2.4-gcccore-11.3.0`**  
   
 ### Toolchain  

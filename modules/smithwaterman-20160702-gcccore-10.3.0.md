@@ -10,7 +10,7 @@ smith-waterman-gotoh alignment algorithm.
 The homepage for smithwaterman 20160702   
 [https://github.com/ekg/smithwaterman](https://github.com/ekg/smithwaterman)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load smithwaterman/20160702-gcccore-10.3.0`**  
   
 ### Toolchain  

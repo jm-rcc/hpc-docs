@@ -10,7 +10,7 @@ SuiteSparse is a collection of libraries manipulate sparse matrices.
 The homepage for SuiteSparse 5.10.1 -METIS-5.1.0  
 [https://faculty.cse.tamu.edu/davis/suitesparse.html](https://faculty.cse.tamu.edu/davis/suitesparse.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load suitesparse/5.10.1-foss-2021a-metis-5.1.0`**  
   
 ### Toolchain  

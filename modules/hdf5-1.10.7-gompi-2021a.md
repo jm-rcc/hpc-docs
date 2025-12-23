@@ -12,7 +12,7 @@ HDF5 is a data model, library, and file format for storing and managing data.
 The homepage for HDF5 1.10.7   
 [https://portal.hdfgroup.org/display/support](https://portal.hdfgroup.org/display/support)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hdf5/1.10.7-gompi-2021a`**  
   
 ### Toolchain  

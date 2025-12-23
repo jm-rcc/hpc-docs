@@ -11,7 +11,7 @@ Xvfb is an X server that can run on machines with no display hardware and no phy
 The homepage for Xvfb 1.20.11   
 [https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml](https://www.x.org/releases/X11R7.6/doc/man/man1/Xvfb.1.xhtml)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load xvfb/1.20.11-gcccore-10.3.0`**  
   
 ### Toolchain  

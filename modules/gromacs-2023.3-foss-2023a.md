@@ -19,7 +19,7 @@ It also contains the gmxapi extension for the single precision MPI build.
 The homepage for GROMACS 2023.3   
 [https://www.gromacs.org](https://www.gromacs.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gromacs/2023.3-foss-2023a`**  
   
 ### Toolchain  

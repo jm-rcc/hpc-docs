@@ -16,7 +16,7 @@
 The homepage for DBus 1.14.0   
 [https://dbus.freedesktop.org/](https://dbus.freedesktop.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load dbus/.1.14.0-gcccore-11.3.0`**  
   
 ### Toolchain  

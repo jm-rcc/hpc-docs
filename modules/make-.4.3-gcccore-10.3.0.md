@@ -10,7 +10,7 @@ GNU version of make utility
 The homepage for make 4.3   
 [https://www.gnu.org/software/make/make.html](https://www.gnu.org/software/make/make.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load make/.4.3-gcccore-10.3.0`**  
   
 ### Toolchain  

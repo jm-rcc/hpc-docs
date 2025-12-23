@@ -13,7 +13,7 @@
 The homepage for PCRE 8.44   
 [https://www.pcre.org/](https://www.pcre.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pcre/.8.44-gcccore-10.3.0`**  
   
 ### Toolchain  

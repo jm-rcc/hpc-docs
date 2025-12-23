@@ -12,7 +12,7 @@
 The homepage for libarchive 3.7.7   
 [https://www.libarchive.org/](https://www.libarchive.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libarchive/3.7.7-gcccore-14.2.0`**  
   
 ### Toolchain  

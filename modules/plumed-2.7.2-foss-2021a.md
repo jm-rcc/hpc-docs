@@ -15,7 +15,7 @@ PLUMED is an open source library for free energy calculations in molecular syste
 The homepage for PLUMED 2.7.2   
 [https://www.plumed.org](https://www.plumed.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load plumed/2.7.2-foss-2021a`**  
   
 ### Toolchain  

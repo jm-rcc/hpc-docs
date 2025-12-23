@@ -12,7 +12,7 @@ MaxQuant is a quantitative proteomics software package designed for analyzing la
 The homepage for MaxQuant 2.2.0.0   
 [https://maxquant.org/maxquant](https://maxquant.org/maxquant)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load maxquant/2.2.0.0-gcccore-11.3.0`**  
   
 ### Toolchain  

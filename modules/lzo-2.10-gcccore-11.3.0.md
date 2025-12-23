@@ -10,7 +10,7 @@ Portable lossless data compression library
 The homepage for LZO 2.10   
 [https://www.oberhumer.com/opensource/lzo/](https://www.oberhumer.com/opensource/lzo/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lzo/2.10-gcccore-11.3.0`**  
   
 ### Toolchain  

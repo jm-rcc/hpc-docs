@@ -10,7 +10,7 @@ GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (J
 The homepage for GEOS 3.10.3   
 [https://trac.osgeo.org/geos](https://trac.osgeo.org/geos)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load geos/3.10.3-gcc-11.3.0`**  
   
 ### Toolchain  

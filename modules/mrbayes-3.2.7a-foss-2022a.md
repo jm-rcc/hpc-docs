@@ -10,7 +10,7 @@ MrBayes is a program for the Bayesian estimation of phylogeny.
 The homepage for MrBayes 3.2.7a   
 [http://mrbayes.csit.fsu.edu](http://mrbayes.csit.fsu.edu)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mrbayes/3.2.7a-foss-2022a`**  
   
 ### Toolchain  

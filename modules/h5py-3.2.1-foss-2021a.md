@@ -12,7 +12,7 @@ HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical
 The homepage for h5py 3.2.1   
 [https://www.h5py.org/](https://www.h5py.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load h5py/3.2.1-foss-2021a`**  
   
 ### Toolchain  

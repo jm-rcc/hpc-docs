@@ -14,7 +14,7 @@ other programs.
 The homepage for libev 4.33   
 [http://software.schmorp.de/pkg/libev.html](http://software.schmorp.de/pkg/libev.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libev/.4.33-gcc-11.3.0`**  
   
 ### Toolchain  

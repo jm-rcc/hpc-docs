@@ -11,7 +11,7 @@ intltool is a set of tools to centralize translation of
 The homepage for intltool 0.51.0   
 [https://freedesktop.org/wiki/Software/intltool/](https://freedesktop.org/wiki/Software/intltool/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load intltool/.0.51.0-gcccore-10.3.0`**  
   
 ### Toolchain  

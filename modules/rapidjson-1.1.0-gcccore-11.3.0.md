@@ -10,7 +10,7 @@ A fast JSON parser/generator for C++ with both SAX/DOM style API
 The homepage for RapidJSON 1.1.0   
 [https://rapidjson.org](https://rapidjson.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load rapidjson/1.1.0-gcccore-11.3.0`**  
   
 ### Toolchain  

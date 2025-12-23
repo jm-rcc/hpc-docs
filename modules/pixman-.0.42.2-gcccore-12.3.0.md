@@ -14,7 +14,7 @@
 The homepage for pixman 0.42.2   
 [http://www.pixman.org/](http://www.pixman.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pixman/.0.42.2-gcccore-12.3.0`**  
   
 ### Toolchain  

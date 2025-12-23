@@ -12,7 +12,7 @@ Trinity represents a novel method for the efficient and robust de novo reconstru
 The homepage for Trinity 2.9.1   
 [https://trinityrnaseq.github.io](https://trinityrnaseq.github.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load trinity/2.9.1-foss-2021a`**  
   
 ### Toolchain  

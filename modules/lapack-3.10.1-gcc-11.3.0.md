@@ -12,7 +12,7 @@ LAPACK is written in Fortran90 and provides routines for solving systems of
 The homepage for LAPACK 3.10.1   
 [https://www.netlib.org/lapack/](https://www.netlib.org/lapack/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lapack/3.10.1-gcc-11.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ AOCL-BLAS is AMD's optimized version of
 The homepage for AOCL-BLAS 5.0   
 [https://github.com/amd/blis](https://github.com/amd/blis)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load aocl-blas/5.0-gcc-14.2.0`**  
   
 ### Toolchain  

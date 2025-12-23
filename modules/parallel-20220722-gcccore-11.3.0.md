@@ -10,7 +10,7 @@ parallel: Build and execute shell commands in parallel
 The homepage for parallel 20220722   
 [https://savannah.gnu.org/projects/parallel/](https://savannah.gnu.org/projects/parallel/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load parallel/20220722-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ Cell Ranger is a set of analysis pipelines that process Chromium
 The homepage for CellRanger 7.1.0   
 [https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cellranger/7.1.0`**  
   
 ### Toolchain  

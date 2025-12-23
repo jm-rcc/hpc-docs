@@ -19,7 +19,7 @@ functionality.
 The homepage for LAMMPS 2Aug2023_update2 -kokkos  
 [https://www.lammps.org](https://www.lammps.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lammps/2aug2023_update2-foss-2023a-kokkos`**  
   
 ### Toolchain  

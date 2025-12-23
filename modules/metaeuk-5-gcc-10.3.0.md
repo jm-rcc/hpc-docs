@@ -11,7 +11,7 @@ MetaEuk is a modular toolkit designed for large-scale gene discovery and annotat
 The homepage for MetaEuk 5   
 [https://metaeuk.soedinglab.org](https://metaeuk.soedinglab.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load metaeuk/5-gcc-10.3.0`**  
   
 ### Toolchain  

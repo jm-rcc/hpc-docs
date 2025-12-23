@@ -11,7 +11,7 @@ The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for
 The homepage for ncbi-vdb 2.10.9   
 [https://github.com/ncbi/ncbi-vdb](https://github.com/ncbi/ncbi-vdb)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ncbi-vdb/2.10.9-gompi-2021a`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ SWIG is a software development tool that connects programs written in C and C++ 
 The homepage for SWIG 4.0.2   
 [http://www.swig.org/](http://www.swig.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load swig/.4.0.2-gcccore-10.3.0`**  
   
 ### Toolchain  

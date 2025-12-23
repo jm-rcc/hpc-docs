@@ -2,8 +2,8 @@
 # FFTW  
 ![Static Badge](https://img.shields.io/badge/class-numlib-D7D1CC)  
 ## Homepage  
-[https://www.fftw.org](https://www.fftw.org)  
 [http://www.fftw.org](http://www.fftw.org)  
+[https://www.fftw.org](https://www.fftw.org)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

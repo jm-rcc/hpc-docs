@@ -15,7 +15,7 @@
 The homepage for ncurses 6.3   
 [https://www.gnu.org/software/ncurses/](https://www.gnu.org/software/ncurses/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ncurses/.6.3-gcccore-11.3.0`**  
   
 ### Toolchain  

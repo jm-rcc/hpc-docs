@@ -13,7 +13,7 @@
 The homepage for elfutils 0.185   
 [https://elfutils.org/](https://elfutils.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load elfutils/0.185-gcccore-10.3.0`**  
   
 ### Toolchain  

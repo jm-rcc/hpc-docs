@@ -17,7 +17,7 @@
 The homepage for VSCode 1.87.0   
 [https://code.visualstudio.com/](https://code.visualstudio.com/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load vscode/1.87.0`**  
   
 ### Toolchain  

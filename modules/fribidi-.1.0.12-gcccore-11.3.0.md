@@ -12,7 +12,7 @@
 The homepage for FriBidi 1.0.12   
 [https://github.com/fribidi/fribidi](https://github.com/fribidi/fribidi)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fribidi/.1.0.12-gcccore-11.3.0`**  
   
 ### Toolchain  

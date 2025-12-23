@@ -12,7 +12,7 @@ FastTree infers approximately-maximum-likelihood phylogenetic trees from alignme
 The homepage for FastTree 2.1.11   
 [http://www.microbesonline.org/fasttree/](http://www.microbesonline.org/fasttree/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fasttree/2.1.11-gcccore-10.3.0`**  
   
 ### Toolchain  

@@ -19,7 +19,7 @@
 The homepage for hwloc 2.4.1   
 [https://www.open-mpi.org/projects/hwloc/](https://www.open-mpi.org/projects/hwloc/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hwloc/.2.4.1-gcccore-10.3.0`**  
   
 ### Toolchain  

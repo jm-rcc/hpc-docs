@@ -11,7 +11,7 @@ LMDB is a fast, memory-efficient database. With memory-mapped files, it has the 
 The homepage for LMDB 0.9.28   
 [https://symas.com/lmdb](https://symas.com/lmdb)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lmdb/.0.9.28-gcccore-10.3.0`**  
   
 ### Toolchain  

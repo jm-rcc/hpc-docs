@@ -10,7 +10,7 @@ Larry Wall's Practical Extraction and Report Language
 The homepage for Perl 5.32.1   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load perl/5.32.1-gcccore-10.3.0`**  
   
 ### Toolchain  

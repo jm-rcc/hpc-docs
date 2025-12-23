@@ -10,7 +10,7 @@ A complete, cross-platform solution to record, convert and stream audio and vide
 The homepage for FFmpeg 4.3.2   
 [https://www.ffmpeg.org/](https://www.ffmpeg.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ffmpeg/4.3.2-gcccore-10.3.0`**  
   
 ### Toolchain  

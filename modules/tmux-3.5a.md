@@ -13,7 +13,7 @@ later reattached.
 The homepage for tmux 3.5a   
 [https://github.com/tmux/tmux/](https://github.com/tmux/tmux/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load tmux/3.5a`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ GLib is one of the base libraries of the GTK+ project
 The homepage for GLib 2.68.2   
 [https://www.gtk.org/](https://www.gtk.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load glib/.2.68.2-gcccore-10.3.0`**  
   
 ### Toolchain  

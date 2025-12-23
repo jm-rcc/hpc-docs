@@ -13,7 +13,7 @@ This is a minimal build without any modules. Should only be used for build depen
 The homepage for Perl 5.34.1 -minimal  
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load perl/5.34.1-gcccore-11.3.0-minimal`**  
   
 ### Toolchain  

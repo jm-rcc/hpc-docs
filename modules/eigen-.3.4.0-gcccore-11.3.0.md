@@ -11,7 +11,7 @@ Eigen is a C++ template library for linear algebra: matrices, vectors, numerical
 The homepage for Eigen 3.4.0   
 [https://eigen.tuxfamily.org](https://eigen.tuxfamily.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load eigen/.3.4.0-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ with both version 2 and version 3 of the HMMER package from http://hmmer.org.
 The homepage for Bio-SearchIO-hmmer 1.7.3   
 [https://metacpan.org/pod/Bio::SearchIO::hmmer3](https://metacpan.org/pod/Bio::SearchIO::hmmer3)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bio-searchio-hmmer/1.7.3-gcc-11.3.0`**  
   
 ### Toolchain  

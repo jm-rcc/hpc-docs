@@ -11,7 +11,7 @@ greater similarity of length 25 bases or more.
 The homepage for BLAT 3.7   
 [https://genome.ucsc.edu/goldenPath/help/blatSpec.html](https://genome.ucsc.edu/goldenPath/help/blatSpec.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load blat/3.7-gcc-11.3.0`**  
   
 ### Toolchain  

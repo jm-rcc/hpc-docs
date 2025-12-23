@@ -10,7 +10,7 @@ Boost provides free peer-reviewed portable C++ source libraries.
 The homepage for Boost 1.76.0   
 [https://www.boost.org/](https://www.boost.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load boost/1.76.0-gcc-10.3.0`**  
   
 ### Toolchain  

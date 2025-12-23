@@ -16,7 +16,7 @@
 The homepage for freetype 2.12.1   
 [https://www.freetype.org](https://www.freetype.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load freetype/.2.12.1-gcccore-11.3.0`**  
   
 ### Toolchain  

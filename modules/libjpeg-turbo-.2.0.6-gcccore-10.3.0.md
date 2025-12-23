@@ -14,7 +14,7 @@
 The homepage for libjpeg-turbo 2.0.6   
 [https://sourceforge.net/projects/libjpeg-turbo/](https://sourceforge.net/projects/libjpeg-turbo/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libjpeg-turbo/.2.0.6-gcccore-10.3.0`**  
   
 ### Toolchain  

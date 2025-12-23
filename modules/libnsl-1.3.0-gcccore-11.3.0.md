@@ -10,7 +10,7 @@ The libnsl package contains the public client interface for NIS(YP).
 The homepage for libnsl 1.3.0   
 [https://github.com/thkukuk/libnsl](https://github.com/thkukuk/libnsl)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libnsl/1.3.0-gcccore-11.3.0`**  
   
 ### Toolchain  

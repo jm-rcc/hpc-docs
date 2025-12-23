@@ -10,7 +10,7 @@ Automated testing framework for C.
 The homepage for CUnit 2.1-3   
 [https://sourceforge.net/projects/cunit/](https://sourceforge.net/projects/cunit/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cunit/2.1-3-gcccore-11.3.0`**  
   
 ### Toolchain  

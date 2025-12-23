@@ -15,7 +15,7 @@ often integrated directly into libfabric.
 The homepage for libfabric 1.15.1   
 [https://ofiwg.github.io/libfabric/](https://ofiwg.github.io/libfabric/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libfabric/.1.15.1-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Standalone C library for assembling Illumina short reads in small regions.
 The homepage for fermi-lite 20190320   
 [https://github.com/lh3/fermi-lite](https://github.com/lh3/fermi-lite)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fermi-lite/20190320-gcccore-10.3.0`**  
   
 ### Toolchain  

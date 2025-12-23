@@ -18,7 +18,7 @@ Sequencing a metagenome typically produces millions
 The homepage for humann 3.6   
 [http://huttenhower.sph.harvard.edu/humann](http://huttenhower.sph.harvard.edu/humann)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load humann/3.6-foss-2022a`**  
   
 ### Toolchain  
@@ -43,7 +43,7 @@ foss-2022a
 ## Dependencies  
 humann depends on the following modules, and they will be loaded automatically with this module.  
   
-[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
   

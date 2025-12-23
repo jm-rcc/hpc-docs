@@ -10,7 +10,7 @@ The cpio package contains tools for archiving.
 The homepage for cpio 2.14   
 [https://savannah.gnu.org/projects/cpio/](https://savannah.gnu.org/projects/cpio/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cpio/2.14-gcccore-11.3.0`**  
   
 ### Toolchain  

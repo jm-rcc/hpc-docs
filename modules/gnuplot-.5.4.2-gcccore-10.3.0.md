@@ -10,7 +10,7 @@ Portable interactive, function plotting utility
 The homepage for gnuplot 5.4.2   
 [http://gnuplot.sourceforge.net/](http://gnuplot.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gnuplot/.5.4.2-gcccore-10.3.0`**  
   
 ### Toolchain  

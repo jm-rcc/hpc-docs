@@ -15,7 +15,7 @@ GnuTLS is a secure communications library implementing the SSL, TLS
 The homepage for GnuTLS 3.7.8   
 [https://www.gnutls.org](https://www.gnutls.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gnutls/3.7.8-gcccore-11.3.0`**  
   
 ### Toolchain  

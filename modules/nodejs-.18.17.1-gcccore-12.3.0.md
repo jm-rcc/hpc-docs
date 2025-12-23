@@ -13,7 +13,7 @@ Node.js is a platform built on Chrome's JavaScript runtime
 The homepage for nodejs 18.17.1   
 [https://nodejs.org](https://nodejs.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nodejs/.18.17.1-gcccore-12.3.0`**  
   
 ### Toolchain  

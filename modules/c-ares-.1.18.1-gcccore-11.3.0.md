@@ -10,7 +10,7 @@ c-ares is a C library for asynchronous DNS requests (including name resolves)
 The homepage for c-ares 1.18.1   
 [https://c-ares.org/](https://c-ares.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load c-ares/.1.18.1-gcccore-11.3.0`**  
   
 ### Toolchain  

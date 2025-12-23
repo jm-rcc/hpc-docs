@@ -12,7 +12,7 @@ The libffi library provides a portable, high level programming interface to
 The homepage for libffi 3.4.2   
 [https://sourceware.org/libffi/](https://sourceware.org/libffi/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libffi/.3.4.2-gcccore-11.3.0`**  
   
 ### Toolchain  

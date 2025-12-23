@@ -14,7 +14,7 @@ APIs.
 The homepage for Xerces-C++ 3.2.4   
 [https://xerces.apache.org/xerces-c/](https://xerces.apache.org/xerces-c/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load xerces-c++/3.2.4-gcccore-12.3.0`**  
   
 ### Toolchain  

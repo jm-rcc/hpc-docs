@@ -12,7 +12,7 @@ Faster zlib and gzip compatible compression and decompression
 The homepage for python-isal 0.11.0   
 [https://github.com/pycompression/python-isal](https://github.com/pycompression/python-isal)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load python-isal/0.11.0-gcccore-10.3.0`**  
   
 ### Toolchain  

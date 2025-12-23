@@ -16,7 +16,7 @@ Jansson is a C library for encoding, decoding and manipulating JSON data.
 The homepage for Jansson 2.14   
 [https://www.digip.org/jansson/](https://www.digip.org/jansson/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jansson/2.14-gcc-11.3.0`**  
   
 ### Toolchain  

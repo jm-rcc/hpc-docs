@@ -11,7 +11,7 @@
 The homepage for LittleCMS 2.12   
 [https://www.littlecms.com/](https://www.littlecms.com/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load littlecms/2.12-gcccore-10.3.0`**  
   
 ### Toolchain  

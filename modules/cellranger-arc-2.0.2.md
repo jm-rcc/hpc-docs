@@ -15,7 +15,7 @@ Cell Ranger ARC is a set of analysis pipelines that process
 The homepage for CellRanger-ARC 2.0.2   
 [https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/what-is-cell-ranger-arc](https://support.10xgenomics.com/single-cell-multiome-atac-gex/software/pipelines/latest/what-is-cell-ranger-arc)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cellranger-arc/2.0.2`**  
   
 ### Toolchain  

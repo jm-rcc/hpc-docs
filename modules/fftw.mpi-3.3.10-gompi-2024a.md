@@ -11,7 +11,7 @@ in one or more dimensions, of arbitrary input size, and of both real and complex
 The homepage for FFTW.MPI 3.3.10   
 [https://www.fftw.org](https://www.fftw.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fftw.mpi/3.3.10-gompi-2024a`**  
   
 ### Toolchain  

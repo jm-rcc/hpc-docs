@@ -11,7 +11,7 @@ C, C++, Objective-C compiler, based on LLVM.  Does not
 The homepage for Clang 18.1.8   
 [https://clang.llvm.org/](https://clang.llvm.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load clang/18.1.8-gcccore-13.3.0`**  
   
 ### Toolchain  

@@ -13,7 +13,7 @@ This is a minimal build with very basic functionality. Should only be used for b
 The homepage for makeinfo 6.7 -minimal  
 [https://www.gnu.org/software/texinfo/](https://www.gnu.org/software/texinfo/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load makeinfo/6.7-gcccore-10.3.0-minimal`**  
   
 ### Toolchain  

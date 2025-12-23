@@ -12,7 +12,7 @@ Samtools is a suite of programs for interacting with high-throughput sequencing 
 The homepage for BCFtools 1.18   
 [https://www.htslib.org/](https://www.htslib.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bcftools/1.18-gcc-12.3.0`**  
   
 ### Toolchain  

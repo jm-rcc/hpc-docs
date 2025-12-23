@@ -10,7 +10,7 @@ Pocl is a portable open source (MIT-licensed) implementation of the OpenCL stand
 The homepage for pocl 1.8   
 [http://portablecl.org](http://portablecl.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pocl/1.8-gcc-11.3.0`**  
   
 ### Toolchain  

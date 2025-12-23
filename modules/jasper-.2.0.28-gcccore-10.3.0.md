@@ -14,7 +14,7 @@
 The homepage for JasPer 2.0.28   
 [https://www.ece.uvic.ca/~frodo/jasper/](https://www.ece.uvic.ca/~frodo/jasper/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jasper/.2.0.28-gcccore-10.3.0`**  
   
 ### Toolchain  

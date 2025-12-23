@@ -10,7 +10,7 @@ The lxml XML toolkit is a Pythonic binding for the C libraries libxml2 and libxs
 The homepage for lxml 4.9.1   
 [https://lxml.de/](https://lxml.de/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lxml/4.9.1-gcccore-11.3.0`**  
   
 ### Toolchain  

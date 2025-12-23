@@ -14,7 +14,7 @@
 The homepage for libcerf 2.1   
 [https://jugit.fz-juelich.de/mlz/libcerf](https://jugit.fz-juelich.de/mlz/libcerf)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libcerf/.2.1-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ Network Security Services (NSS) is a set of libraries designed to support cross-
 The homepage for NSS 3.79   
 [https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nss/.3.79-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Direct Rendering Manager runtime library.
 The homepage for libdrm 2.4.110   
 [https://dri.freedesktop.org](https://dri.freedesktop.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libdrm/.2.4.110-gcccore-11.3.0`**  
   
 ### Toolchain  

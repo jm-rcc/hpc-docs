@@ -11,7 +11,7 @@ of the OpenCL standard (1.2 with some 2.0 features supported).
 The homepage for pocl 6.0   
 [http://portablecl.org](http://portablecl.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pocl/6.0-gcc-13.3.0`**  
   
 ### Toolchain  

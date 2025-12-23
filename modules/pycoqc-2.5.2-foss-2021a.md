@@ -11,7 +11,7 @@ PycoQC computes metrics and generates interactive QC plots for
 The homepage for pycoQC 2.5.2   
 [https://tleonardi.github.io/pycoQC](https://tleonardi.github.io/pycoQC)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pycoqc/2.5.2-foss-2021a`**  
   
 ### Toolchain  

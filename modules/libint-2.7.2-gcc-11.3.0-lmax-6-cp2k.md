@@ -11,7 +11,7 @@ Libint library is used to evaluate the traditional (electron repulsion) and cert
 The homepage for Libint 2.7.2 -lmax-6-cp2k  
 [https://github.com/evaleev/libint](https://github.com/evaleev/libint)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libint/2.7.2-gcc-11.3.0-lmax-6-cp2k`**  
   
 ### Toolchain  

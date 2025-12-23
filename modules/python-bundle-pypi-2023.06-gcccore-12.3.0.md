@@ -10,7 +10,7 @@ Bundle of Python packages from PyPI
 The homepage for Python-bundle-PyPI 2023.06   
 [https://python.org/](https://python.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load python-bundle-pypi/2023.06-gcccore-12.3.0`**  
   
 ### Toolchain  

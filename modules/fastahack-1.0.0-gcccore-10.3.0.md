@@ -10,7 +10,7 @@ Utilities for indexing and sequence extraction from FASTA files.
 The homepage for fastahack 1.0.0   
 [https://github.com/ekg/fastahack](https://github.com/ekg/fastahack)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fastahack/1.0.0-gcccore-10.3.0`**  
   
 ### Toolchain  

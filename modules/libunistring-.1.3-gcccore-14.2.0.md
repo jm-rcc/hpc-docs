@@ -11,7 +11,7 @@ This library provides functions for manipulating Unicode strings and for
 The homepage for libunistring 1.3   
 [https://www.gnu.org/software/libunistring/](https://www.gnu.org/software/libunistring/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libunistring/.1.3-gcccore-14.2.0`**  
   
 ### Toolchain  

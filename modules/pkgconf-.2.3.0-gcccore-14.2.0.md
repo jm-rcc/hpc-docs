@@ -11,7 +11,7 @@ pkgconf is a program which helps to configure compiler and linker flags for deve
 The homepage for pkgconf 2.3.0   
 [https://github.com/pkgconf/pkgconf](https://github.com/pkgconf/pkgconf)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pkgconf/.2.3.0-gcccore-14.2.0`**  
   
 ### Toolchain  

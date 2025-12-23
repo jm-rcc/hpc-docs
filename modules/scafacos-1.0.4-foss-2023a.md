@@ -10,7 +10,7 @@ ScaFaCoS is a library of scalable fast coulomb solvers.
 The homepage for ScaFaCoS 1.0.4   
 [http://www.scafacos.de/](http://www.scafacos.de/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load scafacos/1.0.4-foss-2023a`**  
   
 ### Toolchain  

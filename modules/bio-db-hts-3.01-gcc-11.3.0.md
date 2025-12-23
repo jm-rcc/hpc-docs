@@ -10,7 +10,7 @@ Read files using HTSlib including BAM/CRAM, Tabix and BCF database files
 The homepage for Bio-DB-HTS 3.01   
 [https://metacpan.org/release/Bio-DB-HTS](https://metacpan.org/release/Bio-DB-HTS)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bio-db-hts/3.01-gcc-11.3.0`**  
   
 ### Toolchain  

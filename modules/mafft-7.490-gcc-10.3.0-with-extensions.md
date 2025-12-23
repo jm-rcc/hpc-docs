@@ -12,7 +12,7 @@ of <∼200 sequences), FFT-NS-2 (fast; for alignment of <∼30,000 sequences), e
 The homepage for MAFFT 7.490 -with-extensions  
 [https://mafft.cbrc.jp/alignment/software/source.html](https://mafft.cbrc.jp/alignment/software/source.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mafft/7.490-gcc-10.3.0-with-extensions`**  
   
 ### Toolchain  

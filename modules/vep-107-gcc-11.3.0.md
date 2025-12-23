@@ -14,7 +14,7 @@ Variant Effect Predictor (VEP) determines the effect of your
 The homepage for VEP 107   
 [https://www.ensembl.org/info/docs/tools/vep](https://www.ensembl.org/info/docs/tools/vep)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load vep/107-gcc-11.3.0`**  
   
 ### Toolchain  

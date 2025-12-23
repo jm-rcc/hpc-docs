@@ -22,7 +22,7 @@ to install them all.
 The homepage for kim-api 2.3.0   
 [https://openkim.org/](https://openkim.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load kim-api/2.3.0-gcc-12.3.0`**  
   
 ### Toolchain  

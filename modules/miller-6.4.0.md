@@ -10,7 +10,7 @@ Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, 
 The homepage for Miller 6.4.0   
 [https://miller.readthedocs.io/](https://miller.readthedocs.io/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load miller/6.4.0`**  
   
 ### Toolchain  

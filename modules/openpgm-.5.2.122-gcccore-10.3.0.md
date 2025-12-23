@@ -18,7 +18,7 @@
 The homepage for OpenPGM 5.2.122   
 [https://code.google.com/p/openpgm/](https://code.google.com/p/openpgm/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load openpgm/.5.2.122-gcccore-10.3.0`**  
   
 ### Toolchain  

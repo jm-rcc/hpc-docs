@@ -12,7 +12,7 @@ vcflib provides methods to manipulate and interpret sequence variation as it can
 The homepage for vcflib 1.0.3 -R-4.1.0  
 [https://github.com/vcflib/vcflib](https://github.com/vcflib/vcflib)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load vcflib/1.0.3-foss-2021a-r-4.1.0`**  
   
 ### Toolchain  

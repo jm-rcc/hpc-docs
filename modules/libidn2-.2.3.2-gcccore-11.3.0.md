@@ -10,7 +10,7 @@ Libidn2 implements the revised algorithm for internationalized domain names call
 The homepage for libidn2 2.3.2   
 [http://www.gnu.org/software/libidn2](http://www.gnu.org/software/libidn2)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libidn2/.2.3.2-gcccore-11.3.0`**  
   
 ### Toolchain  

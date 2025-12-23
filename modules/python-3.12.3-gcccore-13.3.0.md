@@ -11,7 +11,7 @@ Python is a programming language that lets you work more quickly and integrate y
 The homepage for Python 3.12.3   
 [https://python.org/](https://python.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load python/3.12.3-gcccore-13.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Epoxy is a library for handling OpenGL function pointer management for you
 The homepage for libepoxy 1.5.10   
 [https://github.com/anholt/libepoxy](https://github.com/anholt/libepoxy)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libepoxy/.1.5.10-gcccore-11.3.0`**  
   
 ### Toolchain  

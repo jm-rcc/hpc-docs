@@ -11,7 +11,7 @@ used by a program without recompiling or relinking it.
 The homepage for FlexiBLAS 3.0.4   
 [https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release](https://gitlab.mpi-magdeburg.mpg.de/software/flexiblas-release)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load flexiblas/3.0.4-gcc-10.3.0`**  
   
 ### Toolchain  

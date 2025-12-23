@@ -13,7 +13,7 @@ of conditional jumps and comparisons.
 The homepage for re2c 2.2   
 [https://re2c.org/](https://re2c.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load re2c/2.2-gcccore-11.3.0`**  
   
 ### Toolchain  

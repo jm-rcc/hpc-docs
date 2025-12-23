@@ -14,7 +14,7 @@ non-MSDOS functionality.
 The homepage for UnZip 6.0   
 [http://www.info-zip.org/UnZip.html](http://www.info-zip.org/UnZip.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load unzip/6.0-gcccore-11.3.0`**  
   
 ### Toolchain  

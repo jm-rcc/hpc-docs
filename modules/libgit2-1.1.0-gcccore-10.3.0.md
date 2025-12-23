@@ -12,7 +12,7 @@ which supports C bindings.
 The homepage for libgit2 1.1.0   
 [https://libgit2.org/](https://libgit2.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libgit2/1.1.0-gcccore-10.3.0`**  
   
 ### Toolchain  

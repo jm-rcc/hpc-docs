@@ -14,7 +14,7 @@ The specification of the Brotli Compressed Data Format is defined in RFC 7932.
 The homepage for Brotli 1.0.9   
 [https://github.com/google/brotli](https://github.com/google/brotli)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load brotli/1.0.9-gcccore-11.3.0`**  
   
 ### Toolchain  

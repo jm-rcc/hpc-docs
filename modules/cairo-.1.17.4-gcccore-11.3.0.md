@@ -12,7 +12,7 @@ Cairo is a 2D graphics library with support for multiple output devices.
 The homepage for cairo 1.17.4   
 [https://cairographics.org](https://cairographics.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cairo/.1.17.4-gcccore-11.3.0`**  
   
 ### Toolchain  

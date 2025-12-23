@@ -12,7 +12,7 @@ JBIG-KIT is a software implementation of the JBIG1 data
 The homepage for jbigkit 2.1   
 [https://www.cl.cam.ac.uk/~mgk25/jbigkit/](https://www.cl.cam.ac.uk/~mgk25/jbigkit/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jbigkit/2.1-gcccore-11.3.0`**  
   
 ### Toolchain  

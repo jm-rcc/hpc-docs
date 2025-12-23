@@ -10,7 +10,7 @@ DIRAC: Program for Atomic and Molecular Direct Iterative Relativistic All-electr
 The homepage for DIRAC 25.0 -int64  
 [http://www.diracprogram.org](http://www.diracprogram.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load dirac/25.0-intel-2023a-int64`**  
   
 ### Toolchain  

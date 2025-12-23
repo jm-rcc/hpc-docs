@@ -10,7 +10,7 @@ Yasm: Complete rewrite of the NASM assembler with BSD license
 The homepage for Yasm 1.3.0   
 [https://www.tortall.net/projects/yasm/](https://www.tortall.net/projects/yasm/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load yasm/1.3.0-gcccore-10.3.0`**  
   
 ### Toolchain  

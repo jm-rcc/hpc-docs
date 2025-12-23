@@ -15,7 +15,7 @@
 The homepage for bzip2 1.0.8   
 [https://sourceware.org/bzip2](https://sourceware.org/bzip2)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bzip2/.1.0.8-gcccore-12.3.0`**  
   
 ### Toolchain  

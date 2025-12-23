@@ -11,7 +11,7 @@ metagenomics assembly via succinct de Bruijn graph
 The homepage for MEGAHIT 1.2.9   
 [https://github.com/voutcn/megahit](https://github.com/voutcn/megahit)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load megahit/1.2.9-gcccore-11.3.0`**  
   
 ### Toolchain  

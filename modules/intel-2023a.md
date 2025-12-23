@@ -10,7 +10,7 @@ Compiler toolchain including Intel compilers, Intel MPI and Intel Math Kernel Li
 The homepage for intel 2023a   
 [https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain](https://easybuild.readthedocs.io/en/master/Common-toolchains.html#intel-toolchain)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load intel/2023a`**  
   
 ### Toolchain  

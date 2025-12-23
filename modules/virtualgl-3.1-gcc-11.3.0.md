@@ -12,7 +12,7 @@ hardware acceleration.
 The homepage for VirtualGL 3.1   
 [https://virtualgl.org/](https://virtualgl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load virtualgl/3.1-gcc-11.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Automake: GNU Standards-compliant Makefile generator
 The homepage for Automake 1.16.3   
 [https://www.gnu.org/software/automake/automake.html](https://www.gnu.org/software/automake/automake.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load automake/.1.16.3-gcccore-10.3.0`**  
   
 ### Toolchain  

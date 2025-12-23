@@ -12,7 +12,7 @@ so the precision of the original input image is preserved (within user defined e
 The homepage for LERC 4.0.0   
 [https://github.com/Esri/lerc](https://github.com/Esri/lerc)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lerc/4.0.0-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@
 The homepage for GitPython 3.1.27   
 [https://gitpython.readthedocs.org](https://gitpython.readthedocs.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gitpython/3.1.27-gcccore-11.3.0`**  
   
 ### Toolchain  

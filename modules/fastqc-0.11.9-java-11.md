@@ -14,7 +14,7 @@ pipeline.
 The homepage for FastQC 0.11.9 -Java-11  
 [https://www.bioinformatics.babraham.ac.uk/projects/fastqc/](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fastqc/0.11.9-java-11`**  
   
 ### Toolchain  

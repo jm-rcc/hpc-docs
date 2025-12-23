@@ -11,7 +11,7 @@ and study of the structure, dynamics, and functions of complex networks.
 The homepage for networkx 3.1   
 [https://pypi.python.org/pypi/networkx](https://pypi.python.org/pypi/networkx)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load networkx/.3.1-gfbf-2023a`**  
   
 ### Toolchain  

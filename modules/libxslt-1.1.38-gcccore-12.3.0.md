@@ -11,7 +11,7 @@ Libxslt is the XSLT C library developed for the GNOME project
 The homepage for libxslt 1.1.38   
 [http://xmlsoft.org/](http://xmlsoft.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libxslt/1.1.38-gcccore-12.3.0`**  
   
 ### Toolchain  

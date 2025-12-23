@@ -11,7 +11,7 @@ A tool designed to provide fast all-in-one preprocessing for FastQ files.
 The homepage for fastp 0.23.2   
 [https://github.com/OpenGene/fastp](https://github.com/OpenGene/fastp)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fastp/0.23.2-gcc-11.3.0`**  
   
 ### Toolchain  

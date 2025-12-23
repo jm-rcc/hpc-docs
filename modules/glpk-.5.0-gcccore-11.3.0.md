@@ -14,7 +14,7 @@ The GLPK (GNU Linear Programming Kit) package is intended for
 The homepage for GLPK 5.0   
 [https://www.gnu.org/software/glpk/](https://www.gnu.org/software/glpk/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load glpk/.5.0-gcccore-11.3.0`**  
   
 ### Toolchain  

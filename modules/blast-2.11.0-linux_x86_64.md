@@ -11,7 +11,7 @@ sequence information, such as the amino-acid sequences of different proteins or 
 The homepage for BLAST 2.11.0 -Linux_x86_64  
 [https://blast.ncbi.nlm.nih.gov/](https://blast.ncbi.nlm.nih.gov/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load blast/2.11.0-linux_x86_64`**  
   
 ### Toolchain  

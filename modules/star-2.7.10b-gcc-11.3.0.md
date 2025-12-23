@@ -10,7 +10,7 @@ STAR aligns RNA-seq reads to a reference genome using uncompressed suffix arrays
 The homepage for STAR 2.7.10b   
 [https://github.com/alexdobin/STAR](https://github.com/alexdobin/STAR)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load star/2.7.10b-gcc-11.3.0`**  
   
 ### Toolchain  

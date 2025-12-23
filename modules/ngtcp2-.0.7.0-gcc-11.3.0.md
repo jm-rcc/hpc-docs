@@ -13,7 +13,7 @@ ngtcp2 project is an effort to implement RFC9000 QUIC protocol.
 The homepage for ngtcp2 0.7.0   
 [https://github.com/ngtcp2/ngtcp2](https://github.com/ngtcp2/ngtcp2)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ngtcp2/.0.7.0-gcc-11.3.0`**  
   
 ### Toolchain  

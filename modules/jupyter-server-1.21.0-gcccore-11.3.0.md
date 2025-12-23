@@ -12,7 +12,7 @@ Voila.
 The homepage for jupyter-server 1.21.0   
 [https://jupyter.org/](https://jupyter.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jupyter-server/1.21.0-gcccore-11.3.0`**  
   
 ### Toolchain  

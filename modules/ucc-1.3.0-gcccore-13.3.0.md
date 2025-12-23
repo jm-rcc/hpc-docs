@@ -13,7 +13,7 @@ feature-rich for current and emerging programming models and runtimes.
 The homepage for UCC 1.3.0   
 [https://www.openucx.org/](https://www.openucx.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ucc/1.3.0-gcccore-13.3.0`**  
   
 ### Toolchain  

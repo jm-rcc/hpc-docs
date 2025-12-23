@@ -14,7 +14,7 @@ Autoconf is an extensible package of M4 macros that produce shell scripts
 The homepage for Autoconf 2.71   
 [https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load autoconf/.2.71`**  
   
 ### Toolchain  

@@ -16,7 +16,7 @@
 The homepage for METIS 5.1.0   
 [https://karypis.github.io/glaros/projects/gp.html](https://karypis.github.io/glaros/projects/gp.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load metis/5.1.0-gcccore-10.3.0`**  
   
 ### Toolchain  

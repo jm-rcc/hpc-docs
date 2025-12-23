@@ -10,7 +10,7 @@ Low-Level Interface to zlib or zlib-ng compression library
 The homepage for Compress-Raw-Zlib 2.202   
 [https://metacpan.org/pod/Compress::Raw::Zlib](https://metacpan.org/pod/Compress::Raw::Zlib)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load compress-raw-zlib/2.202-gcccore-11.3.0`**  
   
 ### Toolchain  

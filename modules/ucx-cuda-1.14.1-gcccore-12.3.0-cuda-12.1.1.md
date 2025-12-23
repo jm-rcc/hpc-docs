@@ -15,7 +15,7 @@ This module adds the UCX CUDA support.
 The homepage for UCX-CUDA 1.14.1 -CUDA-12.1.1  
 [http://www.openucx.org/](http://www.openucx.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ucx-cuda/1.14.1-gcccore-12.3.0-cuda-12.1.1`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ GPUs, with a focus on leveraging existing toolchains such as CUDA or HIP
 The homepage for hipSYCL 0.9.1   
 [https://github.com/illuhad/hipSYCL](https://github.com/illuhad/hipSYCL)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hipsycl/0.9.1-gcc-10.3.0`**  
   
 ### Toolchain  

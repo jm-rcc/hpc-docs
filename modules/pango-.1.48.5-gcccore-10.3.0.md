@@ -12,7 +12,7 @@ context of the GTK+ widget toolkit. Pango forms the core of text and font handli
 The homepage for Pango 1.48.5   
 [https://www.pango.org/](https://www.pango.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pango/.1.48.5-gcccore-10.3.0`**  
   
 ### Toolchain  

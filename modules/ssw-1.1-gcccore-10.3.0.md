@@ -18,7 +18,7 @@ SSW is a fast implementation of the Smith-Waterman algorithm, which uses the
 The homepage for SSW 1.1   
 [https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library](https://github.com/mengyao/Complete-Striped-Smith-Waterman-Library)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ssw/1.1-gcccore-10.3.0`**  
   
 ### Toolchain  

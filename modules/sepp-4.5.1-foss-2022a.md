@@ -11,7 +11,7 @@ placement of short reads into reference alignments and trees.
 The homepage for SEPP 4.5.1   
 [https://github.com/smirarab/sepp](https://github.com/smirarab/sepp)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load sepp/4.5.1-foss-2022a`**  
   
 ### Toolchain  

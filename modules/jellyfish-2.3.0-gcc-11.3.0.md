@@ -10,7 +10,7 @@ Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.
 The homepage for Jellyfish 2.3.0   
 [http://www.genome.umd.edu/jellyfish.html](http://www.genome.umd.edu/jellyfish.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jellyfish/2.3.0-gcc-11.3.0`**  
   
 ### Toolchain  

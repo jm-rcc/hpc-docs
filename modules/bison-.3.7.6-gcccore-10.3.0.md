@@ -11,7 +11,7 @@ Bison is a general-purpose parser generator that converts an annotated context-f
 The homepage for Bison 3.7.6   
 [https://www.gnu.org/software/bison](https://www.gnu.org/software/bison)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bison/.3.7.6-gcccore-10.3.0`**  
   
 ### Toolchain  

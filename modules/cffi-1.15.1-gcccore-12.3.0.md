@@ -13,7 +13,7 @@ files or documentation.
 The homepage for cffi 1.15.1   
 [https://cffi.readthedocs.io/en/latest/](https://cffi.readthedocs.io/en/latest/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cffi/1.15.1-gcccore-12.3.0`**  
   
 ### Toolchain  

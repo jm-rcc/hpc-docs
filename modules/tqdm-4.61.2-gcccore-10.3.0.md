@@ -10,7 +10,7 @@ A fast, extensible progress bar for Python and CLI
 The homepage for tqdm 4.61.2   
 [https://github.com/tqdm/tqdm](https://github.com/tqdm/tqdm)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load tqdm/4.61.2-gcccore-10.3.0`**  
   
 ### Toolchain  

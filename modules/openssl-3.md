@@ -12,7 +12,7 @@ The OpenSSL Project is a collaborative effort to develop a robust, commercial-gr
 The homepage for OpenSSL 3   
 [https://www.openssl.org/](https://www.openssl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load openssl/3`**  
   
 ### Toolchain  

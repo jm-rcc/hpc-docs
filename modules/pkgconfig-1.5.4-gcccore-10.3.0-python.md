@@ -10,7 +10,7 @@ pkgconfig is a Python module to interface with the pkg-config command line tool
 The homepage for pkgconfig 1.5.4 -python  
 [https://github.com/matze/pkgconfig](https://github.com/matze/pkgconfig)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pkgconfig/1.5.4-gcccore-10.3.0-python`**  
   
 ### Toolchain  

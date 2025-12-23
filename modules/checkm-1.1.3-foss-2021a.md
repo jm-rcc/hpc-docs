@@ -11,7 +11,7 @@ CheckM provides a set of tools for assessing the quality of genomes recovered fr
 The homepage for CheckM 1.1.3   
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load checkm/1.1.3-foss-2021a`**  
   
 ### Toolchain  

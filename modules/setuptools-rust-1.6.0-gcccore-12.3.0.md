@@ -11,7 +11,7 @@ implemented with PyO3 or rust-cpython.
 The homepage for setuptools-rust 1.6.0   
 [https://github.com/PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load setuptools-rust/1.6.0-gcccore-12.3.0`**  
   
 ### Toolchain  

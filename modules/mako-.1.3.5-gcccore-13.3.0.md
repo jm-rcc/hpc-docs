@@ -10,7 +10,7 @@ A super-fast templating language that borrows the best ideas from the existing t
 The homepage for Mako 1.3.5   
 [https://www.makotemplates.org](https://www.makotemplates.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mako/.1.3.5-gcccore-13.3.0`**  
   
 ### Toolchain  

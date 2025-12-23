@@ -15,7 +15,7 @@ Lua is a powerful, fast, lightweight, embeddable scripting language.
 The homepage for Lua 5.4.3   
 [https://www.lua.org/](https://www.lua.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lua/5.4.3-gcccore-10.3.0`**  
   
 ### Toolchain  

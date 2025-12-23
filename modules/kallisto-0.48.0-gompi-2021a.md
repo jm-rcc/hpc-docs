@@ -11,7 +11,7 @@ kallisto is a program for quantifying abundances of transcripts from RNA-Seq dat
 The homepage for kallisto 0.48.0   
 [https://pachterlab.github.io/kallisto/](https://pachterlab.github.io/kallisto/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load kallisto/0.48.0-gompi-2021a`**  
   
 ### Toolchain  

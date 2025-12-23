@@ -11,7 +11,7 @@ Bioperl is the product of a community effort to produce Perl code which is usefu
 The homepage for BioPerl 1.7.8   
 [https://bioperl.org/](https://bioperl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bioperl/1.7.8-gcccore-10.3.0`**  
   
 ### Toolchain  

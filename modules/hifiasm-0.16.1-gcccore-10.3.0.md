@@ -10,7 +10,7 @@ Hifiasm: a haplotype-resolved assembler for accurate Hifi reads.
 The homepage for hifiasm 0.16.1   
 [https://github.com/chhylp123/hifiasm](https://github.com/chhylp123/hifiasm)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hifiasm/0.16.1-gcccore-10.3.0`**  
   
 ### Toolchain  

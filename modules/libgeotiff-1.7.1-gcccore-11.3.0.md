@@ -10,7 +10,7 @@ Library for reading and writing coordinate system information from/to GeoTIFF fi
 The homepage for libgeotiff 1.7.1   
 [https://directory.fsf.org/wiki/Libgeotiff](https://directory.fsf.org/wiki/Libgeotiff)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libgeotiff/1.7.1-gcccore-11.3.0`**  
   
 ### Toolchain  

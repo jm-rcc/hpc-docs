@@ -13,7 +13,7 @@ language and the extended Cython programming language (based on Pyrex).
 The homepage for Cython 3.0.8   
 [https://cython.org/](https://cython.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cython/3.0.8-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -13,7 +13,7 @@ Open Babel is a chemical toolbox designed to speak the many
 The homepage for OpenBabel 3.1.1   
 [https://openbabel.org](https://openbabel.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load openbabel/3.1.1-gompi-2022a`**  
   
 ### Toolchain  

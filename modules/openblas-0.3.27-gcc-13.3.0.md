@@ -10,7 +10,7 @@ OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.
 The homepage for OpenBLAS 0.3.27   
 [https://www.openblas.net/](https://www.openblas.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load openblas/0.3.27-gcc-13.3.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ version, which is hard-coded to work with the CP2k program package.
 The homepage for libvori 220621   
 [https://brehm-research.de/libvori.php](https://brehm-research.de/libvori.php)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libvori/220621-gcccore-11.3.0`**  
   
 ### Toolchain  

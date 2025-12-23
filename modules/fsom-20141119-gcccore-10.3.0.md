@@ -10,7 +10,7 @@ A tiny C library for managing SOM (Self-Organizing Maps) neural networks.
 The homepage for fsom 20141119   
 [https://github.com/ekg/fsom](https://github.com/ekg/fsom)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fsom/20141119-gcccore-10.3.0`**  
   
 ### Toolchain  

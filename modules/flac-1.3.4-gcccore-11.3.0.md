@@ -11,7 +11,7 @@ that audio is compressed in FLAC without any loss in quality.
 The homepage for FLAC 1.3.4   
 [https://xiph.org/flac/](https://xiph.org/flac/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load flac/1.3.4-gcccore-11.3.0`**  
   
 ### Toolchain  

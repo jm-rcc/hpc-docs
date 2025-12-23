@@ -10,7 +10,7 @@ libde265 is an open source implementation of the h.265 video codec
 The homepage for libde265 1.0.8   
 [https://github.com/strukturag/libde265](https://github.com/strukturag/libde265)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libde265/1.0.8-gcccore-10.3.0`**  
   
 ### Toolchain  

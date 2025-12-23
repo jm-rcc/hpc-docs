@@ -11,7 +11,7 @@ targeting Intel Architecture (x86).
 The homepage for libxsmm 1.16.2   
 [https://github.com/libxsmm/libxsmm](https://github.com/libxsmm/libxsmm)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libxsmm/1.16.2-gcc-10.3.0`**  
   
 ### Toolchain  

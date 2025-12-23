@@ -11,7 +11,7 @@ The file command is 'a file type guesser', that is, a command-line tool
 The homepage for file 5.43   
 [https://www.darwinsys.com/file/](https://www.darwinsys.com/file/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load file/5.43-gcccore-11.3.0`**  
   
 ### Toolchain  

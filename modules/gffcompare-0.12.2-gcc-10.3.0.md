@@ -11,7 +11,7 @@ GffCompare provides classification and reference annotation mapping and
 The homepage for GffCompare 0.12.2   
 [https://ccb.jhu.edu/software/stringtie/gffcompare.shtml](https://ccb.jhu.edu/software/stringtie/gffcompare.shtml)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gffcompare/0.12.2-gcc-10.3.0`**  
   
 ### Toolchain  

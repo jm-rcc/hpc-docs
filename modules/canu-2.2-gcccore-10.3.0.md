@@ -10,7 +10,7 @@ Canu is a fork of the Celera Assembler designed for high-noise single-molecule s
 The homepage for canu 2.2   
 [https://canu.readthedocs.io](https://canu.readthedocs.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load canu/2.2-gcccore-10.3.0`**  
   
 ### Toolchain  

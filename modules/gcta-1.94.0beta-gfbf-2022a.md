@@ -15,7 +15,7 @@ GCTA (Genome-wide Complex Trait Analysis) is a software package, which was
 The homepage for GCTA 1.94.0beta   
 [https://yanglab.westlake.edu.cn/software/gcta/](https://yanglab.westlake.edu.cn/software/gcta/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gcta/1.94.0beta-gfbf-2022a`**  
   
 ### Toolchain  

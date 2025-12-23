@@ -12,7 +12,7 @@ The GNU Scientific Library (GSL) is a numerical library for C and C++ programmer
 The homepage for GSL 2.7   
 [https://www.gnu.org/software/gsl/](https://www.gnu.org/software/gsl/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gsl/2.7-gcc-11.3.0`**  
   
 ### Toolchain  

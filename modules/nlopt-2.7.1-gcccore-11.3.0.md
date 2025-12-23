@@ -12,7 +12,7 @@
 The homepage for NLopt 2.7.1   
 [http://ab-initio.mit.edu/wiki/index.php/NLopt](http://ab-initio.mit.edu/wiki/index.php/NLopt)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nlopt/2.7.1-gcccore-11.3.0`**  
   
 ### Toolchain  

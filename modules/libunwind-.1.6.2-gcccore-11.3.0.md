@@ -14,7 +14,7 @@ The primary goal of libunwind is to define a portable and efficient C programmin
 The homepage for libunwind 1.6.2   
 [https://www.nongnu.org/libunwind/](https://www.nongnu.org/libunwind/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libunwind/.1.6.2-gcccore-11.3.0`**  
   
 ### Toolchain  

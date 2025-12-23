@@ -14,7 +14,7 @@ Provides a way to load and enumerate PKCS#11 modules.
 The homepage for p11-kit 0.24.1   
 [https://p11-glue.freedesktop.org/p11-kit.html](https://p11-glue.freedesktop.org/p11-kit.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load p11-kit/.0.24.1-gcccore-11.3.0`**  
   
 ### Toolchain  

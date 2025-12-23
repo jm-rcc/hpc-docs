@@ -11,7 +11,7 @@ Java applications on desktops and servers.
 The homepage for Java 21.0.7   
 [https://openjdk.org](https://openjdk.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load java/21.0.7`**  
   
 ### Toolchain  

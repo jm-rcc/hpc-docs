@@ -13,7 +13,7 @@ The utilities are largely based on four widely-used file formats: BED, GFF/GTF, 
 The homepage for BEDTools 2.30.0   
 [https://bedtools.readthedocs.io/](https://bedtools.readthedocs.io/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bedtools/2.30.0-gcc-10.3.0`**  
   
 ### Toolchain  

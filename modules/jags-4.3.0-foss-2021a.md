@@ -11,7 +11,7 @@ JAGS is Just Another Gibbs Sampler.  It is a program for analysis
 The homepage for JAGS 4.3.0   
 [http://mcmc-jags.sourceforge.net/](http://mcmc-jags.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jags/4.3.0-foss-2021a`**  
   
 ### Toolchain  

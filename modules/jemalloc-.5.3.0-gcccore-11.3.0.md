@@ -11,7 +11,7 @@ jemalloc is a general purpose malloc(3) implementation that emphasizes fragmenta
 The homepage for jemalloc 5.3.0   
 [https://jemalloc.net](https://jemalloc.net)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jemalloc/.5.3.0-gcccore-11.3.0`**  
   
 ### Toolchain  

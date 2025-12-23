@@ -10,7 +10,7 @@ BUSCO: assessing genome assembly and annotation completeness with single-copy or
 The homepage for BUSCO 5.4.5   
 [https://busco.ezlab.org/](https://busco.ezlab.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load busco/5.4.5-foss-2022a`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ A tool for creating isolated virtual python environments.
 The homepage for virtualenv 20.23.1   
 [https://github.com/pypa/virtualenv](https://github.com/pypa/virtualenv)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load virtualenv/20.23.1-gcccore-12.3.0`**  
   
 ### Toolchain  

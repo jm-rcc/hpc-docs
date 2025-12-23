@@ -12,7 +12,7 @@ Pplacer places query sequences on a fixed reference phylogenetic tree to maximiz
 The homepage for pplacer 1.1.alpha19   
 [http://matsen.fhcrc.org/pplacer/](http://matsen.fhcrc.org/pplacer/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pplacer/1.1.alpha19`**  
   
 ### Toolchain  

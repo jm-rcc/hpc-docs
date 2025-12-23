@@ -11,7 +11,7 @@ xxd converts to/from hexdumps of binary files.
 The homepage for xxd 8.2.4220   
 [https://www.vim.org](https://www.vim.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load xxd/8.2.4220-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -13,7 +13,7 @@ A modern, C++-native, header-only,
 The homepage for Catch2 2.13.9   
 [https://github.com/catchorg/Catch2](https://github.com/catchorg/Catch2)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load catch2/2.13.9-gcccore-12.3.0`**  
   
 ### Toolchain  

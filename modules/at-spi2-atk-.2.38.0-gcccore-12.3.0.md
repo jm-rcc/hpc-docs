@@ -10,7 +10,7 @@ AT-SPI 2 toolkit bridge
 The homepage for at-spi2-atk 2.38.0   
 [https://wiki.gnome.org/Accessibility](https://wiki.gnome.org/Accessibility)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load at-spi2-atk/.2.38.0-gcccore-12.3.0`**  
   
 ### Toolchain  

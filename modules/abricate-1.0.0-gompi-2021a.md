@@ -10,7 +10,7 @@ Mass screening of contigs for antimicrobial and virulence genes
 The homepage for ABRicate 1.0.0   
 [https://github.com/tseemann/abricate](https://github.com/tseemann/abricate)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load abricate/1.0.0-gompi-2021a`**  
   
 ### Toolchain  

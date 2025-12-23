@@ -14,7 +14,7 @@ OpenJPEG is an open-source JPEG 2000 codec written in
 The homepage for OpenJPEG 2.5.0   
 [https://www.openjpeg.org/](https://www.openjpeg.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load openjpeg/2.5.0-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial 
 The homepage for OpenEXR 3.1.7   
 [https://www.openexr.com/](https://www.openexr.com/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load openexr/3.1.7-gcccore-12.3.0`**  
   
 ### Toolchain  

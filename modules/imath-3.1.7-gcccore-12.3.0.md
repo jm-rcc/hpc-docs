@@ -12,7 +12,7 @@ Imath is a C++ and python library of 2D and 3D vector, matrix, and math operatio
 The homepage for Imath 3.1.7   
 [https://imath.readthedocs.io/en/latest/](https://imath.readthedocs.io/en/latest/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load imath/3.1.7-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ Armadillo is an open-source C++ linear algebra library (matrix maths) aiming tow
 The homepage for Armadillo 12.6.2   
 [https://arma.sourceforge.net/](https://arma.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load armadillo/12.6.2-foss-2023a`**  
   
 ### Toolchain  

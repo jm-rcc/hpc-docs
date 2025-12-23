@@ -13,7 +13,7 @@ Zstandard is a real-time compression algorithm, providing high compression ratio
 The homepage for zstd 1.5.5   
 [https://facebook.github.io/zstd](https://facebook.github.io/zstd)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load zstd/1.5.5-gcccore-12.3.0`**  
   
 ### Toolchain  

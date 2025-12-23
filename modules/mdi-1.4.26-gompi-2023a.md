@@ -20,7 +20,7 @@ enables tight coupling between codes using either the MPI or TCP/IP methods.
 The homepage for MDI 1.4.26   
 [https://github.com/MolSSI-MDI/MDI_Library](https://github.com/MolSSI-MDI/MDI_Library)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mdi/1.4.26-gompi-2023a`**  
   
 ### Toolchain  

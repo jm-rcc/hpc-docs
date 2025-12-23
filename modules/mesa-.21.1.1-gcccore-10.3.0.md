@@ -11,7 +11,7 @@ Mesa is an open-source implementation of the OpenGL specification -
 The homepage for Mesa 21.1.1   
 [https://www.mesa3d.org/](https://www.mesa3d.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mesa/.21.1.1-gcccore-10.3.0`**  
   
 ### Toolchain  

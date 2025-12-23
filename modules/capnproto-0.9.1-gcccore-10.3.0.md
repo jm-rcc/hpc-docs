@@ -10,7 +10,7 @@ Cap’n Proto is an insanely fast data interchange format and capability-based R
 The homepage for CapnProto 0.9.1   
 [https://capnproto.org](https://capnproto.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load capnproto/0.9.1-gcccore-10.3.0`**  
   
 ### Toolchain  

@@ -17,7 +17,7 @@ An HPACK encoder and decoder are available as a public API.
 The homepage for nghttp2 1.48.0   
 [https://github.com/nghttp2/nghttp2](https://github.com/nghttp2/nghttp2)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nghttp2/.1.48.0-gcc-11.3.0`**  
   
 ### Toolchain  

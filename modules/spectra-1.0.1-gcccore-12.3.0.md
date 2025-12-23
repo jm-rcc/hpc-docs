@@ -11,7 +11,7 @@ Spectra stands for Sparse Eigenvalue Computation Toolkit as a Redesigned ARPACK.
 The homepage for SpectrA 1.0.1   
 [https://spectralib.org/](https://spectralib.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load spectra/1.0.1-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ ARPACK is a collection of Fortran77 subroutines designed to solve large scale ei
 The homepage for arpack-ng 3.9.0   
 [https://github.com/opencollab/arpack-ng](https://github.com/opencollab/arpack-ng)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load arpack-ng/.3.9.0-foss-2023a`**  
   
 ### Toolchain  

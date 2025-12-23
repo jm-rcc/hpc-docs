@@ -11,7 +11,7 @@ pybind11 is a lightweight header-only library that exposes C++ types in Python a
 The homepage for pybind11 2.6.2   
 [https://pybind11.readthedocs.io](https://pybind11.readthedocs.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pybind11/2.6.2-gcccore-10.3.0`**  
   
 ### Toolchain  

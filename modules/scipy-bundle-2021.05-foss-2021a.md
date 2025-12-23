@@ -10,7 +10,7 @@ Bundle of Python packages for scientific software
 The homepage for SciPy-bundle 2021.05   
 [https://python.org/](https://python.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load scipy-bundle/2021.05-foss-2021a`**  
   
 ### Toolchain  

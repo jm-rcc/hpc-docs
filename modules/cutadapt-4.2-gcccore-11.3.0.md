@@ -11,7 +11,7 @@ Cutadapt finds and removes adapter sequences, primers, poly-A tails and
 The homepage for cutadapt 4.2   
 [https://opensource.scilifelab.se/projects/cutadapt/](https://opensource.scilifelab.se/projects/cutadapt/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cutadapt/4.2-gcccore-11.3.0`**  
   
 ### Toolchain  

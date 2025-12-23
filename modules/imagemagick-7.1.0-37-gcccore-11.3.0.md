@@ -10,7 +10,7 @@ ImageMagick is a software suite to create, edit, compose, or convert bitmap imag
 The homepage for ImageMagick 7.1.0-37   
 [https://www.imagemagick.org/](https://www.imagemagick.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load imagemagick/7.1.0-37-gcccore-11.3.0`**  
   
 ### Toolchain  

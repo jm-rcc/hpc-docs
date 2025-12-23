@@ -13,7 +13,7 @@
 The homepage for CMake 3.18.4   
 [https://www.cmake.org](https://www.cmake.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cmake/3.18.4`**  
   
 ### Toolchain  

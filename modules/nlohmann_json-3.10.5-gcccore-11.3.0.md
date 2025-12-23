@@ -10,7 +10,7 @@ JSON for Modern C++
 The homepage for nlohmann_json 3.10.5   
 [https://github.com/nlohmann/json](https://github.com/nlohmann/json)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nlohmann_json/3.10.5-gcccore-11.3.0`**  
   
 ### Toolchain  

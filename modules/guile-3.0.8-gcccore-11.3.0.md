@@ -14,7 +14,7 @@
 The homepage for Guile 3.0.8   
 [https://www.gnu.org/software/guile/](https://www.gnu.org/software/guile/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load guile/3.0.8-gcccore-11.3.0`**  
   
 ### Toolchain  

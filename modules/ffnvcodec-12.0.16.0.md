@@ -11,7 +11,7 @@ FFmpeg nvidia headers. Adds support for nvenc and nvdec. Requires Nvidia GPU and
 The homepage for ffnvcodec 12.0.16.0   
 [https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git](https://git.videolan.org/?p=ffmpeg/nv-codec-headers.git)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ffnvcodec/12.0.16.0`**  
   
 ### Toolchain  

@@ -16,7 +16,7 @@
 The homepage for pkg-config 0.29.2   
 [https://www.freedesktop.org/wiki/Software/pkg-config/](https://www.freedesktop.org/wiki/Software/pkg-config/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pkg-config/.0.29.2-gcccore-10.3.0`**  
   
 ### Toolchain  

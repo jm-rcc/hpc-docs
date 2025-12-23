@@ -10,7 +10,7 @@ The Snakemake workflow management system is a tool to create reproducible and sc
 The homepage for snakemake 6.6.1   
 [https://snakemake.readthedocs.io](https://snakemake.readthedocs.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load snakemake/6.6.1-foss-2021a`**  
   
 ### Toolchain  

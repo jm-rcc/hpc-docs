@@ -10,7 +10,7 @@ C++ interface to HTSlib, BWA-MEM and Fermi.
 The homepage for SeqLib 1.2.0   
 [https://github.com/walaj/SeqLib](https://github.com/walaj/SeqLib)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load seqlib/1.2.0-gcc-10.3.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ NetCDF (network Common Data Form) is a set of software libraries
 The homepage for netCDF 4.9.2   
 [https://www.unidata.ucar.edu/software/netcdf/](https://www.unidata.ucar.edu/software/netcdf/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load netcdf/4.9.2-gompi-2023a`**  
   
 ### Toolchain  

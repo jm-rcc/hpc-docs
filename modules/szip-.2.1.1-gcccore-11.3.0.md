@@ -12,7 +12,7 @@
 The homepage for Szip 2.1.1   
 [https://support.hdfgroup.org/doc_resource/SZIP/](https://support.hdfgroup.org/doc_resource/SZIP/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load szip/.2.1.1-gcccore-11.3.0`**  
   
 ### Toolchain  

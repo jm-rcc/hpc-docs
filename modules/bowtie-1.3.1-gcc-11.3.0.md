@@ -11,7 +11,7 @@ Bowtie is an ultrafast, memory-efficient short read aligner.
 The homepage for Bowtie 1.3.1   
 [http://bowtie-bio.sourceforge.net/index.shtml](http://bowtie-bio.sourceforge.net/index.shtml)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bowtie/1.3.1-gcc-11.3.0`**  
   
 ### Toolchain  

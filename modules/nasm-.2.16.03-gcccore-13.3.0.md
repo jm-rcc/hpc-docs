@@ -10,7 +10,7 @@ NASM: General-purpose x86 assembler
 The homepage for NASM 2.16.03   
 [https://www.nasm.us/](https://www.nasm.us/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nasm/.2.16.03-gcccore-13.3.0`**  
   
 ### Toolchain  

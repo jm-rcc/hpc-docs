@@ -10,7 +10,7 @@ PatchELF is a small utility to modify the dynamic linker and RPATH of ELF execut
 The homepage for patchelf 0.18.0   
 [https://github.com/NixOS/patchelf](https://github.com/NixOS/patchelf)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load patchelf/0.18.0-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ to handle everything from small to very large projects with speed and efficiency
 The homepage for git 2.41.0 -nodocs  
 [https://git-scm.com](https://git-scm.com)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load git/2.41.0-gcccore-12.3.0-nodocs`**  
   
 ### Toolchain  

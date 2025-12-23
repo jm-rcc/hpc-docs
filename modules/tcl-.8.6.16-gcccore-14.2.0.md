@@ -14,7 +14,7 @@
 The homepage for Tcl 8.6.16   
 [https://www.tcl.tk/](https://www.tcl.tk/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load tcl/.8.6.16-gcccore-14.2.0`**  
   
 ### Toolchain  

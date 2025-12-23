@@ -11,7 +11,7 @@ MPI for Python (mpi4py) provides bindings of the Message Passing Interface (MPI)
 The homepage for mpi4py 3.1.4   
 [https://github.com/mpi4py/mpi4py](https://github.com/mpi4py/mpi4py)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mpi4py/3.1.4-gompi-2023a`**  
   
 ### Toolchain  

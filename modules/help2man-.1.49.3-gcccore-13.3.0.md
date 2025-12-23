@@ -10,7 +10,7 @@ help2man produces simple manual pages from the '--help' and '--version' output o
 The homepage for help2man 1.49.3   
 [https://www.gnu.org/software/help2man/](https://www.gnu.org/software/help2man/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load help2man/.1.49.3-gcccore-13.3.0`**  
   
 ### Toolchain  

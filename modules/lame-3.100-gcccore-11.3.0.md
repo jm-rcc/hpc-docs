@@ -10,7 +10,7 @@ LAME is a high quality MPEG Audio Layer III (MP3) encoder licensed under the LGP
 The homepage for LAME 3.100   
 [http://lame.sourceforge.net/](http://lame.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lame/3.100-gcccore-11.3.0`**  
   
 ### Toolchain  

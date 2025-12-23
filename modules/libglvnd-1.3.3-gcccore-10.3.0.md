@@ -10,7 +10,7 @@ libglvnd is a vendor-neutral dispatch layer for arbitrating OpenGL API calls bet
 The homepage for libglvnd 1.3.3   
 [https://gitlab.freedesktop.org/glvnd/libglvnd](https://gitlab.freedesktop.org/glvnd/libglvnd)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libglvnd/1.3.3-gcccore-10.3.0`**  
   
 ### Toolchain  

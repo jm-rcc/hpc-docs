@@ -11,7 +11,7 @@ Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FA
 The homepage for seqtk 1.3   
 [https://github.com/lh3/seqtk/](https://github.com/lh3/seqtk/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load seqtk/1.3-gcc-11.3.0`**  
   
 ### Toolchain  

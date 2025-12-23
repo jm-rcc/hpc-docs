@@ -10,7 +10,7 @@ Libiconv converts from one character encoding to another through Unicode convers
 The homepage for libiconv 1.17   
 [https://www.gnu.org/software/libiconv](https://www.gnu.org/software/libiconv)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libiconv/1.17-gcccore-11.3.0`**  
   
 ### Toolchain  

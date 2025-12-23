@@ -10,7 +10,7 @@ A set of common packages from CPAN
 The homepage for Perl-bundle-CPAN 5.36.1   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load perl-bundle-cpan/5.36.1-gcccore-12.3.0`**  
   
 ### Toolchain  

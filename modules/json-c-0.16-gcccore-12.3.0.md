@@ -12,7 +12,7 @@ objects.
 The homepage for json-c 0.16   
 [https://github.com/json-c/json-c](https://github.com/json-c/json-c)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load json-c/0.16-gcccore-12.3.0`**  
   
 ### Toolchain  

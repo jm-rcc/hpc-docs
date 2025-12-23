@@ -13,7 +13,7 @@ JupyterLab is the next-generation user interface for Project Jupyter offering al
 The homepage for JupyterLab 3.5.0   
 [https://jupyter.org/](https://jupyter.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jupyterlab/3.5.0-gcccore-11.3.0`**  
   
 ### Toolchain  

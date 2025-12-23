@@ -11,7 +11,7 @@ Boost.Python is a C++ library which enables seamless interoperability between C+
 The homepage for Boost.Python 1.76.0   
 [https://boostorg.github.io/python](https://boostorg.github.io/python)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load boost.python/1.76.0-gcc-10.3.0`**  
   
 ### Toolchain  

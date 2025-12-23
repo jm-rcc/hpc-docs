@@ -10,7 +10,7 @@ GD is an open source code library for the dynamic creation of images by programm
 The homepage for libgd 2.3.3   
 [https://libgd.github.io](https://libgd.github.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libgd/.2.3.3-gcccore-11.3.0`**  
   
 ### Toolchain  

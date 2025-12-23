@@ -10,7 +10,7 @@ Popt is a C library for parsing command line parameters.
 The homepage for popt 1.19   
 [http://freecode.com/projects/popt](http://freecode.com/projects/popt)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load popt/.1.19-gcccore-11.3.0.bak_20251013214435_2034437`**  
   
 ### Toolchain  

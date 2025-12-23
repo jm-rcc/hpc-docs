@@ -12,7 +12,7 @@ instead, it aims for very high speeds and reasonable compression.
 The homepage for snappy 1.1.8   
 [https://github.com/google/snappy](https://github.com/google/snappy)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load snappy/1.1.8-gcccore-10.3.0`**  
   
 ### Toolchain  

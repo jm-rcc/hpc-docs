@@ -10,7 +10,7 @@ Tkinter module, built with the Python buildsystem
 The homepage for Tkinter 3.9.5   
 [https://python.org/](https://python.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load tkinter/3.9.5-gcccore-10.3.0`**  
   
 ### Toolchain  

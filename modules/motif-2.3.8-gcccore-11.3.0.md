@@ -12,7 +12,7 @@ Motif refers to both a graphical user interface (GUI) specification and the widg
 The homepage for motif 2.3.8   
 [https://motif.ics.com/](https://motif.ics.com/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load motif/2.3.8-gcccore-11.3.0`**  
   
 ### Toolchain  

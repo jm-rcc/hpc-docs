@@ -10,7 +10,7 @@ If you need to convert files from one markup format into another, pandoc is your
 The homepage for Pandoc 3.1.2   
 [https://pandoc.org](https://pandoc.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pandoc/3.1.2`**  
   
 ### Toolchain  

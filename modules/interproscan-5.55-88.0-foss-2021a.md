@@ -12,7 +12,7 @@ InterProScan is a sequence analysis application (nucleotide and protein sequence
 The homepage for InterProScan 5.55-88.0   
 [https://www.ebi.ac.uk/interpro/](https://www.ebi.ac.uk/interpro/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load interproscan/5.55-88.0-foss-2021a`**  
   
 ### Toolchain  

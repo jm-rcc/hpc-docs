@@ -11,7 +11,7 @@ Burrows-Wheeler Aligner (BWA) is an efficient program that aligns
 The homepage for BWA 0.7.17   
 [http://bio-bwa.sourceforge.net/](http://bio-bwa.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bwa/0.7.17-gcc-10.3.0`**  
   
 ### Toolchain  

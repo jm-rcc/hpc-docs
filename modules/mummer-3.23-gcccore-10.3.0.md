@@ -13,7 +13,7 @@
 The homepage for MUMmer 3.23   
 [http://mummer.sourceforge.net/](http://mummer.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mummer/3.23-gcccore-10.3.0`**  
   
 ### Toolchain  

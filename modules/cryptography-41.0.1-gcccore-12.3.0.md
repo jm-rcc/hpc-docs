@@ -10,7 +10,7 @@ cryptography is a package designed to expose cryptographic primitives and recipe
 The homepage for cryptography 41.0.1   
 [https://github.com/pyca/cryptography](https://github.com/pyca/cryptography)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cryptography/41.0.1-gcccore-12.3.0`**  
   
 ### Toolchain  

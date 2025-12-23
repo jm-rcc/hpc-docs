@@ -12,7 +12,7 @@ The SRA Toolkit, and the source-code SRA System Development
 The homepage for SRA-Toolkit 3.0.3   
 [https://github.com/ncbi/sra-tools](https://github.com/ncbi/sra-tools)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load sra-toolkit/3.0.3-gompi-2022a`**  
   
 ### Toolchain  

@@ -13,7 +13,7 @@ Nettle is a cryptographic library that is designed to fit easily
 The homepage for nettle 3.7.2   
 [https://www.lysator.liu.se/~nisse/nettle/](https://www.lysator.liu.se/~nisse/nettle/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nettle/.3.7.2-gcccore-10.3.0`**  
   
 ### Toolchain  

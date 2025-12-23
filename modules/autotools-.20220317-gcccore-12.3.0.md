@@ -13,7 +13,7 @@
 The homepage for Autotools 20220317   
 [https://autotools.io](https://autotools.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load autotools/.20220317-gcccore-12.3.0`**  
   
 ### Toolchain  

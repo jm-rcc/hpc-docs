@@ -10,7 +10,7 @@ C library for the Public Suffix List
 The homepage for libpsl 0.21.5   
 [https://rockdaboot.github.io/libpsl](https://rockdaboot.github.io/libpsl)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libpsl/.0.21.5-gcccore-14.2.0`**  
   
 ### Toolchain  

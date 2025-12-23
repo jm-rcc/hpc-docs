@@ -10,7 +10,7 @@ Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles
 The homepage for double-conversion 3.1.5   
 [https://github.com/google/double-conversion](https://github.com/google/double-conversion)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load double-conversion/3.1.5-gcccore-10.3.0`**  
   
 ### Toolchain  

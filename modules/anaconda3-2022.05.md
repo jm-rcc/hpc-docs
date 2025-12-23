@@ -13,7 +13,7 @@ that empowers companies to adopt a modern open data science analytics architectu
 The homepage for Anaconda3 2022.05   
 [https://www.anaconda.com](https://www.anaconda.com)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load anaconda3/2022.05`**  
   
 ### Toolchain  

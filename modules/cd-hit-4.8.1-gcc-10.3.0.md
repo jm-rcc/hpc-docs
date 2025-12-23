@@ -11,7 +11,7 @@
 The homepage for CD-HIT 4.8.1   
 [http://weizhongli-lab.org/cd-hit/](http://weizhongli-lab.org/cd-hit/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cd-hit/4.8.1-gcc-10.3.0`**  
   
 ### Toolchain  

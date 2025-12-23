@@ -18,7 +18,7 @@
 The homepage for cURL 7.76.0   
 [https://curl.haxx.se](https://curl.haxx.se)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load curl/.7.76.0-gcccore-10.3.0`**  
   
 ### Toolchain  

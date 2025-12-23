@@ -15,7 +15,7 @@ IPython provides a rich architecture for interactive computing with:
 The homepage for IPython 8.5.0   
 [https://ipython.org/index.html](https://ipython.org/index.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ipython/.8.5.0-gcccore-11.3.0`**  
   
 ### Toolchain  

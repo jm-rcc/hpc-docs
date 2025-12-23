@@ -11,7 +11,7 @@ HISAT2 is a fast and sensitive alignment program for mapping next-generation seq
 The homepage for HISAT2 2.2.1   
 [https://daehwankimlab.github.io/hisat2](https://daehwankimlab.github.io/hisat2)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hisat2/2.2.1-gompi-2021a`**  
   
 ### Toolchain  

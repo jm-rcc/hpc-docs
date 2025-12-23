@@ -20,7 +20,7 @@ the desired level of scalability.
 The homepage for PMIx 5.0.6   
 [https://pmix.org/](https://pmix.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pmix/.5.0.6-gcccore-14.2.0`**  
   
 ### Toolchain  

@@ -14,7 +14,7 @@ FastANI is developed for fast alignment-free computation of
 The homepage for FastANI 1.33   
 [https://github.com/ParBLiSS/FastANI](https://github.com/ParBLiSS/FastANI)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fastani/1.33-gcc-10.3.0`**  
   
 ### Toolchain  

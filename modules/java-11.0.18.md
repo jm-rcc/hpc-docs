@@ -11,7 +11,7 @@ Java applications on desktops and servers.
 The homepage for Java 11.0.18   
 [http://openjdk.java.net](http://openjdk.java.net)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load java/11.0.18`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ A cross-platform process and system utilities module for Python
 The homepage for psutil 6.0.0   
 [https://github.com/giampaolo/psutil](https://github.com/giampaolo/psutil)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load psutil/6.0.0-gcccore-13.3.0`**  
   
 ### Toolchain  

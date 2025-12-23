@@ -11,7 +11,7 @@ An open source, cross-platform, implementation of C# and the CLR that is
 The homepage for Mono 6.12.0.122   
 [https://www.mono-project.com/](https://www.mono-project.com/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mono/.6.12.0.122-gcccore-11.3.0.bak_20251013214443_2034437`**  
   
 ### Toolchain  

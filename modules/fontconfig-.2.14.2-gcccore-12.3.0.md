@@ -13,7 +13,7 @@
 The homepage for fontconfig 2.14.2   
 [https://www.freedesktop.org/wiki/Software/fontconfig/](https://www.freedesktop.org/wiki/Software/fontconfig/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fontconfig/.2.14.2-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ Nextflow is a reactive workflow framework and a programming DSL
 The homepage for Nextflow 23.04.2   
 [https://www.nextflow.io/](https://www.nextflow.io/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nextflow/23.04.2`**  
   
 ### Toolchain  

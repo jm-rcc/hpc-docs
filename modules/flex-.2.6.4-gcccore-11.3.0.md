@@ -14,7 +14,7 @@
 The homepage for flex 2.6.4   
 [http://flex.sourceforge.net/](http://flex.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load flex/.2.6.4-gcccore-11.3.0`**  
   
 ### Toolchain  

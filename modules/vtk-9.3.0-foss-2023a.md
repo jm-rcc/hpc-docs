@@ -14,7 +14,7 @@ The Visualization Toolkit (VTK) is an open-source, freely available software sys
 The homepage for VTK 9.3.0   
 [https://www.vtk.org](https://www.vtk.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load vtk/9.3.0-foss-2023a`**  
   
 ### Toolchain  

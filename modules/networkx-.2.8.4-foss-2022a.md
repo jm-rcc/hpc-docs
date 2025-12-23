@@ -11,7 +11,7 @@ and study of the structure, dynamics, and functions of complex networks.
 The homepage for networkx 2.8.4   
 [https://pypi.python.org/pypi/networkx](https://pypi.python.org/pypi/networkx)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load networkx/.2.8.4-foss-2022a`**  
   
 ### Toolchain  

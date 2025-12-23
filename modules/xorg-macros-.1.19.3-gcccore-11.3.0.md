@@ -10,7 +10,7 @@ X.org macros utilities.
 The homepage for xorg-macros 1.19.3   
 [https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load xorg-macros/.1.19.3-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ Ghostscript is a versatile processor for PostScript data with the ability to ren
 The homepage for Ghostscript 10.01.2   
 [https://ghostscript.com](https://ghostscript.com)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ghostscript/10.01.2-gcccore-12.3.0`**  
   
 ### Toolchain  

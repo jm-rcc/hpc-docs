@@ -12,7 +12,7 @@ Prodigal (Prokaryotic Dynamic Programming Genefinding Algorithm)
 The homepage for prodigal 2.6.3   
 [https://github.com/hyattpd/Prodigal/](https://github.com/hyattpd/Prodigal/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load prodigal/2.6.3-gcccore-11.3.0`**  
   
 ### Toolchain  

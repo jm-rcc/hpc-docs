@@ -13,7 +13,7 @@ CUDA (formerly Compute Unified Device Architecture) is a parallel
 The homepage for CUDA 11.8.0   
 [https://developer.nvidia.com/cuda-toolkit](https://developer.nvidia.com/cuda-toolkit)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cuda/11.8.0`**  
   
 ### Toolchain  

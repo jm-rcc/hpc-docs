@@ -14,7 +14,7 @@
 The homepage for JasPer 4.0.0   
 [https://www.ece.uvic.ca/~frodo/jasper/](https://www.ece.uvic.ca/~frodo/jasper/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jasper/.4.0.0-gcccore-12.3.0`**  
   
 ### Toolchain  

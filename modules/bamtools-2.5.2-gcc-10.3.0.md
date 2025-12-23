@@ -10,7 +10,7 @@ BamTools provides both a programmer's API and an end-user's toolkit for handling
 The homepage for BamTools 2.5.2   
 [https://github.com/pezmaster31/bamtools](https://github.com/pezmaster31/bamtools)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bamtools/2.5.2-gcc-10.3.0`**  
   
 ### Toolchain  

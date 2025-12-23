@@ -11,7 +11,7 @@ Python packaging and dependency management made easy. Poetry helps you declare, 
 The homepage for poetry 1.5.1   
 [https://python-poetry.org](https://python-poetry.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load poetry/1.5.1-gcccore-12.3.0`**  
   
 ### Toolchain  

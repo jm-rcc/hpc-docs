@@ -10,7 +10,7 @@ Provide an interface to ZIP archive files.
 The homepage for Archive-Zip 1.68   
 [https://metacpan.org/pod/Archive::Zip](https://metacpan.org/pod/Archive::Zip)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load archive-zip/1.68-gcccore-11.3.0`**  
   
 ### Toolchain  

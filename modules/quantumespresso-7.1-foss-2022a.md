@@ -14,7 +14,7 @@ It is based on density-functional theory, plane waves, and pseudopotentials
 The homepage for QuantumESPRESSO 7.1   
 [https://www.quantum-espresso.org](https://www.quantum-espresso.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load quantumespresso/7.1-foss-2022a`**  
   
 ### Toolchain  

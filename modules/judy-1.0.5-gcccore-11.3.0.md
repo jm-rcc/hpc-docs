@@ -10,7 +10,7 @@ A C library that implements a dynamic array.
 The homepage for Judy 1.0.5   
 [http://judy.sourceforge.net/](http://judy.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load judy/1.0.5-gcccore-11.3.0`**  
   
 ### Toolchain  

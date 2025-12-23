@@ -10,7 +10,7 @@ FFTW interfaces using Intel oneAPI Math Kernel Library
 The homepage for imkl-FFTW 2023.1.0   
 [https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html](https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/onemkl.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load imkl-fftw/2023.1.0-iimpi-2023a`**  
   
 ### Toolchain  

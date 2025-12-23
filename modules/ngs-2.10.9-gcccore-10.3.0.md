@@ -11,7 +11,7 @@ produced from Next Generation Sequencing.
 The homepage for NGS 2.10.9   
 [https://github.com/ncbi/ngs](https://github.com/ncbi/ngs)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ngs/2.10.9-gcccore-10.3.0`**  
   
 ### Toolchain  

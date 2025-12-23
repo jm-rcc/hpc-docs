@@ -10,7 +10,7 @@ tiff: Library and tools for reading and writing TIFF data files
 The homepage for LibTIFF 4.3.0   
 [https://libtiff.maptools.org/](https://libtiff.maptools.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libtiff/.4.3.0-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ for CPython C/C++/Fortran/Cython extensions.
 The homepage for scikit-build 0.17.6   
 [https://scikit-build.readthedocs.io/en/latest](https://scikit-build.readthedocs.io/en/latest)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load scikit-build/0.17.6-gcccore-12.3.0`**  
   
 ### Toolchain  

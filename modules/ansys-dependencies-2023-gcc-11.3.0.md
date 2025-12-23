@@ -10,7 +10,7 @@ A collection of software to meet the requirements of Ansys.
 The homepage for Ansys-dependencies 2023   
 [https://www.ansys.com/](https://www.ansys.com/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ansys-dependencies/2023-gcc-11.3.0`**  
   
 ### Toolchain  

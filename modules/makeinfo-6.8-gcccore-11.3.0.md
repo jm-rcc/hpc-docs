@@ -10,7 +10,7 @@ makeinfo is part of the Texinfo project, the official documentation format of th
 The homepage for makeinfo 6.8   
 [https://www.gnu.org/software/texinfo/](https://www.gnu.org/software/texinfo/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load makeinfo/6.8-gcccore-11.3.0`**  
   
 ### Toolchain  

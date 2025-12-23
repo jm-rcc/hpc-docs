@@ -14,7 +14,7 @@
 The homepage for Bowtie2 2.4.5   
 [https://bowtie-bio.sourceforge.net/bowtie2/index.shtml](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bowtie2/2.4.5-gcc-11.3.0`**  
   
 ### Toolchain  

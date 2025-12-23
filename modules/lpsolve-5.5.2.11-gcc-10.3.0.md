@@ -10,7 +10,7 @@ Mixed Integer Linear Programming (MILP) solver
 The homepage for lpsolve 5.5.2.11   
 [https://sourceforge.net/projects/lpsolve/](https://sourceforge.net/projects/lpsolve/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load lpsolve/5.5.2.11-gcc-10.3.0`**  
   
 ### Toolchain  

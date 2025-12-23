@@ -13,7 +13,7 @@ are not directly supported, they can also be efficiently coded by grouping expon
 The homepage for libaec 1.0.6   
 [https://gitlab.dkrz.de/k202009/libaec](https://gitlab.dkrz.de/k202009/libaec)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libaec/1.0.6-gcccore-12.3.0`**  
   
 ### Toolchain  

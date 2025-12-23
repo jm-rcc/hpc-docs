@@ -10,7 +10,7 @@ AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
 The homepage for AUGUSTUS 3.4.0   
 [https://bioinf.uni-greifswald.de/augustus/](https://bioinf.uni-greifswald.de/augustus/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load augustus/3.4.0-foss-2021a`**  
   
 ### Toolchain  

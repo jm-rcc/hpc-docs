@@ -11,7 +11,7 @@ ICU is a mature, widely used set of C/C++ and Java libraries providing Unicode a
 The homepage for ICU 73.2   
 [https://icu.unicode.org](https://icu.unicode.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load icu/.73.2-gcccore-12.3.0`**  
   
 ### Toolchain  

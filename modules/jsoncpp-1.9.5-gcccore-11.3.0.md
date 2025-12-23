@@ -12,7 +12,7 @@
 The homepage for JsonCpp 1.9.5   
 [https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html](https://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load jsoncpp/1.9.5-gcccore-11.3.0`**  
   
 ### Toolchain  

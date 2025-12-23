@@ -10,7 +10,7 @@ ParaView is a scientific parallel visualizer.
 The homepage for ParaView 5.11.2   
 [https://www.paraview.org](https://www.paraview.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load paraview/5.11.2-foss-2023a`**  
   
 ### Toolchain  

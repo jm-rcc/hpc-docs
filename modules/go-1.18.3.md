@@ -11,7 +11,7 @@ Go is an open source programming language that makes it easy to build
 The homepage for Go 1.18.3   
 [https://www.golang.org](https://www.golang.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load go/1.18.3`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ It does not depend on any particular QUIC transport implementation.
 The homepage for nghttp3 0.6.0   
 [https://github.com/ngtcp2/nghttp3](https://github.com/ngtcp2/nghttp3)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nghttp3/.0.6.0-gcccore-11.3.0`**  
   
 ### Toolchain  

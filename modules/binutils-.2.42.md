@@ -10,7 +10,7 @@ binutils: GNU binary utilities
 The homepage for binutils 2.42   
 [https://directory.fsf.org/project/binutils/](https://directory.fsf.org/project/binutils/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load binutils/.2.42`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ deepTools is a suite of python tools particularly developed for the efficient an
 The homepage for deepTools 3.5.0   
 [https://deeptools.readthedocs.io/](https://deeptools.readthedocs.io/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load deeptools/3.5.0-foss-2021a`**  
   
 ### Toolchain  

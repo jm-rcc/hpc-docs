@@ -11,7 +11,7 @@ BLAS-like dense linear algebra libraries.
 The homepage for BLIS 1.0   
 [https://github.com/flame/blis/](https://github.com/flame/blis/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load blis/1.0-gcc-13.3.0`**  
   
 ### Toolchain  

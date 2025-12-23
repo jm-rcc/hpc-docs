@@ -14,7 +14,7 @@ This is the corresponding database.
 The homepage for CheckM-Database 2015_01_16   
 [https://github.com/Ecogenomics/CheckM](https://github.com/Ecogenomics/CheckM)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load checkm-database/2015_01_16`**  
   
 ### Toolchain  

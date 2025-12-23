@@ -13,7 +13,7 @@ An interval tree can be used to efficiently find a set of numeric intervals
 The homepage for intervaltree 0.1   
 [https://github.com/ekg/intervaltree](https://github.com/ekg/intervaltree)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load intervaltree/0.1-gcccore-10.3.0`**  
   
 ### Toolchain  

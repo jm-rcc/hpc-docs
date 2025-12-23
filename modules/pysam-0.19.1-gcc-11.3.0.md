@@ -11,7 +11,7 @@ Pysam is a python module for reading and manipulating Samfiles.
 The homepage for Pysam 0.19.1   
 [https://github.com/pysam-developers/pysam](https://github.com/pysam-developers/pysam)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pysam/0.19.1-gcc-11.3.0`**  
   
 ### Toolchain  

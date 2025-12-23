@@ -13,7 +13,7 @@
 The homepage for HDF 4.2.15   
 [https://support.hdfgroup.org/products/hdf4/](https://support.hdfgroup.org/products/hdf4/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hdf/4.2.15-gcccore-10.3.0`**  
   
 ### Toolchain  

@@ -13,7 +13,7 @@
 The homepage for MPFR 4.1.0   
 [https://www.mpfr.org](https://www.mpfr.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mpfr/4.1.0-gcccore-10.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ Netscape Portable Runtime (NSPR) provides a platform-neutral API for system leve
 The homepage for NSPR 4.35   
 [https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSPR)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load nspr/.4.35-gcccore-12.3.0`**  
   
 ### Toolchain  

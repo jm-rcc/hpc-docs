@@ -10,7 +10,7 @@ libpng is the official PNG reference library
 The homepage for libpng 1.6.39   
 [http://www.libpng.org/pub/png/libpng.html](http://www.libpng.org/pub/png/libpng.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libpng/.1.6.39-gcccore-12.3.0`**  
   
 ### Toolchain  

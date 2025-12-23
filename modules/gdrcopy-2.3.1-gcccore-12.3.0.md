@@ -10,7 +10,7 @@ A low-latency GPU memory copy library based on NVIDIA GPUDirect RDMA technology.
 The homepage for GDRCopy 2.3.1   
 [https://github.com/NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gdrcopy/2.3.1-gcccore-12.3.0`**  
   
 ### Toolchain  

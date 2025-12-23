@@ -12,7 +12,7 @@ Trimmomatic performs a variety of useful trimming tasks for illumina
 The homepage for Trimmomatic 0.39 -Java-11  
 [http://www.usadellab.org/cms/?page=trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load trimmomatic/0.39-java-11`**  
   
 ### Toolchain  

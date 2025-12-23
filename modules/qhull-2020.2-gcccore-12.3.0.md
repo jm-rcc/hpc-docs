@@ -16,7 +16,7 @@
 The homepage for Qhull 2020.2   
 [http://www.qhull.org](http://www.qhull.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load qhull/2020.2-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -16,7 +16,7 @@ The LLVM Core libraries provide a modern source- and target-independent
 The homepage for LLVM 18.1.8 -minimal  
 [https://llvm.org/](https://llvm.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load llvm/18.1.8-gcccore-13.3.0-minimal`**  
   
 ### Toolchain  

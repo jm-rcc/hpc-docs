@@ -12,7 +12,7 @@ and documentation
 The homepage for gettext 0.21.1   
 [https://www.gnu.org/software/gettext/](https://www.gnu.org/software/gettext/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gettext/.0.21.1`**  
   
 ### Toolchain  

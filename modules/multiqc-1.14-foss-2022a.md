@@ -13,7 +13,7 @@ Aggregate results from bioinformatics analyses across many samples into a single
 The homepage for MultiQC 1.14   
 [https://multiqc.info](https://multiqc.info)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load multiqc/1.14-foss-2022a`**  
   
 ### Toolchain  

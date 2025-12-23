@@ -11,7 +11,7 @@ multimedia codecs.
 The homepage for libogg 1.3.5   
 [https://xiph.org/ogg/](https://xiph.org/ogg/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libogg/1.3.5-gcccore-11.3.0`**  
   
 ### Toolchain  

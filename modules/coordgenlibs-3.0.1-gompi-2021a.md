@@ -10,7 +10,7 @@ Schrodinger-developed 2D Coordinate Generation
 The homepage for CoordgenLibs 3.0.1   
 [https://github.com/schrodinger/coordgenlibs](https://github.com/schrodinger/coordgenlibs)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load coordgenlibs/3.0.1-gompi-2021a`**  
   
 ### Toolchain  

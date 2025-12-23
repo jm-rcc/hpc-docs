@@ -10,7 +10,7 @@ Fast genome and metagenome distance estimation using MinHash
 The homepage for Mash 2.3   
 [http://mash.readthedocs.org](http://mash.readthedocs.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mash/2.3-gcc-10.3.0`**  
   
 ### Toolchain  

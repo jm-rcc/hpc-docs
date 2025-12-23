@@ -10,7 +10,7 @@ C++ wrapper to tabix indexer
 The homepage for tabixpp 1.1.0   
 [https://github.com/ekg/tabixpp](https://github.com/ekg/tabixpp)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load tabixpp/1.1.0-gcc-10.3.0`**  
   
 ### Toolchain  

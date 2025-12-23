@@ -10,7 +10,7 @@ A simple packaging tool for simple packages.
 The homepage for flit 3.9.0   
 [https://github.com/pypa/flit](https://github.com/pypa/flit)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load flit/3.9.0-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Ninja is a small build system with a focus on speed.
 The homepage for Ninja 1.12.1   
 [https://ninja-build.org/](https://ninja-build.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ninja/1.12.1-gcccore-13.3.0`**  
   
 ### Toolchain  

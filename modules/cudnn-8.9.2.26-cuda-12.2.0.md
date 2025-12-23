@@ -11,7 +11,7 @@ a GPU-accelerated library of primitives for deep neural networks.
 The homepage for cuDNN 8.9.2.26 -CUDA-12.2.0  
 [https://developer.nvidia.com/cudnn](https://developer.nvidia.com/cudnn)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cudnn/8.9.2.26-cuda-12.2.0`**  
   
 ### Toolchain  

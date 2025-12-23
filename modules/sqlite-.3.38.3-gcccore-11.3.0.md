@@ -10,7 +10,7 @@ SQLite: SQL Database Engine in a C Library
 The homepage for SQLite 3.38.3   
 [https://www.sqlite.org/](https://www.sqlite.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load sqlite/.3.38.3-gcccore-11.3.0`**  
   
 ### Toolchain  

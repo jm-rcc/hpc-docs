@@ -10,7 +10,7 @@ Beautiful Soup is a Python library designed for quick turnaround projects like s
 The homepage for BeautifulSoup 4.10.0   
 [https://www.crummy.com/software/BeautifulSoup](https://www.crummy.com/software/BeautifulSoup)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load beautifulsoup/4.10.0-gcccore-11.3.0`**  
   
 ### Toolchain  

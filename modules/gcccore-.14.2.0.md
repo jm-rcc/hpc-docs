@@ -11,7 +11,7 @@ The GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran
 The homepage for GCCcore 14.2.0   
 [https://gcc.gnu.org/](https://gcc.gnu.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gcccore/.14.2.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ EasyBuild is a software build and installation framework
 The homepage for EasyBuild 5.1.0   
 [https://easybuilders.github.io/easybuild](https://easybuilders.github.io/easybuild)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load easybuild/5.1.0`**  
   
 ### Toolchain  

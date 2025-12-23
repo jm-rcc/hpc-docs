@@ -11,7 +11,7 @@ C, C++, Objective-C compiler, based on LLVM.  Does not
 The homepage for Clang 12.0.1   
 [https://clang.llvm.org/](https://clang.llvm.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load clang/12.0.1-gcccore-10.3.0`**  
   
 ### Toolchain  

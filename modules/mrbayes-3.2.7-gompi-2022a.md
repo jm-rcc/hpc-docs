@@ -11,7 +11,7 @@ MrBayes is a program for Bayesian inference and model choice across
 The homepage for MrBayes 3.2.7   
 [https://nbisweden.github.io/MrBayes/](https://nbisweden.github.io/MrBayes/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mrbayes/3.2.7-gompi-2022a`**  
   
 ### Toolchain  

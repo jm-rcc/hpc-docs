@@ -12,7 +12,7 @@
 The homepage for GTK2 2.24.33   
 [https://www.gtk.org](https://www.gtk.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gtk2/2.24.33-gcccore-11.3.0`**  
   
 ### Toolchain  

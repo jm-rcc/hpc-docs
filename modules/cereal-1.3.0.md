@@ -13,7 +13,7 @@ used standalone.
 The homepage for Cereal 1.3.0   
 [https://uscilab.github.io/cereal/](https://uscilab.github.io/cereal/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cereal/1.3.0`**  
   
 ### Toolchain  

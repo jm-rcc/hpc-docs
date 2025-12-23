@@ -10,7 +10,7 @@ Julia is a high-level, high-performance dynamic programming language for numeric
 The homepage for Julia 1.8.2 -linux-x86_64  
 [https://julialang.org](https://julialang.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load julia/1.8.2-linux-x86_64`**  
   
 ### Toolchain  

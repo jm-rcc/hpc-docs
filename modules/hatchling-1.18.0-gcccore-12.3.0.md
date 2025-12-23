@@ -11,7 +11,7 @@ a modern, extensible Python project manager.
 The homepage for hatchling 1.18.0   
 [https://hatch.pypa.io](https://hatch.pypa.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hatchling/1.18.0-gcccore-12.3.0`**  
   
 ### Toolchain  

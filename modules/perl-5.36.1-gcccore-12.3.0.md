@@ -13,7 +13,7 @@ Includes a small selection of extra CPAN packages for core functionality.
 The homepage for Perl 5.36.1   
 [https://www.perl.org/](https://www.perl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load perl/5.36.1-gcccore-12.3.0`**  
   
 ### Toolchain  

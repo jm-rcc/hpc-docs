@@ -12,7 +12,7 @@
 The homepage for at-spi2-core 2.49.91   
 [https://wiki.gnome.org/Accessibility](https://wiki.gnome.org/Accessibility)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load at-spi2-core/.2.49.91-gcccore-12.3.0`**  
   
 ### Toolchain  

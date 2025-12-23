@@ -11,7 +11,7 @@ MRtrix provides a set of tools to perform diffusion-weighted MR white-matter tra
 The homepage for MRtrix 3.0.3   
 [http://www.brain.org.au/software/index.html#mrtrix](http://www.brain.org.au/software/index.html#mrtrix)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mrtrix/3.0.3-foss-2021a`**  
   
 ### Toolchain  

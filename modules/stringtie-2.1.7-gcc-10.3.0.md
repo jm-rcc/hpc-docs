@@ -10,7 +10,7 @@ StringTie is a fast and highly efficient assembler of RNA-Seq alignments into po
 The homepage for StringTie 2.1.7   
 [https://ccb.jhu.edu/software/stringtie/](https://ccb.jhu.edu/software/stringtie/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load stringtie/2.1.7-gcc-10.3.0`**  
   
 ### Toolchain  

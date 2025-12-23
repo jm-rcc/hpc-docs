@@ -12,7 +12,7 @@ matplotlib is a python 2D plotting library which produces publication quality fi
 The homepage for matplotlib 3.4.2   
 [https://matplotlib.org](https://matplotlib.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load matplotlib/3.4.2-foss-2021a`**  
   
 ### Toolchain  

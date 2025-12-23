@@ -11,7 +11,7 @@ The ScaLAPACK (or Scalable LAPACK) library includes a subset of LAPACK routines
 The homepage for ScaLAPACK 2.2.0 -fb  
 [https://www.netlib.org/scalapack/](https://www.netlib.org/scalapack/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load scalapack/2.2.0-gompi-2022a-fb`**  
   
 ### Toolchain  

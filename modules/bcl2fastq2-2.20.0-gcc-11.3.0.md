@@ -11,7 +11,7 @@ bcl2fastq Conversion Software both demultiplexes data and converts BCL files gen
 The homepage for bcl2fastq2 2.20.0   
 [https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html](https://support.illumina.com/sequencing/sequencing_software/bcl2fastq-conversion-software.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bcl2fastq2/2.20.0-gcc-11.3.0`**  
   
 ### Toolchain  

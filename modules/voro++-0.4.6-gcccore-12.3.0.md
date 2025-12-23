@@ -14,7 +14,7 @@ to analyze a system of particles.
 The homepage for Voro++ 0.4.6   
 [http://math.lbl.gov/voro++/](http://math.lbl.gov/voro++/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load voro++/0.4.6-gcccore-12.3.0`**  
   
 ### Toolchain  

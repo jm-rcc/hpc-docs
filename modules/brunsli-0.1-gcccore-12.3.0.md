@@ -10,7 +10,7 @@ Brunsli is a lossless JPEG repacking library.
 The homepage for Brunsli 0.1   
 [https://github.com/google/brunsli/](https://github.com/google/brunsli/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load brunsli/0.1-gcccore-12.3.0`**  
   
 ### Toolchain  

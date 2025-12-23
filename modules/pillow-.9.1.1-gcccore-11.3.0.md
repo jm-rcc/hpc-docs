@@ -11,7 +11,7 @@ Pillow is the 'friendly PIL fork' by Alex Clark and Contributors.
 The homepage for Pillow 9.1.1   
 [https://pillow.readthedocs.org/](https://pillow.readthedocs.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pillow/.9.1.1-gcccore-11.3.0`**  
   
 ### Toolchain  

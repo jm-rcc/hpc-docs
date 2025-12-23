@@ -10,7 +10,7 @@ filevercmp function as in sort --version-sort.
 The homepage for filevercmp 20191210   
 [https://github.com/ekg/filevercmp](https://github.com/ekg/filevercmp)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load filevercmp/20191210-gcccore-10.3.0`**  
   
 ### Toolchain  

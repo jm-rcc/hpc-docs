@@ -10,7 +10,7 @@ Perl binding for MySQL
 The homepage for DBD-mysql 4.050   
 [https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm](https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load dbd-mysql/4.050-gcc-11.3.0`**  
   
 ### Toolchain  

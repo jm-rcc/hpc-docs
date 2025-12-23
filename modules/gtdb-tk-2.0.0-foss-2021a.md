@@ -10,7 +10,7 @@ A toolkit for assigning objective taxonomic classifications to bacterial and arc
 The homepage for GTDB-Tk 2.0.0   
 [https://github.com/Ecogenomics/GTDBTk](https://github.com/Ecogenomics/GTDBTk)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gtdb-tk/2.0.0-foss-2021a`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Set of Linux utilities
 The homepage for util-linux 2.40   
 [https://www.kernel.org/pub/linux/utils/util-linux](https://www.kernel.org/pub/linux/utils/util-linux)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load util-linux/.2.40-gcccore-13.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Whole-genome association analysis toolset
 The homepage for PLINK 2.00a3.6   
 [https://www.cog-genomics.org/plink/2.0/](https://www.cog-genomics.org/plink/2.0/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load plink/2.00a3.6-gcc-11.3.0`**  
   
 ### Toolchain  

@@ -14,7 +14,7 @@
 The homepage for Doxygen 1.9.4   
 [https://www.doxygen.org](https://www.doxygen.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load doxygen/.1.9.4-gcccore-11.3.0`**  
   
 ### Toolchain  

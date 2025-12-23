@@ -10,7 +10,7 @@ The Open MPI Project is an open source MPI-3 implementation.
 The homepage for OpenMPI 5.0.7   
 [https://www.open-mpi.org/](https://www.open-mpi.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load openmpi/5.0.7-gcc-14.2.0`**  
   
 ### Toolchain  

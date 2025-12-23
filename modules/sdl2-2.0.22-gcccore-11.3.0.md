@@ -10,7 +10,7 @@ SDL: Simple DirectMedia Layer, a cross-platform multimedia library
 The homepage for SDL2 2.0.22   
 [https://www.libsdl.org/](https://www.libsdl.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load sdl2/2.0.22-gcccore-11.3.0`**  
   
 ### Toolchain  

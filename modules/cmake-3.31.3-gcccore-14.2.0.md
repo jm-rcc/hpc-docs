@@ -13,7 +13,7 @@
 The homepage for CMake 3.31.3   
 [https://www.cmake.org](https://www.cmake.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cmake/3.31.3-gcccore-14.2.0`**  
   
 ### Toolchain  

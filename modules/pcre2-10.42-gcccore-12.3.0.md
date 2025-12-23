@@ -13,7 +13,7 @@
 The homepage for PCRE2 10.42   
 [https://www.pcre.org/](https://www.pcre.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pcre2/10.42-gcccore-12.3.0`**  
   
 ### Toolchain  

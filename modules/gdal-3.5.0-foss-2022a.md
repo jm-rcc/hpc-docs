@@ -13,7 +13,7 @@ GDAL is a translator library for raster geospatial data formats that is released
 The homepage for GDAL 3.5.0   
 [https://www.gdal.org](https://www.gdal.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gdal/3.5.0-foss-2022a`**  
   
 ### Toolchain  

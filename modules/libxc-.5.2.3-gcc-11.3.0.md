@@ -11,7 +11,7 @@ Libxc is a library of exchange-correlation functionals for density-functional th
 The homepage for libxc 5.2.3   
 [https://libxc.gitlab.io](https://libxc.gitlab.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libxc/.5.2.3-gcc-11.3.0`**  
   
 ### Toolchain  

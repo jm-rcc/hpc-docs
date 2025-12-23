@@ -13,7 +13,7 @@ methods for performing common object operations.
 The homepage for cppy 1.2.1   
 [https://github.com/nucleic/cppy](https://github.com/nucleic/cppy)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cppy/1.2.1-gcccore-11.3.0`**  
   
 ### Toolchain  

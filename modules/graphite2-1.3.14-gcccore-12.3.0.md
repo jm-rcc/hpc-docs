@@ -11,7 +11,7 @@ Graphite is a "smart font" system developed specifically to
 The homepage for graphite2 1.3.14   
 [https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home](https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load graphite2/1.3.14-gcccore-12.3.0`**  
   
 ### Toolchain  

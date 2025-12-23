@@ -10,7 +10,7 @@ BBMap short read aligner, and other bioinformatic tools.
 The homepage for BBMap 38.96   
 [https://sourceforge.net/projects/bbmap/](https://sourceforge.net/projects/bbmap/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load bbmap/38.96-gcc-10.3.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ Miniconda is a free minimal installer for conda. It is a small,
 The homepage for Miniconda3 4.12.0   
 [https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load miniconda3/4.12.0`**  
   
 ### Toolchain  

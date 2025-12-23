@@ -12,7 +12,7 @@ assemblies, thus is suitable for comparison.
 The homepage for QUAST 5.0.2   
 [https://github.com/ablab/quast](https://github.com/ablab/quast)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load quast/5.0.2-foss-2021a`**  
   
 ### Toolchain  

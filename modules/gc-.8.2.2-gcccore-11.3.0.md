@@ -12,7 +12,7 @@ garbage collecting replacement for C malloc or C++ new.
 The homepage for gc 8.2.2   
 [https://hboehm.info/gc/](https://hboehm.info/gc/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gc/.8.2.2-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -15,7 +15,7 @@
 The homepage for Gdk-Pixbuf 2.42.6   
 [https://developer.gnome.org/gdk-pixbuf/stable/](https://developer.gnome.org/gdk-pixbuf/stable/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gdk-pixbuf/.2.42.6-gcccore-10.3.0`**  
   
 ### Toolchain  

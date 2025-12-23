@@ -10,7 +10,7 @@ LibYAML is a YAML parser and emitter written in C.
 The homepage for libyaml 0.2.5   
 [https://pyyaml.org/wiki/LibYAML](https://pyyaml.org/wiki/LibYAML)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libyaml/.0.2.5-gcccore-10.3.0`**  
   
 ### Toolchain  

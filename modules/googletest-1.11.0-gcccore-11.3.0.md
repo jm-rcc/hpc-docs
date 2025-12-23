@@ -10,7 +10,7 @@ Google's framework for writing C++ tests on a variety of platforms
 The homepage for googletest 1.11.0   
 [https://github.com/google/googletest](https://github.com/google/googletest)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load googletest/1.11.0-gcccore-11.3.0`**  
   
 ### Toolchain  

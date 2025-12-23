@@ -11,7 +11,7 @@ Flye is a de novo assembler for long and noisy reads, such as those produced by 
 The homepage for Flye 2.9   
 [https://github.com/fenderglass/Flye](https://github.com/fenderglass/Flye)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load flye/2.9-gcc-10.3.0`**  
   
 ### Toolchain  

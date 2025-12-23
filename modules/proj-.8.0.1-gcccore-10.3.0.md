@@ -11,7 +11,7 @@ geographic longitude and latitude coordinates into cartesian coordinates
 The homepage for PROJ 8.0.1   
 [https://proj.org](https://proj.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load proj/.8.0.1-gcccore-10.3.0`**  
   
 ### Toolchain  

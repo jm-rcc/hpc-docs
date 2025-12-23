@@ -10,7 +10,7 @@ A library for detecting, labeling, and reasoning about microarchitectures
 The homepage for archspec 0.1.2   
 [https://github.com/archspec/archspec](https://github.com/archspec/archspec)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load archspec/0.1.2-gcccore-10.3.0`**  
   
 ### Toolchain  

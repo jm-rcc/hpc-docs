@@ -13,7 +13,7 @@ Opus is a totally open, royalty-free, highly versatile audio codec. Opus is unma
 The homepage for libopus 1.3.1   
 [https://www.opus-codec.org/](https://www.opus-codec.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libopus/1.3.1-gcccore-11.3.0`**  
   
 ### Toolchain  

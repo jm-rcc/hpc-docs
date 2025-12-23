@@ -11,7 +11,7 @@ HTSeq is a Python library to facilitate processing and analysis
 The homepage for HTSeq 2.0.2   
 [https://github.com/simon-anders/htseq](https://github.com/simon-anders/htseq)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load htseq/2.0.2-foss-2022a`**  
   
 ### Toolchain  

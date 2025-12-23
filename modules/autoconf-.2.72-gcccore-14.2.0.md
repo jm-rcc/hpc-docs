@@ -17,7 +17,7 @@
 The homepage for Autoconf 2.72   
 [https://www.gnu.org/software/autoconf/](https://www.gnu.org/software/autoconf/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load autoconf/.2.72-gcccore-14.2.0`**  
   
 ### Toolchain  

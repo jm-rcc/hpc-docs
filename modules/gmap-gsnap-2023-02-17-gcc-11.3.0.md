@@ -11,7 +11,7 @@ GMAP: A Genomic Mapping and Alignment Program for mRNA and EST Sequences
 The homepage for GMAP-GSNAP 2023-02-17   
 [http://research-pub.gene.com/gmap/](http://research-pub.gene.com/gmap/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gmap-gsnap/2023-02-17-gcc-11.3.0`**  
   
 ### Toolchain  

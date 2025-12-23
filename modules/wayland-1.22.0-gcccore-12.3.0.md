@@ -17,7 +17,7 @@ Wayland is a project to define a protocol for a compositor to talk to
 The homepage for Wayland 1.22.0   
 [https://wayland.freedesktop.org/](https://wayland.freedesktop.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load wayland/1.22.0-gcccore-12.3.0`**  
   
 ### Toolchain  

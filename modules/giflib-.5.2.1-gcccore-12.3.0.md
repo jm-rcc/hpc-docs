@@ -12,7 +12,7 @@ the LZW compression algorithm was patented.
 The homepage for giflib 5.2.1   
 [http://giflib.sourceforge.net/](http://giflib.sourceforge.net/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load giflib/.5.2.1-gcccore-12.3.0`**  
   
 ### Toolchain  

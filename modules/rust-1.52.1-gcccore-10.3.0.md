@@ -11,7 +11,7 @@ Rust is a systems programming language that runs blazingly fast, prevents segfau
 The homepage for Rust 1.52.1   
 [https://www.rust-lang.org](https://www.rust-lang.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load rust/1.52.1-gcccore-10.3.0`**  
   
 ### Toolchain  

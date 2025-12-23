@@ -13,7 +13,7 @@
 The homepage for libsodium 1.0.18   
 [https://doc.libsodium.org/](https://doc.libsodium.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libsodium/.1.0.18-gcccore-10.3.0`**  
   
 ### Toolchain  

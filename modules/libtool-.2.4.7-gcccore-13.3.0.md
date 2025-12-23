@@ -13,7 +13,7 @@
 The homepage for libtool 2.4.7   
 [https://www.gnu.org/software/libtool](https://www.gnu.org/software/libtool)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libtool/.2.4.7-gcccore-13.3.0`**  
   
 ### Toolchain  

@@ -10,7 +10,7 @@ Heavily optimized library for DEFLATE/zlib/gzip compression and decompression.
 The homepage for libdeflate 1.10   
 [https://github.com/ebiggers/libdeflate](https://github.com/ebiggers/libdeflate)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libdeflate/1.10-gcccore-11.3.0`**  
   
 ### Toolchain  

@@ -12,7 +12,7 @@ in the XML document (like start tags).
 The homepage for expat 2.5.0   
 [https://libexpat.github.io](https://libexpat.github.io)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load expat/.2.5.0-gcccore-12.3.0`**  
   
 ### Toolchain  

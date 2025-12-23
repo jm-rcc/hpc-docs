@@ -12,7 +12,7 @@ Ruby is a dynamic, open source programming language with
 The homepage for Ruby 3.0.1   
 [https://www.ruby-lang.org](https://www.ruby-lang.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ruby/3.0.1-gcccore-10.3.0`**  
   
 ### Toolchain  

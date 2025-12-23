@@ -11,7 +11,7 @@ Included engines: myISAM, Aria, InnoDB, RocksDB, TokuDB, OQGraph, Mroonga.
 The homepage for MariaDB 10.9.3   
 [https://mariadb.org/](https://mariadb.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load mariadb/10.9.3-gcc-11.3.0`**  
   
 ### Toolchain  

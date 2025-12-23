@@ -14,7 +14,7 @@ GObject introspection is a middleware layer between C libraries
 The homepage for GObject-Introspection 1.68.0   
 [https://gi.readthedocs.io/en/latest/](https://gi.readthedocs.io/en/latest/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gobject-introspection/.1.68.0-gcccore-10.3.0`**  
   
 ### Toolchain  

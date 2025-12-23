@@ -10,7 +10,7 @@ Intel C/C++ and Fortran compilers, alongside Intel MPI.
 The homepage for iimpi 2025a   
 [https://software.intel.com/parallel-studio-xe](https://software.intel.com/parallel-studio-xe)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load iimpi/2025a`**  
   
 ### Toolchain  

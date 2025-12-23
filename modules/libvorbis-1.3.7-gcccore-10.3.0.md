@@ -11,7 +11,7 @@ audio format
 The homepage for libvorbis 1.3.7   
 [https://xiph.org/vorbis/](https://xiph.org/vorbis/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libvorbis/1.3.7-gcccore-10.3.0`**  
   
 ### Toolchain  

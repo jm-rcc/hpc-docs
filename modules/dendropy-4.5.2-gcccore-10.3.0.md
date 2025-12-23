@@ -12,7 +12,7 @@ reading, writing, simulation, processing and manipulation of phylogenetic trees
 The homepage for DendroPy 4.5.2   
 [https://pypi.python.org/pypi/DendroPy/](https://pypi.python.org/pypi/DendroPy/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load dendropy/4.5.2-gcccore-10.3.0`**  
   
 ### Toolchain  

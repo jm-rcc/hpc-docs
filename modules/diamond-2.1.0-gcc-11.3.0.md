@@ -10,7 +10,7 @@ Accelerated BLAST compatible local sequence aligner
 The homepage for DIAMOND 2.1.0   
 [https://github.com/bbuchfink/diamond](https://github.com/bbuchfink/diamond)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load diamond/2.1.0-gcc-11.3.0`**  
   
 ### Toolchain  

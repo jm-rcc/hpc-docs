@@ -10,7 +10,7 @@ xz: XZ utilities
 The homepage for XZ 5.2.5   
 [https://tukaani.org/xz/](https://tukaani.org/xz/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load xz/.5.2.5-gcccore-10.3.0`**  
   
 ### Toolchain  

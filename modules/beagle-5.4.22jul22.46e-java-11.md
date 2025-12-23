@@ -11,7 +11,7 @@ Beagle is a software package for phasing genotypes and for imputing
 The homepage for Beagle 5.4.22Jul22.46e -Java-11  
 [https://faculty.washington.edu/browning/beagle/beagle.html](https://faculty.washington.edu/browning/beagle/beagle.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load beagle/5.4.22jul22.46e-java-11`**  
   
 ### Toolchain  

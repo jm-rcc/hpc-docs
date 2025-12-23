@@ -13,7 +13,7 @@ and high-performance applications
 The homepage for UCX 1.16.0   
 [https://www.openucx.org/](https://www.openucx.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ucx/.1.16.0-gcccore-12.3.0`**  
   
 ### Toolchain  

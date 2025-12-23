@@ -10,7 +10,7 @@ Intelligent Storage Acceleration Library
 The homepage for ISA-L 2.30.0   
 [https://github.com/intel/isa-l](https://github.com/intel/isa-l)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load isa-l/2.30.0-gcccore-10.3.0`**  
   
 ### Toolchain  

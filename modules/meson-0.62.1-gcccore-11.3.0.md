@@ -10,7 +10,7 @@ Meson is a cross-platform build system designed to be both as fast and as user f
 The homepage for Meson 0.62.1   
 [https://mesonbuild.com](https://mesonbuild.com)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load meson/0.62.1-gcccore-11.3.0`**  
   
 ### Toolchain  

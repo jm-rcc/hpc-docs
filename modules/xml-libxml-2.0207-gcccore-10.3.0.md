@@ -10,7 +10,7 @@ Perl binding for libxml2
 The homepage for XML-LibXML 2.0207   
 [https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod](https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load xml-libxml/2.0207-gcccore-10.3.0`**  
   
 ### Toolchain  

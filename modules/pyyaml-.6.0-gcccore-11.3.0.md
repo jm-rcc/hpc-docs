@@ -10,7 +10,7 @@ PyYAML is a YAML parser and emitter for the Python programming language.
 The homepage for PyYAML 6.0   
 [https://github.com/yaml/pyyaml](https://github.com/yaml/pyyaml)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pyyaml/.6.0-gcccore-11.3.0`**  
   
 ### Toolchain  

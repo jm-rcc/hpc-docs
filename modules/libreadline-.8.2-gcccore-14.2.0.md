@@ -17,7 +17,7 @@
 The homepage for libreadline 8.2   
 [https://tiswww.case.edu/php/chet/readline/rltop.html](https://tiswww.case.edu/php/chet/readline/rltop.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libreadline/.8.2-gcccore-14.2.0`**  
   
 ### Toolchain  

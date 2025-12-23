@@ -11,7 +11,7 @@ SAM Tools provide various utilities for manipulating alignments in the SAM forma
 The homepage for SAMtools 1.16.1   
 [https://www.htslib.org/](https://www.htslib.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load samtools/1.16.1-gcc-11.3.0`**  
   
 ### Toolchain  

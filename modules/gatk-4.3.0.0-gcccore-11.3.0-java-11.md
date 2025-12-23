@@ -14,7 +14,7 @@ The Genome Analysis Toolkit or GATK is a software package developed at the Broad
 The homepage for GATK 4.3.0.0 -Java-11  
 [https://www.broadinstitute.org/gatk/](https://www.broadinstitute.org/gatk/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load gatk/4.3.0.0-gcccore-11.3.0-java-11`**  
   
 ### Toolchain  

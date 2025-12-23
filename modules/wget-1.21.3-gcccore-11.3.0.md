@@ -12,7 +12,7 @@ GNU Wget is a free software package for retrieving files using HTTP, HTTPS and F
 The homepage for wget 1.21.3   
 [https://www.gnu.org/software/wget](https://www.gnu.org/software/wget)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load wget/1.21.3-gcccore-11.3.0`**  
   
 ### Toolchain  

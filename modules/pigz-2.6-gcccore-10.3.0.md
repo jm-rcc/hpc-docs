@@ -15,7 +15,7 @@
 The homepage for pigz 2.6   
 [https://zlib.net/pigz/](https://zlib.net/pigz/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load pigz/2.6-gcccore-10.3.0`**  
   
 ### Toolchain  

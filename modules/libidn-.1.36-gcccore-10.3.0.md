@@ -11,7 +11,7 @@ Libidn's purpose is to encode and decode internationalized domain names.
 The homepage for libidn 1.36   
 [http://www.gnu.org/software/libidn](http://www.gnu.org/software/libidn)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libidn/.1.36-gcccore-10.3.0`**  
   
 ### Toolchain  

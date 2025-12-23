@@ -16,7 +16,7 @@ Kraken is a system for assigning taxonomic labels to short DNA sequences,
 The homepage for Kraken2 2.1.2   
 [https://github.com/DerrickWood/kraken2/wiki](https://github.com/DerrickWood/kraken2/wiki)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load kraken2/2.1.2-gompi-2022a`**  
   
 ### Toolchain  

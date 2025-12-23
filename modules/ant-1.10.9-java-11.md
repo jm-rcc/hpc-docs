@@ -12,7 +12,7 @@ Apache Ant is a Java library and command-line tool whose mission is to drive pro
 The homepage for ant 1.10.9 -Java-11  
 [https://ant.apache.org/](https://ant.apache.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load ant/1.10.9-java-11`**  
   
 ### Toolchain  

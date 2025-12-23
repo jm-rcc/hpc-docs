@@ -10,7 +10,7 @@ Network extensions for GLib
 The homepage for glib-networking 2.72.1   
 [https://gitlab.gnome.org/GNOME/glib-networking](https://gitlab.gnome.org/GNOME/glib-networking)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load glib-networking/.2.72.1-gcccore-11.3.0`**  
   
 ### Toolchain  

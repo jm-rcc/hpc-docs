@@ -14,7 +14,7 @@ Biopython is a set of freely available tools for biological
 The homepage for Biopython 1.79   
 [https://www.biopython.org](https://www.biopython.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load biopython/1.79-foss-2022a`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ The Advanced Linux Sound Architecture (ALSA) provides audio and MIDI functionali
 The homepage for alsa-lib 1.2.8   
 [https://www.alsa-project.org](https://www.alsa-project.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load alsa-lib/.1.2.8-gcccore-11.3.0`**  
   
 ### Toolchain  

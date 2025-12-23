@@ -12,7 +12,7 @@ Hypothesis is an advanced testing library for Python. It lets you write tests wh
 The homepage for hypothesis 6.46.7   
 [https://github.com/HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load hypothesis/6.46.7-gcccore-11.3.0`**  
   
 ### Toolchain  

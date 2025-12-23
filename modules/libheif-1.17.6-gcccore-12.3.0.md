@@ -10,7 +10,7 @@ libheif is an HEIF and AVIF file format decoder and encoder
 The homepage for libheif 1.17.6   
 [https://github.com/strukturag/libheif](https://github.com/strukturag/libheif)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libheif/1.17.6-gcccore-12.3.0`**  
   
 ### Toolchain  

@@ -11,7 +11,7 @@ Salmon is a wicked-fast program to produce a highly-accurate,
 The homepage for Salmon 1.4.0   
 [https://github.com/COMBINE-lab/salmon](https://github.com/COMBINE-lab/salmon)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load salmon/1.4.0-gompi-2021a`**  
   
 ### Toolchain  

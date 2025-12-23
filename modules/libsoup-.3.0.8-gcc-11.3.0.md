@@ -13,7 +13,7 @@ applications.
 The homepage for LibSoup 3.0.8   
 [https://wiki.gnome.org/Projects/libsoup](https://wiki.gnome.org/Projects/libsoup)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load libsoup/.3.0.8-gcc-11.3.0`**  
   
 ### Toolchain  

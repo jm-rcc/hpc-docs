@@ -16,7 +16,7 @@ The LLVM Core libraries provide a modern source- and target-independent
 The homepage for LLVM 11.1.0   
 [https://llvm.org/](https://llvm.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load llvm/.11.1.0-gcccore-10.3.0`**  
   
 ### Toolchain  

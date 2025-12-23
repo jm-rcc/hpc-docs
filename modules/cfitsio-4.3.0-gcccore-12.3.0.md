@@ -12,7 +12,7 @@ FITS (Flexible Image Transport System) data format.
 The homepage for CFITSIO 4.3.0   
 [http://heasarc.gsfc.nasa.gov/fitsio/](http://heasarc.gsfc.nasa.gov/fitsio/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load cfitsio/4.3.0-gcccore-12.3.0`**  
   
 ### Toolchain  

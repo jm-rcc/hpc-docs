@@ -10,7 +10,7 @@ Prokka is a software tool for the rapid annotation of prokaryotic genomes.
 The homepage for prokka 1.14.5   
 [https://www.vicbioinformatics.com/software.prokka.shtml](https://www.vicbioinformatics.com/software.prokka.shtml)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load prokka/1.14.5-gompi-2022a`**  
   
 ### Toolchain  

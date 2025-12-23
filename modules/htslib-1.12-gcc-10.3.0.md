@@ -11,7 +11,7 @@ A C library for reading/writing high-throughput sequencing data.
 The homepage for HTSlib 1.12   
 [https://www.htslib.org/](https://www.htslib.org/)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load htslib/1.12-gcc-10.3.0`**  
   
 ### Toolchain  

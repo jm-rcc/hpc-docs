@@ -13,7 +13,7 @@ have been portability and other-than-MSDOS functionality
 The homepage for Zip 3.0   
 [http://www.info-zip.org/Zip.html](http://www.info-zip.org/Zip.html)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load zip/3.0-gcccore-11.3.0`**  
   
 ### Toolchain  

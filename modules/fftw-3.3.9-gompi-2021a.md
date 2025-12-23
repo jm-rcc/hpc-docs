@@ -11,7 +11,7 @@ FFTW is a C subroutine library for computing the discrete Fourier transform (DFT
 The homepage for FFTW 3.3.9   
 [http://www.fftw.org](http://www.fftw.org)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load fftw/3.3.9-gompi-2021a`**  
   
 ### Toolchain  

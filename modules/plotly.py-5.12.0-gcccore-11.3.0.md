@@ -10,7 +10,7 @@ An open-source, interactive graphing library for Python
 The homepage for plotly.py 5.12.0   
 [https://plot.ly/python](https://plot.ly/python)  
 ### Usage  
-To use the module on Bunya, load it with this command:  
+To use this module on Bunya, load it with this command:  
   **`module load plotly.py/5.12.0-gcccore-11.3.0`**  
   
 ### Toolchain  
