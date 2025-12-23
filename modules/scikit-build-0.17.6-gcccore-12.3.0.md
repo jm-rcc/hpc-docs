@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/scikit-build-0.17.6-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for scikit-build 0.17.6 .  

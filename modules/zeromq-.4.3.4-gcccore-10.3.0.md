@@ -34,9 +34,9 @@ None
   
   
 ## Dependencies  
-[OpenPGM 5.2.122  (GCCcore 10.3.0)](link)  
-[libsodium 1.0.18  (GCCcore 10.3.0)](link)  
-[util-linux 2.36  (GCCcore 10.3.0)](link)  
+[OpenPGM 5.2.122  (GCCcore 10.3.0)](../hpc-docs/modules/zeromq-.4.3.4-gcccore-10.3.0.md)  
+[libsodium 1.0.18  (GCCcore 10.3.0)](../hpc-docs/modules/zeromq-.4.3.4-gcccore-10.3.0.md)  
+[util-linux 2.36  (GCCcore 10.3.0)](../hpc-docs/modules/zeromq-.4.3.4-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for ZeroMQ 4.3.4 .  

@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[FlexiBLAS 3.2.0  (GCC 11.3.0)](link)  
-[libdeflate 1.10  (GCCcore 11.3.0)](link)  
-[zstd 1.5.2  (GCCcore 11.3.0)](link)  
+[FlexiBLAS 3.2.0  (GCC 11.3.0)](../hpc-docs/modules/plink-2.00a3.6-gcc-11.3.0.md)  
+[libdeflate 1.10  (GCCcore 11.3.0)](../hpc-docs/modules/plink-2.00a3.6-gcc-11.3.0.md)  
+[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/plink-2.00a3.6-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for PLINK 2.00a3.6 .  

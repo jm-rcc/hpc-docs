@@ -35,7 +35,7 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[NASM 2.15.05  (GCCcore 10.3.0)](link)  
+[NASM 2.15.05  (GCCcore 10.3.0)](../hpc-docs/modules/libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libjpeg-turbo 2.0.6 .  

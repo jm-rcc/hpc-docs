@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[GCC 12.3.0  (system system)](link)  
-[FlexiBLAS 3.3.1  (GCC 12.3.0)](link)  
-[FFTW 3.3.10  (GCC 12.3.0)](link)  
+[GCC 12.3.0  (system system)](../hpc-docs/modules/gfbf-2023a.md)  
+[FlexiBLAS 3.3.1  (GCC 12.3.0)](../hpc-docs/modules/gfbf-2023a.md)  
+[FFTW 3.3.10  (GCC 12.3.0)](../hpc-docs/modules/gfbf-2023a.md)  
   
 ## Homepage  
 The homepage for gfbf 2023a .  

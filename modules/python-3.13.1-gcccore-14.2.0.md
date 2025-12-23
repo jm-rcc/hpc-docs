@@ -25,15 +25,15 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[binutils 2.42  (GCCcore 14.2.0)](link)  
-[bzip2 1.0.8  (GCCcore 14.2.0)](link)  
-[zlib 1.3.1  (GCCcore 14.2.0)](link)  
-[libreadline 8.2  (GCCcore 14.2.0)](link)  
-[ncurses 6.5  (GCCcore 14.2.0)](link)  
-[SQLite 3.47.2  (GCCcore 14.2.0)](link)  
-[XZ 5.6.3  (GCCcore 14.2.0)](link)  
-[libffi 3.4.5  (GCCcore 14.2.0)](link)  
-[OpenSSL 3  (system system)](link)  
+[binutils 2.42  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[bzip2 1.0.8  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[zlib 1.3.1  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[libreadline 8.2  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[ncurses 6.5  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[SQLite 3.47.2  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[XZ 5.6.3  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[libffi 3.4.5  (GCCcore 14.2.0)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
+[OpenSSL 3  (system system)](../hpc-docs/modules/python-3.13.1-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for Python 3.13.1 .  

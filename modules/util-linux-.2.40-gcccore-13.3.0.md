@@ -28,9 +28,9 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[ncurses 6.5  (GCCcore 13.3.0)](link)  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
-[SQLite 3.45.3  (GCCcore 13.3.0)](link)  
+[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/util-linux-.2.40-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/util-linux-.2.40-gcccore-13.3.0.md)  
+[SQLite 3.45.3  (GCCcore 13.3.0)](../hpc-docs/modules/util-linux-.2.40-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for util-linux 2.40 .  

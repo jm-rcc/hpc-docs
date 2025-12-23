@@ -25,7 +25,7 @@ GCC (14.2.0)
   
   
 ## Dependencies  
-[OpenBLAS 0.3.29  (GCC 14.2.0)](link)  
+[OpenBLAS 0.3.29  (GCC 14.2.0)](../hpc-docs/modules/flexiblas-3.4.5-gcc-14.2.0.md)  
   
 ## Homepage  
 The homepage for FlexiBLAS 3.4.5 .  

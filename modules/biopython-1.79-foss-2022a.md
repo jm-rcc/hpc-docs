@@ -35,8 +35,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/biopython-1.79-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/biopython-1.79-foss-2022a.md)  
   
 ## Homepage  
 The homepage for Biopython 1.79 .  

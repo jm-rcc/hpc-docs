@@ -29,11 +29,11 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
-[jbigkit 2.1  (GCCcore 10.3.0)](link)  
-[zstd 1.4.9  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
+[jbigkit 2.1  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
+[zstd 1.4.9  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for LibTIFF 4.2.0 .  

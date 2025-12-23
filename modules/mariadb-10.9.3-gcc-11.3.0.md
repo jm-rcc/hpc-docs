@@ -32,18 +32,18 @@ None
   
   
 ## Dependencies  
-[ncurses 6.3  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[LZO 2.10  (GCCcore 11.3.0)](link)  
-[lz4 1.9.3  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
-[jemalloc 5.3.0  (GCCcore 11.3.0)](link)  
-[snappy 1.1.9  (GCCcore 11.3.0)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
-[Boost 1.79.0  (GCC 11.3.0)](link)  
-[Judy 1.0.5  (GCCcore 11.3.0)](link)  
-[PCRE2 10.40  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[LZO 2.10  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[lz4 1.9.3  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[jemalloc 5.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[snappy 1.1.9  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[Judy 1.0.5  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[PCRE2 10.40  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for MariaDB 10.9.3 .  

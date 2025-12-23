@@ -32,12 +32,12 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
-[matplotlib 3.5.2  (foss 2022a)](link)  
-[plotly.py 5.12.0  (GCCcore 11.3.0)](link)  
-[Pysam 0.19.1  (GCC 11.3.0)](link)  
-[pyBigWig 0.3.18  (foss 2022a)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/deeptools-3.5.2-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/deeptools-3.5.2-foss-2022a.md)  
+[matplotlib 3.5.2  (foss 2022a)](../hpc-docs/modules/deeptools-3.5.2-foss-2022a.md)  
+[plotly.py 5.12.0  (GCCcore 11.3.0)](../hpc-docs/modules/deeptools-3.5.2-foss-2022a.md)  
+[Pysam 0.19.1  (GCC 11.3.0)](../hpc-docs/modules/deeptools-3.5.2-foss-2022a.md)  
+[pyBigWig 0.3.18  (foss 2022a)](../hpc-docs/modules/deeptools-3.5.2-foss-2022a.md)  
   
 ## Homepage  
 The homepage for deepTools 3.5.2 .  

@@ -33,8 +33,8 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[ncurses 6.5  (GCCcore 13.3.0)](link)  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
+[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/llvm-.18.1.8-gcccore-13.3.0-minimal.md)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/llvm-.18.1.8-gcccore-13.3.0-minimal.md)  
   
 ## Homepage  
 The homepage for LLVM 18.1.8 -minimal.  

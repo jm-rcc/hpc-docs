@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.18  (GCCcore 10.3.0)](link)  
+[M4 1.4.18  (GCCcore 10.3.0)](../hpc-docs/modules/autoconf-.2.71-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Autoconf 2.71 .  

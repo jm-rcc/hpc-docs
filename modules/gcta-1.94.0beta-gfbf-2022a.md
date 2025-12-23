@@ -36,10 +36,10 @@ None
   
   
 ## Dependencies  
-[Boost 1.79.0  (GCC 11.3.0)](link)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
-[zstd 1.5.2  (GCCcore 11.3.0)](link)  
-[GSL 2.7  (GCC 11.3.0)](link)  
+[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
+[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
+[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
+[GSL 2.7  (GCC 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
   
 ## Homepage  
 The homepage for GCTA 1.94.0beta .  

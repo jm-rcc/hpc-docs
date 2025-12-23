@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/any2fasta-0.4.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for any2fasta 0.4.2 .  

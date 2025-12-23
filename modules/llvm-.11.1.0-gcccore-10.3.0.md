@@ -37,8 +37,8 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[ncurses 6.2  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[ncurses 6.2  (GCCcore 10.3.0)](../hpc-docs/modules/llvm-.11.1.0-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/llvm-.11.1.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for LLVM 11.1.0 .  

@@ -29,7 +29,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[numactl 2.0.19  (GCCcore 14.2.0)](link)  
+[numactl 2.0.19  (GCCcore 14.2.0)](../hpc-docs/modules/libfabric-.2.0.0-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for libfabric 2.0.0 .  

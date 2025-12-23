@@ -34,10 +34,10 @@ None
   
   
 ## Dependencies  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[BamTools 2.5.2  (GCC 10.3.0)](link)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
+[BamTools 2.5.2  (GCC 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for BEDTools 2.30.0 .  

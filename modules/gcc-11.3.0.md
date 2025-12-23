@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 11.3.0  (system system)](link)  
-[binutils 2.38  (GCCcore 11.3.0)](link)  
+[GCCcore 11.3.0  (system system)](../hpc-docs/modules/gcc-11.3.0.md)  
+[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for GCC 11.3.0 .  

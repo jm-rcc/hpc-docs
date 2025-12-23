@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.19  (system system)](link)  
+[M4 1.4.19  (system system)](../hpc-docs/modules/flex-.2.6.4.md)  
   
 ## Homepage  
 The homepage for flex 2.6.4 .  

@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/metaeuk-5-gcc-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/metaeuk-5-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for MetaEuk 5 .  

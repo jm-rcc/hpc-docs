@@ -21,11 +21,11 @@ None
   
   
 ## Dependencies  
-[libpng 1.6.39  (GCCcore 12.3.0)](link)  
-[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
-[libde265 1.0.15  (GCCcore 12.3.0)](link)  
-[x265 3.5  (GCCcore 12.3.0)](link)  
-[Gdk-Pixbuf 2.42.10  (GCCcore 12.3.0)](link)  
+[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
+[libde265 1.0.15  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
+[x265 3.5  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
+[Gdk-Pixbuf 2.42.10  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for libheif 1.17.6 .  

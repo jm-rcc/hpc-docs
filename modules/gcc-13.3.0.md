@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 13.3.0  (system system)](link)  
-[binutils 2.42  (GCCcore 13.3.0)](link)  
+[GCCcore 13.3.0  (system system)](../hpc-docs/modules/gcc-13.3.0.md)  
+[binutils 2.42  (GCCcore 13.3.0)](../hpc-docs/modules/gcc-13.3.0.md)  
   
 ## Homepage  
 The homepage for GCC 13.3.0 .  

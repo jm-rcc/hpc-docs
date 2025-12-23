@@ -32,15 +32,15 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[binutils 2.38  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
-[ncurses 6.3  (GCCcore 11.3.0)](link)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
-[libffi 3.4.2  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[libffi 3.4.2  (GCCcore 11.3.0)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/python-3.10.4-gcccore-11.3.0-bare.md)  
   
 ## Homepage  
 The homepage for Python 3.10.4 -bare.  

@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[Tcl 8.6.13  (GCCcore 12.3.0)](link)  
-[X11 20230603  (GCCcore 12.3.0)](link)  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[Tcl 8.6.13  (GCCcore 12.3.0)](../hpc-docs/modules/tk-.8.6.13-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/tk-.8.6.13-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/tk-.8.6.13-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Tk 8.6.13 .  

@@ -36,10 +36,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[ZeroMQ 4.3.4  (GCCcore 11.3.0)](link)  
-[lxml 4.9.1  (GCCcore 11.3.0)](link)  
-[BeautifulSoup 4.10.0  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
+[ZeroMQ 4.3.4  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
+[lxml 4.9.1  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
+[BeautifulSoup 4.10.0  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for IPython 8.5.0 .  

@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCC 12.3.0  (system system)](link)  
-[OpenMPI 4.1.5  (GCC 12.3.0)](link)  
+[GCC 12.3.0  (system system)](../hpc-docs/modules/gompi-2023a.md)  
+[OpenMPI 4.1.5  (GCC 12.3.0)](../hpc-docs/modules/gompi-2023a.md)  
   
 ## Homepage  
 The homepage for gompi 2023a .  

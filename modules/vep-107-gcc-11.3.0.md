@@ -35,12 +35,12 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[Archive-Zip 1.68  (GCCcore 11.3.0)](link)  
-[DBD-mysql 4.050  (GCC 11.3.0)](link)  
-[BioPerl 1.7.8  (GCCcore 11.3.0)](link)  
-[Bio-DB-HTS 3.01  (GCC 11.3.0)](link)  
-[Compress-Raw-Zlib 2.202  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
+[Archive-Zip 1.68  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
+[DBD-mysql 4.050  (GCC 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
+[BioPerl 1.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
+[Bio-DB-HTS 3.01  (GCC 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
+[Compress-Raw-Zlib 2.202  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for VEP 107 .  

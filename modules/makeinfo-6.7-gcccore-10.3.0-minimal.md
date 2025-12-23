@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1 -minimal (GCCcore 10.3.0)](link)  
+[Perl 5.32.1 -minimal (GCCcore 10.3.0)](../hpc-docs/modules/makeinfo-6.7-gcccore-10.3.0-minimal.md)  
   
 ## Homepage  
 The homepage for makeinfo 6.7 -minimal.  

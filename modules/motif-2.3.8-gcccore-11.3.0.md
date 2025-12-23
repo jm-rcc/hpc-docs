@@ -33,11 +33,11 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](link)  
-[libpng 1.6.37  (GCCcore 11.3.0)](link)  
-[freetype 2.12.1  (GCCcore 11.3.0)](link)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
+[freetype 2.12.1  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for motif 2.3.8 .  

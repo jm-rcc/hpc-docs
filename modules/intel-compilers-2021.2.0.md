@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 10.3.0  (system system)](link)  
-[binutils 2.36.1  (GCCcore 10.3.0)](link)  
+[GCCcore 10.3.0  (system system)](../hpc-docs/modules/intel-compilers-2021.2.0.md)  
+[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/intel-compilers-2021.2.0.md)  
   
 ## Homepage  
 The homepage for intel-compilers 2021.2.0 .  

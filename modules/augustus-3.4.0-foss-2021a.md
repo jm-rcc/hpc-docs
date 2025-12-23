@@ -29,16 +29,16 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[Boost 1.76.0  (GCC 10.3.0)](link)  
-[GSL 2.7  (GCC 10.3.0)](link)  
-[SAMtools 1.13  (GCC 10.3.0)](link)  
-[HTSlib 1.12  (GCC 10.3.0)](link)  
-[BCFtools 1.12  (GCC 10.3.0)](link)  
-[lpsolve 5.5.2.11  (GCC 10.3.0)](link)  
-[SuiteSparse 5.10.1 -METIS-5.1.0 (foss 2021a)](link)  
-[BamTools 2.5.2  (GCC 10.3.0)](link)  
-[SQLite 3.35.4  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[SAMtools 1.13  (GCC 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[HTSlib 1.12  (GCC 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[BCFtools 1.12  (GCC 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[lpsolve 5.5.2.11  (GCC 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[SuiteSparse 5.10.1 -METIS-5.1.0 (foss 2021a)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[BamTools 2.5.2  (GCC 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
+[SQLite 3.35.4  (GCCcore 10.3.0)](../hpc-docs/modules/augustus-3.4.0-foss-2021a.md)  
   
 ## Homepage  
 The homepage for AUGUSTUS 3.4.0 .  

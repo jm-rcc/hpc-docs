@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[FLAC 1.3.4  (GCCcore 11.3.0)](link)  
-[libvorbis 1.3.7  (GCCcore 11.3.0)](link)  
-[libopus 1.3.1  (GCCcore 11.3.0)](link)  
-[LAME 3.100  (GCCcore 11.3.0)](link)  
+[FLAC 1.3.4  (GCCcore 11.3.0)](../hpc-docs/modules/libsndfile-.1.1.0-gcccore-11.3.0.md)  
+[libvorbis 1.3.7  (GCCcore 11.3.0)](../hpc-docs/modules/libsndfile-.1.1.0-gcccore-11.3.0.md)  
+[libopus 1.3.1  (GCCcore 11.3.0)](../hpc-docs/modules/libsndfile-.1.1.0-gcccore-11.3.0.md)  
+[LAME 3.100  (GCCcore 11.3.0)](../hpc-docs/modules/libsndfile-.1.1.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libsndfile 1.1.0 .  

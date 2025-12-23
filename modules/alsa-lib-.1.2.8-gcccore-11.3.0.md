@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[binutils 2.38  (GCCcore 11.3.0)](link)  
+[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/alsa-lib-.1.2.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for alsa-lib 1.2.8 .  

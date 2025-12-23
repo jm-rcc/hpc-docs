@@ -30,11 +30,11 @@ None
   
   
 ## Dependencies  
-[GCC 10.3.0  (system system)](link)  
-[OpenMPI 4.1.1  (GCC 10.3.0)](link)  
-[FlexiBLAS 3.0.4  (GCC 10.3.0)](link)  
-[FFTW 3.3.9  (gompi 2021a)](link)  
-[ScaLAPACK 2.1.0 -fb (gompi 2021a)](link)  
+[GCC 10.3.0  (system system)](../hpc-docs/modules/foss-2021a.md)  
+[OpenMPI 4.1.1  (GCC 10.3.0)](../hpc-docs/modules/foss-2021a.md)  
+[FlexiBLAS 3.0.4  (GCC 10.3.0)](../hpc-docs/modules/foss-2021a.md)  
+[FFTW 3.3.9  (gompi 2021a)](../hpc-docs/modules/foss-2021a.md)  
+[ScaLAPACK 2.1.0 -fb (gompi 2021a)](../hpc-docs/modules/foss-2021a.md)  
   
 ## Homepage  
 The homepage for foss 2021a .  

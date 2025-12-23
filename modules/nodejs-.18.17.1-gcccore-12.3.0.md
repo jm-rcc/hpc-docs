@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[ICU 73.2  (GCCcore 12.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[ICU 73.2  (GCCcore 12.3.0)](../hpc-docs/modules/nodejs-.18.17.1-gcccore-12.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/nodejs-.18.17.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for nodejs 18.17.1 .  

@@ -34,7 +34,7 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[gnuplot 5.4.4  (GCCcore 11.3.0)](link)  
+[gnuplot 5.4.4  (GCCcore 11.3.0)](../hpc-docs/modules/mummer-4.0.0rc1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MUMmer 4.0.0rc1 .  

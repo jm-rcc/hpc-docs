@@ -34,10 +34,10 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[OpenSSL 1.1  (system system)](link)  
-[GnuTLS 3.7.8  (GCCcore 11.3.0)](link)  
-[nghttp3 0.6.0  (GCCcore 11.3.0)](link)  
-[libev 4.33  (GCC 11.3.0)](link)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
+[GnuTLS 3.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
+[nghttp3 0.6.0  (GCCcore 11.3.0)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
+[libev 4.33  (GCC 11.3.0)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for ngtcp2 0.7.0 .  

@@ -37,10 +37,10 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[libpng 1.6.37  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[Brotli 1.0.9  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/freetype-.2.12.1-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/freetype-.2.12.1-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/freetype-.2.12.1-gcccore-11.3.0.md)  
+[Brotli 1.0.9  (GCCcore 11.3.0)](../hpc-docs/modules/freetype-.2.12.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for freetype 2.12.1 .  

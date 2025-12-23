@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.71  (GCCcore 12.3.0)](link)  
-[Perl 5.36.1  (GCCcore 12.3.0)](link)  
+[Autoconf 2.71  (GCCcore 12.3.0)](../hpc-docs/modules/automake-.1.16.5-gcccore-12.3.0.md)  
+[Perl 5.36.1  (GCCcore 12.3.0)](../hpc-docs/modules/automake-.1.16.5-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Automake 1.16.5 .  

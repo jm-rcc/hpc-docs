@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/cython-3.0.8-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Cython 3.0.8 .  

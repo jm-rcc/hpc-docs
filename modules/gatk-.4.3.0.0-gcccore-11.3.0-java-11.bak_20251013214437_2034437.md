@@ -25,8 +25,8 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Java 11  (system system)](../hpc-docs/modules/gatk-.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437.md)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/gatk-.4.3.0.0-gcccore-11.3.0-java-11.bak_20251013214437_2034437.md)  
   
 ## Homepage  
 The homepage for GATK 4.3.0.0 -Java-11.  

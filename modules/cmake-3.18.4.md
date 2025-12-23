@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[OpenSSL 1.1  (system system)](link)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/cmake-3.18.4.md)  
   
 ## Homepage  
 The homepage for CMake 3.18.4 .  

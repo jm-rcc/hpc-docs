@@ -25,7 +25,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[libiconv 1.18  (GCCcore 14.2.0)](link)  
+[libiconv 1.18  (GCCcore 14.2.0)](../hpc-docs/modules/libunistring-.1.3-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for libunistring 1.3 .  

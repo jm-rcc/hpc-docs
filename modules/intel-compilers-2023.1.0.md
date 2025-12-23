@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 12.3.0  (system system)](link)  
-[binutils 2.40  (GCCcore 12.3.0)](link)  
+[GCCcore 12.3.0  (system system)](../hpc-docs/modules/intel-compilers-2023.1.0.md)  
+[binutils 2.40  (GCCcore 12.3.0)](../hpc-docs/modules/intel-compilers-2023.1.0.md)  
   
 ## Homepage  
 The homepage for intel-compilers 2023.1.0 .  

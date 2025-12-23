@@ -34,8 +34,8 @@ None
   
   
 ## Dependencies  
-[ICU 71.1  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[ICU 71.1  (GCCcore 11.3.0)](../hpc-docs/modules/nodejs-.16.15.1-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/nodejs-.16.15.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for nodejs 16.15.1 .  

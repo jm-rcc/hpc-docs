@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[Clang 13.0.1  (GCCcore 11.3.0)](link)  
-[hwloc 2.7.1  (GCCcore 11.3.0)](link)  
-[libtool 2.4.7  (GCCcore 11.3.0)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[Clang 13.0.1  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
+[hwloc 2.7.1  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
+[libtool 2.4.7  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for pocl 1.8 .  

@@ -29,16 +29,16 @@ None
   
   
 ## Dependencies  
-[NASM 2.15.05  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[x264 20210414  (GCCcore 10.3.0)](link)  
-[LAME 3.100  (GCCcore 10.3.0)](link)  
-[x265 3.5  (GCCcore 10.3.0)](link)  
-[X11 20210518  (GCCcore 10.3.0)](link)  
-[freetype 2.10.4  (GCCcore 10.3.0)](link)  
-[fontconfig 2.13.93  (GCCcore 10.3.0)](link)  
-[FriBidi 1.0.10  (GCCcore 10.3.0)](link)  
+[NASM 2.15.05  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[x264 20210414  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[LAME 3.100  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[x265 3.5  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[freetype 2.10.4  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[fontconfig 2.13.93  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
+[FriBidi 1.0.10  (GCCcore 10.3.0)](../hpc-docs/modules/ffmpeg-4.3.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for FFmpeg 4.3.2 .  

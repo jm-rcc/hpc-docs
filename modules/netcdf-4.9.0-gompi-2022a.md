@@ -33,12 +33,12 @@ gompi (2022a)
   
   
 ## Dependencies  
-[HDF5 1.12.2  (gompi 2022a)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
-[Szip 2.1.1  (GCCcore 11.3.0)](link)  
-[zstd 1.5.2  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[HDF5 1.12.2  (gompi 2022a)](../hpc-docs/modules/netcdf-4.9.0-gompi-2022a.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/netcdf-4.9.0-gompi-2022a.md)  
+[Szip 2.1.1  (GCCcore 11.3.0)](../hpc-docs/modules/netcdf-4.9.0-gompi-2022a.md)  
+[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/netcdf-4.9.0-gompi-2022a.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/netcdf-4.9.0-gompi-2022a.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/netcdf-4.9.0-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for netCDF 4.9.0 .  

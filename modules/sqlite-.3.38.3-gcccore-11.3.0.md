@@ -31,8 +31,8 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
-[Tcl 8.6.12  (GCCcore 11.3.0)](link)  
+[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/sqlite-.3.38.3-gcccore-11.3.0.md)  
+[Tcl 8.6.12  (GCCcore 11.3.0)](../hpc-docs/modules/sqlite-.3.38.3-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for SQLite 3.38.3 .  

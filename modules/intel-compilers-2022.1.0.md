@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 11.3.0  (system system)](link)  
-[binutils 2.38  (GCCcore 11.3.0)](link)  
+[GCCcore 11.3.0  (system system)](../hpc-docs/modules/intel-compilers-2022.1.0.md)  
+[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/intel-compilers-2022.1.0.md)  
   
 ## Homepage  
 The homepage for intel-compilers 2022.1.0 .  

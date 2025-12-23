@@ -31,11 +31,11 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
-[zstd 1.5.2  (GCCcore 11.3.0)](link)  
-[ICU 71.1  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
+[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
+[ICU 71.1  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for Boost 1.79.0 .  

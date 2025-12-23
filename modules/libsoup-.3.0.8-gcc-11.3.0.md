@@ -34,15 +34,15 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
-[GLib 2.72.1  (GCCcore 11.3.0)](link)  
-[libpsl 0.21.1  (GCCcore 11.3.0)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
-[GnuTLS 3.7.8  (GCCcore 11.3.0)](link)  
-[nghttp2 1.48.0  (GCC 11.3.0)](link)  
-[glib-networking 2.72.1  (GCCcore 11.3.0)](link)  
-[Brotli 1.0.9  (GCCcore 11.3.0)](link)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[libpsl 0.21.1  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[GnuTLS 3.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[nghttp2 1.48.0  (GCC 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[glib-networking 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[Brotli 1.0.9  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for LibSoup 3.0.8 .  

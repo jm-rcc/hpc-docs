@@ -28,12 +28,12 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[Perl 5.38.2  (GCCcore 13.3.0)](link)  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
-[expat 2.6.2  (GCCcore 13.3.0)](link)  
-[ncurses 6.5  (GCCcore 13.3.0)](link)  
-[libreadline 8.2  (GCCcore 13.3.0)](link)  
-[OpenSSL 3  (system system)](link)  
+[Perl 5.38.2  (GCCcore 13.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
+[expat 2.6.2  (GCCcore 13.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
+[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
+[libreadline 8.2  (GCCcore 13.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
+[OpenSSL 3  (system system)](../hpc-docs/modules/perl-bundle-cpan-5.38.2-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Perl-bundle-CPAN 5.38.2 .  

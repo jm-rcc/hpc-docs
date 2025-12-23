@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[gzip 1.12  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/megahit-1.2.9-gcccore-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/megahit-1.2.9-gcccore-11.3.0.md)  
+[gzip 1.12  (GCCcore 11.3.0)](../hpc-docs/modules/megahit-1.2.9-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MEGAHIT 1.2.9 .  

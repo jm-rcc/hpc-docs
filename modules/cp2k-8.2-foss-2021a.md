@@ -32,11 +32,11 @@ foss (2021a)
   
   
 ## Dependencies  
-[Libint 2.6.0 -lmax-6-cp2k (GCC 10.3.0)](link)  
-[libxc 5.1.5  (GCC 10.3.0)](link)  
-[libxsmm 1.16.2  (GCC 10.3.0)](link)  
-[FFTW 3.3.9  (gompi 2021a)](link)  
-[PLUMED 2.7.2  (foss 2021a)](link)  
+[Libint 2.6.0 -lmax-6-cp2k (GCC 10.3.0)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
+[libxc 5.1.5  (GCC 10.3.0)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
+[libxsmm 1.16.2  (GCC 10.3.0)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
+[FFTW 3.3.9  (gompi 2021a)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
+[PLUMED 2.7.2  (foss 2021a)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
   
 ## Homepage  
 The homepage for CP2K 8.2 .  

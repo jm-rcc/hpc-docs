@@ -27,7 +27,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[UCX 1.18.0  (GCCcore 14.2.0)](link)  
+[UCX 1.18.0  (GCCcore 14.2.0)](../hpc-docs/modules/ucc-1.3.0-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for UCC 1.3.0 .  

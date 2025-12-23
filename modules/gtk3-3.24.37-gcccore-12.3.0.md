@@ -36,16 +36,16 @@ None
   
   
 ## Dependencies  
-[ATK 2.38.0  (GCCcore 12.3.0)](link)  
-[at-spi2-atk 2.38.0  (GCCcore 12.3.0)](link)  
-[cairo 1.17.8  (GCCcore 12.3.0)](link)  
-[Gdk-Pixbuf 2.42.10  (GCCcore 12.3.0)](link)  
-[GLib 2.77.1  (GCCcore 12.3.0)](link)  
-[Pango 1.50.14  (GCCcore 12.3.0)](link)  
-[libepoxy 1.5.10  (GCCcore 12.3.0)](link)  
-[X11 20230603  (GCCcore 12.3.0)](link)  
-[FriBidi 1.0.12  (GCCcore 12.3.0)](link)  
-[Wayland 1.22.0  (GCCcore 12.3.0)](link)  
+[ATK 2.38.0  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[at-spi2-atk 2.38.0  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[cairo 1.17.8  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[Gdk-Pixbuf 2.42.10  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[Pango 1.50.14  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[libepoxy 1.5.10  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[FriBidi 1.0.12  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[Wayland 1.22.0  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for GTK3 3.24.37 .  

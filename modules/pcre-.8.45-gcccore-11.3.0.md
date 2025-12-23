@@ -34,8 +34,8 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/pcre-.8.45-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/pcre-.8.45-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for PCRE 8.45 .  

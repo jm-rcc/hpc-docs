@@ -30,10 +30,10 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[SQLite 3.35.4  (GCCcore 10.3.0)](link)  
-[LibTIFF 4.2.0  (GCCcore 10.3.0)](link)  
-[cURL 7.76.0  (GCCcore 10.3.0)](link)  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
+[SQLite 3.35.4  (GCCcore 10.3.0)](../hpc-docs/modules/proj-.8.0.1-gcccore-10.3.0.md)  
+[LibTIFF 4.2.0  (GCCcore 10.3.0)](../hpc-docs/modules/proj-.8.0.1-gcccore-10.3.0.md)  
+[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/proj-.8.0.1-gcccore-10.3.0.md)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/proj-.8.0.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for PROJ 8.0.1 .  

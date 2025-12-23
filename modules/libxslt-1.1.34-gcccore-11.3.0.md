@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/libxslt-1.1.34-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/libxslt-1.1.34-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libxslt 1.1.34 .  

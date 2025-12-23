@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[imkl 2024.2.0  (system system)](link)  
+[imkl 2024.2.0  (system system)](../hpc-docs/modules/imkl-fftw-2024.2.0-iimpi-2024a.md)  
   
 ## Homepage  
 The homepage for imkl-FFTW 2024.2.0 .  

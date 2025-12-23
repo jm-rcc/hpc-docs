@@ -32,11 +32,11 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
-[LibTIFF 4.3.0  (GCCcore 11.3.0)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
-[nlohmann_json 3.10.5  (GCCcore 11.3.0)](link)  
+[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/proj-.9.0.0-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/proj-.9.0.0-gcccore-11.3.0.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/proj-.9.0.0-gcccore-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/proj-.9.0.0-gcccore-11.3.0.md)  
+[nlohmann_json 3.10.5  (GCCcore 11.3.0)](../hpc-docs/modules/proj-.9.0.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for PROJ 9.0.0 .  

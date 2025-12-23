@@ -31,11 +31,11 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
-[GitPython 3.1.27  (GCCcore 11.3.0)](link)  
-[IPython 8.5.0  (GCCcore 11.3.0)](link)  
-[PyYAML 6.0  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
+[GitPython 3.1.27  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
+[IPython 8.5.0  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
+[PyYAML 6.0  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
   
 ## Homepage  
 The homepage for snakemake 7.22.0 .  

@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
-[cURL 7.76.0  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/htslib-1.12-gcc-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/htslib-1.12-gcc-10.3.0.md)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/htslib-1.12-gcc-10.3.0.md)  
+[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/htslib-1.12-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for HTSlib 1.12 .  

@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/littlecms-2.13.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for LittleCMS 2.13.1 .  

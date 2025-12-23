@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[binutils 2.36.1  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/ruby-3.0.1-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/ruby-3.0.1-gcccore-10.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/ruby-3.0.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Ruby 3.0.1 .  

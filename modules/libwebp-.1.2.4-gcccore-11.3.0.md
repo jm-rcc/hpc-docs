@@ -34,10 +34,10 @@ None
   
   
 ## Dependencies  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
-[libpng 1.6.37  (GCCcore 11.3.0)](link)  
-[LibTIFF 4.3.0  (GCCcore 11.3.0)](link)  
-[giflib 5.2.1  (GCCcore 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/libwebp-.1.2.4-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/libwebp-.1.2.4-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/libwebp-.1.2.4-gcccore-11.3.0.md)  
+[giflib 5.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/libwebp-.1.2.4-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libwebp 1.2.4 .  

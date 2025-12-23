@@ -34,12 +34,12 @@ None
   
   
 ## Dependencies  
-[ncurses 6.2  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[cURL 7.76.0  (GCCcore 10.3.0)](link)  
-[libarchive 3.5.1  (GCCcore 10.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[ncurses 6.2  (GCCcore 10.3.0)](../hpc-docs/modules/cmake-3.20.1-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/cmake-3.20.1-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/cmake-3.20.1-gcccore-10.3.0.md)  
+[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/cmake-3.20.1-gcccore-10.3.0.md)  
+[libarchive 3.5.1  (GCCcore 10.3.0)](../hpc-docs/modules/cmake-3.20.1-gcccore-10.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/cmake-3.20.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for CMake 3.20.1 .  

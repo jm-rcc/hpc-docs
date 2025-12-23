@@ -25,7 +25,7 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[M4 1.4.19  (GCCcore 11.3.0)](link)  
+[M4 1.4.19  (GCCcore 11.3.0)](../hpc-docs/modules/flex-.2.6.4-gcccore-11.3.0.bak_20251013190249_1587784.md)  
   
 ## Homepage  
 The homepage for flex 2.6.4 .  

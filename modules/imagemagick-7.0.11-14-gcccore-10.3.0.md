@@ -29,16 +29,16 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[X11 20210518  (GCCcore 10.3.0)](link)  
-[Ghostscript 9.54.0  (GCCcore 10.3.0)](link)  
-[JasPer 2.0.28  (GCCcore 10.3.0)](link)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
-[LibTIFF 4.2.0  (GCCcore 10.3.0)](link)  
-[LittleCMS 2.12  (GCCcore 10.3.0)](link)  
-[Pango 1.48.5  (GCCcore 10.3.0)](link)  
-[pixman 0.40.0  (GCCcore 10.3.0)](link)  
-[FriBidi 1.0.10  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[Ghostscript 9.54.0  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[JasPer 2.0.28  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[LibTIFF 4.2.0  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[LittleCMS 2.12  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[Pango 1.48.5  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[pixman 0.40.0  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[FriBidi 1.0.10  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for ImageMagick 7.0.11-14 .  

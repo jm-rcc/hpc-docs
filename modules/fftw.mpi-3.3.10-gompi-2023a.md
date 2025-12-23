@@ -32,7 +32,7 @@ gompi (2023a)
   
   
 ## Dependencies  
-[FFTW 3.3.10  (GCC 12.3.0)](link)  
+[FFTW 3.3.10  (GCC 12.3.0)](../hpc-docs/modules/fftw.mpi-3.3.10-gompi-2023a.md)  
   
 ## Homepage  
 The homepage for FFTW.MPI 3.3.10 .  

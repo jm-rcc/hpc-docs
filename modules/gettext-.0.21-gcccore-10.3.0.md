@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
-[ncurses 6.2  (GCCcore 10.3.0)](link)  
+[libxml2 2.9.10  (GCCcore 10.3.0)](../hpc-docs/modules/gettext-.0.21-gcccore-10.3.0.md)  
+[ncurses 6.2  (GCCcore 10.3.0)](../hpc-docs/modules/gettext-.0.21-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for gettext 0.21 .  

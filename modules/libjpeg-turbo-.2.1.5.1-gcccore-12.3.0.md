@@ -35,7 +35,7 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[NASM 2.16.01  (GCCcore 12.3.0)](link)  
+[NASM 2.16.01  (GCCcore 12.3.0)](../hpc-docs/modules/libjpeg-turbo-.2.1.5.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for libjpeg-turbo 2.1.5.1 .  

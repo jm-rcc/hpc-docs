@@ -32,15 +32,15 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[libpng 1.6.39  (GCCcore 12.3.0)](link)  
-[freetype 2.13.0  (GCCcore 12.3.0)](link)  
-[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
-[expat 2.5.0  (GCCcore 12.3.0)](link)  
-[GLib 2.77.1  (GCCcore 12.3.0)](link)  
-[cairo 1.17.8  (GCCcore 12.3.0)](link)  
-[LibTIFF 4.5.0  (GCCcore 12.3.0)](link)  
-[GTK3 3.24.37  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[cairo 1.17.8  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[LibTIFF 4.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
+[GTK3 3.24.37  (GCCcore 12.3.0)](../hpc-docs/modules/ghostscript-10.01.2-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Ghostscript 10.01.2 .  

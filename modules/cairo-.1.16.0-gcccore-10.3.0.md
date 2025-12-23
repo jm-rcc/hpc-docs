@@ -33,14 +33,14 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[libpng 1.6.37  (GCCcore 10.3.0)](link)  
-[freetype 2.10.4  (GCCcore 10.3.0)](link)  
-[pixman 0.40.0  (GCCcore 10.3.0)](link)  
-[expat 2.2.9  (GCCcore 10.3.0)](link)  
-[GLib 2.68.2  (GCCcore 10.3.0)](link)  
-[X11 20210518  (GCCcore 10.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
+[libpng 1.6.37  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
+[freetype 2.10.4  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
+[pixman 0.40.0  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
+[expat 2.2.9  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
+[GLib 2.68.2  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/cairo-.1.16.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for cairo 1.16.0 .  

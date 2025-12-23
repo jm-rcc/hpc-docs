@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[X11 20210518  (GCCcore 10.3.0)](link)  
+[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/libglvnd-1.3.3-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libglvnd 1.3.3 .  

@@ -40,9 +40,9 @@ None
   
   
 ## Dependencies  
-[numactl 2.0.18  (GCCcore 13.3.0)](link)  
-[libxml2 2.12.7  (GCCcore 13.3.0)](link)  
-[libpciaccess 0.18.1  (GCCcore 13.3.0)](link)  
+[numactl 2.0.18  (GCCcore 13.3.0)](../hpc-docs/modules/hwloc-.2.10.0-gcccore-13.3.0.md)  
+[libxml2 2.12.7  (GCCcore 13.3.0)](../hpc-docs/modules/hwloc-.2.10.0-gcccore-13.3.0.md)  
+[libpciaccess 0.18.1  (GCCcore 13.3.0)](../hpc-docs/modules/hwloc-.2.10.0-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for hwloc 2.10.0 .  

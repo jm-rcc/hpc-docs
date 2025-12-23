@@ -32,8 +32,8 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/cd-hit-4.8.1-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/cd-hit-4.8.1-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for CD-HIT 4.8.1 .  

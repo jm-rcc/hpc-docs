@@ -31,12 +31,12 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
-[XZ 5.4.2  (GCCcore 12.3.0)](link)  
-[jbigkit 2.1  (GCCcore 12.3.0)](link)  
-[zstd 1.5.5  (GCCcore 12.3.0)](link)  
-[libdeflate 1.18  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/libtiff-.4.5.0-gcccore-12.3.0.md)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](../hpc-docs/modules/libtiff-.4.5.0-gcccore-12.3.0.md)  
+[XZ 5.4.2  (GCCcore 12.3.0)](../hpc-docs/modules/libtiff-.4.5.0-gcccore-12.3.0.md)  
+[jbigkit 2.1  (GCCcore 12.3.0)](../hpc-docs/modules/libtiff-.4.5.0-gcccore-12.3.0.md)  
+[zstd 1.5.5  (GCCcore 12.3.0)](../hpc-docs/modules/libtiff-.4.5.0-gcccore-12.3.0.md)  
+[libdeflate 1.18  (GCCcore 12.3.0)](../hpc-docs/modules/libtiff-.4.5.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for LibTIFF 4.5.0 .  

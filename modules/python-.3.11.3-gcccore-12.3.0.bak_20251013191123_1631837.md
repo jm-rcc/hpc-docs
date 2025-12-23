@@ -22,15 +22,15 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[binutils 2.40  (GCCcore 12.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 12.3.0)](link)  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[libreadline 8.2  (GCCcore 12.3.0)](link)  
-[ncurses 6.4  (GCCcore 12.3.0)](link)  
-[SQLite 3.42.0  (GCCcore 12.3.0)](link)  
-[XZ 5.4.2  (GCCcore 12.3.0)](link)  
-[libffi 3.4.4  (GCCcore 12.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[binutils 2.40  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[libreadline 8.2  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[ncurses 6.4  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[SQLite 3.42.0  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[XZ 5.4.2  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[libffi 3.4.4  (GCCcore 12.3.0)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/python-.3.11.3-gcccore-12.3.0.bak_20251013191123_1631837.md)  
   
 ## Homepage  
 The homepage for Python 3.11.3 .  

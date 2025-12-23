@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
-[pocl 1.8  (GCC 11.3.0)](link)  
+[Java 11  (system system)](../hpc-docs/modules/beagle-lib-4.0.0-gcc-11.3.0.md)  
+[pocl 1.8  (GCC 11.3.0)](../hpc-docs/modules/beagle-lib-4.0.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for beagle-lib 4.0.0 .  

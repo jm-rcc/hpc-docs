@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[NGS 2.10.9  (GCCcore 10.3.0)](link)  
-[ncbi-vdb 2.10.9  (gompi 2021a)](link)  
+[NGS 2.10.9  (GCCcore 10.3.0)](../hpc-docs/modules/hisat2-2.2.1-gompi-2021a.md)  
+[ncbi-vdb 2.10.9  (gompi 2021a)](../hpc-docs/modules/hisat2-2.2.1-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for HISAT2 2.2.1 .  

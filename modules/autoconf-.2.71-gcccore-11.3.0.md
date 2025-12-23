@@ -38,8 +38,8 @@ None
   
   
 ## Dependencies  
-[M4 1.4.19  (GCCcore 11.3.0)](link)  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[M4 1.4.19  (GCCcore 11.3.0)](../hpc-docs/modules/autoconf-.2.71-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/autoconf-.2.71-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Autoconf 2.71 .  

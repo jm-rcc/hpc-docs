@@ -27,7 +27,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.19  (GCCcore 14.2.0)](link)  
+[M4 1.4.19  (GCCcore 14.2.0)](../hpc-docs/modules/libtool-.2.5.4-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for libtool 2.5.4 .  

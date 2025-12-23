@@ -23,7 +23,7 @@ None
   
   
 ## Dependencies  
-[CUDA 11.7.0  (system system)](link)  
+[CUDA 11.7.0  (system system)](../hpc-docs/modules/cudnn-8.4.1.50-cuda-11.7.0.md)  
   
 ## Homepage  
 The homepage for cuDNN 8.4.1.50 -CUDA-11.7.0.  

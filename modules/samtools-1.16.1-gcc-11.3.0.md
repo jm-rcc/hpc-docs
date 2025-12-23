@@ -32,11 +32,11 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[ncurses 6.3  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
+[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/samtools-1.16.1-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/samtools-1.16.1-gcc-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/samtools-1.16.1-gcc-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/samtools-1.16.1-gcc-11.3.0.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/samtools-1.16.1-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for SAMtools 1.16.1 .  

@@ -34,10 +34,10 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
-[Szip 2.1.1  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[libtirpc 1.3.2  (GCCcore 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/hdf-4.2.15-gcccore-11.3.0.md)  
+[Szip 2.1.1  (GCCcore 11.3.0)](../hpc-docs/modules/hdf-4.2.15-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/hdf-4.2.15-gcccore-11.3.0.md)  
+[libtirpc 1.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/hdf-4.2.15-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for HDF 4.2.15 .  

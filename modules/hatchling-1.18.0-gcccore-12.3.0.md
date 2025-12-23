@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/hatchling-1.18.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for hatchling 1.18.0 .  

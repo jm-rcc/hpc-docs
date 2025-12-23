@@ -35,10 +35,10 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[gc 8.2.2  (GCCcore 11.3.0)](link)  
-[GMP 6.2.1  (GCCcore 11.3.0)](link)  
-[libffi 3.4.2  (GCCcore 11.3.0)](link)  
-[libunistring 1.0  (GCCcore 11.3.0)](link)  
+[gc 8.2.2  (GCCcore 11.3.0)](../hpc-docs/modules/guile-3.0.8-gcccore-11.3.0.md)  
+[GMP 6.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/guile-3.0.8-gcccore-11.3.0.md)  
+[libffi 3.4.2  (GCCcore 11.3.0)](../hpc-docs/modules/guile-3.0.8-gcccore-11.3.0.md)  
+[libunistring 1.0  (GCCcore 11.3.0)](../hpc-docs/modules/guile-3.0.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Guile 3.0.8 .  

@@ -31,12 +31,12 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[expat 2.4.8  (GCCcore 11.3.0)](link)  
-[ncurses 6.3  (GCCcore 11.3.0)](link)  
-[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
-[DB 18.1.40  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
+[expat 2.4.8  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
+[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
+[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
+[DB 18.1.40  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Perl 5.34.1 .  

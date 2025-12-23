@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.18  (system system)](link)  
+[M4 1.4.18  (system system)](../hpc-docs/modules/libtool-.2.4.7.md)  
   
 ## Homepage  
 The homepage for libtool 2.4.7 .  

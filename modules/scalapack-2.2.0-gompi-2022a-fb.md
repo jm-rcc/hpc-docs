@@ -32,7 +32,7 @@ gompi (2022a)
   
   
 ## Dependencies  
-[FlexiBLAS 3.2.0  (GCC 11.3.0)](link)  
+[FlexiBLAS 3.2.0  (GCC 11.3.0)](../hpc-docs/modules/scalapack-2.2.0-gompi-2022a-fb.md)  
   
 ## Homepage  
 The homepage for ScaLAPACK 2.2.0 -fb.  

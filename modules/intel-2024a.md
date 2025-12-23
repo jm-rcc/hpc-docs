@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[GCCcore 13.3.0  (system system)](link)  
-[binutils 2.42  (GCCcore 13.3.0)](link)  
-[intel-compilers 2024.2.0  (system system)](link)  
-[impi 2021.13.0  (intel-compilers 2024.2.0)](link)  
-[imkl 2024.2.0  (system system)](link)  
-[imkl-FFTW 2024.2.0  (iimpi 2024a)](link)  
+[GCCcore 13.3.0  (system system)](../hpc-docs/modules/intel-2024a.md)  
+[binutils 2.42  (GCCcore 13.3.0)](../hpc-docs/modules/intel-2024a.md)  
+[intel-compilers 2024.2.0  (system system)](../hpc-docs/modules/intel-2024a.md)  
+[impi 2021.13.0  (intel-compilers 2024.2.0)](../hpc-docs/modules/intel-2024a.md)  
+[imkl 2024.2.0  (system system)](../hpc-docs/modules/intel-2024a.md)  
+[imkl-FFTW 2024.2.0  (iimpi 2024a)](../hpc-docs/modules/intel-2024a.md)  
   
 ## Homepage  
 The homepage for intel 2024a .  

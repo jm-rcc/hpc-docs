@@ -29,11 +29,11 @@ None
   
   
 ## Dependencies  
-[cURL 8.7.1  (GCCcore 13.3.0)](link)  
-[expat 2.6.2  (GCCcore 13.3.0)](link)  
-[gettext 0.22.5  (GCCcore 13.3.0)](link)  
-[Perl 5.38.2  (GCCcore 13.3.0)](link)  
-[OpenSSL 3  (system system)](link)  
+[cURL 8.7.1  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
+[expat 2.6.2  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
+[gettext 0.22.5  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
+[Perl 5.38.2  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
+[OpenSSL 3  (system system)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for git 2.45.1 .  

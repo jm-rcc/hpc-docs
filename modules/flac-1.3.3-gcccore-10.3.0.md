@@ -30,7 +30,7 @@ None
   
   
 ## Dependencies  
-[libogg 1.3.4  (GCCcore 10.3.0)](link)  
+[libogg 1.3.4  (GCCcore 10.3.0)](../hpc-docs/modules/flac-1.3.3-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for FLAC 1.3.3 .  

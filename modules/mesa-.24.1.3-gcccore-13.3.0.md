@@ -29,14 +29,14 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
-[zstd 1.5.6  (GCCcore 13.3.0)](link)  
-[libdrm 2.4.122  (GCCcore 13.3.0)](link)  
-[libglvnd 1.7.0  (GCCcore 13.3.0)](link)  
-[libunwind 1.8.1  (GCCcore 13.3.0)](link)  
-[LLVM 18.1.8 -minimal (GCCcore 13.3.0)](link)  
-[X11 20240607  (GCCcore 13.3.0)](link)  
-[Wayland 1.23.0  (GCCcore 13.3.0)](link)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
+[zstd 1.5.6  (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
+[libdrm 2.4.122  (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
+[libglvnd 1.7.0  (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
+[libunwind 1.8.1  (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
+[LLVM 18.1.8 -minimal (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
+[X11 20240607  (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
+[Wayland 1.23.0  (GCCcore 13.3.0)](../hpc-docs/modules/mesa-.24.1.3-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Mesa 24.1.3 .  

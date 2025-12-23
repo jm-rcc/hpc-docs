@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
-[libxslt 1.1.34  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/lxml-4.9.1-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/lxml-4.9.1-gcccore-11.3.0.md)  
+[libxslt 1.1.34  (GCCcore 11.3.0)](../hpc-docs/modules/lxml-4.9.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for lxml 4.9.1 .  

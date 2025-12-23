@@ -29,13 +29,13 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[Boost 1.79.0  (GCC 11.3.0)](link)  
-[tbb 2021.5.0  (GCCcore 11.3.0)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
-[libiconv 1.17  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/salmon-1.9.0-gcc-11.3.0.md)  
+[tbb 2021.5.0  (GCCcore 11.3.0)](../hpc-docs/modules/salmon-1.9.0-gcc-11.3.0.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/salmon-1.9.0-gcc-11.3.0.md)  
+[libiconv 1.17  (GCCcore 11.3.0)](../hpc-docs/modules/salmon-1.9.0-gcc-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/salmon-1.9.0-gcc-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/salmon-1.9.0-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/salmon-1.9.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for Salmon 1.9.0 .  

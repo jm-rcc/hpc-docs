@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](link)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/sdl2-2.0.22-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for SDL2 2.0.22 .  

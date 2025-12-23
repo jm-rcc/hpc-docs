@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[ncurses 6.3  (GCCcore 11.3.0)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
+[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for Pysam 0.19.1 .  

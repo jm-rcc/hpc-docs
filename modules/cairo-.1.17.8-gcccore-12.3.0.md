@@ -33,14 +33,14 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 12.3.0)](link)  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[libpng 1.6.39  (GCCcore 12.3.0)](link)  
-[freetype 2.13.0  (GCCcore 12.3.0)](link)  
-[pixman 0.42.2  (GCCcore 12.3.0)](link)  
-[expat 2.5.0  (GCCcore 12.3.0)](link)  
-[GLib 2.77.1  (GCCcore 12.3.0)](link)  
-[X11 20230603  (GCCcore 12.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[pixman 0.42.2  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for cairo 1.17.8 .  

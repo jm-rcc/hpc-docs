@@ -32,7 +32,7 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[OpenBLAS 0.3.20  (GCC 11.3.0)](link)  
+[OpenBLAS 0.3.20  (GCC 11.3.0)](../hpc-docs/modules/flexiblas-3.2.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for FlexiBLAS 3.2.0 .  

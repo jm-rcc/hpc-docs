@@ -30,7 +30,7 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[OpenBLAS 0.3.15  (GCC 10.3.0)](link)  
+[OpenBLAS 0.3.15  (GCC 10.3.0)](../hpc-docs/modules/flexiblas-3.0.4-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for FlexiBLAS 3.0.4 .  

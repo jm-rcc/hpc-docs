@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/makeinfo-6.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for makeinfo 6.8 .  

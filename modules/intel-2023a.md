@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[GCCcore 12.3.0  (system system)](link)  
-[binutils 2.40  (GCCcore 12.3.0)](link)  
-[intel-compilers 2023.1.0  (system system)](link)  
-[impi 2021.9.0  (intel-compilers 2023.1.0)](link)  
-[imkl 2023.1.0  (system system)](link)  
-[imkl-FFTW 2023.1.0  (iimpi 2023a)](link)  
+[GCCcore 12.3.0  (system system)](../hpc-docs/modules/intel-2023a.md)  
+[binutils 2.40  (GCCcore 12.3.0)](../hpc-docs/modules/intel-2023a.md)  
+[intel-compilers 2023.1.0  (system system)](../hpc-docs/modules/intel-2023a.md)  
+[impi 2021.9.0  (intel-compilers 2023.1.0)](../hpc-docs/modules/intel-2023a.md)  
+[imkl 2023.1.0  (system system)](../hpc-docs/modules/intel-2023a.md)  
+[imkl-FFTW 2023.1.0  (iimpi 2023a)](../hpc-docs/modules/intel-2023a.md)  
   
 ## Homepage  
 The homepage for intel 2023a .  

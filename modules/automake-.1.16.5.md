@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.71  (system system)](link)  
+[Autoconf 2.71  (system system)](../hpc-docs/modules/automake-.1.16.5.md)  
   
 ## Homepage  
 The homepage for Automake 1.16.5 .  

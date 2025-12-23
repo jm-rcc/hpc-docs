@@ -31,8 +31,8 @@ foss (2022a)
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[pybind11 2.9.2  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/scipy-bundle-2022.05-foss-2022a.md)  
+[pybind11 2.9.2  (GCCcore 11.3.0)](../hpc-docs/modules/scipy-bundle-2022.05-foss-2022a.md)  
   
 ## Homepage  
 The homepage for SciPy-bundle 2022.05 .  

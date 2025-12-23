@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[Imath 3.1.7  (GCCcore 12.3.0)](link)  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[Imath 3.1.7  (GCCcore 12.3.0)](../hpc-docs/modules/openexr-3.1.7-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/openexr-3.1.7-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for OpenEXR 3.1.7 .  

@@ -25,7 +25,7 @@ gompi (2025a)
   
   
 ## Dependencies  
-[FFTW 3.3.10  (GCC 14.2.0)](link)  
+[FFTW 3.3.10  (GCC 14.2.0)](../hpc-docs/modules/fftw.mpi-3.3.10-gompi-2025a.md)  
   
 ## Homepage  
 The homepage for FFTW.MPI 3.3.10 .  

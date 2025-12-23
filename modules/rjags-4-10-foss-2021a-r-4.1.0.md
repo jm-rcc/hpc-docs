@@ -29,8 +29,8 @@ None
   
   
 ## Dependencies  
-[R 4.1.0  (foss 2021a)](link)  
-[JAGS 4.3.0  (foss 2021a)](link)  
+[R 4.1.0  (foss 2021a)](../hpc-docs/modules/rjags-4-10-foss-2021a-r-4.1.0.md)  
+[JAGS 4.3.0  (foss 2021a)](../hpc-docs/modules/rjags-4-10-foss-2021a-r-4.1.0.md)  
   
 ## Homepage  
 The homepage for rjags 4-10 -R-4.1.0.  

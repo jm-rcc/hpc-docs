@@ -36,7 +36,7 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[numactl 2.0.14  (GCCcore 11.3.0)](link)  
+[numactl 2.0.14  (GCCcore 11.3.0)](../hpc-docs/modules/libfabric-.1.15.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libfabric 1.15.1 .  

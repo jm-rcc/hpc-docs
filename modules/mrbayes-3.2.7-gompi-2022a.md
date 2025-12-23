@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
-[beagle-lib 4.0.0  (GCC 11.3.0)](link)  
+[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/mrbayes-3.2.7-gompi-2022a.md)  
+[beagle-lib 4.0.0  (GCC 11.3.0)](../hpc-docs/modules/mrbayes-3.2.7-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for MrBayes 3.2.7 .  

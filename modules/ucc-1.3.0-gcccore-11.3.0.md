@@ -34,7 +34,7 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[UCX 1.16.0  (GCCcore 11.3.0)](link)  
+[UCX 1.16.0  (GCCcore 11.3.0)](../hpc-docs/modules/ucc-1.3.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for UCC 1.3.0 .  

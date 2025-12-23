@@ -28,7 +28,7 @@ None
   
   
 ## Dependencies  
-[X11 20240607  (GCCcore 13.3.0)](link)  
+[X11 20240607  (GCCcore 13.3.0)](../hpc-docs/modules/libdrm-.2.4.122-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libdrm 2.4.122 .  

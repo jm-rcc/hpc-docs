@@ -33,11 +33,11 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](link)  
-[GLib 2.72.1  (GCCcore 11.3.0)](link)  
-[cairo 1.17.4  (GCCcore 11.3.0)](link)  
-[HarfBuzz 4.2.1  (GCCcore 11.3.0)](link)  
-[FriBidi 1.0.12  (GCCcore 11.3.0)](link)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
+[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
+[HarfBuzz 4.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
+[FriBidi 1.0.12  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Pango 1.50.7 .  

@@ -32,10 +32,10 @@ foss (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
-[networkx 3.1  (gfbf 2023a)](link)  
-[mpi4py 3.1.4  (gompi 2023a)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
+[networkx 3.1  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
+[mpi4py 3.1.4  (gompi 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
   
 ## Homepage  
 The homepage for GROMACS 2023.3 .  

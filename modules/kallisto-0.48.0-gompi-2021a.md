@@ -32,7 +32,7 @@ gompi (2021a)
   
   
 ## Dependencies  
-[HDF5 1.10.7  (gompi 2021a)](link)  
+[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/kallisto-0.48.0-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for kallisto 0.48.0 .  

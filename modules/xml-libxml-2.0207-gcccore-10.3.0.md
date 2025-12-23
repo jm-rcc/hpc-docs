@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
-[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/xml-libxml-2.0207-gcccore-10.3.0.md)  
+[libxml2 2.9.10  (GCCcore 10.3.0)](../hpc-docs/modules/xml-libxml-2.0207-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for XML-LibXML 2.0207 .  

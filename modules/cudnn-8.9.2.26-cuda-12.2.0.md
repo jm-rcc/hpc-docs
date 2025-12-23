@@ -27,7 +27,7 @@ None
   
   
 ## Dependencies  
-[CUDA 12.2.0  (system system)](link)  
+[CUDA 12.2.0  (system system)](../hpc-docs/modules/cudnn-8.9.2.26-cuda-12.2.0.md)  
   
 ## Homepage  
 The homepage for cuDNN 8.9.2.26 -CUDA-12.2.0.  

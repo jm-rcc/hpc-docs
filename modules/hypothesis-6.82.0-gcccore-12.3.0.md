@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/hypothesis-6.82.0-gcccore-12.3.0.md)  
+[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](../hpc-docs/modules/hypothesis-6.82.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for hypothesis 6.82.0 .  

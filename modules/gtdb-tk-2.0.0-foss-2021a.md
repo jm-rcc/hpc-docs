@@ -29,16 +29,16 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[DendroPy 4.5.2  (GCCcore 10.3.0)](link)  
-[matplotlib 3.4.2  (foss 2021a)](link)  
-[prodigal 2.6.3  (GCCcore 10.3.0)](link)  
-[HMMER 3.3.2  (gompi 2021a)](link)  
-[pplacer 1.1.alpha19  (system system)](link)  
-[FastANI 1.33  (GCC 10.3.0)](link)  
-[FastTree 2.1.11  (GCCcore 10.3.0)](link)  
-[Mash 2.3  (GCC 10.3.0)](link)  
-[tqdm 4.61.2  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[DendroPy 4.5.2  (GCCcore 10.3.0)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[matplotlib 3.4.2  (foss 2021a)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[prodigal 2.6.3  (GCCcore 10.3.0)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[HMMER 3.3.2  (gompi 2021a)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[pplacer 1.1.alpha19  (system system)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[FastANI 1.33  (GCC 10.3.0)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[FastTree 2.1.11  (GCCcore 10.3.0)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[Mash 2.3  (GCC 10.3.0)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
+[tqdm 4.61.2  (GCCcore 10.3.0)](../hpc-docs/modules/gtdb-tk-2.0.0-foss-2021a.md)  
   
 ## Homepage  
 The homepage for GTDB-Tk 2.0.0 .  

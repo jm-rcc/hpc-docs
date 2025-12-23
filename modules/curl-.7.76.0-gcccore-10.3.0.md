@@ -39,8 +39,8 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/curl-.7.76.0-gcccore-10.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/curl-.7.76.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for cURL 7.76.0 .  

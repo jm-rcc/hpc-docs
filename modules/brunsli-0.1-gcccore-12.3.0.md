@@ -29,7 +29,7 @@ None
   
   
 ## Dependencies  
-[Brotli 1.0.9  (GCCcore 12.3.0)](link)  
+[Brotli 1.0.9  (GCCcore 12.3.0)](../hpc-docs/modules/brunsli-0.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Brunsli 0.1 .  

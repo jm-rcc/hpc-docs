@@ -31,7 +31,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[ncurses 6.5  (GCCcore 14.2.0)](link)  
+[ncurses 6.5  (GCCcore 14.2.0)](../hpc-docs/modules/libreadline-.8.2-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for libreadline 8.2 .  

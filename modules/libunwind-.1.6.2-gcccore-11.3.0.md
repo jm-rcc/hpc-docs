@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/libunwind-.1.6.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libunwind 1.6.2 .  

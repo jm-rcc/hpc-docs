@@ -29,10 +29,10 @@ None
   
   
 ## Dependencies  
-[Clang 18.1.8  (GCCcore 13.3.0)](link)  
-[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
-[libtool 2.4.7  (GCCcore 13.3.0)](link)  
-[libxml2 2.12.7  (GCCcore 13.3.0)](link)  
+[Clang 18.1.8  (GCCcore 13.3.0)](../hpc-docs/modules/pocl-6.0-gcc-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](../hpc-docs/modules/pocl-6.0-gcc-13.3.0.md)  
+[libtool 2.4.7  (GCCcore 13.3.0)](../hpc-docs/modules/pocl-6.0-gcc-13.3.0.md)  
+[libxml2 2.12.7  (GCCcore 13.3.0)](../hpc-docs/modules/pocl-6.0-gcc-13.3.0.md)  
   
 ## Homepage  
 The homepage for pocl 6.0 .  

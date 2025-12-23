@@ -29,7 +29,7 @@ None
   
   
 ## Dependencies  
-[Python 3.12.3  (GCCcore 13.3.0)](link)  
+[Python 3.12.3  (GCCcore 13.3.0)](../hpc-docs/modules/lit-18.1.8-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for lit 18.1.8 .  

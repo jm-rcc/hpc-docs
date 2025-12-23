@@ -24,7 +24,7 @@ None
   
   
 ## Dependencies  
-[imkl 2025.1.0  (system system)](link)  
+[imkl 2025.1.0  (system system)](../hpc-docs/modules/imkl-fftw-2025.1.0-iimpi-2025a.md)  
   
 ## Homepage  
 The homepage for imkl-FFTW 2025.1.0 .  

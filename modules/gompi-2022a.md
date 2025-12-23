@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCC 11.3.0  (system system)](link)  
-[OpenMPI 4.1.4  (GCC 11.3.0)](link)  
+[GCC 11.3.0  (system system)](../hpc-docs/modules/gompi-2022a.md)  
+[OpenMPI 4.1.4  (GCC 11.3.0)](../hpc-docs/modules/gompi-2022a.md)  
   
 ## Homepage  
 The homepage for gompi 2022a .  

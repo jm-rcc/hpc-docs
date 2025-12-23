@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/plotly.py-5.12.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for plotly.py 5.12.0 .  

@@ -34,9 +34,9 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[IPython 8.5.0  (GCCcore 11.3.0)](link)  
-[jupyter-server 1.21.0  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/jupyterlab-3.5.0-gcccore-11.3.0.md)  
+[IPython 8.5.0  (GCCcore 11.3.0)](../hpc-docs/modules/jupyterlab-3.5.0-gcccore-11.3.0.md)  
+[jupyter-server 1.21.0  (GCCcore 11.3.0)](../hpc-docs/modules/jupyterlab-3.5.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for JupyterLab 3.5.0 .  

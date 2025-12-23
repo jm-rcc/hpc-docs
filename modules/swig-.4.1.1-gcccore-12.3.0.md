@@ -30,8 +30,8 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[PCRE2 10.42  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/swig-.4.1.1-gcccore-12.3.0.md)  
+[PCRE2 10.42  (GCCcore 12.3.0)](../hpc-docs/modules/swig-.4.1.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for SWIG 4.1.1 .  

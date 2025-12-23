@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[BioPerl 1.7.8  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/bio-searchio-hmmer-1.7.3-gcc-11.3.0.md)  
+[BioPerl 1.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/bio-searchio-hmmer-1.7.3-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for Bio-SearchIO-hmmer 1.7.3 .  

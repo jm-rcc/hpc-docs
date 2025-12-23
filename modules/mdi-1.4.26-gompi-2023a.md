@@ -40,7 +40,7 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/mdi-1.4.26-gompi-2023a.md)  
   
 ## Homepage  
 The homepage for MDI 1.4.26 .  

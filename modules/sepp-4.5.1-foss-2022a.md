@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[DendroPy 4.5.2  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/sepp-4.5.1-foss-2022a.md)  
+[DendroPy 4.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/sepp-4.5.1-foss-2022a.md)  
   
 ## Homepage  
 The homepage for SEPP 4.5.1 .  

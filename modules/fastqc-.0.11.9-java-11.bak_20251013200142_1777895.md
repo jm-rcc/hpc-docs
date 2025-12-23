@@ -25,7 +25,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
+[Java 11  (system system)](../hpc-docs/modules/fastqc-.0.11.9-java-11.bak_20251013200142_1777895.md)  
   
 ## Homepage  
 The homepage for FastQC 0.11.9 -Java-11.  

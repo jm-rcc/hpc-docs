@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[UnZip 6.0  (GCCcore 11.3.0)](link)  
-[Zip 3.0  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/archive-zip-1.68-gcccore-11.3.0.md)  
+[UnZip 6.0  (GCCcore 11.3.0)](../hpc-docs/modules/archive-zip-1.68-gcccore-11.3.0.md)  
+[Zip 3.0  (GCCcore 11.3.0)](../hpc-docs/modules/archive-zip-1.68-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Archive-Zip 1.68 .  

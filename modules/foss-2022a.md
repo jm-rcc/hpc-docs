@@ -32,12 +32,12 @@ None
   
   
 ## Dependencies  
-[GCC 11.3.0  (system system)](link)  
-[OpenMPI 4.1.4  (GCC 11.3.0)](link)  
-[FlexiBLAS 3.2.0  (GCC 11.3.0)](link)  
-[FFTW 3.3.10  (GCC 11.3.0)](link)  
-[FFTW.MPI 3.3.10  (gompi 2022a)](link)  
-[ScaLAPACK 2.2.0 -fb (gompi 2022a)](link)  
+[GCC 11.3.0  (system system)](../hpc-docs/modules/foss-2022a.md)  
+[OpenMPI 4.1.4  (GCC 11.3.0)](../hpc-docs/modules/foss-2022a.md)  
+[FlexiBLAS 3.2.0  (GCC 11.3.0)](../hpc-docs/modules/foss-2022a.md)  
+[FFTW 3.3.10  (GCC 11.3.0)](../hpc-docs/modules/foss-2022a.md)  
+[FFTW.MPI 3.3.10  (gompi 2022a)](../hpc-docs/modules/foss-2022a.md)  
+[ScaLAPACK 2.2.0 -fb (gompi 2022a)](../hpc-docs/modules/foss-2022a.md)  
   
 ## Homepage  
 The homepage for foss 2022a .  

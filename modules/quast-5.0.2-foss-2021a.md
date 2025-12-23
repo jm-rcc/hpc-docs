@@ -31,12 +31,12 @@ foss (2021a)
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
-[matplotlib 3.4.2  (foss 2021a)](link)  
-[Java 11  (system system)](link)  
-[Boost 1.76.0  (GCC 10.3.0)](link)  
-[wget 1.21.1  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/quast-5.0.2-foss-2021a.md)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/quast-5.0.2-foss-2021a.md)  
+[matplotlib 3.4.2  (foss 2021a)](../hpc-docs/modules/quast-5.0.2-foss-2021a.md)  
+[Java 11  (system system)](../hpc-docs/modules/quast-5.0.2-foss-2021a.md)  
+[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/quast-5.0.2-foss-2021a.md)  
+[wget 1.21.1  (GCCcore 10.3.0)](../hpc-docs/modules/quast-5.0.2-foss-2021a.md)  
   
 ## Homepage  
 The homepage for QUAST 5.0.2 .  

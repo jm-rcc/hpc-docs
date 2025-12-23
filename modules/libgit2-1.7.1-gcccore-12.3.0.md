@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[PCRE 8.45  (GCCcore 12.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[PCRE 8.45  (GCCcore 12.3.0)](../hpc-docs/modules/libgit2-1.7.1-gcccore-12.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/libgit2-1.7.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for libgit2 1.7.1 .  

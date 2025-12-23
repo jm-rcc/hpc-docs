@@ -31,8 +31,8 @@ foss (2022a)
   
   
 ## Dependencies  
-[METIS 5.1.0  (GCCcore 11.3.0)](link)  
-[MPFR 4.1.0  (GCCcore 11.3.0)](link)  
+[METIS 5.1.0  (GCCcore 11.3.0)](../hpc-docs/modules/suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
+[MPFR 4.1.0  (GCCcore 11.3.0)](../hpc-docs/modules/suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
   
 ## Homepage  
 The homepage for SuiteSparse 5.13.0 -METIS-5.1.0.  

@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[XZ 5.4.5  (GCCcore 13.3.0)](link)  
+[XZ 5.4.5  (GCCcore 13.3.0)](../hpc-docs/modules/libunwind-.1.8.1-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libunwind 1.8.1 .  

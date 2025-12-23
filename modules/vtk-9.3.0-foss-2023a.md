@@ -34,12 +34,12 @@ foss (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
-[XZ 5.4.2  (GCCcore 12.3.0)](link)  
-[libGLU 9.0.3  (GCCcore 12.3.0)](link)  
-[X11 20230603  (GCCcore 12.3.0)](link)  
-[Qt5 5.15.10  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
+[XZ 5.4.2  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
+[libGLU 9.0.3  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
+[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
+[Qt5 5.15.10  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
   
 ## Homepage  
 The homepage for VTK 9.3.0 .  

@@ -31,9 +31,9 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[libevent 2.1.12  (GCCcore 13.3.0)](link)  
-[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
-[PMIx 5.0.2  (GCCcore 13.3.0)](link)  
+[libevent 2.1.12  (GCCcore 13.3.0)](../hpc-docs/modules/prrte-3.0.5-gcccore-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](../hpc-docs/modules/prrte-3.0.5-gcccore-13.3.0.md)  
+[PMIx 5.0.2  (GCCcore 13.3.0)](../hpc-docs/modules/prrte-3.0.5-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for PRRTE 3.0.5 .  

@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
-[pkg-config 0.29.2  (GCCcore 11.3.0)](link)  
-[pocl 1.8  (GCC 11.3.0)](link)  
+[Java 11  (system system)](../hpc-docs/modules/beagle-lib-3.1.2-gcc-11.3.0.md)  
+[pkg-config 0.29.2  (GCCcore 11.3.0)](../hpc-docs/modules/beagle-lib-3.1.2-gcc-11.3.0.md)  
+[pocl 1.8  (GCC 11.3.0)](../hpc-docs/modules/beagle-lib-3.1.2-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for beagle-lib 3.1.2 .  

@@ -26,11 +26,11 @@ None
   
   
 ## Dependencies  
-[binutils 2.36.1  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[libarchive 3.5.1  (GCCcore 10.3.0)](link)  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
-[zstd 1.4.9  (GCCcore 10.3.0)](link)  
+[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/elfutils-0.185-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/elfutils-0.185-gcccore-10.3.0.md)  
+[libarchive 3.5.1  (GCCcore 10.3.0)](../hpc-docs/modules/elfutils-0.185-gcccore-10.3.0.md)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/elfutils-0.185-gcccore-10.3.0.md)  
+[zstd 1.4.9  (GCCcore 10.3.0)](../hpc-docs/modules/elfutils-0.185-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for elfutils 0.185 .  

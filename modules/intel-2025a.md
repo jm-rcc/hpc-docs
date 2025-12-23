@@ -24,12 +24,12 @@ None
   
   
 ## Dependencies  
-[GCCcore 14.2.0  (system system)](link)  
-[binutils 2.42  (GCCcore 14.2.0)](link)  
-[intel-compilers 2025.1.1  (system system)](link)  
-[impi 2021.15.0  (intel-compilers 2025.1.1)](link)  
-[imkl 2025.1.0  (system system)](link)  
-[imkl-FFTW 2025.1.0  (iimpi 2025a)](link)  
+[GCCcore 14.2.0  (system system)](../hpc-docs/modules/intel-2025a.md)  
+[binutils 2.42  (GCCcore 14.2.0)](../hpc-docs/modules/intel-2025a.md)  
+[intel-compilers 2025.1.1  (system system)](../hpc-docs/modules/intel-2025a.md)  
+[impi 2021.15.0  (intel-compilers 2025.1.1)](../hpc-docs/modules/intel-2025a.md)  
+[imkl 2025.1.0  (system system)](../hpc-docs/modules/intel-2025a.md)  
+[imkl-FFTW 2025.1.0  (iimpi 2025a)](../hpc-docs/modules/intel-2025a.md)  
   
 ## Homepage  
 The homepage for intel 2025a .  

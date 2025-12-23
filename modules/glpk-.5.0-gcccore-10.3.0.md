@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 10.3.0)](link)  
+[GMP 6.2.1  (GCCcore 10.3.0)](../hpc-docs/modules/glpk-.5.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for GLPK 5.0 .  

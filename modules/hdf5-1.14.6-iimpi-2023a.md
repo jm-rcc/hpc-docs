@@ -24,9 +24,9 @@ iimpi (2023a)
   
   
 ## Dependencies  
-[libaec 1.0.6  (GCCcore 12.3.0)](link)  
-[Perl 5.36.1  (GCCcore 12.3.0)](link)  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[libaec 1.0.6  (GCCcore 12.3.0)](../hpc-docs/modules/hdf5-1.14.6-iimpi-2023a.md)  
+[Perl 5.36.1  (GCCcore 12.3.0)](../hpc-docs/modules/hdf5-1.14.6-iimpi-2023a.md)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/hdf5-1.14.6-iimpi-2023a.md)  
   
 ## Homepage  
 The homepage for HDF5 1.14.6 .  

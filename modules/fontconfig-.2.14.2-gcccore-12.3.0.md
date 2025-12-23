@@ -34,9 +34,9 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[expat 2.5.0  (GCCcore 12.3.0)](link)  
-[freetype 2.13.0  (GCCcore 12.3.0)](link)  
-[util-linux 2.39  (GCCcore 12.3.0)](link)  
+[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/fontconfig-.2.14.2-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore 12.3.0)](../hpc-docs/modules/fontconfig-.2.14.2-gcccore-12.3.0.md)  
+[util-linux 2.39  (GCCcore 12.3.0)](../hpc-docs/modules/fontconfig-.2.14.2-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for fontconfig 2.14.2 .  

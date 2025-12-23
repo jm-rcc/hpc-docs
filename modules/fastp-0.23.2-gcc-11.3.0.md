@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[libdeflate 1.10  (GCCcore 11.3.0)](link)  
-[ISA-L 2.30.0  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/fastp-0.23.2-gcc-11.3.0.md)  
+[libdeflate 1.10  (GCCcore 11.3.0)](../hpc-docs/modules/fastp-0.23.2-gcc-11.3.0.md)  
+[ISA-L 2.30.0  (GCCcore 11.3.0)](../hpc-docs/modules/fastp-0.23.2-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for fastp 0.23.2 .  

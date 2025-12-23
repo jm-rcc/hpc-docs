@@ -24,8 +24,8 @@ None
   
   
 ## Dependencies  
-[intel-compilers 2025.1.1  (system system)](link)  
-[impi 2021.15.0  (intel-compilers 2025.1.1)](link)  
+[intel-compilers 2025.1.1  (system system)](../hpc-docs/modules/iimpi-2025a.md)  
+[impi 2021.15.0  (intel-compilers 2025.1.1)](../hpc-docs/modules/iimpi-2025a.md)  
   
 ## Homepage  
 The homepage for iimpi 2025a .  

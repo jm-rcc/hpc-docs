@@ -27,9 +27,9 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.72  (GCCcore 14.2.0)](link)  
-[Automake 1.17  (GCCcore 14.2.0)](link)  
-[libtool 2.5.4  (GCCcore 14.2.0)](link)  
+[Autoconf 2.72  (GCCcore 14.2.0)](../hpc-docs/modules/autotools-.20240712-gcccore-14.2.0.md)  
+[Automake 1.17  (GCCcore 14.2.0)](../hpc-docs/modules/autotools-.20240712-gcccore-14.2.0.md)  
+[libtool 2.5.4  (GCCcore 14.2.0)](../hpc-docs/modules/autotools-.20240712-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for Autotools 20240712 .  

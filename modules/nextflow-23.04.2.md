@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
+[Java 11  (system system)](../hpc-docs/modules/nextflow-23.04.2.md)  
   
 ## Homepage  
 The homepage for Nextflow 23.04.2 .  

@@ -35,7 +35,7 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[M4 1.4.18  (GCCcore 10.3.0)](link)  
+[M4 1.4.18  (GCCcore 10.3.0)](../hpc-docs/modules/flex-2.6.4-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for flex 2.6.4 .  

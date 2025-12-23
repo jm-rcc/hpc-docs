@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[libiconv 1.16  (GCCcore 10.3.0)](link)  
+[libiconv 1.16  (GCCcore 10.3.0)](../hpc-docs/modules/doxygen-.1.9.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Doxygen 1.9.1 .  

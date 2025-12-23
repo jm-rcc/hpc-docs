@@ -32,8 +32,8 @@ gompi (2022a)
   
   
 ## Dependencies  
-[HDF5 1.12.2  (gompi 2022a)](link)  
-[HTSlib 1.15.1  (GCC 11.3.0)](link)  
+[HDF5 1.12.2  (gompi 2022a)](../hpc-docs/modules/kallisto-0.48.0-gompi-2022a.md)  
+[HTSlib 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/kallisto-0.48.0-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for kallisto 0.48.0 .  

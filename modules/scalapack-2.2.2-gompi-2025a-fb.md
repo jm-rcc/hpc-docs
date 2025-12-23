@@ -25,7 +25,7 @@ gompi (2025a)
   
   
 ## Dependencies  
-[FlexiBLAS 3.4.5  (GCC 14.2.0)](link)  
+[FlexiBLAS 3.4.5  (GCC 14.2.0)](../hpc-docs/modules/scalapack-2.2.2-gompi-2025a-fb.md)  
   
 ## Homepage  
 The homepage for ScaLAPACK 2.2.2 -fb.  

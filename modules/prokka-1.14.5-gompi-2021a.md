@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[BioPerl 1.7.8  (GCCcore 10.3.0)](link)  
-[BLAST+ 2.11.0  (gompi 2021a)](link)  
-[Java 11  (system system)](link)  
-[Bio-SearchIO-hmmer 1.7.3  (GCC 10.3.0)](link)  
-[parallel 20210622  (GCCcore 10.3.0)](link)  
-[tbl2asn 20230119 -linux64 (system system)](link)  
+[BioPerl 1.7.8  (GCCcore 10.3.0)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
+[BLAST+ 2.11.0  (gompi 2021a)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
+[Java 11  (system system)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
+[Bio-SearchIO-hmmer 1.7.3  (GCC 10.3.0)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
+[parallel 20210622  (GCCcore 10.3.0)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
+[tbl2asn 20230119 -linux64 (system system)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for prokka 1.14.5 .  

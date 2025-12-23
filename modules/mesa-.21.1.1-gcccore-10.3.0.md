@@ -32,13 +32,13 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[zstd 1.4.9  (GCCcore 10.3.0)](link)  
-[libdrm 2.4.106  (GCCcore 10.3.0)](link)  
-[libglvnd 1.3.3  (GCCcore 10.3.0)](link)  
-[libunwind 1.4.0  (GCCcore 10.3.0)](link)  
-[LLVM 11.1.0  (GCCcore 10.3.0)](link)  
-[X11 20210518  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/mesa-.21.1.1-gcccore-10.3.0.md)  
+[zstd 1.4.9  (GCCcore 10.3.0)](../hpc-docs/modules/mesa-.21.1.1-gcccore-10.3.0.md)  
+[libdrm 2.4.106  (GCCcore 10.3.0)](../hpc-docs/modules/mesa-.21.1.1-gcccore-10.3.0.md)  
+[libglvnd 1.3.3  (GCCcore 10.3.0)](../hpc-docs/modules/mesa-.21.1.1-gcccore-10.3.0.md)  
+[libunwind 1.4.0  (GCCcore 10.3.0)](../hpc-docs/modules/mesa-.21.1.1-gcccore-10.3.0.md)  
+[LLVM 11.1.0  (GCCcore 10.3.0)](../hpc-docs/modules/mesa-.21.1.1-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/mesa-.21.1.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Mesa 21.1.1 .  

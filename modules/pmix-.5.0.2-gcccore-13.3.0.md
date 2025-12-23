@@ -41,9 +41,9 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[libevent 2.1.12  (GCCcore 13.3.0)](link)  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
-[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
+[libevent 2.1.12  (GCCcore 13.3.0)](../hpc-docs/modules/pmix-.5.0.2-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/pmix-.5.0.2-gcccore-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](../hpc-docs/modules/pmix-.5.0.2-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for PMIx 5.0.2 .  

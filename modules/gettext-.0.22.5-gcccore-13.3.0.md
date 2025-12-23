@@ -30,9 +30,9 @@ None
   
   
 ## Dependencies  
-[libxml2 2.12.7  (GCCcore 13.3.0)](link)  
-[ncurses 6.5  (GCCcore 13.3.0)](link)  
-[libiconv 1.17  (GCCcore 13.3.0)](link)  
+[libxml2 2.12.7  (GCCcore 13.3.0)](../hpc-docs/modules/gettext-.0.22.5-gcccore-13.3.0.md)  
+[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/gettext-.0.22.5-gcccore-13.3.0.md)  
+[libiconv 1.17  (GCCcore 13.3.0)](../hpc-docs/modules/gettext-.0.22.5-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for gettext 0.22.5 .  

@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[OpenSSL 1.1  (system system)](link)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/rust-1.52.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Rust 1.52.1 .  

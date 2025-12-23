@@ -29,9 +29,9 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[CapnProto 0.9.1  (GCCcore 10.3.0)](link)  
-[GSL 2.7  (GCC 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[CapnProto 0.9.1  (GCCcore 10.3.0)](../hpc-docs/modules/mash-2.3-gcc-10.3.0.md)  
+[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/mash-2.3-gcc-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/mash-2.3-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for Mash 2.3 .  

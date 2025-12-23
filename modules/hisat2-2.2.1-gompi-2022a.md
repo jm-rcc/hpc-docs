@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[ncbi-vdb 3.0.2  (gompi 2022a)](link)  
-[SRA-Toolkit 3.0.3  (gompi 2022a)](link)  
+[ncbi-vdb 3.0.2  (gompi 2022a)](../hpc-docs/modules/hisat2-2.2.1-gompi-2022a.md)  
+[SRA-Toolkit 3.0.3  (gompi 2022a)](../hpc-docs/modules/hisat2-2.2.1-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for HISAT2 2.2.1 .  

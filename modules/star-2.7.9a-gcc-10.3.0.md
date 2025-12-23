@@ -31,7 +31,7 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/star-2.7.9a-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for STAR 2.7.9a .  

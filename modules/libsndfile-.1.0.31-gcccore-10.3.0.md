@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[FLAC 1.3.3  (GCCcore 10.3.0)](link)  
-[libvorbis 1.3.7  (GCCcore 10.3.0)](link)  
+[FLAC 1.3.3  (GCCcore 10.3.0)](../hpc-docs/modules/libsndfile-.1.0.31-gcccore-10.3.0.md)  
+[libvorbis 1.3.7  (GCCcore 10.3.0)](../hpc-docs/modules/libsndfile-.1.0.31-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libsndfile 1.0.31 .  

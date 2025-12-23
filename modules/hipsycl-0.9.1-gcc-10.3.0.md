@@ -24,9 +24,9 @@ None
   
   
 ## Dependencies  
-[Boost 1.76.0  (GCC 10.3.0)](link)  
-[Clang 12.0.1  (GCCcore 10.3.0)](link)  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/hipsycl-0.9.1-gcc-10.3.0.md)  
+[Clang 12.0.1  (GCCcore 10.3.0)](../hpc-docs/modules/hipsycl-0.9.1-gcc-10.3.0.md)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/hipsycl-0.9.1-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for hipSYCL 0.9.1 .  

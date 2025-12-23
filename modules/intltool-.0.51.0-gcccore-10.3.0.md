@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/intltool-.0.51.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for intltool 0.51.0 .  

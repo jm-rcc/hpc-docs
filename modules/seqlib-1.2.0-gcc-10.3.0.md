@@ -29,15 +29,15 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[JsonCpp 1.9.4  (GCCcore 10.3.0)](link)  
-[BWA 0.7.17  (GCC 10.3.0)](link)  
-[HTSlib 1.12  (GCC 10.3.0)](link)  
-[fermi-lite 20190320  (GCCcore 10.3.0)](link)  
-[SSW 1.1  (GCCcore 10.3.0)](link)  
-[PCRE 8.44  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[JsonCpp 1.9.4  (GCCcore 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[BWA 0.7.17  (GCC 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[HTSlib 1.12  (GCC 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[fermi-lite 20190320  (GCCcore 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[SSW 1.1  (GCCcore 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
+[PCRE 8.44  (GCCcore 10.3.0)](../hpc-docs/modules/seqlib-1.2.0-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for SeqLib 1.2.0 .  

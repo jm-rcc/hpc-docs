@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
-[XML-LibXML 2.0207  (GCCcore 10.3.0)](link)  
-[DB_File 1.856  (GCCcore 10.3.0)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/bioperl-1.7.8-gcccore-10.3.0.md)  
+[XML-LibXML 2.0207  (GCCcore 10.3.0)](../hpc-docs/modules/bioperl-1.7.8-gcccore-10.3.0.md)  
+[DB_File 1.856  (GCCcore 10.3.0)](../hpc-docs/modules/bioperl-1.7.8-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for BioPerl 1.7.8 .  

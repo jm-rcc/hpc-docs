@@ -30,12 +30,12 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
-[libpng 1.6.37  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[LibTIFF 4.2.0  (GCCcore 10.3.0)](link)  
-[freetype 2.10.4  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pillow-.8.2.0-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/pillow-.8.2.0-gcccore-10.3.0.md)  
+[libpng 1.6.37  (GCCcore 10.3.0)](../hpc-docs/modules/pillow-.8.2.0-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/pillow-.8.2.0-gcccore-10.3.0.md)  
+[LibTIFF 4.2.0  (GCCcore 10.3.0)](../hpc-docs/modules/pillow-.8.2.0-gcccore-10.3.0.md)  
+[freetype 2.10.4  (GCCcore 10.3.0)](../hpc-docs/modules/pillow-.8.2.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Pillow 8.2.0 .  

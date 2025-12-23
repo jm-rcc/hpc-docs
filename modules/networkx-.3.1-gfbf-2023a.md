@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/networkx-.3.1-gfbf-2023a.md)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/networkx-.3.1-gfbf-2023a.md)  
   
 ## Homepage  
 The homepage for networkx 3.1 .  

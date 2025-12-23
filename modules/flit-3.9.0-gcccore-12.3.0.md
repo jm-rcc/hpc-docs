@@ -31,7 +31,7 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/flit-3.9.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for flit 3.9.0 .  

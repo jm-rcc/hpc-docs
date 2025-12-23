@@ -37,7 +37,7 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[expat 2.4.8  (GCCcore 11.3.0)](link)  
+[expat 2.4.8  (GCCcore 11.3.0)](../hpc-docs/modules/dbus-.1.14.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for DBus 1.14.0 .  

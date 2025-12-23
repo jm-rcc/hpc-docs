@@ -31,8 +31,8 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[HTSlib 1.15.1  (GCC 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[HTSlib 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/star-2.7.10b-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/star-2.7.10b-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for STAR 2.7.10b .  

@@ -31,7 +31,7 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[Mesa 22.0.3  (GCCcore 11.3.0)](link)  
+[Mesa 22.0.3  (GCCcore 11.3.0)](../hpc-docs/modules/libglu-9.0.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libGLU 9.0.2 .  

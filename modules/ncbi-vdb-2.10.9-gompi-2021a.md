@@ -32,11 +32,11 @@ None
   
   
 ## Dependencies  
-[NGS 2.10.9  (GCCcore 10.3.0)](link)  
-[file 5.40  (GCCcore 10.3.0)](link)  
-[HDF5 1.10.7  (gompi 2021a)](link)  
-[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
+[NGS 2.10.9  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
+[file 5.40  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
+[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
+[libxml2 2.9.10  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for ncbi-vdb 2.10.9 .  

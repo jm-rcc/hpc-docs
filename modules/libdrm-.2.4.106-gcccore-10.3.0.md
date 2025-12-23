@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[X11 20210518  (GCCcore 10.3.0)](link)  
+[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/libdrm-.2.4.106-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libdrm 2.4.106 .  

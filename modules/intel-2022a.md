@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[GCCcore 11.3.0  (system system)](link)  
-[binutils 2.38  (GCCcore 11.3.0)](link)  
-[intel-compilers 2022.1.0  (system system)](link)  
-[impi 2021.6.0  (intel-compilers 2022.1.0)](link)  
-[imkl 2022.1.0  (system system)](link)  
-[imkl-FFTW 2022.1.0  (iimpi 2022a)](link)  
+[GCCcore 11.3.0  (system system)](../hpc-docs/modules/intel-2022a.md)  
+[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/intel-2022a.md)  
+[intel-compilers 2022.1.0  (system system)](../hpc-docs/modules/intel-2022a.md)  
+[impi 2021.6.0  (intel-compilers 2022.1.0)](../hpc-docs/modules/intel-2022a.md)  
+[imkl 2022.1.0  (system system)](../hpc-docs/modules/intel-2022a.md)  
+[imkl-FFTW 2022.1.0  (iimpi 2022a)](../hpc-docs/modules/intel-2022a.md)  
   
 ## Homepage  
 The homepage for intel 2022a .  

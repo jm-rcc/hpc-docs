@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[MariaDB 10.9.3  (GCC 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
+[MariaDB 10.9.3  (GCC 11.3.0)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for DBD-mysql 4.050 .  

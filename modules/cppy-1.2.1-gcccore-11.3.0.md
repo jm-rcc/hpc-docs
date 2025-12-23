@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/cppy-1.2.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for cppy 1.2.1 .  

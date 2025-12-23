@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
-[NSS 3.79  (GCCcore 11.3.0)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2022a.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2022a.md)  
+[NSS 3.79  (GCCcore 11.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/pybigwig-0.3.18-foss-2022a.md)  
   
 ## Homepage  
 The homepage for pyBigWig 0.3.18 .  

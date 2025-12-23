@@ -36,11 +36,11 @@ None
   
   
 ## Dependencies  
-[GLib 2.77.1  (GCCcore 12.3.0)](link)  
-[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](link)  
-[libpng 1.6.39  (GCCcore 12.3.0)](link)  
-[LibTIFF 4.5.0  (GCCcore 12.3.0)](link)  
-[X11 20230603  (GCCcore 12.3.0)](link)  
+[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
+[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
+[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
+[LibTIFF 4.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Gdk-Pixbuf 2.42.10 .  

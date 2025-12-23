@@ -24,8 +24,8 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.72  (GCCcore 14.2.0)](link)  
-[Perl 5.40.0  (GCCcore 14.2.0)](link)  
+[Autoconf 2.72  (GCCcore 14.2.0)](../hpc-docs/modules/automake-.1.17-gcccore-14.2.0.md)  
+[Perl 5.40.0  (GCCcore 14.2.0)](../hpc-docs/modules/automake-.1.17-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for Automake 1.17 .  

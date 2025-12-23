@@ -31,11 +31,11 @@ None
   
   
 ## Dependencies  
-[GLib 2.72.1  (GCCcore 11.3.0)](link)  
-[DBus 1.14.0  (GCCcore 11.3.0)](link)  
-[at-spi2-core 2.44.1  (GCCcore 11.3.0)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
-[ATK 2.38.0  (GCCcore 11.3.0)](link)  
+[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-atk-.2.38.0-gcccore-11.3.0.md)  
+[DBus 1.14.0  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-atk-.2.38.0-gcccore-11.3.0.md)  
+[at-spi2-core 2.44.1  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-atk-.2.38.0-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-atk-.2.38.0-gcccore-11.3.0.md)  
+[ATK 2.38.0  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-atk-.2.38.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for at-spi2-atk 2.38.0 .  

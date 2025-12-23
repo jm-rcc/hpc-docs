@@ -34,8 +34,8 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[numactl 2.0.14  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/ucx-.1.10.0-gcccore-10.3.0.md)  
+[numactl 2.0.14  (GCCcore 10.3.0)](../hpc-docs/modules/ucx-.1.10.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for UCX 1.10.0 .  

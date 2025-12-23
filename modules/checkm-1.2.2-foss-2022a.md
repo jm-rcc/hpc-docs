@@ -32,15 +32,15 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[pplacer 1.1.alpha19  (system system)](link)  
-[prodigal 2.6.3  (GCCcore 11.3.0)](link)  
-[HMMER 3.3.2  (gompi 2022a)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
-[matplotlib 3.5.2  (foss 2022a)](link)  
-[Pysam 0.19.1  (GCC 11.3.0)](link)  
-[DendroPy 4.5.2  (GCCcore 11.3.0)](link)  
-[CheckM-Database 2015_01_16  (system system)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[pplacer 1.1.alpha19  (system system)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[prodigal 2.6.3  (GCCcore 11.3.0)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[HMMER 3.3.2  (gompi 2022a)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[matplotlib 3.5.2  (foss 2022a)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[Pysam 0.19.1  (GCC 11.3.0)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[DendroPy 4.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
+[CheckM-Database 2015_01_16  (system system)](../hpc-docs/modules/checkm-1.2.2-foss-2022a.md)  
   
 ## Homepage  
 The homepage for CheckM 1.2.2 .  

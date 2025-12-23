@@ -33,8 +33,8 @@ gompi (2022a)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[Szip 2.1.1  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/hdf5-1.12.2-gompi-2022a.md)  
+[Szip 2.1.1  (GCCcore 11.3.0)](../hpc-docs/modules/hdf5-1.12.2-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for HDF5 1.12.2 .  

@@ -30,7 +30,7 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[expat 2.2.9  (GCCcore 10.3.0)](link)  
+[expat 2.2.9  (GCCcore 10.3.0)](../hpc-docs/modules/udunits-.2.2.28-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for UDUNITS 2.2.28 .  

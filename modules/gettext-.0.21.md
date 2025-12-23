@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[ncurses 6.2  (system system)](link)  
+[ncurses 6.2  (system system)](../hpc-docs/modules/gettext-.0.21.md)  
   
 ## Homepage  
 The homepage for gettext 0.21 .  

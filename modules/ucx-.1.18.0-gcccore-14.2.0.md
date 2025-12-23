@@ -27,8 +27,8 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 14.2.0)](link)  
-[numactl 2.0.19  (GCCcore 14.2.0)](link)  
+[zlib 1.3.1  (GCCcore 14.2.0)](../hpc-docs/modules/ucx-.1.18.0-gcccore-14.2.0.md)  
+[numactl 2.0.19  (GCCcore 14.2.0)](../hpc-docs/modules/ucx-.1.18.0-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for UCX 1.18.0 .  

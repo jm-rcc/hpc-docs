@@ -34,9 +34,9 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.71  (GCCcore 10.3.0)](link)  
-[Automake 1.16.3  (GCCcore 10.3.0)](link)  
-[libtool 2.4.6  (GCCcore 10.3.0)](link)  
+[Autoconf 2.71  (GCCcore 10.3.0)](../hpc-docs/modules/autotools-.20210128-gcccore-10.3.0.md)  
+[Automake 1.16.3  (GCCcore 10.3.0)](../hpc-docs/modules/autotools-.20210128-gcccore-10.3.0.md)  
+[libtool 2.4.6  (GCCcore 10.3.0)](../hpc-docs/modules/autotools-.20210128-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Autotools 20210128 .  

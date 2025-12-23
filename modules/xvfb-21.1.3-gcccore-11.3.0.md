@@ -32,13 +32,13 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](link)  
-[pixman 0.40.0  (GCCcore 11.3.0)](link)  
-[libdrm 2.4.110  (GCCcore 11.3.0)](link)  
-[Mesa 22.0.3  (GCCcore 11.3.0)](link)  
-[nettle 3.8  (GCCcore 11.3.0)](link)  
-[libunwind 1.6.2  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/xvfb-21.1.3-gcccore-11.3.0.md)  
+[pixman 0.40.0  (GCCcore 11.3.0)](../hpc-docs/modules/xvfb-21.1.3-gcccore-11.3.0.md)  
+[libdrm 2.4.110  (GCCcore 11.3.0)](../hpc-docs/modules/xvfb-21.1.3-gcccore-11.3.0.md)  
+[Mesa 22.0.3  (GCCcore 11.3.0)](../hpc-docs/modules/xvfb-21.1.3-gcccore-11.3.0.md)  
+[nettle 3.8  (GCCcore 11.3.0)](../hpc-docs/modules/xvfb-21.1.3-gcccore-11.3.0.md)  
+[libunwind 1.6.2  (GCCcore 11.3.0)](../hpc-docs/modules/xvfb-21.1.3-gcccore-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/xvfb-21.1.3-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Xvfb 21.1.3 .  

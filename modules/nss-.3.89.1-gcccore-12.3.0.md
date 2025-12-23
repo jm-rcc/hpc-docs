@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[NSPR 4.35  (GCCcore 12.3.0)](link)  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
+[NSPR 4.35  (GCCcore 12.3.0)](../hpc-docs/modules/nss-.3.89.1-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/nss-.3.89.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for NSS 3.89.1 .  

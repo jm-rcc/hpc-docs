@@ -34,8 +34,8 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[XZ 5.4.5  (GCCcore 13.3.0)](link)  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
+[XZ 5.4.5  (GCCcore 13.3.0)](../hpc-docs/modules/libxml2-.2.12.7-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/libxml2-.2.12.7-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libxml2 2.12.7 .  

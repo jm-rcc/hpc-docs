@@ -29,11 +29,11 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
-[HTSlib 1.12  (GCC 10.3.0)](link)  
-[PCRE 8.44  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/tabixpp-1.1.0-gcc-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/tabixpp-1.1.0-gcc-10.3.0.md)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/tabixpp-1.1.0-gcc-10.3.0.md)  
+[HTSlib 1.12  (GCC 10.3.0)](../hpc-docs/modules/tabixpp-1.1.0-gcc-10.3.0.md)  
+[PCRE 8.44  (GCCcore 10.3.0)](../hpc-docs/modules/tabixpp-1.1.0-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for tabixpp 1.1.0 .  

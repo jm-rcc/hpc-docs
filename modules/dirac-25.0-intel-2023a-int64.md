@@ -22,8 +22,8 @@ intel (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[HDF5 1.14.6  (iimpi 2023a)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/dirac-25.0-intel-2023a-int64.md)  
+[HDF5 1.14.6  (iimpi 2023a)](../hpc-docs/modules/dirac-25.0-intel-2023a-int64.md)  
   
 ## Homepage  
 The homepage for DIRAC 25.0 -int64.  

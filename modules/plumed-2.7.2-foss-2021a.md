@@ -34,11 +34,11 @@ foss (2021a)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[GSL 2.7  (GCC 10.3.0)](link)  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[SciPy-bundle 2021.05  (foss 2021a)](link)  
-[Boost 1.76.0  (GCC 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
+[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
+[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
+[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
   
 ## Homepage  
 The homepage for PLUMED 2.7.2 .  

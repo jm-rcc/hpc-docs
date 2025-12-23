@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
+[Java 11  (system system)](../hpc-docs/modules/ngs-2.10.9-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for NGS 2.10.9 .  

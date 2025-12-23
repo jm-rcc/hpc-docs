@@ -36,14 +36,14 @@ None
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 11.3.0)](link)  
-[nettle 3.8  (GCCcore 11.3.0)](link)  
-[Guile 3.0.8  (GCCcore 11.3.0)](link)  
-[libtasn1 4.19.0  (GCCcore 11.3.0)](link)  
-[libidn2 2.3.2  (GCCcore 11.3.0)](link)  
-[p11-kit 0.24.1  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[zstd 1.5.2  (GCCcore 11.3.0)](link)  
+[GMP 6.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[nettle 3.8  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[Guile 3.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[libtasn1 4.19.0  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[libidn2 2.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[p11-kit 0.24.1  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for GnuTLS 3.7.8 .  

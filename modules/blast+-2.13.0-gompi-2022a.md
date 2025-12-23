@@ -33,14 +33,14 @@ gompi (2022a)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[PCRE 8.45  (GCCcore 11.3.0)](link)  
-[Boost 1.79.0  (GCC 11.3.0)](link)  
-[GMP 6.2.1  (GCCcore 11.3.0)](link)  
-[libpng 1.6.37  (GCCcore 11.3.0)](link)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
-[LMDB 0.9.29  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
+[PCRE 8.45  (GCCcore 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
+[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
+[GMP 6.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
+[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
+[LMDB 0.9.29  (GCCcore 11.3.0)](../hpc-docs/modules/blast+-2.13.0-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for BLAST+ 2.13.0 .  

@@ -31,10 +31,10 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[UCX 1.14.1  (GCCcore 12.3.0)](link)  
-[CUDA 12.1.1  (system system)](link)  
-[GDRCopy 2.3.1  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
+[UCX 1.14.1  (GCCcore 12.3.0)](../hpc-docs/modules/ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
+[CUDA 12.1.1  (system system)](../hpc-docs/modules/ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
+[GDRCopy 2.3.1  (GCCcore 12.3.0)](../hpc-docs/modules/ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
   
 ## Homepage  
 The homepage for UCX-CUDA 1.14.1 -CUDA-12.1.1.  

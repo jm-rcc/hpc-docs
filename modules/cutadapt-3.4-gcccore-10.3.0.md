@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[pigz 2.6  (GCCcore 10.3.0)](link)  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[python-isal 0.11.0  (GCCcore 10.3.0)](link)  
+[pigz 2.6  (GCCcore 10.3.0)](../hpc-docs/modules/cutadapt-3.4-gcccore-10.3.0.md)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/cutadapt-3.4-gcccore-10.3.0.md)  
+[python-isal 0.11.0  (GCCcore 10.3.0)](../hpc-docs/modules/cutadapt-3.4-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for cutadapt 3.4 .  

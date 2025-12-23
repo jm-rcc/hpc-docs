@@ -32,11 +32,11 @@ None
   
   
 ## Dependencies  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
-[expat 2.4.8  (GCCcore 11.3.0)](link)  
-[gettext 0.21  (GCCcore 11.3.0)](link)  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/git-2.36.0-gcccore-11.3.0-nodocs.md)  
+[expat 2.4.8  (GCCcore 11.3.0)](../hpc-docs/modules/git-2.36.0-gcccore-11.3.0-nodocs.md)  
+[gettext 0.21  (GCCcore 11.3.0)](../hpc-docs/modules/git-2.36.0-gcccore-11.3.0-nodocs.md)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/git-2.36.0-gcccore-11.3.0-nodocs.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/git-2.36.0-gcccore-11.3.0-nodocs.md)  
   
 ## Homepage  
 The homepage for git 2.36.0 -nodocs.  

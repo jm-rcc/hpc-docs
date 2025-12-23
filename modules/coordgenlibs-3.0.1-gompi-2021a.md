@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Boost 1.76.0  (GCC 10.3.0)](link)  
-[maeparser 1.3.0  (gompi 2021a)](link)  
+[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/coordgenlibs-3.0.1-gompi-2021a.md)  
+[maeparser 1.3.0  (gompi 2021a)](../hpc-docs/modules/coordgenlibs-3.0.1-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for CoordgenLibs 3.0.1 .  

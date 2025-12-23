@@ -35,9 +35,9 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/bowtie2-2.4.4-gcc-10.3.0.md)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/bowtie2-2.4.4-gcc-10.3.0.md)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/bowtie2-2.4.4-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for Bowtie2 2.4.4 .  

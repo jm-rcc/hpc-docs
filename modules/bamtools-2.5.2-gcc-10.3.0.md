@@ -31,7 +31,7 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[JsonCpp 1.9.4  (GCCcore 10.3.0)](link)  
+[JsonCpp 1.9.4  (GCCcore 10.3.0)](../hpc-docs/modules/bamtools-2.5.2-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for BamTools 2.5.2 .  

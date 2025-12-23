@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
+[Java 11  (system system)](../hpc-docs/modules/picard-2.25.1-java-11.md)  
   
 ## Homepage  
 The homepage for picard 2.25.1 -Java-11.  

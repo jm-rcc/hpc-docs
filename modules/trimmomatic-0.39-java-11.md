@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
+[Java 11  (system system)](../hpc-docs/modules/trimmomatic-0.39-java-11.md)  
   
 ## Homepage  
 The homepage for Trimmomatic 0.39 -Java-11.  

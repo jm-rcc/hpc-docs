@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/mpi4py-3.1.4-gompi-2023a.md)  
   
 ## Homepage  
 The homepage for mpi4py 3.1.4 .  

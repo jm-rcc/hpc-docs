@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
-[gzip 1.13  (GCCcore 13.3.0)](link)  
-[XZ 5.4.5  (GCCcore 13.3.0)](link)  
-[lz4 1.9.4  (GCCcore 13.3.0)](link)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
+[gzip 1.13  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
+[XZ 5.4.5  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
+[lz4 1.9.4  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for zstd 1.5.6 .  

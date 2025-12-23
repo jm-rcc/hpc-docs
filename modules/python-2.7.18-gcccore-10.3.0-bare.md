@@ -32,13 +32,13 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[binutils 2.36.1  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[libreadline 8.1  (GCCcore 10.3.0)](link)  
-[ncurses 6.2  (GCCcore 10.3.0)](link)  
-[SQLite 3.35.4  (GCCcore 10.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
+[libreadline 8.1  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
+[ncurses 6.2  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
+[SQLite 3.35.4  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
   
 ## Homepage  
 The homepage for Python 2.7.18 -bare.  

@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/parallel-20210622-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for parallel 20210622 .  

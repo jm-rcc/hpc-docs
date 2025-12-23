@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[libtirpc 1.3.2  (GCCcore 11.3.0)](link)  
+[libtirpc 1.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/libnsl-1.3.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libnsl 1.3.0 .  

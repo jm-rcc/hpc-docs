@@ -29,12 +29,12 @@ None
   
   
 ## Dependencies  
-[binutils 2.42  (GCCcore 13.3.0)](link)  
-[hwloc 2.10.0  (GCCcore 13.3.0)](link)  
-[libxml2 2.12.7  (GCCcore 13.3.0)](link)  
-[ncurses 6.5  (GCCcore 13.3.0)](link)  
-[GMP 6.3.0  (GCCcore 13.3.0)](link)  
-[Z3 4.13.0  (GCCcore 13.3.0)](link)  
+[binutils 2.42  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
+[libxml2 2.12.7  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
+[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
+[GMP 6.3.0  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
+[Z3 4.13.0  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Clang 18.1.8 .  

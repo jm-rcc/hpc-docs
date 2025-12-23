@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[ATK 2.38.0  (GCCcore 11.3.0)](link)  
-[Gdk-Pixbuf 2.42.8  (GCCcore 11.3.0)](link)  
-[Pango 1.50.7  (GCCcore 11.3.0)](link)  
+[ATK 2.38.0  (GCCcore 11.3.0)](../hpc-docs/modules/gtk2-2.24.33-gcccore-11.3.0.md)  
+[Gdk-Pixbuf 2.42.8  (GCCcore 11.3.0)](../hpc-docs/modules/gtk2-2.24.33-gcccore-11.3.0.md)  
+[Pango 1.50.7  (GCCcore 11.3.0)](../hpc-docs/modules/gtk2-2.24.33-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for GTK2 2.24.33 .  

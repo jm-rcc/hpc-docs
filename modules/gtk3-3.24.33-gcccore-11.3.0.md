@@ -36,13 +36,13 @@ None
   
   
 ## Dependencies  
-[ATK 2.38.0  (GCCcore 11.3.0)](link)  
-[at-spi2-atk 2.38.0  (GCCcore 11.3.0)](link)  
-[Gdk-Pixbuf 2.42.8  (GCCcore 11.3.0)](link)  
-[Pango 1.50.7  (GCCcore 11.3.0)](link)  
-[libepoxy 1.5.10  (GCCcore 11.3.0)](link)  
-[X11 20220504  (GCCcore 11.3.0)](link)  
-[FriBidi 1.0.12  (GCCcore 11.3.0)](link)  
+[ATK 2.38.0  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
+[at-spi2-atk 2.38.0  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
+[Gdk-Pixbuf 2.42.8  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
+[Pango 1.50.7  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
+[libepoxy 1.5.10  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
+[FriBidi 1.0.12  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for GTK3 3.24.33 .  

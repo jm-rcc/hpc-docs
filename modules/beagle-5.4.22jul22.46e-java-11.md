@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
+[Java 11  (system system)](../hpc-docs/modules/beagle-5.4.22jul22.46e-java-11.md)  
   
 ## Homepage  
 The homepage for Beagle 5.4.22Jul22.46e -Java-11.  

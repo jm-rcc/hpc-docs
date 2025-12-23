@@ -29,8 +29,8 @@ foss (2021a)
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[pybind11 2.6.2  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/scipy-bundle-2021.05-foss-2021a.md)  
+[pybind11 2.6.2  (GCCcore 10.3.0)](../hpc-docs/modules/scipy-bundle-2021.05-foss-2021a.md)  
   
 ## Homepage  
 The homepage for SciPy-bundle 2021.05 .  

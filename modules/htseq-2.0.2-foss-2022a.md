@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[Pysam 0.19.1  (GCC 11.3.0)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
-[matplotlib 3.5.2  (foss 2022a)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/htseq-2.0.2-foss-2022a.md)  
+[Pysam 0.19.1  (GCC 11.3.0)](../hpc-docs/modules/htseq-2.0.2-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/htseq-2.0.2-foss-2022a.md)  
+[matplotlib 3.5.2  (foss 2022a)](../hpc-docs/modules/htseq-2.0.2-foss-2022a.md)  
   
 ## Homepage  
 The homepage for HTSeq 2.0.2 .  

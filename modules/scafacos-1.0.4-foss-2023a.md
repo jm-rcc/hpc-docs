@@ -30,8 +30,8 @@ foss (2023a)
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 12.3.0)](link)  
-[GSL 2.7  (GCC 12.3.0)](link)  
+[GMP 6.2.1  (GCCcore 12.3.0)](../hpc-docs/modules/scafacos-1.0.4-foss-2023a.md)  
+[GSL 2.7  (GCC 12.3.0)](../hpc-docs/modules/scafacos-1.0.4-foss-2023a.md)  
   
 ## Homepage  
 The homepage for ScaFaCoS 1.0.4 .  

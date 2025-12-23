@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[GLib 2.72.1  (GCCcore 11.3.0)](link)  
-[DBus 1.14.0  (GCCcore 11.3.0)](link)  
-[X11 20220504  (GCCcore 11.3.0)](link)  
+[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-core-.2.44.1-gcccore-11.3.0.md)  
+[DBus 1.14.0  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-core-.2.44.1-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/at-spi2-core-.2.44.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for at-spi2-core 2.44.1 .  

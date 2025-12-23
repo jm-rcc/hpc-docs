@@ -23,7 +23,7 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/scikit-build-0.11.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for scikit-build 0.11.1 .  

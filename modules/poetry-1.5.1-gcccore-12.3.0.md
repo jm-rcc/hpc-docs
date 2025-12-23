@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[hatchling 1.18.0  (GCCcore 12.3.0)](link)  
-[cryptography 41.0.1  (GCCcore 12.3.0)](link)  
-[virtualenv 20.23.1  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
+[hatchling 1.18.0  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
+[cryptography 41.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
+[virtualenv 20.23.1  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for poetry 1.5.1 .  

@@ -31,20 +31,20 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
-[R 4.1.0  (foss 2021a)](link)  
-[XZ 5.2.5  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](link)  
-[HTSlib 1.12  (GCC 10.3.0)](link)  
-[tabixpp 1.1.0  (GCC 10.3.0)](link)  
-[intervaltree 0.1  (GCCcore 10.3.0)](link)  
-[fastahack 1.0.0  (GCCcore 10.3.0)](link)  
-[filevercmp 20191210  (GCCcore 10.3.0)](link)  
-[fsom 20141119  (GCCcore 10.3.0)](link)  
-[multichoose 1.0.3  (GCCcore 10.3.0)](link)  
-[smithwaterman 20160702  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[R 4.1.0  (foss 2021a)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[HTSlib 1.12  (GCC 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[tabixpp 1.1.0  (GCC 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[intervaltree 0.1  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[fastahack 1.0.0  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[filevercmp 20191210  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[fsom 20141119  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[multichoose 1.0.3  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[smithwaterman 20160702  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
   
 ## Homepage  
 The homepage for vcflib 1.0.3 -R-4.1.0.  

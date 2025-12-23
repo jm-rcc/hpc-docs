@@ -32,9 +32,9 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
-[libxslt 1.1.34  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/bcl2fastq2-2.20.0-gcc-11.3.0.md)  
+[libxslt 1.1.34  (GCCcore 11.3.0)](../hpc-docs/modules/bcl2fastq2-2.20.0-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/bcl2fastq2-2.20.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for bcl2fastq2 2.20.0 .  

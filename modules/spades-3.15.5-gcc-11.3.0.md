@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[libreadline 8.1.2  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/spades-3.15.5-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/spades-3.15.5-gcc-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/spades-3.15.5-gcc-11.3.0.md)  
+[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/spades-3.15.5-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for SPAdes 3.15.5 .  

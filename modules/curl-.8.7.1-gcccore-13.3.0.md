@@ -39,8 +39,8 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
-[OpenSSL 3  (system system)](link)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/curl-.8.7.1-gcccore-13.3.0.md)  
+[OpenSSL 3  (system system)](../hpc-docs/modules/curl-.8.7.1-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for cURL 8.7.1 .  

@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Perl-bundle-CPAN 5.36.1  (GCCcore 12.3.0)](link)  
+[Perl-bundle-CPAN 5.36.1  (GCCcore 12.3.0)](../hpc-docs/modules/intltool-.0.51.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for intltool 0.51.0 .  

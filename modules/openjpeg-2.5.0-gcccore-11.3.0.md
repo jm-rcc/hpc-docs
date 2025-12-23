@@ -35,9 +35,9 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[libpng 1.6.37  (GCCcore 11.3.0)](link)  
-[LibTIFF 4.3.0  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/openjpeg-2.5.0-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/openjpeg-2.5.0-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/openjpeg-2.5.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for OpenJPEG 2.5.0 .  

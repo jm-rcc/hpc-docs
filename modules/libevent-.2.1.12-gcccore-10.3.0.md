@@ -36,8 +36,8 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/libevent-.2.1.12-gcccore-10.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/libevent-.2.1.12-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libevent 2.1.12 .  

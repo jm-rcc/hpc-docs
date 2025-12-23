@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[HDF5 1.12.2  (gompi 2022a)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
+[HDF5 1.12.2  (gompi 2022a)](../hpc-docs/modules/ncbi-vdb-3.0.2-gompi-2022a.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/ncbi-vdb-3.0.2-gompi-2022a.md)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/ncbi-vdb-3.0.2-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for ncbi-vdb 3.0.2 .  

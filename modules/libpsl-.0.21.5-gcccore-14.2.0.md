@@ -24,8 +24,8 @@ None
   
   
 ## Dependencies  
-[libidn2 2.3.7  (GCCcore 14.2.0)](link)  
-[libunistring 1.3  (GCCcore 14.2.0)](link)  
+[libidn2 2.3.7  (GCCcore 14.2.0)](../hpc-docs/modules/libpsl-.0.21.5-gcccore-14.2.0.md)  
+[libunistring 1.3  (GCCcore 14.2.0)](../hpc-docs/modules/libpsl-.0.21.5-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for libpsl 0.21.5 .  

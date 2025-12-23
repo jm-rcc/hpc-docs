@@ -36,7 +36,7 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/pigz-2.7-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for pigz 2.7 .  

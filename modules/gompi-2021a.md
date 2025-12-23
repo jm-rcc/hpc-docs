@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCC 10.3.0  (system system)](link)  
-[OpenMPI 4.1.1  (GCC 10.3.0)](link)  
+[GCC 10.3.0  (system system)](../hpc-docs/modules/gompi-2021a.md)  
+[OpenMPI 4.1.1  (GCC 10.3.0)](../hpc-docs/modules/gompi-2021a.md)  
   
 ## Homepage  
 The homepage for gompi 2021a .  

@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 12.3.0  (system system)](link)  
-[binutils 2.40  (GCCcore 12.3.0)](link)  
+[GCCcore 12.3.0  (system system)](../hpc-docs/modules/gcc-12.3.0.md)  
+[binutils 2.40  (GCCcore 12.3.0)](../hpc-docs/modules/gcc-12.3.0.md)  
   
 ## Homepage  
 The homepage for GCC 12.3.0 .  

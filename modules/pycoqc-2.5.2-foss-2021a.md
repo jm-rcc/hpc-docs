@@ -30,12 +30,12 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[SciPy-bundle 2021.05  (foss 2021a)](link)  
-[h5py 3.2.1  (foss 2021a)](link)  
-[plotly.py 5.1.0  (GCCcore 10.3.0)](link)  
-[tqdm 4.61.2  (GCCcore 10.3.0)](link)  
-[Pysam 0.16.0.1  (GCC 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
+[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
+[h5py 3.2.1  (foss 2021a)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
+[plotly.py 5.1.0  (GCCcore 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
+[tqdm 4.61.2  (GCCcore 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
+[Pysam 0.16.0.1  (GCC 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
   
 ## Homepage  
 The homepage for pycoQC 2.5.2 .  

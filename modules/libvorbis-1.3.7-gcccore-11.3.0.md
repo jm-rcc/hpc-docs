@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[libogg 1.3.5  (GCCcore 11.3.0)](link)  
+[libogg 1.3.5  (GCCcore 11.3.0)](../hpc-docs/modules/libvorbis-1.3.7-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libvorbis 1.3.7 .  

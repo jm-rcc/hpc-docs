@@ -28,9 +28,9 @@ foss (2021a)
   
   
 ## Dependencies  
-[HDF5 1.10.7  (gompi 2021a)](link)  
-[ELPA 2021.05.001  (foss 2021a)](link)  
-[libxc 5.1.5  (GCC 10.3.0)](link)  
+[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/quantumespresso-6.8-foss-2021a.md)  
+[ELPA 2021.05.001  (foss 2021a)](../hpc-docs/modules/quantumespresso-6.8-foss-2021a.md)  
+[libxc 5.1.5  (GCC 10.3.0)](../hpc-docs/modules/quantumespresso-6.8-foss-2021a.md)  
   
 ## Homepage  
 The homepage for QuantumESPRESSO 6.8 .  

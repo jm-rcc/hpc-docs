@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[GLib 2.72.1  (GCCcore 11.3.0)](link)  
+[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/atk-.2.38.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for ATK 2.38.0 .  

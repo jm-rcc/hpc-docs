@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/hifiasm-0.16.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for hifiasm 0.16.1 .  

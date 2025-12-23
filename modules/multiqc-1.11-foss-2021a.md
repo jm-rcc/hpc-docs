@@ -33,10 +33,10 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[matplotlib 3.4.2  (foss 2021a)](link)  
-[PyYAML 5.4.1  (GCCcore 10.3.0)](link)  
-[networkx 2.5.1  (foss 2021a)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
+[matplotlib 3.4.2  (foss 2021a)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
+[PyYAML 5.4.1  (GCCcore 10.3.0)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
+[networkx 2.5.1  (foss 2021a)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
   
 ## Homepage  
 The homepage for MultiQC 1.11 .  

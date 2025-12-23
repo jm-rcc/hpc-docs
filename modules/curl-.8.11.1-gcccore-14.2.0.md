@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 14.2.0)](link)  
-[libpsl 0.21.5  (GCCcore 14.2.0)](link)  
-[OpenSSL 3  (system system)](link)  
+[zlib 1.3.1  (GCCcore 14.2.0)](../hpc-docs/modules/curl-.8.11.1-gcccore-14.2.0.md)  
+[libpsl 0.21.5  (GCCcore 14.2.0)](../hpc-docs/modules/curl-.8.11.1-gcccore-14.2.0.md)  
+[OpenSSL 3  (system system)](../hpc-docs/modules/curl-.8.11.1-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for cURL 8.11.1 .  

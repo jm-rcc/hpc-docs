@@ -37,9 +37,9 @@ gompi (2022a)
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[BLAST+ 2.13.0  (gompi 2022a)](link)  
-[wget 1.21.3  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/kraken2-2.1.2-gompi-2022a.md)  
+[BLAST+ 2.13.0  (gompi 2022a)](../hpc-docs/modules/kraken2-2.1.2-gompi-2022a.md)  
+[wget 1.21.3  (GCCcore 11.3.0)](../hpc-docs/modules/kraken2-2.1.2-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for Kraken2 2.1.2 .  

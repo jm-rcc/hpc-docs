@@ -34,15 +34,15 @@ gompi (2022a)
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](link)  
-[Eigen 3.4.0  (GCCcore 11.3.0)](link)  
-[RapidJSON 1.1.0  (GCCcore 11.3.0)](link)  
-[cairo 1.17.4  (GCCcore 11.3.0)](link)  
-[Boost 1.79.0  (GCC 11.3.0)](link)  
-[maeparser 1.3.0  (gompi 2022a)](link)  
-[CoordgenLibs 3.0.1  (gompi 2022a)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[Eigen 3.4.0  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[RapidJSON 1.1.0  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[cairo 1.17.4  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[maeparser 1.3.0  (gompi 2022a)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[CoordgenLibs 3.0.1  (gompi 2022a)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for OpenBabel 3.1.1 .  

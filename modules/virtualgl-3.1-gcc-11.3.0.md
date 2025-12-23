@@ -30,10 +30,10 @@ None
   
   
 ## Dependencies  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
-[Mesa 22.0.3  (GCCcore 11.3.0)](link)  
-[libGLU 9.0.2  (GCCcore 11.3.0)](link)  
-[pocl 1.8  (GCC 11.3.0)](link)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
+[Mesa 22.0.3  (GCCcore 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
+[libGLU 9.0.2  (GCCcore 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
+[pocl 1.8  (GCC 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for VirtualGL 3.1 .  

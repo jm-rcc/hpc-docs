@@ -30,7 +30,7 @@ None
   
   
 ## Dependencies  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/littlecms-2.12-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for LittleCMS 2.12 .  

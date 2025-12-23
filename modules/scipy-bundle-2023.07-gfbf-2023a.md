@@ -31,9 +31,9 @@ gfbf (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](link)  
-[pybind11 2.11.1  (GCCcore 12.3.0)](link)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/scipy-bundle-2023.07-gfbf-2023a.md)  
+[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](../hpc-docs/modules/scipy-bundle-2023.07-gfbf-2023a.md)  
+[pybind11 2.11.1  (GCCcore 12.3.0)](../hpc-docs/modules/scipy-bundle-2023.07-gfbf-2023a.md)  
   
 ## Homepage  
 The homepage for SciPy-bundle 2023.07 .  

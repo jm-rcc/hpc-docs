@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[bcl2fastq2 2.20.0  (GCC 11.3.0)](link)  
+[bcl2fastq2 2.20.0  (GCC 11.3.0)](../hpc-docs/modules/spaceranger-2.0.1-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for SpaceRanger 2.0.1 .  

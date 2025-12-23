@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/mono-6.12.0.122-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/mono-6.12.0.122-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Mono 6.12.0.122 .  

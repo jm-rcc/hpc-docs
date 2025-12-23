@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[Mono 6.12.0.122  (GCCcore 11.3.0)](link)  
+[Mono 6.12.0.122  (GCCcore 11.3.0)](../hpc-docs/modules/maxquant-2.2.0.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MaxQuant 2.2.0.0 .  

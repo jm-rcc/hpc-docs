@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[PROJ 9.0.0  (GCCcore 11.3.0)](link)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](link)  
-[LibTIFF 4.3.0  (GCCcore 11.3.0)](link)  
-[cURL 7.83.0  (GCCcore 11.3.0)](link)  
+[PROJ 9.0.0  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libgeotiff 1.7.1 .  

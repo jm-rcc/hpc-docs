@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](link)  
-[any2fasta 0.4.2  (GCCcore 10.3.0)](link)  
-[BioPerl 1.7.8  (GCCcore 10.3.0)](link)  
-[BLAST+ 2.11.0  (gompi 2021a)](link)  
+[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
+[any2fasta 0.4.2  (GCCcore 10.3.0)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
+[BioPerl 1.7.8  (GCCcore 10.3.0)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
+[BLAST+ 2.11.0  (gompi 2021a)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for ABRicate 1.0.0 .  

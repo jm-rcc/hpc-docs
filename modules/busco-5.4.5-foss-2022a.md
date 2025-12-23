@@ -31,17 +31,17 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
-[R 4.2.1  (foss 2022a)](link)  
-[Biopython 1.79  (foss 2022a)](link)  
-[BLAST+ 2.13.0  (gompi 2022a)](link)  
-[HMMER 3.3.2  (gompi 2022a)](link)  
-[prodigal 2.6.3  (GCCcore 11.3.0)](link)  
-[AUGUSTUS 3.5.0  (foss 2022a)](link)  
-[SEPP 4.5.1  (foss 2022a)](link)  
-[MetaEuk 6  (GCC 11.3.0)](link)  
-[BBMap 39.01  (GCC 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[R 4.2.1  (foss 2022a)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[Biopython 1.79  (foss 2022a)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[BLAST+ 2.13.0  (gompi 2022a)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[HMMER 3.3.2  (gompi 2022a)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[prodigal 2.6.3  (GCCcore 11.3.0)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[AUGUSTUS 3.5.0  (foss 2022a)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[SEPP 4.5.1  (foss 2022a)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[MetaEuk 6  (GCC 11.3.0)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
+[BBMap 39.01  (GCC 11.3.0)](../hpc-docs/modules/busco-5.4.5-foss-2022a.md)  
   
 ## Homepage  
 The homepage for BUSCO 5.4.5 .  

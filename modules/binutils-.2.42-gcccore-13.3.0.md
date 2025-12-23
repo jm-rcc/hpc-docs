@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 13.3.0)](link)  
+[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/binutils-.2.42-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for binutils 2.42 .  

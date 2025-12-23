@@ -31,9 +31,9 @@ foss (2021a)
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[SciPy-bundle 2021.05  (foss 2021a)](link)  
-[networkx 2.5.1  (foss 2021a)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/gromacs-2021.3-foss-2021a.md)  
+[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/gromacs-2021.3-foss-2021a.md)  
+[networkx 2.5.1  (foss 2021a)](../hpc-docs/modules/gromacs-2021.3-foss-2021a.md)  
   
 ## Homepage  
 The homepage for GROMACS 2021.3 .  

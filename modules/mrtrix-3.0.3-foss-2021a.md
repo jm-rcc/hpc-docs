@@ -30,13 +30,13 @@ foss (2021a)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[Mesa 21.1.1  (GCCcore 10.3.0)](link)  
-[Qt5 5.15.2  (GCCcore 10.3.0)](link)  
-[LibTIFF 4.2.0  (GCCcore 10.3.0)](link)  
-[FFTW 3.3.9  (gompi 2021a)](link)  
-[libpng 1.6.37  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/mrtrix-3.0.3-foss-2021a.md)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/mrtrix-3.0.3-foss-2021a.md)  
+[Mesa 21.1.1  (GCCcore 10.3.0)](../hpc-docs/modules/mrtrix-3.0.3-foss-2021a.md)  
+[Qt5 5.15.2  (GCCcore 10.3.0)](../hpc-docs/modules/mrtrix-3.0.3-foss-2021a.md)  
+[LibTIFF 4.2.0  (GCCcore 10.3.0)](../hpc-docs/modules/mrtrix-3.0.3-foss-2021a.md)  
+[FFTW 3.3.9  (gompi 2021a)](../hpc-docs/modules/mrtrix-3.0.3-foss-2021a.md)  
+[libpng 1.6.37  (GCCcore 10.3.0)](../hpc-docs/modules/mrtrix-3.0.3-foss-2021a.md)  
   
 ## Homepage  
 The homepage for MRtrix 3.0.3 .  

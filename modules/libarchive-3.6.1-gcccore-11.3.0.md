@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[XZ 5.2.5  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/libarchive-3.6.1-gcccore-11.3.0.md)  
+[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/libarchive-3.6.1-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/libarchive-3.6.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libarchive 3.6.1 .  

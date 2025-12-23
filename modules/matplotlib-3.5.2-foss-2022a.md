@@ -33,13 +33,13 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[SciPy-bundle 2022.05  (foss 2022a)](link)  
-[libpng 1.6.37  (GCCcore 11.3.0)](link)  
-[freetype 2.12.1  (GCCcore 11.3.0)](link)  
-[Tkinter 3.10.4  (GCCcore 11.3.0)](link)  
-[Pillow 9.1.1  (GCCcore 11.3.0)](link)  
-[Qhull 2020.2  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
+[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
+[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
+[freetype 2.12.1  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
+[Tkinter 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
+[Pillow 9.1.1  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
+[Qhull 2020.2  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
   
 ## Homepage  
 The homepage for matplotlib 3.5.2 .  

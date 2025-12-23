@@ -30,17 +30,17 @@ None
   
   
 ## Dependencies  
-[NASM 2.16.01  (GCCcore 12.3.0)](link)  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[bzip2 1.0.8  (GCCcore 12.3.0)](link)  
-[x264 20230226  (GCCcore 12.3.0)](link)  
-[LAME 3.100  (GCCcore 12.3.0)](link)  
-[x265 3.5  (GCCcore 12.3.0)](link)  
-[X11 20230603  (GCCcore 12.3.0)](link)  
-[freetype 2.13.0  (GCCcore 12.3.0)](link)  
-[fontconfig 2.14.2  (GCCcore 12.3.0)](link)  
-[FriBidi 1.0.12  (GCCcore 12.3.0)](link)  
-[SDL2 2.28.2  (GCCcore 12.3.0)](link)  
+[NASM 2.16.01  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[x264 20230226  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[LAME 3.100  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[x265 3.5  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[fontconfig 2.14.2  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[FriBidi 1.0.12  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[SDL2 2.28.2  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for FFmpeg 6.0 .  

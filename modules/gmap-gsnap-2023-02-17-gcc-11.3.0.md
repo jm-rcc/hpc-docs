@@ -29,8 +29,8 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
+[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/gmap-gsnap-2023-02-17-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/gmap-gsnap-2023-02-17-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for GMAP-GSNAP 2023-02-17 .  

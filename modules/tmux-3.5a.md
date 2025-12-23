@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[libevent 2.1.12  (system system)](link)  
-[ncurses 6.5  (system system)](link)  
+[libevent 2.1.12  (system system)](../hpc-docs/modules/tmux-3.5a.md)  
+[ncurses 6.5  (system system)](../hpc-docs/modules/tmux-3.5a.md)  
   
 ## Homepage  
 The homepage for tmux 3.5a .  

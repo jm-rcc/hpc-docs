@@ -35,13 +35,13 @@ foss (2023a)
   
   
 ## Dependencies  
-[CUDA 12.1.1  (system system)](link)  
-[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore 12.3.0)](link)  
-[Python 3.11.3  (GCCcore 12.3.0)](link)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](link)  
-[networkx 3.1  (gfbf 2023a)](link)  
-[mpi4py 3.1.4  (gompi 2023a)](link)  
-[PLUMED 2.9.0  (foss 2023a)](link)  
+[CUDA 12.1.1  (system system)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore 12.3.0)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[networkx 3.1  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[mpi4py 3.1.4  (gompi 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[PLUMED 2.9.0  (foss 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
   
 ## Homepage  
 The homepage for GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0.  

@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.13  (system system)](link)  
+[zlib 1.2.13  (system system)](../hpc-docs/modules/perl-5.38.0.md)  
   
 ## Homepage  
 The homepage for Perl 5.38.0 .  

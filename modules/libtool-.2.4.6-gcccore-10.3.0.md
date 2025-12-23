@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.18  (GCCcore 10.3.0)](link)  
+[M4 1.4.18  (GCCcore 10.3.0)](../hpc-docs/modules/libtool-.2.4.6-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libtool 2.4.6 .  

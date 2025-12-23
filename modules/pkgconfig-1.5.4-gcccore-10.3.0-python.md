@@ -29,8 +29,8 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[pkg-config 0.29.2  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pkgconfig-1.5.4-gcccore-10.3.0-python.md)  
+[pkg-config 0.29.2  (GCCcore 10.3.0)](../hpc-docs/modules/pkgconfig-1.5.4-gcccore-10.3.0-python.md)  
   
 ## Homepage  
 The homepage for pkgconfig 1.5.4 -python.  

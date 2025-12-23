@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[libiconv 1.17  (GCCcore 13.3.0)](link)  
+[libiconv 1.17  (GCCcore 13.3.0)](../hpc-docs/modules/doxygen-.1.11.0-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Doxygen 1.11.0 .  

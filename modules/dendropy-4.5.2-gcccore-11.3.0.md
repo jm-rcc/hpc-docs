@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/dendropy-4.5.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for DendroPy 4.5.2 .  

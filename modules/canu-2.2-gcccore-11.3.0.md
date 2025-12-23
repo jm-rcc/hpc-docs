@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[gnuplot 5.4.4  (GCCcore 11.3.0)](link)  
+[Java 11  (system system)](../hpc-docs/modules/canu-2.2-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/canu-2.2-gcccore-11.3.0.md)  
+[gnuplot 5.4.4  (GCCcore 11.3.0)](../hpc-docs/modules/canu-2.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for canu 2.2 .  

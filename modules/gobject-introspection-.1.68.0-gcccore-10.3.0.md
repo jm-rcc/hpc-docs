@@ -35,10 +35,10 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[GLib 2.68.2  (GCCcore 10.3.0)](link)  
-[libffi 3.3  (GCCcore 10.3.0)](link)  
-[util-linux 2.36  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/gobject-introspection-.1.68.0-gcccore-10.3.0.md)  
+[GLib 2.68.2  (GCCcore 10.3.0)](../hpc-docs/modules/gobject-introspection-.1.68.0-gcccore-10.3.0.md)  
+[libffi 3.3  (GCCcore 10.3.0)](../hpc-docs/modules/gobject-introspection-.1.68.0-gcccore-10.3.0.md)  
+[util-linux 2.36  (GCCcore 10.3.0)](../hpc-docs/modules/gobject-introspection-.1.68.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for GObject-Introspection 1.68.0 .  

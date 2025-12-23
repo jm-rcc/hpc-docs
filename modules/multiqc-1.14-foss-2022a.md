@@ -34,10 +34,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[matplotlib 3.5.2  (foss 2022a)](link)  
-[PyYAML 6.0  (GCCcore 11.3.0)](link)  
-[networkx 2.8.4  (foss 2022a)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/multiqc-1.14-foss-2022a.md)  
+[matplotlib 3.5.2  (foss 2022a)](../hpc-docs/modules/multiqc-1.14-foss-2022a.md)  
+[PyYAML 6.0  (GCCcore 11.3.0)](../hpc-docs/modules/multiqc-1.14-foss-2022a.md)  
+[networkx 2.8.4  (foss 2022a)](../hpc-docs/modules/multiqc-1.14-foss-2022a.md)  
   
 ## Homepage  
 The homepage for MultiQC 1.14 .  

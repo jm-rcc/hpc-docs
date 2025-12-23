@@ -31,7 +31,7 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[cURL 8.0.1  (GCCcore 12.3.0)](link)  
+[cURL 8.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/cfitsio-4.3.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for CFITSIO 4.3.0 .  

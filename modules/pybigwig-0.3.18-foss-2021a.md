@@ -30,10 +30,10 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[cURL 7.76.0  (GCCcore 10.3.0)](link)  
-[NSS 3.65  (GCCcore 10.3.0)](link)  
-[SciPy-bundle 2021.05  (foss 2021a)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
+[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
+[NSS 3.65  (GCCcore 10.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
+[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
   
 ## Homepage  
 The homepage for pyBigWig 0.3.18 .  

@@ -34,12 +34,12 @@ foss (2022a)
   
   
 ## Dependencies  
-[Libint 2.7.2 -lmax-6-cp2k (GCC 11.3.0)](link)  
-[libxc 5.2.3  (GCC 11.3.0)](link)  
-[libxsmm 1.17  (GCC 11.3.0)](link)  
-[libvori 220621  (GCCcore 11.3.0)](link)  
-[FFTW 3.3.10  (GCC 11.3.0)](link)  
-[PLUMED 2.8.1  (foss 2022a)](link)  
+[Libint 2.7.2 -lmax-6-cp2k (GCC 11.3.0)](../hpc-docs/modules/cp2k-9.1-foss-2022a.md)  
+[libxc 5.2.3  (GCC 11.3.0)](../hpc-docs/modules/cp2k-9.1-foss-2022a.md)  
+[libxsmm 1.17  (GCC 11.3.0)](../hpc-docs/modules/cp2k-9.1-foss-2022a.md)  
+[libvori 220621  (GCCcore 11.3.0)](../hpc-docs/modules/cp2k-9.1-foss-2022a.md)  
+[FFTW 3.3.10  (GCC 11.3.0)](../hpc-docs/modules/cp2k-9.1-foss-2022a.md)  
+[PLUMED 2.8.1  (foss 2022a)](../hpc-docs/modules/cp2k-9.1-foss-2022a.md)  
   
 ## Homepage  
 The homepage for CP2K 9.1 .  

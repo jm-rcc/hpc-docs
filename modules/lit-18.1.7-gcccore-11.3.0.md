@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/lit-18.1.7-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for lit 18.1.7 .  

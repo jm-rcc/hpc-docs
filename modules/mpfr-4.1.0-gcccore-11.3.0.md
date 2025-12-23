@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 11.3.0)](link)  
+[GMP 6.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/mpfr-4.1.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MPFR 4.1.0 .  

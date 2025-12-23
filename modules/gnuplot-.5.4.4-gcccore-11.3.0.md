@@ -31,16 +31,16 @@ None
   
   
 ## Dependencies  
-[ncurses 6.3  (GCCcore 11.3.0)](link)  
-[cairo 1.17.4  (GCCcore 11.3.0)](link)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](link)  
-[libpng 1.6.37  (GCCcore 11.3.0)](link)  
-[libgd 2.3.3  (GCCcore 11.3.0)](link)  
-[Pango 1.50.7  (GCCcore 11.3.0)](link)  
-[libcerf 2.1  (GCCcore 11.3.0)](link)  
-[X11 20220504  (GCCcore 11.3.0)](link)  
-[Qt5 5.15.5  (GCCcore 11.3.0)](link)  
-[Lua 5.4.4  (GCCcore 11.3.0)](link)  
+[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[libgd 2.3.3  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[Pango 1.50.7  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[libcerf 2.1  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[Qt5 5.15.5  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[Lua 5.4.4  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for gnuplot 5.4.4 .  

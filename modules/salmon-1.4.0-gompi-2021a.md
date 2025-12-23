@@ -30,8 +30,8 @@ gompi (2021a)
   
   
 ## Dependencies  
-[Boost 1.76.0  (GCC 10.3.0)](link)  
-[tbb 2020.3  (GCCcore 10.3.0)](link)  
+[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/salmon-1.4.0-gompi-2021a.md)  
+[tbb 2020.3  (GCCcore 10.3.0)](../hpc-docs/modules/salmon-1.4.0-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for Salmon 1.4.0 .  

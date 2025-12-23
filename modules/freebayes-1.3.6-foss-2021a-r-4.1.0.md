@@ -29,13 +29,13 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[R 4.1.0  (foss 2021a)](link)  
-[parallel 20210622  (GCCcore 10.3.0)](link)  
-[libffi 3.3  (GCCcore 10.3.0)](link)  
-[VCFtools 0.1.16  (GCC 10.3.0)](link)  
-[vcflib 1.0.3 -R-4.1.0 (foss 2021a)](link)  
-[SeqLib 1.2.0  (GCC 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
+[R 4.1.0  (foss 2021a)](../hpc-docs/modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
+[parallel 20210622  (GCCcore 10.3.0)](../hpc-docs/modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
+[libffi 3.3  (GCCcore 10.3.0)](../hpc-docs/modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
+[VCFtools 0.1.16  (GCC 10.3.0)](../hpc-docs/modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
+[vcflib 1.0.3 -R-4.1.0 (foss 2021a)](../hpc-docs/modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
+[SeqLib 1.2.0  (GCC 10.3.0)](../hpc-docs/modules/freebayes-1.3.6-foss-2021a-r-4.1.0.md)  
   
 ## Homepage  
 The homepage for freebayes 1.3.6 -R-4.1.0.  

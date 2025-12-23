@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](link)  
+[Java 11  (system system)](../hpc-docs/modules/bbmap-39.01-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for BBMap 39.01 .  

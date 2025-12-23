@@ -29,8 +29,8 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
-[git 2.32.0 -nodocs (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/gitpython-3.1.18-gcccore-10.3.0.md)  
+[git 2.32.0 -nodocs (GCCcore 10.3.0)](../hpc-docs/modules/gitpython-3.1.18-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for GitPython 3.1.18 .  

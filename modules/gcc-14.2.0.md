@@ -25,8 +25,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 14.2.0  (system system)](link)  
-[binutils 2.42  (GCCcore 14.2.0)](link)  
+[GCCcore 14.2.0  (system system)](../hpc-docs/modules/gcc-14.2.0.md)  
+[binutils 2.42  (GCCcore 14.2.0)](../hpc-docs/modules/gcc-14.2.0.md)  
   
 ## Homepage  
 The homepage for GCC 14.2.0 .  

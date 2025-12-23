@@ -33,10 +33,10 @@ None
   
   
 ## Dependencies  
-[PCRE 8.45  (GCCcore 11.3.0)](link)  
-[libidn2 2.3.2  (GCCcore 11.3.0)](link)  
-[zlib 1.2.12  (GCCcore 11.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[PCRE 8.45  (GCCcore 11.3.0)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
+[libidn2 2.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for wget 1.21.3 .  

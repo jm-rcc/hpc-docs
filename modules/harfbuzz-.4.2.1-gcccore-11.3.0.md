@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[GLib 2.72.1  (GCCcore 11.3.0)](link)  
-[ICU 71.1  (GCCcore 11.3.0)](link)  
-[cairo 1.17.4  (GCCcore 11.3.0)](link)  
-[freetype 2.12.1  (GCCcore 11.3.0)](link)  
+[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/harfbuzz-.4.2.1-gcccore-11.3.0.md)  
+[ICU 71.1  (GCCcore 11.3.0)](../hpc-docs/modules/harfbuzz-.4.2.1-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore 11.3.0)](../hpc-docs/modules/harfbuzz-.4.2.1-gcccore-11.3.0.md)  
+[freetype 2.12.1  (GCCcore 11.3.0)](../hpc-docs/modules/harfbuzz-.4.2.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for HarfBuzz 4.2.1 .  

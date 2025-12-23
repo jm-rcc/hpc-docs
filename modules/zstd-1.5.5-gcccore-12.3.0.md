@@ -34,10 +34,10 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[gzip 1.12  (GCCcore 12.3.0)](link)  
-[XZ 5.4.2  (GCCcore 12.3.0)](link)  
-[lz4 1.9.4  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/zstd-1.5.5-gcccore-12.3.0.md)  
+[gzip 1.12  (GCCcore 12.3.0)](../hpc-docs/modules/zstd-1.5.5-gcccore-12.3.0.md)  
+[XZ 5.4.2  (GCCcore 12.3.0)](../hpc-docs/modules/zstd-1.5.5-gcccore-12.3.0.md)  
+[lz4 1.9.4  (GCCcore 12.3.0)](../hpc-docs/modules/zstd-1.5.5-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for zstd 1.5.5 .  

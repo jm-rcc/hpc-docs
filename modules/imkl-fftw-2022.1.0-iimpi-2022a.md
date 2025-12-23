@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[imkl 2022.1.0  (system system)](link)  
+[imkl 2022.1.0  (system system)](../hpc-docs/modules/imkl-fftw-2022.1.0-iimpi-2022a.md)  
   
 ## Homepage  
 The homepage for imkl-FFTW 2022.1.0 .  

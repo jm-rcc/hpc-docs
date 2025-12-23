@@ -32,8 +32,8 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[Boost 1.79.0  (GCC 11.3.0)](link)  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
+[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/boost.python-1.79.0-gcc-11.3.0.md)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/boost.python-1.79.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for Boost.Python 1.79.0 .  

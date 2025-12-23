@@ -29,8 +29,8 @@ foss (2021a)
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 10.3.0)](link)  
-[GSL 2.7  (GCC 10.3.0)](link)  
+[GMP 6.2.1  (GCCcore 10.3.0)](../hpc-docs/modules/scafacos-1.0.1-foss-2021a.md)  
+[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/scafacos-1.0.1-foss-2021a.md)  
   
 ## Homepage  
 The homepage for ScaFaCoS 1.0.1 .  

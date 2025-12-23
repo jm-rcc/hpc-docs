@@ -31,11 +31,11 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[libffi 3.4.4  (GCCcore 12.3.0)](link)  
-[gettext 0.21.1  (GCCcore 12.3.0)](link)  
-[libxml2 2.11.4  (GCCcore 12.3.0)](link)  
-[PCRE2 10.42  (GCCcore 12.3.0)](link)  
-[util-linux 2.39  (GCCcore 12.3.0)](link)  
+[libffi 3.4.4  (GCCcore 12.3.0)](../hpc-docs/modules/glib-.2.77.1-gcccore-12.3.0.md)  
+[gettext 0.21.1  (GCCcore 12.3.0)](../hpc-docs/modules/glib-.2.77.1-gcccore-12.3.0.md)  
+[libxml2 2.11.4  (GCCcore 12.3.0)](../hpc-docs/modules/glib-.2.77.1-gcccore-12.3.0.md)  
+[PCRE2 10.42  (GCCcore 12.3.0)](../hpc-docs/modules/glib-.2.77.1-gcccore-12.3.0.md)  
+[util-linux 2.39  (GCCcore 12.3.0)](../hpc-docs/modules/glib-.2.77.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for GLib 2.77.1 .  

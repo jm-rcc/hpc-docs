@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[BioPerl 1.7.8  (GCCcore 11.3.0)](link)  
-[HTSlib 1.15.1  (GCC 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/bio-db-hts-3.01-gcc-11.3.0.md)  
+[BioPerl 1.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/bio-db-hts-3.01-gcc-11.3.0.md)  
+[HTSlib 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/bio-db-hts-3.01-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for Bio-DB-HTS 3.01 .  

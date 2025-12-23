@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/dendropy-4.5.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for DendroPy 4.5.2 .  

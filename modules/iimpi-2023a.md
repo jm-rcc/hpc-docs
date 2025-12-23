@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[intel-compilers 2023.1.0  (system system)](link)  
-[impi 2021.9.0  (intel-compilers 2023.1.0)](link)  
+[intel-compilers 2023.1.0  (system system)](../hpc-docs/modules/iimpi-2023a.md)  
+[impi 2021.9.0  (intel-compilers 2023.1.0)](../hpc-docs/modules/iimpi-2023a.md)  
   
 ## Homepage  
 The homepage for iimpi 2023a .  

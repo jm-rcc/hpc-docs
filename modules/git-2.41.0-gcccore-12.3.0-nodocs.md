@@ -32,11 +32,11 @@ None
   
   
 ## Dependencies  
-[cURL 8.0.1  (GCCcore 12.3.0)](link)  
-[expat 2.5.0  (GCCcore 12.3.0)](link)  
-[gettext 0.21.1  (GCCcore 12.3.0)](link)  
-[Perl 5.36.1  (GCCcore 12.3.0)](link)  
-[OpenSSL 1.1  (system system)](link)  
+[cURL 8.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
+[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
+[gettext 0.21.1  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
+[Perl 5.36.1  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
+[OpenSSL 1.1  (system system)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
   
 ## Homepage  
 The homepage for git 2.41.0 -nodocs.  

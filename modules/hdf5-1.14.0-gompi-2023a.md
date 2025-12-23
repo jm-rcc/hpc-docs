@@ -33,8 +33,8 @@ gompi (2023a)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](link)  
-[Szip 2.1.1  (GCCcore 12.3.0)](link)  
+[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/hdf5-1.14.0-gompi-2023a.md)  
+[Szip 2.1.1  (GCCcore 12.3.0)](../hpc-docs/modules/hdf5-1.14.0-gompi-2023a.md)  
   
 ## Homepage  
 The homepage for HDF5 1.14.0 .  

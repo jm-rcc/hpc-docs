@@ -25,8 +25,8 @@ None
   
   
 ## Dependencies  
-[GCC 14.2.0  (system system)](link)  
-[OpenMPI 5.0.7  (GCC 14.2.0)](link)  
+[GCC 14.2.0  (system system)](../hpc-docs/modules/gompi-2025a.md)  
+[OpenMPI 5.0.7  (GCC 14.2.0)](../hpc-docs/modules/gompi-2025a.md)  
   
 ## Homepage  
 The homepage for gompi 2025a .  

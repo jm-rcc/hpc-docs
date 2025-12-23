@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 10.3.0)](link)  
+[GMP 6.2.1  (GCCcore 10.3.0)](../hpc-docs/modules/nettle-.3.7.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for nettle 3.7.2 .  

@@ -42,7 +42,7 @@ None
   
   
 ## Dependencies  
-[CMake 3.26.3  (GCCcore 12.3.0)](link)  
+[CMake 3.26.3  (GCCcore 12.3.0)](../hpc-docs/modules/kim-api-2.3.0-gcc-12.3.0.md)  
   
 ## Homepage  
 The homepage for kim-api 2.3.0 .  

@@ -31,10 +31,10 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[fontconfig 2.13.93  (GCCcore 10.3.0)](link)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](link)  
-[libpng 1.6.37  (GCCcore 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[fontconfig 2.13.93  (GCCcore 10.3.0)](../hpc-docs/modules/libgd-.2.3.1-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/libgd-.2.3.1-gcccore-10.3.0.md)  
+[libpng 1.6.37  (GCCcore 10.3.0)](../hpc-docs/modules/libgd-.2.3.1-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/libgd-.2.3.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libgd 2.3.1 .  

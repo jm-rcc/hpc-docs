@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[libidn2 2.3.2  (GCCcore 11.3.0)](link)  
-[libunistring 1.0  (GCCcore 11.3.0)](link)  
+[libidn2 2.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/libpsl-.0.21.1-gcccore-11.3.0.md)  
+[libunistring 1.0  (GCCcore 11.3.0)](../hpc-docs/modules/libpsl-.0.21.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libpsl 0.21.1 .  

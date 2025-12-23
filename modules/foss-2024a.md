@@ -32,12 +32,12 @@ None
   
   
 ## Dependencies  
-[GCC 13.3.0  (system system)](link)  
-[OpenMPI 5.0.3  (GCC 13.3.0)](link)  
-[FlexiBLAS 3.4.4  (GCC 13.3.0)](link)  
-[FFTW 3.3.10  (GCC 13.3.0)](link)  
-[FFTW.MPI 3.3.10  (gompi 2024a)](link)  
-[ScaLAPACK 2.2.0 -fb (gompi 2024a)](link)  
+[GCC 13.3.0  (system system)](../hpc-docs/modules/foss-2024a.md)  
+[OpenMPI 5.0.3  (GCC 13.3.0)](../hpc-docs/modules/foss-2024a.md)  
+[FlexiBLAS 3.4.4  (GCC 13.3.0)](../hpc-docs/modules/foss-2024a.md)  
+[FFTW 3.3.10  (GCC 13.3.0)](../hpc-docs/modules/foss-2024a.md)  
+[FFTW.MPI 3.3.10  (gompi 2024a)](../hpc-docs/modules/foss-2024a.md)  
+[ScaLAPACK 2.2.0 -fb (gompi 2024a)](../hpc-docs/modules/foss-2024a.md)  
   
 ## Homepage  
 The homepage for foss 2024a .  

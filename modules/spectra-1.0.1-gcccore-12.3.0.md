@@ -22,7 +22,7 @@ None
   
   
 ## Dependencies  
-[Eigen 3.4.0  (GCCcore 12.3.0)](link)  
+[Eigen 3.4.0  (GCCcore 12.3.0)](../hpc-docs/modules/spectra-1.0.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for SpectrA 1.0.1 .  

@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[GSL 2.7  (GCC 10.3.0)](link)  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/fastani-1.33-gcc-10.3.0.md)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/fastani-1.33-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for FastANI 1.33 .  

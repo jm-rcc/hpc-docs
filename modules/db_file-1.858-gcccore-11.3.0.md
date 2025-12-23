@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](link)  
-[DB 18.1.40  (GCCcore 11.3.0)](link)  
+[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/db_file-1.858-gcccore-11.3.0.md)  
+[DB 18.1.40  (GCCcore 11.3.0)](../hpc-docs/modules/db_file-1.858-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for DB_File 1.858 .  

@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
-[hwloc 2.4.1  (GCCcore 10.3.0)](link)  
-[libevent 2.1.12  (GCCcore 10.3.0)](link)  
-[UCX 1.10.0  (GCCcore 10.3.0)](link)  
-[libfabric 1.12.1  (GCCcore 10.3.0)](link)  
-[PMIx 3.2.3  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/openmpi-4.1.1-gcc-10.3.0.md)  
+[hwloc 2.4.1  (GCCcore 10.3.0)](../hpc-docs/modules/openmpi-4.1.1-gcc-10.3.0.md)  
+[libevent 2.1.12  (GCCcore 10.3.0)](../hpc-docs/modules/openmpi-4.1.1-gcc-10.3.0.md)  
+[UCX 1.10.0  (GCCcore 10.3.0)](../hpc-docs/modules/openmpi-4.1.1-gcc-10.3.0.md)  
+[libfabric 1.12.1  (GCCcore 10.3.0)](../hpc-docs/modules/openmpi-4.1.1-gcc-10.3.0.md)  
+[PMIx 3.2.3  (GCCcore 10.3.0)](../hpc-docs/modules/openmpi-4.1.1-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for OpenMPI 4.1.1 .  

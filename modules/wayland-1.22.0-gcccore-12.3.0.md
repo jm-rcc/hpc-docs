@@ -38,9 +38,9 @@ None
   
   
 ## Dependencies  
-[libffi 3.4.4  (GCCcore 12.3.0)](link)  
-[expat 2.5.0  (GCCcore 12.3.0)](link)  
-[libxml2 2.11.4  (GCCcore 12.3.0)](link)  
+[libffi 3.4.4  (GCCcore 12.3.0)](../hpc-docs/modules/wayland-1.22.0-gcccore-12.3.0.md)  
+[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/wayland-1.22.0-gcccore-12.3.0.md)  
+[libxml2 2.11.4  (GCCcore 12.3.0)](../hpc-docs/modules/wayland-1.22.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Wayland 1.22.0 .  

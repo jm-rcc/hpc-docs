@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[intel-compilers 2021.2.0  (system system)](link)  
-[impi 2021.2.0  (intel-compilers 2021.2.0)](link)  
+[intel-compilers 2021.2.0  (system system)](../hpc-docs/modules/iimpi-2021a.md)  
+[impi 2021.2.0  (intel-compilers 2021.2.0)](../hpc-docs/modules/iimpi-2021a.md)  
   
 ## Homepage  
 The homepage for iimpi 2021a .  

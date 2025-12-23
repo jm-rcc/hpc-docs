@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[NASM 2.15.05  (GCCcore 11.3.0)](link)  
+[NASM 2.15.05  (GCCcore 11.3.0)](../hpc-docs/modules/isa-l-2.30.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for ISA-L 2.30.0 .  

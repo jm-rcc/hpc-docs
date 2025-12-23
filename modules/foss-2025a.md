@@ -25,12 +25,12 @@ None
   
   
 ## Dependencies  
-[GCC 14.2.0  (system system)](link)  
-[OpenMPI 5.0.7  (GCC 14.2.0)](link)  
-[FlexiBLAS 3.4.5  (GCC 14.2.0)](link)  
-[FFTW 3.3.10  (GCC 14.2.0)](link)  
-[FFTW.MPI 3.3.10  (gompi 2025a)](link)  
-[ScaLAPACK 2.2.2 -fb (gompi 2025a)](link)  
+[GCC 14.2.0  (system system)](../hpc-docs/modules/foss-2025a.md)  
+[OpenMPI 5.0.7  (GCC 14.2.0)](../hpc-docs/modules/foss-2025a.md)  
+[FlexiBLAS 3.4.5  (GCC 14.2.0)](../hpc-docs/modules/foss-2025a.md)  
+[FFTW 3.3.10  (GCC 14.2.0)](../hpc-docs/modules/foss-2025a.md)  
+[FFTW.MPI 3.3.10  (gompi 2025a)](../hpc-docs/modules/foss-2025a.md)  
+[ScaLAPACK 2.2.2 -fb (gompi 2025a)](../hpc-docs/modules/foss-2025a.md)  
   
 ## Homepage  
 The homepage for foss 2025a .  

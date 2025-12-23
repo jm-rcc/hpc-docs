@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](link)  
+[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/diamond-2.0.13-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for DIAMOND 2.0.13 .  

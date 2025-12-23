@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](link)  
-[Ninja 1.10.2  (GCCcore 11.3.0)](link)  
+[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/meson-0.62.1-gcccore-11.3.0.md)  
+[Ninja 1.10.2  (GCCcore 11.3.0)](../hpc-docs/modules/meson-0.62.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Meson 0.62.1 .  

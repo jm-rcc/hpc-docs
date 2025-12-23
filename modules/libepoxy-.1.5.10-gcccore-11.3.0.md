@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](link)  
-[Mesa 22.0.3  (GCCcore 11.3.0)](link)  
+[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/libepoxy-.1.5.10-gcccore-11.3.0.md)  
+[Mesa 22.0.3  (GCCcore 11.3.0)](../hpc-docs/modules/libepoxy-.1.5.10-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libepoxy 1.5.10 .  

@@ -24,14 +24,14 @@ None
   
   
 ## Dependencies  
-[binutils 2.36.1  (GCCcore 10.3.0)](link)  
-[hwloc 2.4.1  (GCCcore 10.3.0)](link)  
-[libxml2 2.9.10  (GCCcore 10.3.0)](link)  
-[ncurses 6.2  (GCCcore 10.3.0)](link)  
-[GMP 6.2.1  (GCCcore 10.3.0)](link)  
-[Z3 4.8.11  (GCCcore 10.3.0)](link)  
-[libffi 3.3  (GCCcore 10.3.0)](link)  
-[elfutils 0.185  (GCCcore 10.3.0)](link)  
+[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
+[hwloc 2.4.1  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
+[libxml2 2.9.10  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
+[ncurses 6.2  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
+[GMP 6.2.1  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
+[Z3 4.8.11  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
+[libffi 3.3  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
+[elfutils 0.185  (GCCcore 10.3.0)](../hpc-docs/modules/clang-12.0.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Clang 12.0.1 .  

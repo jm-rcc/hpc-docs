@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](link)  
+[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/cppy-1.1.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for cppy 1.1.0 .  

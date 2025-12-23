@@ -28,7 +28,7 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 14.2.0)](link)  
+[bzip2 1.0.8  (GCCcore 14.2.0)](../hpc-docs/modules/unzip-6.0-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for UnZip 6.0 .  

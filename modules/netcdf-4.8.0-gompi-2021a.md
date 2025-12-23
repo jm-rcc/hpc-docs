@@ -31,9 +31,9 @@ gompi (2021a)
   
   
 ## Dependencies  
-[HDF5 1.10.7  (gompi 2021a)](link)  
-[cURL 7.76.0  (GCCcore 10.3.0)](link)  
-[Szip 2.1.1  (GCCcore 10.3.0)](link)  
+[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/netcdf-4.8.0-gompi-2021a.md)  
+[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/netcdf-4.8.0-gompi-2021a.md)  
+[Szip 2.1.1  (GCCcore 10.3.0)](../hpc-docs/modules/netcdf-4.8.0-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for netCDF 4.8.0 .  
