@@ -41,7 +41,6 @@
     --link-hover: #B08BC7;
     --code-bg: #2A2A2A;
     --table-stripe: #242424;
-    --thead-background-color: var(--neutral-dark);
   }
 }
 
@@ -119,8 +118,8 @@ header nav {
 
 /* Main Content */
 main {
-  min-height: calc(100vh - 200px);
-  padding: 3rem 0;
+  min-height: calc(100vh - 250px);
+  padding: 0 0 3rem 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -337,7 +336,7 @@ table {
 }
 
 thead {
-  background-color: var(--neutral-light);
+  background-color: var(--primary);
   color: var(--white);
 }
 
@@ -348,10 +347,41 @@ th {
   border-bottom: 2px solid var(--border);
 }
 
+th a {
+  color: var(--white);
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+th a:hover {
+  opacity: 0.8;
+}
+
 td {
   padding: 0.75rem 1rem;
   border-bottom: 1px solid var(--border);
   color: var(--text-secondary);
+}
+
+td a {
+  color: var(--link-color);
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+td a:hover {
+  color: var(--link-hover);
+}
+
+@media (prefers-color-scheme: dark) {
+  td a {
+    color: var(--link-color);
+    text-decoration: underline;
+  }
+  
+  td a:hover {
+    color: var(--link-hover);
+  }
 }
 
 tbody tr:nth-child(even) {
@@ -388,6 +418,7 @@ img {
   max-width: 100%;
   height: auto;
   border-radius: 6px;
+  margin: 1rem 0;
 }
 
 /* Cards & Components */
@@ -490,24 +521,25 @@ footer p {
 
 /* Responsive Design */
 @media (max-width: 768px) {
+  header {
+    margin-bottom: 2rem;
+  }
+  
   header nav {
     flex-direction: column;
     gap: 1rem;
+    text-align: center;
   }
   
   .nav-links {
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
+    gap: 1.5rem;
   }
   
   h1 { font-size: 2rem; }
   h2 { font-size: 1.75rem; }
   h3 { font-size: 1.5rem; }
-  
-  main {
-    padding: 2rem 0;
-  }
   
   .post-content,
   .page-content {
