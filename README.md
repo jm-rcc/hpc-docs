@@ -26,6 +26,8 @@ Your spaces in *home*, *scratch*, *opendata*, *$TMPDIR* and *RDM*
 
 [Software List](software_shortlist.md)
 
+[Available software in csv format](https://gist.github.com/jm-rcc/f2d8941b4ee538ccd54a16f390adf933)
+
 [All Available User Guides](guides)
 
 <br>
