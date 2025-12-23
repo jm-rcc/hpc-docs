@@ -2,8 +2,8 @@
 # libgd  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
 ## Homepage  
-[https://libgd.github.io/](https://libgd.github.io/)  
 [https://libgd.github.io](https://libgd.github.io)  
+[https://libgd.github.io/](https://libgd.github.io/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

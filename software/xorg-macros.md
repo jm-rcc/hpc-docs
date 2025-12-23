@@ -2,8 +2,8 @@
 # xorg-macros  
 ![Static Badge](https://img.shields.io/badge/class-devel-D7D1CC)  
 ## Homepage  
-[https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  
 [https://gitlab.freedesktop.org/xorg/util/macros](https://gitlab.freedesktop.org/xorg/util/macros)  
+[https://cgit.freedesktop.org/xorg/util/macros](https://cgit.freedesktop.org/xorg/util/macros)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 
