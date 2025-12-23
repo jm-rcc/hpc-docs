@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load mummer/4.0.0rc1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'openmp': True}  
@@ -34,7 +34,7 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[gnuplot 5.4.4  (GCCcore 11.3.0)](../hpc-docs/modules/mummer-4.0.0rc1-gcccore-11.3.0.md)  
+[gnuplot 5.4.4  (GCCcore-11.3.0)](gnuplot-.5.4.4-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MUMmer 4.0.0rc1 .  

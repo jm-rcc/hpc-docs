@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load snakemake/7.22.0-foss-2022a`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 None  
@@ -31,11 +31,11 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
-[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
-[GitPython 3.1.27  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
-[IPython 8.5.0  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
-[PyYAML 6.0  (GCCcore 11.3.0)](../hpc-docs/modules/snakemake-7.22.0-foss-2022a.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
+[GitPython 3.1.27  (GCCcore-11.3.0)](gitpython-3.1.27-gcccore-11.3.0.md)  
+[IPython 8.5.0  (GCCcore-11.3.0)](ipython-.8.5.0-gcccore-11.3.0.md)  
+[PyYAML 6.0  (GCCcore-11.3.0)](pyyaml-.6.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for snakemake 7.22.0 .  

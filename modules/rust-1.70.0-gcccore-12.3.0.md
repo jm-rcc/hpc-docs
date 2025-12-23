@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load rust/1.70.0-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/rust-1.70.0-gcccore-12.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for Rust 1.70.0 .  

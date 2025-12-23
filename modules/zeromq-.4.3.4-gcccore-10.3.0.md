@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load zeromq/.4.3.4-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,9 +34,9 @@ None
   
   
 ## Dependencies  
-[OpenPGM 5.2.122  (GCCcore 10.3.0)](../hpc-docs/modules/zeromq-.4.3.4-gcccore-10.3.0.md)  
-[libsodium 1.0.18  (GCCcore 10.3.0)](../hpc-docs/modules/zeromq-.4.3.4-gcccore-10.3.0.md)  
-[util-linux 2.36  (GCCcore 10.3.0)](../hpc-docs/modules/zeromq-.4.3.4-gcccore-10.3.0.md)  
+[OpenPGM 5.2.122  (GCCcore-10.3.0)](openpgm-.5.2.122-gcccore-10.3.0.md)  
+[libsodium 1.0.18  (GCCcore-10.3.0)](libsodium-.1.0.18-gcccore-10.3.0.md)  
+[util-linux 2.36  (GCCcore-10.3.0)](util-linux-.2.36-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for ZeroMQ 4.3.4 .  

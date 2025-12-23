@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load gtk2/2.24.33-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[ATK 2.38.0  (GCCcore 11.3.0)](../hpc-docs/modules/gtk2-2.24.33-gcccore-11.3.0.md)  
-[Gdk-Pixbuf 2.42.8  (GCCcore 11.3.0)](../hpc-docs/modules/gtk2-2.24.33-gcccore-11.3.0.md)  
-[Pango 1.50.7  (GCCcore 11.3.0)](../hpc-docs/modules/gtk2-2.24.33-gcccore-11.3.0.md)  
+[ATK 2.38.0  (GCCcore-11.3.0)](atk-.2.38.0-gcccore-11.3.0.md)  
+[Gdk-Pixbuf 2.42.8  (GCCcore-11.3.0)](gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
+[Pango 1.50.7  (GCCcore-11.3.0)](pango-.1.50.7-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for GTK2 2.24.33 .  

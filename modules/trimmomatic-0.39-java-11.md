@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load trimmomatic/0.39-java-11`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/trimmomatic-0.39-java-11.md)  
+[Java 11  (system-system)](java-11.md)  
   
 ## Homepage  
 The homepage for Trimmomatic 0.39 -Java-11.  

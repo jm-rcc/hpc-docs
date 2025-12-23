@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load picard/2.25.1-java-11`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/picard-2.25.1-java-11.md)  
+[Java 11  (system-system)](java-11.md)  
   
 ## Homepage  
 The homepage for picard 2.25.1 -Java-11.  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gfbf/2023a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[GCC 12.3.0  (system system)](../hpc-docs/modules/gfbf-2023a.md)  
-[FlexiBLAS 3.3.1  (GCC 12.3.0)](../hpc-docs/modules/gfbf-2023a.md)  
-[FFTW 3.3.10  (GCC 12.3.0)](../hpc-docs/modules/gfbf-2023a.md)  
+[GCC 12.3.0  (system-system)](gcc-12.3.0.md)  
+[FlexiBLAS 3.3.1  (GCC-12.3.0)](flexiblas-3.3.1-gcc-12.3.0.md)  
+[FFTW 3.3.10  (GCC-12.3.0)](fftw-3.3.10-gcc-12.3.0.md)  
   
 ## Homepage  
 The homepage for gfbf 2023a .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load iimpi/2025a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -24,8 +24,8 @@ None
   
   
 ## Dependencies  
-[intel-compilers 2025.1.1  (system system)](../hpc-docs/modules/iimpi-2025a.md)  
-[impi 2021.15.0  (intel-compilers 2025.1.1)](../hpc-docs/modules/iimpi-2025a.md)  
+[intel-compilers 2025.1.1  (system-system)](intel-compilers-2025.1.1.md)  
+[impi 2021.15.0  (intel-compilers-2025.1.1)](impi-2021.15.0-intel-compilers-2025.1.1.md)  
   
 ## Homepage  
 The homepage for iimpi 2025a .  

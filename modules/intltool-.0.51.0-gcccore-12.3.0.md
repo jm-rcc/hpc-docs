@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load intltool/.0.51.0-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Perl-bundle-CPAN 5.36.1  (GCCcore 12.3.0)](../hpc-docs/modules/intltool-.0.51.0-gcccore-12.3.0.md)  
+[Perl-bundle-CPAN 5.36.1  (GCCcore-12.3.0)](perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for intltool 0.51.0 .  

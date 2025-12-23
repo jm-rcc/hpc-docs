@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load sepp/4.5.1-foss-2022a`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/sepp-4.5.1-foss-2022a.md)  
-[DendroPy 4.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/sepp-4.5.1-foss-2022a.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[DendroPy 4.5.2  (GCCcore-11.3.0)](dendropy-4.5.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for SEPP 4.5.1 .  

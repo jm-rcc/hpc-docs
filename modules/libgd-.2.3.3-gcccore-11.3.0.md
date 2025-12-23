@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libgd/.2.3.3-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,10 +31,10 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[fontconfig 2.14.0  (GCCcore 11.3.0)](../hpc-docs/modules/libgd-.2.3.3-gcccore-11.3.0.md)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/libgd-.2.3.3-gcccore-11.3.0.md)  
-[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/libgd-.2.3.3-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/libgd-.2.3.3-gcccore-11.3.0.md)  
+[fontconfig 2.14.0  (GCCcore-11.3.0)](fontconfig-.2.14.0-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore-11.3.0)](libpng-.1.6.37-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libgd 2.3.3 .  

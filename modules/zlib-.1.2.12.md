@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load zlib/.1.2.12`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

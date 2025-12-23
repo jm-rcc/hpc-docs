@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load sdl2/2.28.2-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,7 +30,7 @@ None
   
   
 ## Dependencies  
-[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/sdl2-2.28.2-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for SDL2 2.28.2 .  

@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load gettext/.0.22.5-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,9 +30,9 @@ None
   
   
 ## Dependencies  
-[libxml2 2.12.7  (GCCcore 13.3.0)](../hpc-docs/modules/gettext-.0.22.5-gcccore-13.3.0.md)  
-[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/gettext-.0.22.5-gcccore-13.3.0.md)  
-[libiconv 1.17  (GCCcore 13.3.0)](../hpc-docs/modules/gettext-.0.22.5-gcccore-13.3.0.md)  
+[libxml2 2.12.7  (GCCcore-13.3.0)](libxml2-.2.12.7-gcccore-13.3.0.md)  
+[ncurses 6.5  (GCCcore-13.3.0)](ncurses-.6.5-gcccore-13.3.0.md)  
+[libiconv 1.17  (GCCcore-13.3.0)](libiconv-1.17-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for gettext 0.22.5 .  

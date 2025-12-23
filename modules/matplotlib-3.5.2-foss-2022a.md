@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load matplotlib/3.5.2-foss-2022a`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 None  
@@ -33,13 +33,13 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
-[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
-[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
-[freetype 2.12.1  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
-[Tkinter 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
-[Pillow 9.1.1  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
-[Qhull 2020.2  (GCCcore 11.3.0)](../hpc-docs/modules/matplotlib-3.5.2-foss-2022a.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
+[libpng 1.6.37  (GCCcore-11.3.0)](libpng-.1.6.37-gcccore-11.3.0.md)  
+[freetype 2.12.1  (GCCcore-11.3.0)](freetype-.2.12.1-gcccore-11.3.0.md)  
+[Tkinter 3.10.4  (GCCcore-11.3.0)](tkinter-3.10.4-gcccore-11.3.0.md)  
+[Pillow 9.1.1  (GCCcore-11.3.0)](pillow-.9.1.1-gcccore-11.3.0.md)  
+[Qhull 2020.2  (GCCcore-11.3.0)](qhull-.2020.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for matplotlib 3.5.2 .  

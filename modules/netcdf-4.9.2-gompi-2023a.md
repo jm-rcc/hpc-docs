@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load netcdf/4.9.2-gompi-2023a`**.  
   
 ### Toolchain  
-gompi (2023a)  
+gompi-2023a  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
@@ -33,12 +33,12 @@ gompi (2023a)
   
   
 ## Dependencies  
-[HDF5 1.14.0  (gompi 2023a)](../hpc-docs/modules/netcdf-4.9.2-gompi-2023a.md)  
-[cURL 8.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/netcdf-4.9.2-gompi-2023a.md)  
-[Szip 2.1.1  (GCCcore 12.3.0)](../hpc-docs/modules/netcdf-4.9.2-gompi-2023a.md)  
-[zstd 1.5.5  (GCCcore 12.3.0)](../hpc-docs/modules/netcdf-4.9.2-gompi-2023a.md)  
-[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/netcdf-4.9.2-gompi-2023a.md)  
-[libxml2 2.11.4  (GCCcore 12.3.0)](../hpc-docs/modules/netcdf-4.9.2-gompi-2023a.md)  
+[HDF5 1.14.0  (gompi-2023a)](hdf5-1.14.0-gompi-2023a.md)  
+[cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
+[Szip 2.1.1  (GCCcore-12.3.0)](szip-.2.1.1-gcccore-12.3.0.md)  
+[zstd 1.5.5  (GCCcore-12.3.0)](zstd-1.5.5-gcccore-12.3.0.md)  
+[bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
+[libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for netCDF 4.9.2 .  

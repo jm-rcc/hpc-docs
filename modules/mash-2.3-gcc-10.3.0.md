@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load mash/2.3-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 {'cstd': 'c++17'}  
@@ -29,9 +29,9 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[CapnProto 0.9.1  (GCCcore 10.3.0)](../hpc-docs/modules/mash-2.3-gcc-10.3.0.md)  
-[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/mash-2.3-gcc-10.3.0.md)  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/mash-2.3-gcc-10.3.0.md)  
+[CapnProto 0.9.1  (GCCcore-10.3.0)](capnproto-0.9.1-gcccore-10.3.0.md)  
+[GSL 2.7  (GCC-10.3.0)](gsl-2.7-gcc-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Mash 2.3 .  

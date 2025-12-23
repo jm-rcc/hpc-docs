@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load busco/5.4.2-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  
@@ -29,17 +29,17 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[R 4.1.0  (foss 2021a)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[Biopython 1.79  (foss 2021a)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[BLAST+ 2.11.0  (gompi 2021a)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[HMMER 3.3.2  (gompi 2021a)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[prodigal 2.6.3  (GCCcore 10.3.0)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[AUGUSTUS 3.4.0  (foss 2021a)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[SEPP 4.5.0  (foss 2021a)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[MetaEuk 5  (GCC 10.3.0)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
-[BBMap 38.96  (GCC 10.3.0)](../hpc-docs/modules/busco-5.4.2-foss-2021a.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[Biopython 1.79  (foss-2021a)](biopython-1.79-foss-2021a.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[HMMER 3.3.2  (gompi-2021a)](hmmer-3.3.2-gompi-2021a.md)  
+[prodigal 2.6.3  (GCCcore-10.3.0)](prodigal-2.6.3-gcccore-10.3.0.md)  
+[AUGUSTUS 3.4.0  (foss-2021a)](augustus-3.4.0-foss-2021a.md)  
+[SEPP 4.5.0  (foss-2021a)](sepp-4.5.0-foss-2021a.md)  
+[MetaEuk 5  (GCC-10.3.0)](metaeuk-5-gcc-10.3.0.md)  
+[BBMap 38.96  (GCC-10.3.0)](bbmap-38.96-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for BUSCO 5.4.2 .  

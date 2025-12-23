@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load intel/2021a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,11 +31,11 @@ None
   
   
 ## Dependencies  
-[GCCcore 10.3.0  (system system)](../hpc-docs/modules/intel-2021a.md)  
-[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/intel-2021a.md)  
-[intel-compilers 2021.2.0  (system system)](../hpc-docs/modules/intel-2021a.md)  
-[impi 2021.2.0  (intel-compilers 2021.2.0)](../hpc-docs/modules/intel-2021a.md)  
-[imkl 2021.2.0  (iimpi 2021a)](../hpc-docs/modules/intel-2021a.md)  
+[GCCcore 10.3.0  (system-system)](gcccore-.10.3.0.md)  
+[binutils 2.36.1  (GCCcore-10.3.0)](binutils-.2.36.1-gcccore-10.3.0.md)  
+[intel-compilers 2021.2.0  (system-system)](intel-compilers-2021.2.0.md)  
+[impi 2021.2.0  (intel-compilers-2021.2.0)](impi-2021.2.0-intel-compilers-2021.2.0.md)  
+[imkl 2021.2.0  (iimpi-2021a)](imkl-2021.2.0-iimpi-2021a.md)  
   
 ## Homepage  
 The homepage for intel 2021a .  

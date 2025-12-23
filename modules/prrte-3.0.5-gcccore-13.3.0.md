@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load prrte/3.0.5-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,9 +31,9 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[libevent 2.1.12  (GCCcore 13.3.0)](../hpc-docs/modules/prrte-3.0.5-gcccore-13.3.0.md)  
-[hwloc 2.10.0  (GCCcore 13.3.0)](../hpc-docs/modules/prrte-3.0.5-gcccore-13.3.0.md)  
-[PMIx 5.0.2  (GCCcore 13.3.0)](../hpc-docs/modules/prrte-3.0.5-gcccore-13.3.0.md)  
+[libevent 2.1.12  (GCCcore-13.3.0)](libevent-.2.1.12-gcccore-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore-13.3.0)](hwloc-.2.10.0-gcccore-13.3.0.md)  
+[PMIx 5.0.2  (GCCcore-13.3.0)](pmix-.5.0.2-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for PRRTE 3.0.5 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load geos/3.10.3-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  

@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load maxquant/2.2.0.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[Mono 6.12.0.122  (GCCcore 11.3.0)](../hpc-docs/modules/maxquant-2.2.0.0-gcccore-11.3.0.md)  
+[Mono 6.12.0.122  (GCCcore-11.3.0)](mono-6.12.0.122-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MaxQuant 2.2.0.0 .  

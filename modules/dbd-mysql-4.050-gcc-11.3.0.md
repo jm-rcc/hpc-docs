@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load dbd-mysql/4.050-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
-[MariaDB 10.9.3  (GCC 11.3.0)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/dbd-mysql-4.050-gcc-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for DBD-mysql 4.050 .  

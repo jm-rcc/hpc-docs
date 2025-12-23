@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gompi/2022a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCC 11.3.0  (system system)](../hpc-docs/modules/gompi-2022a.md)  
-[OpenMPI 4.1.4  (GCC 11.3.0)](../hpc-docs/modules/gompi-2022a.md)  
+[GCC 11.3.0  (system-system)](gcc-11.3.0.md)  
+[OpenMPI 4.1.4  (GCC-11.3.0)](openmpi-4.1.4-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for gompi 2022a .  

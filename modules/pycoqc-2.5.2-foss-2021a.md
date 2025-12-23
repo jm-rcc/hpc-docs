@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load pycoqc/2.5.2-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  
@@ -30,12 +30,12 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
-[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
-[h5py 3.2.1  (foss 2021a)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
-[plotly.py 5.1.0  (GCCcore 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
-[tqdm 4.61.2  (GCCcore 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
-[Pysam 0.16.0.1  (GCC 10.3.0)](../hpc-docs/modules/pycoqc-2.5.2-foss-2021a.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
+[h5py 3.2.1  (foss-2021a)](h5py-3.2.1-foss-2021a.md)  
+[plotly.py 5.1.0  (GCCcore-10.3.0)](plotly.py-5.1.0-gcccore-10.3.0.md)  
+[tqdm 4.61.2  (GCCcore-10.3.0)](tqdm-4.61.2-gcccore-10.3.0.md)  
+[Pysam 0.16.0.1  (GCC-10.3.0)](pysam-0.16.0.1-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for pycoQC 2.5.2 .  

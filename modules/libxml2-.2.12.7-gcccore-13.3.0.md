@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load libxml2/.2.12.7-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -34,8 +34,8 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[XZ 5.4.5  (GCCcore 13.3.0)](../hpc-docs/modules/libxml2-.2.12.7-gcccore-13.3.0.md)  
-[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/libxml2-.2.12.7-gcccore-13.3.0.md)  
+[XZ 5.4.5  (GCCcore-13.3.0)](xz-.5.4.5-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libxml2 2.12.7 .  

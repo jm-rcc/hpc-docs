@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libdrm/.2.4.106-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/libdrm-.2.4.106-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore-10.3.0)](x11-.20210518-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libdrm 2.4.106 .  

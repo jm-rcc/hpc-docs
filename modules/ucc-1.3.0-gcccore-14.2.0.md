@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load ucc/1.3.0-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -27,7 +27,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[UCX 1.18.0  (GCCcore 14.2.0)](../hpc-docs/modules/ucc-1.3.0-gcccore-14.2.0.md)  
+[UCX 1.18.0  (GCCcore-14.2.0)](ucx-.1.18.0-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for UCC 1.3.0 .  

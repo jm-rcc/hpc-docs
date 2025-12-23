@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load proj/.9.2.0-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -30,11 +30,11 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[SQLite 3.42.0  (GCCcore 12.3.0)](../hpc-docs/modules/proj-.9.2.0-gcccore-12.3.0.md)  
-[LibTIFF 4.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/proj-.9.2.0-gcccore-12.3.0.md)  
-[cURL 8.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/proj-.9.2.0-gcccore-12.3.0.md)  
-[XZ 5.4.2  (GCCcore 12.3.0)](../hpc-docs/modules/proj-.9.2.0-gcccore-12.3.0.md)  
-[nlohmann_json 3.11.2  (GCCcore 12.3.0)](../hpc-docs/modules/proj-.9.2.0-gcccore-12.3.0.md)  
+[SQLite 3.42.0  (GCCcore-12.3.0)](sqlite-.3.42.0-gcccore-12.3.0.md)  
+[LibTIFF 4.5.0  (GCCcore-12.3.0)](libtiff-.4.5.0-gcccore-12.3.0.md)  
+[cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
+[XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
+[nlohmann_json 3.11.2  (GCCcore-12.3.0)](nlohmann_json-3.11.2-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for PROJ 9.2.0 .  

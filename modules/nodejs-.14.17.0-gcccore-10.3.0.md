@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load nodejs/.14.17.0-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[ICU 69.1  (GCCcore 10.3.0)](../hpc-docs/modules/nodejs-.14.17.0-gcccore-10.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/nodejs-.14.17.0-gcccore-10.3.0.md)  
+[ICU 69.1  (GCCcore-10.3.0)](icu-.69.1-gcccore-10.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for nodejs 14.17.0 .  

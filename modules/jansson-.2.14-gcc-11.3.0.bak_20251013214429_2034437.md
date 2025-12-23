@@ -16,7 +16,7 @@ To use the module on Bunya, load it with the command
   **`module load jansson/.2.14-gcc-11.3.0.bak_20251013214429_2034437`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  

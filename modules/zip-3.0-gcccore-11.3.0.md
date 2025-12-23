@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load zip/3.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/zip-3.0-gcccore-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Zip 3.0 .  

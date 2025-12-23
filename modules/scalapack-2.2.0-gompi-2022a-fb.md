@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load scalapack/2.2.0-gompi-2022a-fb`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 {'extra_fflags': '-lpthread', 'openmp': True, 'pic': True, 'usempi': True}  
@@ -32,7 +32,7 @@ gompi (2022a)
   
   
 ## Dependencies  
-[FlexiBLAS 3.2.0  (GCC 11.3.0)](../hpc-docs/modules/scalapack-2.2.0-gompi-2022a-fb.md)  
+[FlexiBLAS 3.2.0  (GCC-11.3.0)](flexiblas-3.2.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for ScaLAPACK 2.2.0 -fb.  

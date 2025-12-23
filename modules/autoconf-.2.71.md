@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load autoconf/.2.71`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.18  (system system)](../hpc-docs/modules/autoconf-.2.71.md)  
+[M4 1.4.18  (system-system)](m4-.1.4.18.md)  
   
 ## Homepage  
 The homepage for Autoconf 2.71 .  

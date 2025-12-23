@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load brunsli/0.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -29,7 +29,7 @@ None
   
   
 ## Dependencies  
-[Brotli 1.0.9  (GCCcore 12.3.0)](../hpc-docs/modules/brunsli-0.1-gcccore-12.3.0.md)  
+[Brotli 1.0.9  (GCCcore-12.3.0)](brotli-1.0.9-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Brunsli 0.1 .  

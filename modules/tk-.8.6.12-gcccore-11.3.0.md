@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load tk/.8.6.12-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[Tcl 8.6.12  (GCCcore 11.3.0)](../hpc-docs/modules/tk-.8.6.12-gcccore-11.3.0.md)  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/tk-.8.6.12-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/tk-.8.6.12-gcccore-11.3.0.md)  
+[Tcl 8.6.12  (GCCcore-11.3.0)](tcl-.8.6.12-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Tk 8.6.12 .  

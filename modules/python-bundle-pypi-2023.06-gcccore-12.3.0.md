@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load python-bundle-pypi/2023.06-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,9 +31,9 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
-[cryptography 41.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
-[virtualenv 20.23.1  (GCCcore 12.3.0)](../hpc-docs/modules/python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[cryptography 41.0.1  (GCCcore-12.3.0)](cryptography-41.0.1-gcccore-12.3.0.md)  
+[virtualenv 20.23.1  (GCCcore-12.3.0)](virtualenv-20.23.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Python-bundle-PyPI 2023.06 .  

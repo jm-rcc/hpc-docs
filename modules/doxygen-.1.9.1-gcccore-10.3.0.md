@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load doxygen/.1.9.1-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[libiconv 1.16  (GCCcore 10.3.0)](../hpc-docs/modules/doxygen-.1.9.1-gcccore-10.3.0.md)  
+[libiconv 1.16  (GCCcore-10.3.0)](libiconv-1.16-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Doxygen 1.9.1 .  

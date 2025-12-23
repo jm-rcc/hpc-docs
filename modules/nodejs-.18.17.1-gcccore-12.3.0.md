@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load nodejs/.18.17.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[ICU 73.2  (GCCcore 12.3.0)](../hpc-docs/modules/nodejs-.18.17.1-gcccore-12.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/nodejs-.18.17.1-gcccore-12.3.0.md)  
+[ICU 73.2  (GCCcore-12.3.0)](icu-.73.2-gcccore-12.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for nodejs 18.17.1 .  

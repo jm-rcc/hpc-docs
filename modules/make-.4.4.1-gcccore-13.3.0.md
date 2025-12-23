@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load make/.4.4.1-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load intel/2023a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[GCCcore 12.3.0  (system system)](../hpc-docs/modules/intel-2023a.md)  
-[binutils 2.40  (GCCcore 12.3.0)](../hpc-docs/modules/intel-2023a.md)  
-[intel-compilers 2023.1.0  (system system)](../hpc-docs/modules/intel-2023a.md)  
-[impi 2021.9.0  (intel-compilers 2023.1.0)](../hpc-docs/modules/intel-2023a.md)  
-[imkl 2023.1.0  (system system)](../hpc-docs/modules/intel-2023a.md)  
-[imkl-FFTW 2023.1.0  (iimpi 2023a)](../hpc-docs/modules/intel-2023a.md)  
+[GCCcore 12.3.0  (system-system)](gcccore-.12.3.0.md)  
+[binutils 2.40  (GCCcore-12.3.0)](binutils-.2.40-gcccore-12.3.0.md)  
+[intel-compilers 2023.1.0  (system-system)](intel-compilers-2023.1.0.md)  
+[impi 2021.9.0  (intel-compilers-2023.1.0)](impi-2021.9.0-intel-compilers-2023.1.0.md)  
+[imkl 2023.1.0  (system-system)](imkl-2023.1.0.md)  
+[imkl-FFTW 2023.1.0  (iimpi-2023a)](imkl-fftw-2023.1.0-iimpi-2023a.md)  
   
 ## Homepage  
 The homepage for intel 2023a .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load harfbuzz/.5.3.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/harfbuzz-.5.3.1-gcccore-12.3.0.md)  
-[ICU 73.2  (GCCcore 12.3.0)](../hpc-docs/modules/harfbuzz-.5.3.1-gcccore-12.3.0.md)  
-[cairo 1.17.8  (GCCcore 12.3.0)](../hpc-docs/modules/harfbuzz-.5.3.1-gcccore-12.3.0.md)  
-[freetype 2.13.0  (GCCcore 12.3.0)](../hpc-docs/modules/harfbuzz-.5.3.1-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore-12.3.0)](glib-.2.77.1-gcccore-12.3.0.md)  
+[ICU 73.2  (GCCcore-12.3.0)](icu-.73.2-gcccore-12.3.0.md)  
+[cairo 1.17.8  (GCCcore-12.3.0)](cairo-.1.17.8-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore-12.3.0)](freetype-.2.13.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for HarfBuzz 5.3.1 .  

@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load bzip2/.1.0.8-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 {'pic': True}  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load fftw/3.3.9-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 {'pic': True}  

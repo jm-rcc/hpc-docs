@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load go/1.18.3`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

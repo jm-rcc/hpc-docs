@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load gdal/3.3.0-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 {'usempi': True}  
@@ -32,24 +32,24 @@ foss (2021a)
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[netCDF 4.8.0  (gompi 2021a)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[expat 2.2.9  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[GEOS 3.9.1  (GCC 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[SQLite 3.35.4  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[libxml2 2.9.10  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[libpng 1.6.37  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[JasPer 2.0.28  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[LibTIFF 4.2.0  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[PCRE 8.44  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[PROJ 8.0.1  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[libgeotiff 1.6.0  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
-[HDF 4.2.15  (GCCcore 10.3.0)](../hpc-docs/modules/gdal-3.3.0-foss-2021a.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[netCDF 4.8.0  (gompi-2021a)](netcdf-4.8.0-gompi-2021a.md)  
+[expat 2.2.9  (GCCcore-10.3.0)](expat-.2.2.9-gcccore-10.3.0.md)  
+[GEOS 3.9.1  (GCC-10.3.0)](geos-3.9.1-gcc-10.3.0.md)  
+[SQLite 3.35.4  (GCCcore-10.3.0)](sqlite-.3.35.4-gcccore-10.3.0.md)  
+[libxml2 2.9.10  (GCCcore-10.3.0)](libxml2-.2.9.10-gcccore-10.3.0.md)  
+[libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
+[JasPer 2.0.28  (GCCcore-10.3.0)](jasper-.2.0.28-gcccore-10.3.0.md)  
+[LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-.4.2.0-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
+[PCRE 8.44  (GCCcore-10.3.0)](pcre-.8.44-gcccore-10.3.0.md)  
+[PROJ 8.0.1  (GCCcore-10.3.0)](proj-.8.0.1-gcccore-10.3.0.md)  
+[libgeotiff 1.6.0  (GCCcore-10.3.0)](libgeotiff-1.6.0-gcccore-10.3.0.md)  
+[SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
+[HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
+[HDF 4.2.15  (GCCcore-10.3.0)](hdf-4.2.15-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for GDAL 3.3.0 .  

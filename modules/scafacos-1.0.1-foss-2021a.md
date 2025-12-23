@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load scafacos/1.0.1-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 {'usempi': True}  
@@ -29,8 +29,8 @@ foss (2021a)
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 10.3.0)](../hpc-docs/modules/scafacos-1.0.1-foss-2021a.md)  
-[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/scafacos-1.0.1-foss-2021a.md)  
+[GMP 6.2.1  (GCCcore-10.3.0)](gmp-.6.2.1-gcccore-10.3.0.md)  
+[GSL 2.7  (GCC-10.3.0)](gsl-2.7-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for ScaFaCoS 1.0.1 .  

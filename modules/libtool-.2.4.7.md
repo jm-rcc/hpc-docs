@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load libtool/.2.4.7`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.18  (system system)](../hpc-docs/modules/libtool-.2.4.7.md)  
+[M4 1.4.18  (system-system)](m4-.1.4.18.md)  
   
 ## Homepage  
 The homepage for libtool 2.4.7 .  

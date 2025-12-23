@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load perl/5.36.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -34,7 +34,7 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/perl-5.36.1-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Perl 5.36.1 .  

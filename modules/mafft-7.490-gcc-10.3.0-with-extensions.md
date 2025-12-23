@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load mafft/7.490-gcc-10.3.0-with-extensions`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 None  

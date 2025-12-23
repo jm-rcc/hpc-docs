@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load bamtools/2.5.2-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,7 +31,7 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[JsonCpp 1.9.5  (GCCcore 11.3.0)](../hpc-docs/modules/bamtools-2.5.2-gcc-11.3.0.md)  
+[JsonCpp 1.9.5  (GCCcore-11.3.0)](jsoncpp-1.9.5-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for BamTools 2.5.2 .  

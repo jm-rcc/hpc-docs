@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load ruby/3.0.5-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/ruby-3.0.5-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/ruby-3.0.5-gcccore-11.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/ruby-3.0.5-gcccore-11.3.0.md)  
+[binutils 2.38  (GCCcore-11.3.0)](binutils-.2.38-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for Ruby 3.0.5 .  

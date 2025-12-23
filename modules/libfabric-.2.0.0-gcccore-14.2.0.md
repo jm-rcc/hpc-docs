@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load libfabric/.2.0.0-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -29,7 +29,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[numactl 2.0.19  (GCCcore 14.2.0)](../hpc-docs/modules/libfabric-.2.0.0-gcccore-14.2.0.md)  
+[numactl 2.0.19  (GCCcore-14.2.0)](numactl-.2.0.19-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for libfabric 2.0.0 .  

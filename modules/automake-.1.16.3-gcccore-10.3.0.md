@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load automake/.1.16.3-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.71  (GCCcore 10.3.0)](../hpc-docs/modules/automake-.1.16.3-gcccore-10.3.0.md)  
+[Autoconf 2.71  (GCCcore-10.3.0)](autoconf-.2.71-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Automake 1.16.3 .  

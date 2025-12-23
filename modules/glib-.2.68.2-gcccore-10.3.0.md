@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load glib/.2.68.2-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,11 +31,11 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[libffi 3.3  (GCCcore 10.3.0)](../hpc-docs/modules/glib-.2.68.2-gcccore-10.3.0.md)  
-[gettext 0.21  (GCCcore 10.3.0)](../hpc-docs/modules/glib-.2.68.2-gcccore-10.3.0.md)  
-[libxml2 2.9.10  (GCCcore 10.3.0)](../hpc-docs/modules/glib-.2.68.2-gcccore-10.3.0.md)  
-[PCRE2 10.36  (GCCcore 10.3.0)](../hpc-docs/modules/glib-.2.68.2-gcccore-10.3.0.md)  
-[util-linux 2.36  (GCCcore 10.3.0)](../hpc-docs/modules/glib-.2.68.2-gcccore-10.3.0.md)  
+[libffi 3.3  (GCCcore-10.3.0)](libffi-.3.3-gcccore-10.3.0.md)  
+[gettext 0.21  (GCCcore-10.3.0)](gettext-.0.21-gcccore-10.3.0.md)  
+[libxml2 2.9.10  (GCCcore-10.3.0)](libxml2-.2.9.10-gcccore-10.3.0.md)  
+[PCRE2 10.36  (GCCcore-10.3.0)](pcre2-10.36-gcccore-10.3.0.md)  
+[util-linux 2.36  (GCCcore-10.3.0)](util-linux-.2.36-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for GLib 2.68.2 .  

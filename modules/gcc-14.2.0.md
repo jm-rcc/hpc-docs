@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gcc/14.2.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -25,8 +25,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 14.2.0  (system system)](../hpc-docs/modules/gcc-14.2.0.md)  
-[binutils 2.42  (GCCcore 14.2.0)](../hpc-docs/modules/gcc-14.2.0.md)  
+[GCCcore 14.2.0  (system-system)](gcccore-.14.2.0.md)  
+[binutils 2.42  (GCCcore-14.2.0)](binutils-.2.42-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for GCC 14.2.0 .  

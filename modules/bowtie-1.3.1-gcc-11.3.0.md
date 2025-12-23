@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load bowtie/1.3.1-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True, 'cstd': 'gnu++98'}  
@@ -29,8 +29,8 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[tbb 2021.5.0  (GCCcore 11.3.0)](../hpc-docs/modules/bowtie-1.3.1-gcc-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/bowtie-1.3.1-gcc-11.3.0.md)  
+[tbb 2021.5.0  (GCCcore-11.3.0)](tbb-2021.5.0-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Bowtie 1.3.1 .  

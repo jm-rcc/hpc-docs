@@ -18,7 +18,7 @@ To use the module on Bunya, load it with the command
   **`module load curl/.8.7.1-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -39,8 +39,8 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/curl-.8.7.1-gcccore-13.3.0.md)  
-[OpenSSL 3  (system system)](../hpc-docs/modules/curl-.8.7.1-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
+[OpenSSL 3  (system-system)](openssl-3.md)  
   
 ## Homepage  
 The homepage for cURL 8.7.1 .  

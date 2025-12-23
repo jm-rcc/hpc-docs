@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load libsoup/.3.0.8-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'cstd': 'gnu11'}  
@@ -34,15 +34,15 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[libpsl 0.21.1  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[GnuTLS 3.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[nghttp2 1.48.0  (GCC 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[glib-networking 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
-[Brotli 1.0.9  (GCCcore 11.3.0)](../hpc-docs/modules/libsoup-.3.0.8-gcc-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-.3.38.3-gcccore-11.3.0.md)  
+[GLib 2.72.1  (GCCcore-11.3.0)](glib-.2.72.1-gcccore-11.3.0.md)  
+[libpsl 0.21.1  (GCCcore-11.3.0)](libpsl-.0.21.1-gcccore-11.3.0.md)  
+[cURL 7.83.0  (GCCcore-11.3.0)](curl-.7.83.0-gcccore-11.3.0.md)  
+[GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
+[nghttp2 1.48.0  (GCC-11.3.0)](nghttp2-.1.48.0-gcc-11.3.0.md)  
+[glib-networking 2.72.1  (GCCcore-11.3.0)](glib-networking-.2.72.1-gcccore-11.3.0.md)  
+[Brotli 1.0.9  (GCCcore-11.3.0)](brotli-1.0.9-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for LibSoup 3.0.8 .  

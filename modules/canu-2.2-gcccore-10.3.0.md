@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load canu/2.2-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/canu-2.2-gcccore-10.3.0.md)  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/canu-2.2-gcccore-10.3.0.md)  
-[gnuplot 5.4.2  (GCCcore 10.3.0)](../hpc-docs/modules/canu-2.2-gcccore-10.3.0.md)  
+[Java 11  (system-system)](java-11.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[gnuplot 5.4.2  (GCCcore-10.3.0)](gnuplot-.5.4.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for canu 2.2 .  

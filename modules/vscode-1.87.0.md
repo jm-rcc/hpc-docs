@@ -17,7 +17,7 @@ To use the module on Bunya, load it with the command
   **`module load vscode/1.87.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

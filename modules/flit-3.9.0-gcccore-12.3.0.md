@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load flit/3.9.0-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,7 +31,7 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/flit-3.9.0-gcccore-12.3.0.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for flit 3.9.0 .  

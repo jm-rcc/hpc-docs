@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load bcftools/1.18-gcc-12.3.0`**.  
   
 ### Toolchain  
-GCC (12.3.0)  
+GCC-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -33,11 +33,11 @@ GCC (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/bcftools-1.18-gcc-12.3.0.md)  
-[HTSlib 1.18  (GCC 12.3.0)](../hpc-docs/modules/bcftools-1.18-gcc-12.3.0.md)  
-[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/bcftools-1.18-gcc-12.3.0.md)  
-[XZ 5.4.2  (GCCcore 12.3.0)](../hpc-docs/modules/bcftools-1.18-gcc-12.3.0.md)  
-[GSL 2.7  (GCC 12.3.0)](../hpc-docs/modules/bcftools-1.18-gcc-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[HTSlib 1.18  (GCC-12.3.0)](htslib-1.18-gcc-12.3.0.md)  
+[bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
+[XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
+[GSL 2.7  (GCC-12.3.0)](gsl-2.7-gcc-12.3.0.md)  
   
 ## Homepage  
 The homepage for BCFtools 1.18 .  

@@ -16,7 +16,7 @@ To use the module on Bunya, load it with the command
   **`module load qhull/.2020.2-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  

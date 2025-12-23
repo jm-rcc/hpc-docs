@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load zstd/1.5.6-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
-[gzip 1.13  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
-[XZ 5.4.5  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
-[lz4 1.9.4  (GCCcore 13.3.0)](../hpc-docs/modules/zstd-1.5.6-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
+[gzip 1.13  (GCCcore-13.3.0)](gzip-1.13-gcccore-13.3.0.md)  
+[XZ 5.4.5  (GCCcore-13.3.0)](xz-.5.4.5-gcccore-13.3.0.md)  
+[lz4 1.9.4  (GCCcore-13.3.0)](lz4-1.9.4-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for zstd 1.5.6 .  

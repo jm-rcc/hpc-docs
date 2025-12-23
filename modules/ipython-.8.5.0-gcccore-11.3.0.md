@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load ipython/.8.5.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -36,10 +36,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
-[ZeroMQ 4.3.4  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
-[lxml 4.9.1  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
-[BeautifulSoup 4.10.0  (GCCcore 11.3.0)](../hpc-docs/modules/ipython-.8.5.0-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[ZeroMQ 4.3.4  (GCCcore-11.3.0)](zeromq-.4.3.4-gcccore-11.3.0.md)  
+[lxml 4.9.1  (GCCcore-11.3.0)](lxml-4.9.1-gcccore-11.3.0.md)  
+[BeautifulSoup 4.10.0  (GCCcore-11.3.0)](beautifulsoup-4.10.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for IPython 8.5.0 .  

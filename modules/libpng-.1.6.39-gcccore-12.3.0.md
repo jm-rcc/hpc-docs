@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libpng/.1.6.39-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,7 +31,7 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/libpng-.1.6.39-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for libpng 1.6.39 .  

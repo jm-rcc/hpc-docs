@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load scafacos/1.0.4-foss-2023a`**.  
   
 ### Toolchain  
-foss (2023a)  
+foss-2023a  
   
 ### Toolchain Options  
 {'usempi': True}  
@@ -30,8 +30,8 @@ foss (2023a)
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 12.3.0)](../hpc-docs/modules/scafacos-1.0.4-foss-2023a.md)  
-[GSL 2.7  (GCC 12.3.0)](../hpc-docs/modules/scafacos-1.0.4-foss-2023a.md)  
+[GMP 6.2.1  (GCCcore-12.3.0)](gmp-.6.2.1-gcccore-12.3.0.md)  
+[GSL 2.7  (GCC-12.3.0)](gsl-2.7-gcc-12.3.0.md)  
   
 ## Homepage  
 The homepage for ScaFaCoS 1.0.4 .  

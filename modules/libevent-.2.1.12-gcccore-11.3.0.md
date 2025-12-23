@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load libevent/.2.1.12-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -36,8 +36,8 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/libevent-.2.1.12-gcccore-11.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/libevent-.2.1.12-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for libevent 2.1.12 .  

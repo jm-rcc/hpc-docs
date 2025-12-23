@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load mono/.6.12.0.122-gcccore-11.3.0.bak_20251013214443_2034437`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -22,8 +22,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/mono-.6.12.0.122-gcccore-11.3.0.bak_20251013214443_2034437.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/mono-.6.12.0.122-gcccore-11.3.0.bak_20251013214443_2034437.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Mono 6.12.0.122 .  

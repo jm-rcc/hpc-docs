@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load virtualgl/3.1-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,10 +30,10 @@ None
   
   
 ## Dependencies  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
-[Mesa 22.0.3  (GCCcore 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
-[libGLU 9.0.2  (GCCcore 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
-[pocl 1.8  (GCC 11.3.0)](../hpc-docs/modules/virtualgl-3.1-gcc-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[Mesa 22.0.3  (GCCcore-11.3.0)](mesa-.22.0.3-gcccore-11.3.0.md)  
+[libGLU 9.0.2  (GCCcore-11.3.0)](libglu-.9.0.2-gcccore-11.3.0.md)  
+[pocl 1.8  (GCC-11.3.0)](pocl-1.8-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for VirtualGL 3.1 .  

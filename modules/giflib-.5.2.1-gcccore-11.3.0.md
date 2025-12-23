@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load giflib/.5.2.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  

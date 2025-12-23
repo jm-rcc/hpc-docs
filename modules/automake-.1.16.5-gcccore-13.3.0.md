@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load automake/.1.16.5-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.72  (GCCcore 13.3.0)](../hpc-docs/modules/automake-.1.16.5-gcccore-13.3.0.md)  
-[Perl 5.38.2  (GCCcore 13.3.0)](../hpc-docs/modules/automake-.1.16.5-gcccore-13.3.0.md)  
+[Autoconf 2.72  (GCCcore-13.3.0)](autoconf-.2.72-gcccore-13.3.0.md)  
+[Perl 5.38.2  (GCCcore-13.3.0)](perl-5.38.2-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Automake 1.16.5 .  

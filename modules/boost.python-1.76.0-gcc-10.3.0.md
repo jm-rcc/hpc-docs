@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load boost.python/1.76.0-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -32,8 +32,8 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/boost.python-1.76.0-gcc-10.3.0.md)  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/boost.python-1.76.0-gcc-10.3.0.md)  
+[Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Boost.Python 1.76.0 .  

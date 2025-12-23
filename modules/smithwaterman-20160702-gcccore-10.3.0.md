@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load smithwaterman/20160702-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  

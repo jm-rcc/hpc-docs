@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load biopython/1.79-foss-2022a`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 None  
@@ -35,8 +35,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/biopython-1.79-foss-2022a.md)  
-[SciPy-bundle 2022.05  (foss 2022a)](../hpc-docs/modules/biopython-1.79-foss-2022a.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[SciPy-bundle 2022.05  (foss-2022a)](scipy-bundle-2022.05-foss-2022a.md)  
   
 ## Homepage  
 The homepage for Biopython 1.79 .  

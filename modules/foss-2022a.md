@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load foss/2022a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,12 +32,12 @@ None
   
   
 ## Dependencies  
-[GCC 11.3.0  (system system)](../hpc-docs/modules/foss-2022a.md)  
-[OpenMPI 4.1.4  (GCC 11.3.0)](../hpc-docs/modules/foss-2022a.md)  
-[FlexiBLAS 3.2.0  (GCC 11.3.0)](../hpc-docs/modules/foss-2022a.md)  
-[FFTW 3.3.10  (GCC 11.3.0)](../hpc-docs/modules/foss-2022a.md)  
-[FFTW.MPI 3.3.10  (gompi 2022a)](../hpc-docs/modules/foss-2022a.md)  
-[ScaLAPACK 2.2.0 -fb (gompi 2022a)](../hpc-docs/modules/foss-2022a.md)  
+[GCC 11.3.0  (system-system)](gcc-11.3.0.md)  
+[OpenMPI 4.1.4  (GCC-11.3.0)](openmpi-4.1.4-gcc-11.3.0.md)  
+[FlexiBLAS 3.2.0  (GCC-11.3.0)](flexiblas-3.2.0-gcc-11.3.0.md)  
+[FFTW 3.3.10  (GCC-11.3.0)](fftw-3.3.10-gcc-11.3.0.md)  
+[FFTW.MPI 3.3.10  (gompi-2022a)](fftw.mpi-3.3.10-gompi-2022a.md)  
+[ScaLAPACK 2.2.0 -fb (gompi-2022a)](scalapack-2.2.0-gompi-2022a-fb.md)  
   
 ## Homepage  
 The homepage for foss 2022a .  

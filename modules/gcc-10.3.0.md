@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gcc/10.3.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 10.3.0  (system system)](../hpc-docs/modules/gcc-10.3.0.md)  
-[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/gcc-10.3.0.md)  
+[GCCcore 10.3.0  (system-system)](gcccore-.10.3.0.md)  
+[binutils 2.36.1  (GCCcore-10.3.0)](binutils-.2.36.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for GCC 10.3.0 .  

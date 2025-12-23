@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load gatk/4.3.0.0-gcccore-11.3.0-java-11`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -35,8 +35,8 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/gatk-4.3.0.0-gcccore-11.3.0-java-11.md)  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/gatk-4.3.0.0-gcccore-11.3.0-java-11.md)  
+[Java 11  (system-system)](java-11.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for GATK 4.3.0.0 -Java-11.  

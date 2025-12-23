@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load perl/5.40.0-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -27,7 +27,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 14.2.0)](../hpc-docs/modules/perl-5.40.0-gcccore-14.2.0.md)  
+[zlib 1.3.1  (GCCcore-14.2.0)](zlib-.1.3.1-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for Perl 5.40.0 .  

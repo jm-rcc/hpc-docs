@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load bison/.3.7.6-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  

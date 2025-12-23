@@ -20,7 +20,7 @@ To use the module on Bunya, load it with the command
   **`module load mdi/1.4.26-gompi-2023a`**.  
   
 ### Toolchain  
-gompi (2023a)  
+gompi-2023a  
   
 ### Toolchain Options  
 None  
@@ -40,7 +40,7 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/mdi-1.4.26-gompi-2023a.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for MDI 1.4.26 .  

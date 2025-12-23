@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load fontconfig/.2.14.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -34,9 +34,9 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[expat 2.4.8  (GCCcore 11.3.0)](../hpc-docs/modules/fontconfig-.2.14.0-gcccore-11.3.0.md)  
-[freetype 2.12.1  (GCCcore 11.3.0)](../hpc-docs/modules/fontconfig-.2.14.0-gcccore-11.3.0.md)  
-[util-linux 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/fontconfig-.2.14.0-gcccore-11.3.0.md)  
+[expat 2.4.8  (GCCcore-11.3.0)](expat-.2.4.8-gcccore-11.3.0.md)  
+[freetype 2.12.1  (GCCcore-11.3.0)](freetype-.2.12.1-gcccore-11.3.0.md)  
+[util-linux 2.38  (GCCcore-11.3.0)](util-linux-.2.38-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for fontconfig 2.14.0 .  

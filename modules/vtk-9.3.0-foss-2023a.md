@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load vtk/9.3.0-foss-2023a`**.  
   
 ### Toolchain  
-foss (2023a)  
+foss-2023a  
   
 ### Toolchain Options  
 {'usempi': True}  
@@ -34,12 +34,12 @@ foss (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
-[XZ 5.4.2  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
-[libGLU 9.0.3  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
-[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
-[Qt5 5.15.10  (GCCcore 12.3.0)](../hpc-docs/modules/vtk-9.3.0-foss-2023a.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
+[XZ 5.4.2  (GCCcore-12.3.0)](xz-.5.4.2-gcccore-12.3.0.md)  
+[libGLU 9.0.3  (GCCcore-12.3.0)](libglu-.9.0.3-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
+[Qt5 5.15.10  (GCCcore-12.3.0)](qt5-5.15.10-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for VTK 9.3.0 .  

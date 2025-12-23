@@ -19,7 +19,7 @@ To use the module on Bunya, load it with the command
   **`module load hwloc/.2.11.2-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 None  
@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[numactl 2.0.19  (GCCcore 14.2.0)](../hpc-docs/modules/hwloc-.2.11.2-gcccore-14.2.0.md)  
-[libxml2 2.13.4  (GCCcore 14.2.0)](../hpc-docs/modules/hwloc-.2.11.2-gcccore-14.2.0.md)  
-[libpciaccess 0.18.1  (GCCcore 14.2.0)](../hpc-docs/modules/hwloc-.2.11.2-gcccore-14.2.0.md)  
+[numactl 2.0.19  (GCCcore-14.2.0)](numactl-.2.0.19-gcccore-14.2.0.md)  
+[libxml2 2.13.4  (GCCcore-14.2.0)](libxml2-.2.13.4-gcccore-14.2.0.md)  
+[libpciaccess 0.18.1  (GCCcore-14.2.0)](libpciaccess-.0.18.1-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for hwloc 2.11.2 .  

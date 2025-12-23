@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libheif/1.17.6-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -21,11 +21,11 @@ None
   
   
 ## Dependencies  
-[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
-[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
-[libde265 1.0.15  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
-[x265 3.5  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
-[Gdk-Pixbuf 2.42.10  (GCCcore 12.3.0)](../hpc-docs/modules/libheif-1.17.6-gcccore-12.3.0.md)  
+[libpng 1.6.39  (GCCcore-12.3.0)](libpng-.1.6.39-gcccore-12.3.0.md)  
+[libjpeg-turbo 2.1.5.1  (GCCcore-12.3.0)](libjpeg-turbo-.2.1.5.1-gcccore-12.3.0.md)  
+[libde265 1.0.15  (GCCcore-12.3.0)](libde265-1.0.15-gcccore-12.3.0.md)  
+[x265 3.5  (GCCcore-12.3.0)](x265-3.5-gcccore-12.3.0.md)  
+[Gdk-Pixbuf 2.42.10  (GCCcore-12.3.0)](gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for libheif 1.17.6 .  

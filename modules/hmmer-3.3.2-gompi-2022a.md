@@ -18,7 +18,7 @@ To use the module on Bunya, load it with the command
   **`module load hmmer/3.3.2-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 None  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load pandoc/3.1.2`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

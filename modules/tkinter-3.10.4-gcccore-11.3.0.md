@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load tkinter/3.10.4-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,9 +31,9 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/tkinter-3.10.4-gcccore-11.3.0.md)  
-[Tk 8.6.12  (GCCcore 11.3.0)](../hpc-docs/modules/tkinter-3.10.4-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/tkinter-3.10.4-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[Tk 8.6.12  (GCCcore-11.3.0)](tk-.8.6.12-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Tkinter 3.10.4 .  

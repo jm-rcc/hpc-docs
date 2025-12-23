@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load quantumespresso/7.1-foss-2022a`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 {'usempi': True, 'openmp': True}  
@@ -35,9 +35,9 @@ foss (2022a)
   
   
 ## Dependencies  
-[HDF5 1.12.2  (gompi 2022a)](../hpc-docs/modules/quantumespresso-7.1-foss-2022a.md)  
-[ELPA 2021.11.001  (foss 2022a)](../hpc-docs/modules/quantumespresso-7.1-foss-2022a.md)  
-[libxc 5.2.3  (GCC 11.3.0)](../hpc-docs/modules/quantumespresso-7.1-foss-2022a.md)  
+[HDF5 1.12.2  (gompi-2022a)](hdf5-1.12.2-gompi-2022a.md)  
+[ELPA 2021.11.001  (foss-2022a)](elpa-2021.11.001-foss-2022a.md)  
+[libxc 5.2.3  (GCC-11.3.0)](libxc-.5.2.3-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for QuantumESPRESSO 7.1 .  

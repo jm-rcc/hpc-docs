@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load clang/15.0.5-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,12 +30,12 @@ None
   
   
 ## Dependencies  
-[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/clang-15.0.5-gcccore-11.3.0.md)  
-[hwloc 2.7.1  (GCCcore 11.3.0)](../hpc-docs/modules/clang-15.0.5-gcccore-11.3.0.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/clang-15.0.5-gcccore-11.3.0.md)  
-[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/clang-15.0.5-gcccore-11.3.0.md)  
-[GMP 6.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/clang-15.0.5-gcccore-11.3.0.md)  
-[Z3 4.10.2  (GCCcore 11.3.0)](../hpc-docs/modules/clang-15.0.5-gcccore-11.3.0.md)  
+[binutils 2.38  (GCCcore-11.3.0)](binutils-.2.38-gcccore-11.3.0.md)  
+[hwloc 2.7.1  (GCCcore-11.3.0)](hwloc-.2.7.1-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
+[GMP 6.2.1  (GCCcore-11.3.0)](gmp-.6.2.1-gcccore-11.3.0.md)  
+[Z3 4.10.2  (GCCcore-11.3.0)](z3-4.10.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Clang 15.0.5 .  

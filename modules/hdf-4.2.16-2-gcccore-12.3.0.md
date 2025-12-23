@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load hdf/4.2.16-2-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -32,10 +32,10 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](../hpc-docs/modules/hdf-4.2.16-2-gcccore-12.3.0.md)  
-[Szip 2.1.1  (GCCcore 12.3.0)](../hpc-docs/modules/hdf-4.2.16-2-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/hdf-4.2.16-2-gcccore-12.3.0.md)  
-[libtirpc 1.3.3  (GCCcore 12.3.0)](../hpc-docs/modules/hdf-4.2.16-2-gcccore-12.3.0.md)  
+[libjpeg-turbo 2.1.5.1  (GCCcore-12.3.0)](libjpeg-turbo-.2.1.5.1-gcccore-12.3.0.md)  
+[Szip 2.1.1  (GCCcore-12.3.0)](szip-.2.1.1-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[libtirpc 1.3.3  (GCCcore-12.3.0)](libtirpc-1.3.3-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for HDF 4.2.16-2 .  

@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load p11-kit/.0.24.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -35,8 +35,8 @@ None
   
   
 ## Dependencies  
-[libtasn1 4.19.0  (GCCcore 11.3.0)](../hpc-docs/modules/p11-kit-.0.24.1-gcccore-11.3.0.md)  
-[libffi 3.4.2  (GCCcore 11.3.0)](../hpc-docs/modules/p11-kit-.0.24.1-gcccore-11.3.0.md)  
+[libtasn1 4.19.0  (GCCcore-11.3.0)](libtasn1-.4.19.0-gcccore-11.3.0.md)  
+[libffi 3.4.2  (GCCcore-11.3.0)](libffi-.3.4.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for p11-kit 0.24.1 .  

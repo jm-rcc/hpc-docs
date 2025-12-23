@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load cudnn/8.9.2.26-cuda-12.2.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -27,7 +27,7 @@ None
   
   
 ## Dependencies  
-[CUDA 12.2.0  (system system)](../hpc-docs/modules/cudnn-8.9.2.26-cuda-12.2.0.md)  
+[CUDA 12.2.0  (system-system)](cuda-12.2.0.md)  
   
 ## Homepage  
 The homepage for cuDNN 8.9.2.26 -CUDA-12.2.0.  

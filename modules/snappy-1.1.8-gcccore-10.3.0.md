@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load snappy/1.1.8-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  

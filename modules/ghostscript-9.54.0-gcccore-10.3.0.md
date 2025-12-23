@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load ghostscript/9.54.0-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -30,14 +30,14 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
-[libpng 1.6.37  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
-[freetype 2.10.4  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
-[expat 2.2.9  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
-[GLib 2.68.2  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
-[cairo 1.16.0  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
-[LibTIFF 4.2.0  (GCCcore 10.3.0)](../hpc-docs/modules/ghostscript-9.54.0-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
+[freetype 2.10.4  (GCCcore-10.3.0)](freetype-.2.10.4-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
+[expat 2.2.9  (GCCcore-10.3.0)](expat-.2.2.9-gcccore-10.3.0.md)  
+[GLib 2.68.2  (GCCcore-10.3.0)](glib-.2.68.2-gcccore-10.3.0.md)  
+[cairo 1.16.0  (GCCcore-10.3.0)](cairo-.1.16.0-gcccore-10.3.0.md)  
+[LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-.4.2.0-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Ghostscript 9.54.0 .  

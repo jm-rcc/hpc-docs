@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load mesa/.22.0.3-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,13 +32,13 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/mesa-.22.0.3-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/mesa-.22.0.3-gcccore-11.3.0.md)  
-[libdrm 2.4.110  (GCCcore 11.3.0)](../hpc-docs/modules/mesa-.22.0.3-gcccore-11.3.0.md)  
-[libglvnd 1.4.0  (GCCcore 11.3.0)](../hpc-docs/modules/mesa-.22.0.3-gcccore-11.3.0.md)  
-[libunwind 1.6.2  (GCCcore 11.3.0)](../hpc-docs/modules/mesa-.22.0.3-gcccore-11.3.0.md)  
-[LLVM 14.0.3  (GCCcore 11.3.0)](../hpc-docs/modules/mesa-.22.0.3-gcccore-11.3.0.md)  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/mesa-.22.0.3-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
+[libdrm 2.4.110  (GCCcore-11.3.0)](libdrm-.2.4.110-gcccore-11.3.0.md)  
+[libglvnd 1.4.0  (GCCcore-11.3.0)](libglvnd-1.4.0-gcccore-11.3.0.md)  
+[libunwind 1.6.2  (GCCcore-11.3.0)](libunwind-.1.6.2-gcccore-11.3.0.md)  
+[LLVM 14.0.3  (GCCcore-11.3.0)](llvm-.14.0.3-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Mesa 22.0.3 .  

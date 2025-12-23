@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load xerces-c++/3.2.4-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[cURL 8.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/xerces-c++-3.2.4-gcccore-12.3.0.md)  
+[cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for Xerces-C++ 3.2.4 .  

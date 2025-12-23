@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load bwa/0.7.17-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -35,8 +35,8 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/bwa-0.7.17-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/bwa-0.7.17-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for BWA 0.7.17 .  

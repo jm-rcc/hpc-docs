@@ -17,7 +17,7 @@ To use the module on Bunya, load it with the command
   **`module load wayland/1.23.0-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -35,9 +35,9 @@ None
   
   
 ## Dependencies  
-[libffi 3.4.5  (GCCcore 13.3.0)](../hpc-docs/modules/wayland-1.23.0-gcccore-13.3.0.md)  
-[expat 2.6.2  (GCCcore 13.3.0)](../hpc-docs/modules/wayland-1.23.0-gcccore-13.3.0.md)  
-[libxml2 2.12.7  (GCCcore 13.3.0)](../hpc-docs/modules/wayland-1.23.0-gcccore-13.3.0.md)  
+[libffi 3.4.5  (GCCcore-13.3.0)](libffi-.3.4.5-gcccore-13.3.0.md)  
+[expat 2.6.2  (GCCcore-13.3.0)](expat-.2.6.2-gcccore-13.3.0.md)  
+[libxml2 2.12.7  (GCCcore-13.3.0)](libxml2-.2.12.7-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Wayland 1.23.0 .  

@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load vcftools/0.1.16-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/vcftools-0.1.16-gcc-11.3.0.md)  
-[HTSlib 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/vcftools-0.1.16-gcc-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/vcftools-0.1.16-gcc-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for VCFtools 0.1.16 .  

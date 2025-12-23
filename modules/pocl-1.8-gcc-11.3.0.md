@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load pocl/1.8-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[Clang 13.0.1  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
-[hwloc 2.7.1  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
-[libtool 2.4.7  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/pocl-1.8-gcc-11.3.0.md)  
+[Clang 13.0.1  (GCCcore-11.3.0)](clang-13.0.1-gcccore-11.3.0.md)  
+[hwloc 2.7.1  (GCCcore-11.3.0)](hwloc-.2.7.1-gcccore-11.3.0.md)  
+[libtool 2.4.7  (GCCcore-11.3.0)](libtool-.2.4.7-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for pocl 1.8 .  

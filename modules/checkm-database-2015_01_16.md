@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load checkm-database/2015_01_16`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

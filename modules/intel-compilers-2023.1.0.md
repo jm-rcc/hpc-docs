@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load intel-compilers/2023.1.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 12.3.0  (system system)](../hpc-docs/modules/intel-compilers-2023.1.0.md)  
-[binutils 2.40  (GCCcore 12.3.0)](../hpc-docs/modules/intel-compilers-2023.1.0.md)  
+[GCCcore 12.3.0  (system-system)](gcccore-.12.3.0.md)  
+[binutils 2.40  (GCCcore-12.3.0)](binutils-.2.40-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for intel-compilers 2023.1.0 .  

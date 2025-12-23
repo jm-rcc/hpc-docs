@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load libsndfile/.1.0.31-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[FLAC 1.3.3  (GCCcore 10.3.0)](../hpc-docs/modules/libsndfile-.1.0.31-gcccore-10.3.0.md)  
-[libvorbis 1.3.7  (GCCcore 10.3.0)](../hpc-docs/modules/libsndfile-.1.0.31-gcccore-10.3.0.md)  
+[FLAC 1.3.3  (GCCcore-10.3.0)](flac-1.3.3-gcccore-10.3.0.md)  
+[libvorbis 1.3.7  (GCCcore-10.3.0)](libvorbis-1.3.7-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libsndfile 1.0.31 .  

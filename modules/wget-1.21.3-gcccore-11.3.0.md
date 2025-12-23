@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load wget/1.21.3-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,10 +33,10 @@ None
   
   
 ## Dependencies  
-[PCRE 8.45  (GCCcore 11.3.0)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
-[libidn2 2.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/wget-1.21.3-gcccore-11.3.0.md)  
+[PCRE 8.45  (GCCcore-11.3.0)](pcre-.8.45-gcccore-11.3.0.md)  
+[libidn2 2.3.2  (GCCcore-11.3.0)](libidn2-.2.3.2-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for wget 1.21.3 .  

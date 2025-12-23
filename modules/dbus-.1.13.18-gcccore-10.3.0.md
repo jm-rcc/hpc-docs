@@ -16,7 +16,7 @@ To use the module on Bunya, load it with the command
   **`module load dbus/.1.13.18-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -37,7 +37,7 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[expat 2.2.9  (GCCcore 10.3.0)](../hpc-docs/modules/dbus-.1.13.18-gcccore-10.3.0.md)  
+[expat 2.2.9  (GCCcore-10.3.0)](expat-.2.2.9-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for DBus 1.13.18 .  

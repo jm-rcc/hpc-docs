@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load gitpython/3.1.27-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/gitpython-3.1.27-gcccore-11.3.0.md)  
-[git 2.36.0 -nodocs (GCCcore 11.3.0)](../hpc-docs/modules/gitpython-3.1.27-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[git 2.36.0 -nodocs (GCCcore-11.3.0)](git-2.36.0-gcccore-11.3.0-nodocs.md)  
   
 ## Homepage  
 The homepage for GitPython 3.1.27 .  

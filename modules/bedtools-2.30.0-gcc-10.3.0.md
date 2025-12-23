@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load bedtools/2.30.0-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,10 +34,10 @@ None
   
   
 ## Dependencies  
-[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
-[BamTools 2.5.2  (GCC 10.3.0)](../hpc-docs/modules/bedtools-2.30.0-gcc-10.3.0.md)  
+[XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
+[BamTools 2.5.2  (GCC-10.3.0)](bamtools-2.5.2-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for BEDTools 2.30.0 .  

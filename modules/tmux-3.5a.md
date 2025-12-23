@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load tmux/3.5a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[libevent 2.1.12  (system system)](../hpc-docs/modules/tmux-3.5a.md)  
-[ncurses 6.5  (system system)](../hpc-docs/modules/tmux-3.5a.md)  
+[libevent 2.1.12  (system-system)](libevent-.2.1.12.md)  
+[ncurses 6.5  (system-system)](ncurses-.6.5.md)  
   
 ## Homepage  
 The homepage for tmux 3.5a .  

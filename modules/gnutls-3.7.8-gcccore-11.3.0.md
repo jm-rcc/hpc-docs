@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load gnutls/3.7.8-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -36,14 +36,14 @@ None
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-[nettle 3.8  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-[Guile 3.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-[libtasn1 4.19.0  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-[libidn2 2.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-[p11-kit 0.24.1  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/gnutls-3.7.8-gcccore-11.3.0.md)  
+[GMP 6.2.1  (GCCcore-11.3.0)](gmp-.6.2.1-gcccore-11.3.0.md)  
+[nettle 3.8  (GCCcore-11.3.0)](nettle-.3.8-gcccore-11.3.0.md)  
+[Guile 3.0.8  (GCCcore-11.3.0)](guile-3.0.8-gcccore-11.3.0.md)  
+[libtasn1 4.19.0  (GCCcore-11.3.0)](libtasn1-.4.19.0-gcccore-11.3.0.md)  
+[libidn2 2.3.2  (GCCcore-11.3.0)](libidn2-.2.3.2-gcccore-11.3.0.md)  
+[p11-kit 0.24.1  (GCCcore-11.3.0)](p11-kit-.0.24.1-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for GnuTLS 3.7.8 .  

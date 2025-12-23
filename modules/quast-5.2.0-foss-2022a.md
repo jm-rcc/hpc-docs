@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load quast/5.2.0-foss-2022a`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -33,11 +33,11 @@ foss (2022a)
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/quast-5.2.0-foss-2022a.md)  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/quast-5.2.0-foss-2022a.md)  
-[matplotlib 3.5.2  (foss 2022a)](../hpc-docs/modules/quast-5.2.0-foss-2022a.md)  
-[Java 11  (system system)](../hpc-docs/modules/quast-5.2.0-foss-2022a.md)  
-[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/quast-5.2.0-foss-2022a.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  
+[Java 11  (system-system)](java-11.md)  
+[Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for QUAST 5.2.0 .  

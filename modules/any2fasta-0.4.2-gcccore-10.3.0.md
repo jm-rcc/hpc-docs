@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load any2fasta/0.4.2-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/any2fasta-0.4.2-gcccore-10.3.0.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for any2fasta 0.4.2 .  

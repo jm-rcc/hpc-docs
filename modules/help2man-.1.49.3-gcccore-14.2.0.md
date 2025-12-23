@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load help2man/.1.49.3-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 None  

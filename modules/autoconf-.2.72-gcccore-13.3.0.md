@@ -17,7 +17,7 @@ To use the module on Bunya, load it with the command
   **`module load autoconf/.2.72-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -38,8 +38,8 @@ None
   
   
 ## Dependencies  
-[M4 1.4.19  (GCCcore 13.3.0)](../hpc-docs/modules/autoconf-.2.72-gcccore-13.3.0.md)  
-[Perl 5.38.2  (GCCcore 13.3.0)](../hpc-docs/modules/autoconf-.2.72-gcccore-13.3.0.md)  
+[M4 1.4.19  (GCCcore-13.3.0)](m4-.1.4.19-gcccore-13.3.0.md)  
+[Perl 5.38.2  (GCCcore-13.3.0)](perl-5.38.2-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Autoconf 2.72 .  

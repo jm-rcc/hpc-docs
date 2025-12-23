@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load ngs/2.10.9-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/ngs-2.10.9-gcccore-10.3.0.md)  
+[Java 11  (system-system)](java-11.md)  
   
 ## Homepage  
 The homepage for NGS 2.10.9 .  

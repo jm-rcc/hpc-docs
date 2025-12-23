@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load libtool/.2.5.4-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 None  
@@ -27,7 +27,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.19  (GCCcore 14.2.0)](../hpc-docs/modules/libtool-.2.5.4-gcccore-14.2.0.md)  
+[M4 1.4.19  (GCCcore-14.2.0)](m4-.1.4.19-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for libtool 2.5.4 .  

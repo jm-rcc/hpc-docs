@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load ant/1.10.9-java-11`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/ant-1.10.9-java-11.md)  
+[Java 11  (system-system)](java-11.md)  
   
 ## Homepage  
 The homepage for ant 1.10.9 -Java-11.  

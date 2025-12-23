@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load hdf5/1.12.2-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
@@ -33,8 +33,8 @@ gompi (2022a)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/hdf5-1.12.2-gompi-2022a.md)  
-[Szip 2.1.1  (GCCcore 11.3.0)](../hpc-docs/modules/hdf5-1.12.2-gompi-2022a.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[Szip 2.1.1  (GCCcore-11.3.0)](szip-.2.1.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for HDF5 1.12.2 .  

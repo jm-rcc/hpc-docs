@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load anaconda3/2023.09-0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

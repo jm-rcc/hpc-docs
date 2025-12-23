@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load jupyterlab/3.5.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,9 +34,9 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/jupyterlab-3.5.0-gcccore-11.3.0.md)  
-[IPython 8.5.0  (GCCcore 11.3.0)](../hpc-docs/modules/jupyterlab-3.5.0-gcccore-11.3.0.md)  
-[jupyter-server 1.21.0  (GCCcore 11.3.0)](../hpc-docs/modules/jupyterlab-3.5.0-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[IPython 8.5.0  (GCCcore-11.3.0)](ipython-.8.5.0-gcccore-11.3.0.md)  
+[jupyter-server 1.21.0  (GCCcore-11.3.0)](jupyter-server-1.21.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for JupyterLab 3.5.0 .  

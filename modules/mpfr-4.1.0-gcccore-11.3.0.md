@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load mpfr/4.1.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[GMP 6.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/mpfr-4.1.0-gcccore-11.3.0.md)  
+[GMP 6.2.1  (GCCcore-11.3.0)](gmp-.6.2.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MPFR 4.1.0 .  

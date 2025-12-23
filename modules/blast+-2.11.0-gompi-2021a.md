@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load blast+/2.11.0-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 {'usempi': True, 'pic': True}  
@@ -33,14 +33,14 @@ gompi (2021a)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
-[PCRE 8.44  (GCCcore 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
-[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
-[GMP 6.2.1  (GCCcore 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
-[libpng 1.6.37  (GCCcore 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
-[LMDB 0.9.28  (GCCcore 10.3.0)](../hpc-docs/modules/blast+-2.11.0-gompi-2021a.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
+[PCRE 8.44  (GCCcore-10.3.0)](pcre-.8.44-gcccore-10.3.0.md)  
+[Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
+[GMP 6.2.1  (GCCcore-10.3.0)](gmp-.6.2.1-gcccore-10.3.0.md)  
+[libpng 1.6.37  (GCCcore-10.3.0)](libpng-.1.6.37-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
+[LMDB 0.9.28  (GCCcore-10.3.0)](lmdb-.0.9.28-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for BLAST+ 2.11.0 .  

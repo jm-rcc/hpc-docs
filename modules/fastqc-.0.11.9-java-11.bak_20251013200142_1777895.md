@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load fastqc/.0.11.9-java-11.bak_20251013200142_1777895`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -25,7 +25,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/fastqc-.0.11.9-java-11.bak_20251013200142_1777895.md)  
+[Java 11  (system-system)](java-11.md)  
   
 ## Homepage  
 The homepage for FastQC 0.11.9 -Java-11.  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load libint/2.7.2-gcc-11.3.0-lmax-6-cp2k`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True, 'cstd': 'c++11'}  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load git/2.41.0-gcccore-12.3.0-nodocs`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,11 +32,11 @@ None
   
   
 ## Dependencies  
-[cURL 8.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
-[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
-[gettext 0.21.1  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
-[Perl 5.36.1  (GCCcore 12.3.0)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/git-2.41.0-gcccore-12.3.0-nodocs.md)  
+[cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
+[expat 2.5.0  (GCCcore-12.3.0)](expat-.2.5.0-gcccore-12.3.0.md)  
+[gettext 0.21.1  (GCCcore-12.3.0)](gettext-.0.21.1-gcccore-12.3.0.md)  
+[Perl 5.36.1  (GCCcore-12.3.0)](perl-5.36.1-gcccore-12.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for git 2.41.0 -nodocs.  

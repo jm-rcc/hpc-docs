@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load libarchive/3.5.1-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/libarchive-3.5.1-gcccore-10.3.0.md)  
-[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/libarchive-3.5.1-gcccore-10.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/libarchive-3.5.1-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for libarchive 3.5.1 .  

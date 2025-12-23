@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load unzip/6.0-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 None  
@@ -28,7 +28,7 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 14.2.0)](../hpc-docs/modules/unzip-6.0-gcccore-14.2.0.md)  
+[bzip2 1.0.8  (GCCcore-14.2.0)](bzip2-.1.0.8-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for UnZip 6.0 .  

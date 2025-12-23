@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load mrbayes/3.2.7-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 None  
@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/mrbayes-3.2.7-gompi-2022a.md)  
-[beagle-lib 4.0.0  (GCC 11.3.0)](../hpc-docs/modules/mrbayes-3.2.7-gompi-2022a.md)  
+[libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-.8.1.2-gcccore-11.3.0.md)  
+[beagle-lib 4.0.0  (GCC-11.3.0)](beagle-lib-4.0.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for MrBayes 3.2.7 .  

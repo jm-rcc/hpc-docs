@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load bbmap/39.01-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/bbmap-39.01-gcc-11.3.0.md)  
+[Java 11  (system-system)](java-11.md)  
   
 ## Homepage  
 The homepage for BBMap 39.01 .  

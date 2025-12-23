@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libtiff/.4.2.0-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -29,11 +29,11 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
-[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
-[jbigkit 2.1  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
-[zstd 1.4.9  (GCCcore 10.3.0)](../hpc-docs/modules/libtiff-.4.2.0-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
+[XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
+[jbigkit 2.1  (GCCcore-10.3.0)](jbigkit-2.1-gcccore-10.3.0.md)  
+[zstd 1.4.9  (GCCcore-10.3.0)](zstd-1.4.9-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for LibTIFF 4.2.0 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load tkinter/3.9.5-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -29,9 +29,9 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/tkinter-3.9.5-gcccore-10.3.0.md)  
-[Tk 8.6.11  (GCCcore 10.3.0)](../hpc-docs/modules/tkinter-3.9.5-gcccore-10.3.0.md)  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/tkinter-3.9.5-gcccore-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[Tk 8.6.11  (GCCcore-10.3.0)](tk-.8.6.11-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Tkinter 3.9.5 .  

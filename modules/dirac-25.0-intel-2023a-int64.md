@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load dirac/25.0-intel-2023a-int64`**.  
   
 ### Toolchain  
-intel (2023a)  
+intel-2023a  
   
 ### Toolchain Options  
 {'usempi': True, 'i8': True, 'oneapi': False}  
@@ -22,8 +22,8 @@ intel (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/dirac-25.0-intel-2023a-int64.md)  
-[HDF5 1.14.6  (iimpi 2023a)](../hpc-docs/modules/dirac-25.0-intel-2023a-int64.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[HDF5 1.14.6  (iimpi-2023a)](hdf5-1.14.6-iimpi-2023a.md)  
   
 ## Homepage  
 The homepage for DIRAC 25.0 -int64.  

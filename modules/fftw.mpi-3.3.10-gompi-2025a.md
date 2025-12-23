@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load fftw.mpi/3.3.10-gompi-2025a`**.  
   
 ### Toolchain  
-gompi (2025a)  
+gompi-2025a  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -25,7 +25,7 @@ gompi (2025a)
   
   
 ## Dependencies  
-[FFTW 3.3.10  (GCC 14.2.0)](../hpc-docs/modules/fftw.mpi-3.3.10-gompi-2025a.md)  
+[FFTW 3.3.10  (GCC-14.2.0)](fftw-3.3.10-gcc-14.2.0.md)  
   
 ## Homepage  
 The homepage for FFTW.MPI 3.3.10 .  

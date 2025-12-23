@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load python/2.7.18-gcccore-10.3.0-bare`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -32,13 +32,13 @@ GCCcore (10.3.0)
   
   
 ## Dependencies  
-[binutils 2.36.1  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
-[libreadline 8.1  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
-[ncurses 6.2  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
-[SQLite 3.35.4  (GCCcore 10.3.0)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/python-2.7.18-gcccore-10.3.0-bare.md)  
+[binutils 2.36.1  (GCCcore-10.3.0)](binutils-.2.36.1-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[libreadline 8.1  (GCCcore-10.3.0)](libreadline-.8.1-gcccore-10.3.0.md)  
+[ncurses 6.2  (GCCcore-10.3.0)](ncurses-.6.2-gcccore-10.3.0.md)  
+[SQLite 3.35.4  (GCCcore-10.3.0)](sqlite-.3.35.4-gcccore-10.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for Python 2.7.18 -bare.  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load intel/2024a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[GCCcore 13.3.0  (system system)](../hpc-docs/modules/intel-2024a.md)  
-[binutils 2.42  (GCCcore 13.3.0)](../hpc-docs/modules/intel-2024a.md)  
-[intel-compilers 2024.2.0  (system system)](../hpc-docs/modules/intel-2024a.md)  
-[impi 2021.13.0  (intel-compilers 2024.2.0)](../hpc-docs/modules/intel-2024a.md)  
-[imkl 2024.2.0  (system system)](../hpc-docs/modules/intel-2024a.md)  
-[imkl-FFTW 2024.2.0  (iimpi 2024a)](../hpc-docs/modules/intel-2024a.md)  
+[GCCcore 13.3.0  (system-system)](gcccore-.13.3.0.md)  
+[binutils 2.42  (GCCcore-13.3.0)](binutils-.2.42-gcccore-13.3.0.md)  
+[intel-compilers 2024.2.0  (system-system)](intel-compilers-2024.2.0.md)  
+[impi 2021.13.0  (intel-compilers-2024.2.0)](impi-2021.13.0-intel-compilers-2024.2.0.md)  
+[imkl 2024.2.0  (system-system)](imkl-2024.2.0.md)  
+[imkl-FFTW 2024.2.0  (iimpi-2024a)](imkl-fftw-2024.2.0-iimpi-2024a.md)  
   
 ## Homepage  
 The homepage for intel 2024a .  

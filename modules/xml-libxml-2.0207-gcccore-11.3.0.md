@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load xml-libxml/2.0207-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/xml-libxml-2.0207-gcccore-11.3.0.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/xml-libxml-2.0207-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for XML-LibXML 2.0207 .  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load littlecms/2.12-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,7 +30,7 @@ None
   
   
 ## Dependencies  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/littlecms-2.12-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for LittleCMS 2.12 .  

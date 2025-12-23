@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libepoxy/.1.5.10-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/libepoxy-.1.5.10-gcccore-11.3.0.md)  
-[Mesa 22.0.3  (GCCcore 11.3.0)](../hpc-docs/modules/libepoxy-.1.5.10-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
+[Mesa 22.0.3  (GCCcore-11.3.0)](mesa-.22.0.3-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libepoxy 1.5.10 .  

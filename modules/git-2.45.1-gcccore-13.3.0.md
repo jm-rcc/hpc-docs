@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load git/2.45.1-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -29,11 +29,11 @@ None
   
   
 ## Dependencies  
-[cURL 8.7.1  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
-[expat 2.6.2  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
-[gettext 0.22.5  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
-[Perl 5.38.2  (GCCcore 13.3.0)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
-[OpenSSL 3  (system system)](../hpc-docs/modules/git-2.45.1-gcccore-13.3.0.md)  
+[cURL 8.7.1  (GCCcore-13.3.0)](curl-.8.7.1-gcccore-13.3.0.md)  
+[expat 2.6.2  (GCCcore-13.3.0)](expat-.2.6.2-gcccore-13.3.0.md)  
+[gettext 0.22.5  (GCCcore-13.3.0)](gettext-.0.22.5-gcccore-13.3.0.md)  
+[Perl 5.38.2  (GCCcore-13.3.0)](perl-5.38.2-gcccore-13.3.0.md)  
+[OpenSSL 3  (system-system)](openssl-3.md)  
   
 ## Homepage  
 The homepage for git 2.45.1 .  

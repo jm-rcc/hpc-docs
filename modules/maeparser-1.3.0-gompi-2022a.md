@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load maeparser/1.3.0-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/maeparser-1.3.0-gompi-2022a.md)  
+[Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for maeparser 1.3.0 .  

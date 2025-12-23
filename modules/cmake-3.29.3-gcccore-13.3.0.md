@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load cmake/3.29.3-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,12 +34,12 @@ None
   
   
 ## Dependencies  
-[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/cmake-3.29.3-gcccore-13.3.0.md)  
-[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/cmake-3.29.3-gcccore-13.3.0.md)  
-[bzip2 1.0.8  (GCCcore 13.3.0)](../hpc-docs/modules/cmake-3.29.3-gcccore-13.3.0.md)  
-[cURL 8.7.1  (GCCcore 13.3.0)](../hpc-docs/modules/cmake-3.29.3-gcccore-13.3.0.md)  
-[libarchive 3.7.4  (GCCcore 13.3.0)](../hpc-docs/modules/cmake-3.29.3-gcccore-13.3.0.md)  
-[OpenSSL 3  (system system)](../hpc-docs/modules/cmake-3.29.3-gcccore-13.3.0.md)  
+[ncurses 6.5  (GCCcore-13.3.0)](ncurses-.6.5-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
+[bzip2 1.0.8  (GCCcore-13.3.0)](bzip2-.1.0.8-gcccore-13.3.0.md)  
+[cURL 8.7.1  (GCCcore-13.3.0)](curl-.8.7.1-gcccore-13.3.0.md)  
+[libarchive 3.7.4  (GCCcore-13.3.0)](libarchive-3.7.4-gcccore-13.3.0.md)  
+[OpenSSL 3  (system-system)](openssl-3.md)  
   
 ## Homepage  
 The homepage for CMake 3.29.3 .  

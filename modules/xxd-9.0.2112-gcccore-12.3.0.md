@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load xxd/9.0.2112-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  

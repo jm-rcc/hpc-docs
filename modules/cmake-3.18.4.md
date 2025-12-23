@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load cmake/3.18.4`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/cmake-3.18.4.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for CMake 3.18.4 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load boost/1.79.0-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,11 +31,11 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
-[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
-[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
-[ICU 71.1  (GCCcore 11.3.0)](../hpc-docs/modules/boost-1.79.0-gcc-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
+[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
+[ICU 71.1  (GCCcore-11.3.0)](icu-.71.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Boost 1.79.0 .  

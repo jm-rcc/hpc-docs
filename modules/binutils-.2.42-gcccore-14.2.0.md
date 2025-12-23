@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load binutils/.2.42-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 None  
@@ -24,7 +24,7 @@ None
   
   
 ## Dependencies  
-[zlib 1.3.1  (GCCcore 14.2.0)](../hpc-docs/modules/binutils-.2.42-gcccore-14.2.0.md)  
+[zlib 1.3.1  (GCCcore-14.2.0)](zlib-.1.3.1-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for binutils 2.42 .  

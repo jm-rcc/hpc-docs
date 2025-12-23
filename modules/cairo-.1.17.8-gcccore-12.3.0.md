@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load cairo/.1.17.8-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,14 +33,14 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-[freetype 2.13.0  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-[pixman 0.42.2  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
-[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/cairo-.1.17.8-gcccore-12.3.0.md)  
+[bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[libpng 1.6.39  (GCCcore-12.3.0)](libpng-.1.6.39-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore-12.3.0)](freetype-.2.13.0-gcccore-12.3.0.md)  
+[pixman 0.42.2  (GCCcore-12.3.0)](pixman-.0.42.2-gcccore-12.3.0.md)  
+[expat 2.5.0  (GCCcore-12.3.0)](expat-.2.5.0-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore-12.3.0)](glib-.2.77.1-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for cairo 1.17.8 .  

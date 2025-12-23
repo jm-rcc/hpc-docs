@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load pyyaml/.5.4.1-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -29,8 +29,8 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pyyaml-.5.4.1-gcccore-10.3.0.md)  
-[libyaml 0.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/pyyaml-.5.4.1-gcccore-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[libyaml 0.2.5  (GCCcore-10.3.0)](libyaml-.0.2.5-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for PyYAML 5.4.1 .  

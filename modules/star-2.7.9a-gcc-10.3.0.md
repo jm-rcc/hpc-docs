@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load star/2.7.9a-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 {'openmp': True}  
@@ -31,7 +31,7 @@ GCC (10.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/star-2.7.9a-gcc-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for STAR 2.7.9a .  

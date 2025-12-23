@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load intel-compilers/2025.1.1`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -24,8 +24,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 14.2.0  (system system)](../hpc-docs/modules/intel-compilers-2025.1.1.md)  
-[binutils 2.42  (GCCcore 14.2.0)](../hpc-docs/modules/intel-compilers-2025.1.1.md)  
+[GCCcore 14.2.0  (system-system)](gcccore-.14.2.0.md)  
+[binutils 2.42  (GCCcore-14.2.0)](binutils-.2.42-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for intel-compilers 2025.1.1 .  

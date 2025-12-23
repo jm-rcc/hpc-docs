@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gompi/2025a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -25,8 +25,8 @@ None
   
   
 ## Dependencies  
-[GCC 14.2.0  (system system)](../hpc-docs/modules/gompi-2025a.md)  
-[OpenMPI 5.0.7  (GCC 14.2.0)](../hpc-docs/modules/gompi-2025a.md)  
+[GCC 14.2.0  (system-system)](gcc-14.2.0.md)  
+[OpenMPI 5.0.7  (GCC-14.2.0)](openmpi-5.0.7-gcc-14.2.0.md)  
   
 ## Homepage  
 The homepage for gompi 2025a .  

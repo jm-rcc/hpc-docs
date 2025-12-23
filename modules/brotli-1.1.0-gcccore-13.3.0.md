@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load brotli/1.1.0-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  

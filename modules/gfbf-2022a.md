@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gfbf/2022a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[GCC 11.3.0  (system system)](../hpc-docs/modules/gfbf-2022a.md)  
-[FlexiBLAS 3.2.0  (GCC 11.3.0)](../hpc-docs/modules/gfbf-2022a.md)  
-[FFTW 3.3.10  (GCC 11.3.0)](../hpc-docs/modules/gfbf-2022a.md)  
+[GCC 11.3.0  (system-system)](gcc-11.3.0.md)  
+[FlexiBLAS 3.2.0  (GCC-11.3.0)](flexiblas-3.2.0-gcc-11.3.0.md)  
+[FFTW 3.3.10  (GCC-11.3.0)](fftw-3.3.10-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for gfbf 2022a .  

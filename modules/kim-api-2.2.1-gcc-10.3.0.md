@@ -22,7 +22,7 @@ To use the module on Bunya, load it with the command
   **`module load kim-api/2.2.1-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -41,7 +41,7 @@ None
   
   
 ## Dependencies  
-[CMake 3.20.1  (GCCcore 10.3.0)](../hpc-docs/modules/kim-api-2.2.1-gcc-10.3.0.md)  
+[CMake 3.20.1  (GCCcore-10.3.0)](cmake-3.20.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for kim-api 2.2.1 .  

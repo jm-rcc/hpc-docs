@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load imagemagick/7.1.0-37-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,16 +31,16 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[Ghostscript 9.56.1  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[JasPer 2.0.33  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[LibTIFF 4.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[LittleCMS 2.13.1  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[Pango 1.50.7  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[pixman 0.40.0  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
-[FriBidi 1.0.12  (GCCcore 11.3.0)](../hpc-docs/modules/imagemagick-7.1.0-37-gcccore-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
+[Ghostscript 9.56.1  (GCCcore-11.3.0)](ghostscript-9.56.1-gcccore-11.3.0.md)  
+[JasPer 2.0.33  (GCCcore-11.3.0)](jasper-.2.0.33-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
+[LittleCMS 2.13.1  (GCCcore-11.3.0)](littlecms-2.13.1-gcccore-11.3.0.md)  
+[Pango 1.50.7  (GCCcore-11.3.0)](pango-.1.50.7-gcccore-11.3.0.md)  
+[pixman 0.40.0  (GCCcore-11.3.0)](pixman-.0.40.0-gcccore-11.3.0.md)  
+[FriBidi 1.0.12  (GCCcore-11.3.0)](fribidi-.1.0.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for ImageMagick 7.1.0-37 .  

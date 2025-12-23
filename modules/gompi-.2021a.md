@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gompi/.2021a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCC 10.3.0  (system system)](../hpc-docs/modules/gompi-.2021a.md)  
-[OpenMPI 4.1.1  (GCC 10.3.0)](../hpc-docs/modules/gompi-.2021a.md)  
+[GCC 10.3.0  (system-system)](gcc-10.3.0.md)  
+[OpenMPI 4.1.1  (GCC-10.3.0)](openmpi-4.1.1-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for gompi 2021a .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libtiff/.4.3.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,12 +31,12 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/libtiff-.4.3.0-gcccore-11.3.0.md)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/libtiff-.4.3.0-gcccore-11.3.0.md)  
-[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/libtiff-.4.3.0-gcccore-11.3.0.md)  
-[jbigkit 2.1  (GCCcore 11.3.0)](../hpc-docs/modules/libtiff-.4.3.0-gcccore-11.3.0.md)  
-[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/libtiff-.4.3.0-gcccore-11.3.0.md)  
-[libdeflate 1.10  (GCCcore 11.3.0)](../hpc-docs/modules/libtiff-.4.3.0-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
+[jbigkit 2.1  (GCCcore-11.3.0)](jbigkit-2.1-gcccore-11.3.0.md)  
+[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
+[libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for LibTIFF 4.3.0 .  

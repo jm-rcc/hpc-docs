@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load util-linux/.2.39-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,8 +31,8 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[ncurses 6.4  (GCCcore 12.3.0)](../hpc-docs/modules/util-linux-.2.39-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/util-linux-.2.39-gcccore-12.3.0.md)  
+[ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for util-linux 2.39 .  

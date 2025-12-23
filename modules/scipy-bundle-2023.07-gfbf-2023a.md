@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load scipy-bundle/2023.07-gfbf-2023a`**.  
   
 ### Toolchain  
-gfbf (2023a)  
+gfbf-2023a  
   
 ### Toolchain Options  
 {'pic': True, 'lowopt': True}  
@@ -31,9 +31,9 @@ gfbf (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/scipy-bundle-2023.07-gfbf-2023a.md)  
-[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](../hpc-docs/modules/scipy-bundle-2023.07-gfbf-2023a.md)  
-[pybind11 2.11.1  (GCCcore 12.3.0)](../hpc-docs/modules/scipy-bundle-2023.07-gfbf-2023a.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
+[pybind11 2.11.1  (GCCcore-12.3.0)](pybind11-2.11.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for SciPy-bundle 2023.07 .  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load blast/2.11.0-linux_x86_64`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

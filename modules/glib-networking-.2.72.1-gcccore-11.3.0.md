@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load glib-networking/.2.72.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/glib-networking-.2.72.1-gcccore-11.3.0.md)  
-[GnuTLS 3.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/glib-networking-.2.72.1-gcccore-11.3.0.md)  
-[libidn2 2.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/glib-networking-.2.72.1-gcccore-11.3.0.md)  
+[GLib 2.72.1  (GCCcore-11.3.0)](glib-.2.72.1-gcccore-11.3.0.md)  
+[GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
+[libidn2 2.3.2  (GCCcore-11.3.0)](libidn2-.2.3.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for glib-networking 2.72.1 .  

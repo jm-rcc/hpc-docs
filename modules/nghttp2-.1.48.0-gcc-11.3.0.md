@@ -17,7 +17,7 @@ To use the module on Bunya, load it with the command
   **`module load nghttp2/.1.48.0-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -38,16 +38,16 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[nghttp3 0.6.0  (GCCcore 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[Jansson 2.14  (GCC 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[jemalloc 5.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[ngtcp2 0.7.0  (GCC 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[libevent 2.1.12  (GCCcore 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[libev 4.33  (GCC 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
-[c-ares 1.18.1  (GCCcore 11.3.0)](../hpc-docs/modules/nghttp2-.1.48.0-gcc-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
+[nghttp3 0.6.0  (GCCcore-11.3.0)](nghttp3-.0.6.0-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[Jansson 2.14  (GCC-11.3.0)](jansson-2.14-gcc-11.3.0.md)  
+[jemalloc 5.3.0  (GCCcore-11.3.0)](jemalloc-.5.3.0-gcccore-11.3.0.md)  
+[ngtcp2 0.7.0  (GCC-11.3.0)](ngtcp2-.0.7.0-gcc-11.3.0.md)  
+[libevent 2.1.12  (GCCcore-11.3.0)](libevent-.2.1.12-gcccore-11.3.0.md)  
+[libev 4.33  (GCC-11.3.0)](libev-.4.33-gcc-11.3.0.md)  
+[c-ares 1.18.1  (GCCcore-11.3.0)](c-ares-.1.18.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for nghttp2 1.48.0 .  

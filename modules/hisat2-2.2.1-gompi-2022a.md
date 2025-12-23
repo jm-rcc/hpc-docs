@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load hisat2/2.2.1-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[ncbi-vdb 3.0.2  (gompi 2022a)](../hpc-docs/modules/hisat2-2.2.1-gompi-2022a.md)  
-[SRA-Toolkit 3.0.3  (gompi 2022a)](../hpc-docs/modules/hisat2-2.2.1-gompi-2022a.md)  
+[ncbi-vdb 3.0.2  (gompi-2022a)](ncbi-vdb-3.0.2-gompi-2022a.md)  
+[SRA-Toolkit 3.0.3  (gompi-2022a)](sra-toolkit-3.0.3-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for HISAT2 2.2.1 .  

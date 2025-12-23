@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load zstd/1.4.9-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,10 +34,10 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/zstd-1.4.9-gcccore-10.3.0.md)  
-[gzip 1.10  (GCCcore 10.3.0)](../hpc-docs/modules/zstd-1.4.9-gcccore-10.3.0.md)  
-[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/zstd-1.4.9-gcccore-10.3.0.md)  
-[lz4 1.9.3  (GCCcore 10.3.0)](../hpc-docs/modules/zstd-1.4.9-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[gzip 1.10  (GCCcore-10.3.0)](gzip-1.10-gcccore-10.3.0.md)  
+[XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
+[lz4 1.9.3  (GCCcore-10.3.0)](lz4-1.9.3-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for zstd 1.4.9 .  

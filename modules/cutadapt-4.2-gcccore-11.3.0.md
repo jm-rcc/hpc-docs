@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load cutadapt/4.2-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[pigz 2.7  (GCCcore 11.3.0)](../hpc-docs/modules/cutadapt-4.2-gcccore-11.3.0.md)  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/cutadapt-4.2-gcccore-11.3.0.md)  
-[python-isal 1.1.0  (GCCcore 11.3.0)](../hpc-docs/modules/cutadapt-4.2-gcccore-11.3.0.md)  
+[pigz 2.7  (GCCcore-11.3.0)](pigz-2.7-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[python-isal 1.1.0  (GCCcore-11.3.0)](python-isal-1.1.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for cutadapt 4.2 .  

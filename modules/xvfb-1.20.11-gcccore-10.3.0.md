@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load xvfb/1.20.11-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,13 +30,13 @@ None
   
   
 ## Dependencies  
-[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/xvfb-1.20.11-gcccore-10.3.0.md)  
-[pixman 0.40.0  (GCCcore 10.3.0)](../hpc-docs/modules/xvfb-1.20.11-gcccore-10.3.0.md)  
-[libdrm 2.4.106  (GCCcore 10.3.0)](../hpc-docs/modules/xvfb-1.20.11-gcccore-10.3.0.md)  
-[Mesa 21.1.1  (GCCcore 10.3.0)](../hpc-docs/modules/xvfb-1.20.11-gcccore-10.3.0.md)  
-[nettle 3.7.2  (GCCcore 10.3.0)](../hpc-docs/modules/xvfb-1.20.11-gcccore-10.3.0.md)  
-[libunwind 1.4.0  (GCCcore 10.3.0)](../hpc-docs/modules/xvfb-1.20.11-gcccore-10.3.0.md)  
-[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/xvfb-1.20.11-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore-10.3.0)](x11-.20210518-gcccore-10.3.0.md)  
+[pixman 0.40.0  (GCCcore-10.3.0)](pixman-.0.40.0-gcccore-10.3.0.md)  
+[libdrm 2.4.106  (GCCcore-10.3.0)](libdrm-.2.4.106-gcccore-10.3.0.md)  
+[Mesa 21.1.1  (GCCcore-10.3.0)](mesa-.21.1.1-gcccore-10.3.0.md)  
+[nettle 3.7.2  (GCCcore-10.3.0)](nettle-.3.7.2-gcccore-10.3.0.md)  
+[libunwind 1.4.0  (GCCcore-10.3.0)](libunwind-.1.4.0-gcccore-10.3.0.md)  
+[XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Xvfb 1.20.11 .  

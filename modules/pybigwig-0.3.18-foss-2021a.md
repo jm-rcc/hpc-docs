@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load pybigwig/0.3.18-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  
@@ -30,10 +30,10 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
-[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
-[NSS 3.65  (GCCcore 10.3.0)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
-[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/pybigwig-0.3.18-foss-2021a.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
+[NSS 3.65  (GCCcore-10.3.0)](nss-.3.65-gcccore-10.3.0.md)  
+[SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
   
 ## Homepage  
 The homepage for pyBigWig 0.3.18 .  

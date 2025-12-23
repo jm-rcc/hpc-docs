@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load beagle-lib/4.0.0-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/beagle-lib-4.0.0-gcc-11.3.0.md)  
-[pocl 1.8  (GCC 11.3.0)](../hpc-docs/modules/beagle-lib-4.0.0-gcc-11.3.0.md)  
+[Java 11  (system-system)](java-11.md)  
+[pocl 1.8  (GCC-11.3.0)](pocl-1.8-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for beagle-lib 4.0.0 .  

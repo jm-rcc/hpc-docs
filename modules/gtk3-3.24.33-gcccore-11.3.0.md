@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load gtk3/3.24.33-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -36,13 +36,13 @@ None
   
   
 ## Dependencies  
-[ATK 2.38.0  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
-[at-spi2-atk 2.38.0  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
-[Gdk-Pixbuf 2.42.8  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
-[Pango 1.50.7  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
-[libepoxy 1.5.10  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
-[FriBidi 1.0.12  (GCCcore 11.3.0)](../hpc-docs/modules/gtk3-3.24.33-gcccore-11.3.0.md)  
+[ATK 2.38.0  (GCCcore-11.3.0)](atk-.2.38.0-gcccore-11.3.0.md)  
+[at-spi2-atk 2.38.0  (GCCcore-11.3.0)](at-spi2-atk-.2.38.0-gcccore-11.3.0.md)  
+[Gdk-Pixbuf 2.42.8  (GCCcore-11.3.0)](gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
+[Pango 1.50.7  (GCCcore-11.3.0)](pango-.1.50.7-gcccore-11.3.0.md)  
+[libepoxy 1.5.10  (GCCcore-11.3.0)](libepoxy-.1.5.10-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
+[FriBidi 1.0.12  (GCCcore-11.3.0)](fribidi-.1.0.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for GTK3 3.24.33 .  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load graphite2/1.3.14-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  

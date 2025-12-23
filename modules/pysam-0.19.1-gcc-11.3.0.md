@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load pysam/0.19.1-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
-[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
-[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
-[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/pysam-0.19.1-gcc-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
+[cURL 7.83.0  (GCCcore-11.3.0)](curl-.7.83.0-gcccore-11.3.0.md)  
+[XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Pysam 0.19.1 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load imkl-fftw/2024.2.0-iimpi-2024a`**.  
   
 ### Toolchain  
-iimpi (2024a)  
+iimpi-2024a  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[imkl 2024.2.0  (system system)](../hpc-docs/modules/imkl-fftw-2024.2.0-iimpi-2024a.md)  
+[imkl 2024.2.0  (system-system)](imkl-2024.2.0.md)  
   
 ## Homepage  
 The homepage for imkl-FFTW 2024.2.0 .  

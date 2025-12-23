@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load libxslt/1.1.38-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/libxslt-1.1.38-gcccore-12.3.0.md)  
-[libxml2 2.11.4  (GCCcore 12.3.0)](../hpc-docs/modules/libxslt-1.1.38-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for libxslt 1.1.38 .  

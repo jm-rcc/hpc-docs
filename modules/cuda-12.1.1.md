@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load cuda/12.1.1`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libgeotiff/1.7.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[PROJ 9.0.0  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
-[LibTIFF 4.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
-[cURL 7.83.0  (GCCcore 11.3.0)](../hpc-docs/modules/libgeotiff-1.7.1-gcccore-11.3.0.md)  
+[PROJ 9.0.0  (GCCcore-11.3.0)](proj-.9.0.0-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-.3.38.3-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
+[cURL 7.83.0  (GCCcore-11.3.0)](curl-.7.83.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libgeotiff 1.7.1 .  

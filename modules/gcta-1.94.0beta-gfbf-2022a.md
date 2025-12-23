@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load gcta/1.94.0beta-gfbf-2022a`**.  
   
 ### Toolchain  
-gfbf (2022a)  
+gfbf-2022a  
   
 ### Toolchain Options  
 None  
@@ -36,10 +36,10 @@ None
   
   
 ## Dependencies  
-[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
-[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
-[GSL 2.7  (GCC 11.3.0)](../hpc-docs/modules/gcta-1.94.0beta-gfbf-2022a.md)  
+[Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
+[SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-.3.38.3-gcccore-11.3.0.md)  
+[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
+[GSL 2.7  (GCC-11.3.0)](gsl-2.7-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for GCTA 1.94.0beta .  

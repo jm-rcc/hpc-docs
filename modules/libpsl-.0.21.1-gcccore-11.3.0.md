@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libpsl/.0.21.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[libidn2 2.3.2  (GCCcore 11.3.0)](../hpc-docs/modules/libpsl-.0.21.1-gcccore-11.3.0.md)  
-[libunistring 1.0  (GCCcore 11.3.0)](../hpc-docs/modules/libpsl-.0.21.1-gcccore-11.3.0.md)  
+[libidn2 2.3.2  (GCCcore-11.3.0)](libidn2-.2.3.2-gcccore-11.3.0.md)  
+[libunistring 1.0  (GCCcore-11.3.0)](libunistring-.1.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for libpsl 0.21.1 .  

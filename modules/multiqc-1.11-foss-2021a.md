@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load multiqc/1.11-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  
@@ -33,10 +33,10 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
-[matplotlib 3.4.2  (foss 2021a)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
-[PyYAML 5.4.1  (GCCcore 10.3.0)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
-[networkx 2.5.1  (foss 2021a)](../hpc-docs/modules/multiqc-1.11-foss-2021a.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[matplotlib 3.4.2  (foss-2021a)](matplotlib-3.4.2-foss-2021a.md)  
+[PyYAML 5.4.1  (GCCcore-10.3.0)](pyyaml-.5.4.1-gcccore-10.3.0.md)  
+[networkx 2.5.1  (foss-2021a)](networkx-.2.5.1-foss-2021a.md)  
   
 ## Homepage  
 The homepage for MultiQC 1.11 .  

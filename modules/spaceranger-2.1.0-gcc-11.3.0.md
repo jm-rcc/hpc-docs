@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load spaceranger/2.1.0-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[bcl2fastq2 2.20.0  (GCC 11.3.0)](../hpc-docs/modules/spaceranger-2.1.0-gcc-11.3.0.md)  
-[libxslt 1.1.34  (GCCcore 11.3.0)](../hpc-docs/modules/spaceranger-2.1.0-gcc-11.3.0.md)  
+[bcl2fastq2 2.20.0  (GCC-11.3.0)](bcl2fastq2-2.20.0-gcc-11.3.0.md)  
+[libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for SpaceRanger 2.1.0 .  

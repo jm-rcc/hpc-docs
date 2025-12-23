@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load gnuplot/.5.4.4-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,16 +31,16 @@ None
   
   
 ## Dependencies  
-[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[cairo 1.17.4  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[libgd 2.3.3  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[Pango 1.50.7  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[libcerf 2.1  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[Qt5 5.15.5  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
-[Lua 5.4.4  (GCCcore 11.3.0)](../hpc-docs/modules/gnuplot-.5.4.4-gcccore-11.3.0.md)  
+[ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore-11.3.0)](cairo-.1.17.4-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore-11.3.0)](libpng-.1.6.37-gcccore-11.3.0.md)  
+[libgd 2.3.3  (GCCcore-11.3.0)](libgd-.2.3.3-gcccore-11.3.0.md)  
+[Pango 1.50.7  (GCCcore-11.3.0)](pango-.1.50.7-gcccore-11.3.0.md)  
+[libcerf 2.1  (GCCcore-11.3.0)](libcerf-.2.1-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
+[Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
+[Lua 5.4.4  (GCCcore-11.3.0)](lua-5.4.4-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for gnuplot 5.4.4 .  

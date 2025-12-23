@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load ffmpeg/6.0-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,17 +30,17 @@ None
   
   
 ## Dependencies  
-[NASM 2.16.01  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[x264 20230226  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[LAME 3.100  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[x265 3.5  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[freetype 2.13.0  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[fontconfig 2.14.2  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[FriBidi 1.0.12  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
-[SDL2 2.28.2  (GCCcore 12.3.0)](../hpc-docs/modules/ffmpeg-6.0-gcccore-12.3.0.md)  
+[NASM 2.16.01  (GCCcore-12.3.0)](nasm-.2.16.01-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
+[x264 20230226  (GCCcore-12.3.0)](x264-20230226-gcccore-12.3.0.md)  
+[LAME 3.100  (GCCcore-12.3.0)](lame-3.100-gcccore-12.3.0.md)  
+[x265 3.5  (GCCcore-12.3.0)](x265-3.5-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
+[freetype 2.13.0  (GCCcore-12.3.0)](freetype-.2.13.0-gcccore-12.3.0.md)  
+[fontconfig 2.14.2  (GCCcore-12.3.0)](fontconfig-.2.14.2-gcccore-12.3.0.md)  
+[FriBidi 1.0.12  (GCCcore-12.3.0)](fribidi-.1.0.12-gcccore-12.3.0.md)  
+[SDL2 2.28.2  (GCCcore-12.3.0)](sdl2-2.28.2-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for FFmpeg 6.0 .  

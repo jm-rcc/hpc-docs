@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load plumed/2.7.2-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 {'usempi': 'True'}  
@@ -34,11 +34,11 @@ foss (2021a)
   
   
 ## Dependencies  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
-[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
-[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
-[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/plumed-2.7.2-foss-2021a.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[GSL 2.7  (GCC-10.3.0)](gsl-2.7-gcc-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
+[Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for PLUMED 2.7.2 .  

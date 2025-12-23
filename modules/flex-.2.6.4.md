@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load flex/.2.6.4`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[M4 1.4.19  (system system)](../hpc-docs/modules/flex-.2.6.4.md)  
+[M4 1.4.19  (system-system)](m4-.1.4.19.md)  
   
 ## Homepage  
 The homepage for flex 2.6.4 .  

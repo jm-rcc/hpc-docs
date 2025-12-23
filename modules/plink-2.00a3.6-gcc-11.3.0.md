@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load plink/2.00a3.6-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[FlexiBLAS 3.2.0  (GCC 11.3.0)](../hpc-docs/modules/plink-2.00a3.6-gcc-11.3.0.md)  
-[libdeflate 1.10  (GCCcore 11.3.0)](../hpc-docs/modules/plink-2.00a3.6-gcc-11.3.0.md)  
-[zstd 1.5.2  (GCCcore 11.3.0)](../hpc-docs/modules/plink-2.00a3.6-gcc-11.3.0.md)  
+[FlexiBLAS 3.2.0  (GCC-11.3.0)](flexiblas-3.2.0-gcc-11.3.0.md)  
+[libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
+[zstd 1.5.2  (GCCcore-11.3.0)](zstd-1.5.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for PLINK 2.00a3.6 .  

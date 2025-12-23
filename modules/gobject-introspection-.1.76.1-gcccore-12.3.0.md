@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load gobject-introspection/.1.76.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -35,10 +35,10 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/gobject-introspection-.1.76.1-gcccore-12.3.0.md)  
-[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/gobject-introspection-.1.76.1-gcccore-12.3.0.md)  
-[libffi 3.4.4  (GCCcore 12.3.0)](../hpc-docs/modules/gobject-introspection-.1.76.1-gcccore-12.3.0.md)  
-[util-linux 2.39  (GCCcore 12.3.0)](../hpc-docs/modules/gobject-introspection-.1.76.1-gcccore-12.3.0.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore-12.3.0)](glib-.2.77.1-gcccore-12.3.0.md)  
+[libffi 3.4.4  (GCCcore-12.3.0)](libffi-.3.4.4-gcccore-12.3.0.md)  
+[util-linux 2.39  (GCCcore-12.3.0)](util-linux-.2.39-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for GObject-Introspection 1.76.1 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load perl/5.34.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,12 +31,12 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
-[expat 2.4.8  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
-[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
-[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
-[DB 18.1.40  (GCCcore 11.3.0)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/perl-5.34.1-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[expat 2.4.8  (GCCcore-11.3.0)](expat-.2.4.8-gcccore-11.3.0.md)  
+[ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
+[libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-.8.1.2-gcccore-11.3.0.md)  
+[DB 18.1.40  (GCCcore-11.3.0)](db-18.1.40-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for Perl 5.34.1 .  

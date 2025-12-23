@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load alsa-lib/.1.2.8-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/alsa-lib-.1.2.8-gcccore-11.3.0.md)  
+[binutils 2.38  (GCCcore-11.3.0)](binutils-.2.38-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for alsa-lib 1.2.8 .  

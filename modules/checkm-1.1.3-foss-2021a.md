@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load checkm/1.1.3-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  
@@ -30,14 +30,14 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
-[pplacer 1.1.alpha19  (system system)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
-[prodigal 2.6.3  (GCCcore 10.3.0)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
-[HMMER 3.3.2  (gompi 2021a)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
-[SciPy-bundle 2021.05  (foss 2021a)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
-[matplotlib 3.4.2  (foss 2021a)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
-[Pysam 0.16.0.1  (GCC 10.3.0)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
-[DendroPy 4.5.2  (GCCcore 10.3.0)](../hpc-docs/modules/checkm-1.1.3-foss-2021a.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[pplacer 1.1.alpha19  (system-system)](pplacer-1.1.alpha19.md)  
+[prodigal 2.6.3  (GCCcore-10.3.0)](prodigal-2.6.3-gcccore-10.3.0.md)  
+[HMMER 3.3.2  (gompi-2021a)](hmmer-3.3.2-gompi-2021a.md)  
+[SciPy-bundle 2021.05  (foss-2021a)](scipy-bundle-2021.05-foss-2021a.md)  
+[matplotlib 3.4.2  (foss-2021a)](matplotlib-3.4.2-foss-2021a.md)  
+[Pysam 0.16.0.1  (GCC-10.3.0)](pysam-0.16.0.1-gcc-10.3.0.md)  
+[DendroPy 4.5.2  (GCCcore-10.3.0)](dendropy-4.5.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for CheckM 1.1.3 .  

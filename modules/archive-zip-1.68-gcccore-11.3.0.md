@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load archive-zip/1.68-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/archive-zip-1.68-gcccore-11.3.0.md)  
-[UnZip 6.0  (GCCcore 11.3.0)](../hpc-docs/modules/archive-zip-1.68-gcccore-11.3.0.md)  
-[Zip 3.0  (GCCcore 11.3.0)](../hpc-docs/modules/archive-zip-1.68-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[UnZip 6.0  (GCCcore-11.3.0)](unzip-6.0-gcccore-11.3.0.md)  
+[Zip 3.0  (GCCcore-11.3.0)](zip-3.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Archive-Zip 1.68 .  

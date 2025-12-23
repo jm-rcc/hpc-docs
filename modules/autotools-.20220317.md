@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load autotools/.20220317`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -34,9 +34,9 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.71  (system system)](../hpc-docs/modules/autotools-.20220317.md)  
-[Automake 1.16.5  (system system)](../hpc-docs/modules/autotools-.20220317.md)  
-[libtool 2.4.7  (system system)](../hpc-docs/modules/autotools-.20220317.md)  
+[Autoconf 2.71  (system-system)](autoconf-.2.71.md)  
+[Automake 1.16.5  (system-system)](automake-.1.16.5.md)  
+[libtool 2.4.7  (system-system)](libtool-.2.4.7.md)  
   
 ## Homepage  
 The homepage for Autotools 20220317 .  

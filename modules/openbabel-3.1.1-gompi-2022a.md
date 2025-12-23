@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load openbabel/3.1.1-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 {'pic': True, 'optarch': 'mavx2'}  
@@ -34,15 +34,15 @@ gompi (2022a)
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[Eigen 3.4.0  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[RapidJSON 1.1.0  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[cairo 1.17.4  (GCCcore 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[maeparser 1.3.0  (gompi 2022a)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
-[CoordgenLibs 3.0.1  (gompi 2022a)](../hpc-docs/modules/openbabel-3.1.1-gompi-2022a.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[Eigen 3.4.0  (GCCcore-11.3.0)](eigen-.3.4.0-gcccore-11.3.0.md)  
+[RapidJSON 1.1.0  (GCCcore-11.3.0)](rapidjson-1.1.0-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore-11.3.0)](cairo-.1.17.4-gcccore-11.3.0.md)  
+[Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
+[maeparser 1.3.0  (gompi-2022a)](maeparser-1.3.0-gompi-2022a.md)  
+[CoordgenLibs 3.0.1  (gompi-2022a)](coordgenlibs-3.0.1-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for OpenBabel 3.1.1 .  

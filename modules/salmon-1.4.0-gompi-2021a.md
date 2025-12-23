@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load salmon/1.4.0-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 {'pic': True, 'openmp': True}  
@@ -30,8 +30,8 @@ gompi (2021a)
   
   
 ## Dependencies  
-[Boost 1.76.0  (GCC 10.3.0)](../hpc-docs/modules/salmon-1.4.0-gompi-2021a.md)  
-[tbb 2020.3  (GCCcore 10.3.0)](../hpc-docs/modules/salmon-1.4.0-gompi-2021a.md)  
+[Boost 1.76.0  (GCC-10.3.0)](boost-1.76.0-gcc-10.3.0.md)  
+[tbb 2020.3  (GCCcore-10.3.0)](tbb-2020.3-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Salmon 1.4.0 .  

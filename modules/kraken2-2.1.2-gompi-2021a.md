@@ -16,7 +16,7 @@ To use the module on Bunya, load it with the command
   **`module load kraken2/2.1.2-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 {'openmp': True, 'cstd': 'c++11'}  
@@ -37,9 +37,9 @@ gompi (2021a)
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/kraken2-2.1.2-gompi-2021a.md)  
-[BLAST+ 2.11.0  (gompi 2021a)](../hpc-docs/modules/kraken2-2.1.2-gompi-2021a.md)  
-[wget 1.21.1  (GCCcore 10.3.0)](../hpc-docs/modules/kraken2-2.1.2-gompi-2021a.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[wget 1.21.1  (GCCcore-10.3.0)](wget-1.21.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Kraken2 2.1.2 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load intel/2022a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[GCCcore 11.3.0  (system system)](../hpc-docs/modules/intel-2022a.md)  
-[binutils 2.38  (GCCcore 11.3.0)](../hpc-docs/modules/intel-2022a.md)  
-[intel-compilers 2022.1.0  (system system)](../hpc-docs/modules/intel-2022a.md)  
-[impi 2021.6.0  (intel-compilers 2022.1.0)](../hpc-docs/modules/intel-2022a.md)  
-[imkl 2022.1.0  (system system)](../hpc-docs/modules/intel-2022a.md)  
-[imkl-FFTW 2022.1.0  (iimpi 2022a)](../hpc-docs/modules/intel-2022a.md)  
+[GCCcore 11.3.0  (system-system)](gcccore-.11.3.0.md)  
+[binutils 2.38  (GCCcore-11.3.0)](binutils-.2.38-gcccore-11.3.0.md)  
+[intel-compilers 2022.1.0  (system-system)](intel-compilers-2022.1.0.md)  
+[impi 2021.6.0  (intel-compilers-2022.1.0)](impi-2021.6.0-intel-compilers-2022.1.0.md)  
+[imkl 2022.1.0  (system-system)](imkl-2022.1.0.md)  
+[imkl-FFTW 2022.1.0  (iimpi-2022a)](imkl-fftw-2022.1.0-iimpi-2022a.md)  
   
 ## Homepage  
 The homepage for intel 2022a .  

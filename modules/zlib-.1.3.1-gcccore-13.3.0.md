@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load zlib/.1.3.1-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  

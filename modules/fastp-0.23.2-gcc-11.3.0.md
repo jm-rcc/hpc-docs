@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load fastp/0.23.2-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/fastp-0.23.2-gcc-11.3.0.md)  
-[libdeflate 1.10  (GCCcore 11.3.0)](../hpc-docs/modules/fastp-0.23.2-gcc-11.3.0.md)  
-[ISA-L 2.30.0  (GCCcore 11.3.0)](../hpc-docs/modules/fastp-0.23.2-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[libdeflate 1.10  (GCCcore-11.3.0)](libdeflate-1.10-gcccore-11.3.0.md)  
+[ISA-L 2.30.0  (GCCcore-11.3.0)](isa-l-2.30.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for fastp 0.23.2 .  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load clang/18.1.8-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -29,12 +29,12 @@ None
   
   
 ## Dependencies  
-[binutils 2.42  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
-[hwloc 2.10.0  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
-[libxml2 2.12.7  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
-[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
-[GMP 6.3.0  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
-[Z3 4.13.0  (GCCcore 13.3.0)](../hpc-docs/modules/clang-18.1.8-gcccore-13.3.0.md)  
+[binutils 2.42  (GCCcore-13.3.0)](binutils-.2.42-gcccore-13.3.0.md)  
+[hwloc 2.10.0  (GCCcore-13.3.0)](hwloc-.2.10.0-gcccore-13.3.0.md)  
+[libxml2 2.12.7  (GCCcore-13.3.0)](libxml2-.2.12.7-gcccore-13.3.0.md)  
+[ncurses 6.5  (GCCcore-13.3.0)](ncurses-.6.5-gcccore-13.3.0.md)  
+[GMP 6.3.0  (GCCcore-13.3.0)](gmp-.6.3.0-gcccore-13.3.0.md)  
+[Z3 4.13.0  (GCCcore-13.3.0)](z3-4.13.0-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Clang 18.1.8 .  

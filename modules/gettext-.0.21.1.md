@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load gettext/.0.21.1`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -33,7 +33,7 @@ None
   
   
 ## Dependencies  
-[ncurses 6.3  (system system)](../hpc-docs/modules/gettext-.0.21.1.md)  
+[ncurses 6.3  (system-system)](ncurses-.6.3.md)  
   
 ## Homepage  
 The homepage for gettext 0.21.1 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load suitesparse/5.13.0-foss-2022a-metis-5.1.0`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 {'unroll': True, 'pic': True}  
@@ -31,8 +31,8 @@ foss (2022a)
   
   
 ## Dependencies  
-[METIS 5.1.0  (GCCcore 11.3.0)](../hpc-docs/modules/suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
-[MPFR 4.1.0  (GCCcore 11.3.0)](../hpc-docs/modules/suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
+[METIS 5.1.0  (GCCcore-11.3.0)](metis-5.1.0-gcccore-11.3.0.md)  
+[MPFR 4.1.0  (GCCcore-11.3.0)](mpfr-4.1.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for SuiteSparse 5.13.0 -METIS-5.1.0.  

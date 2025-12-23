@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load automake/.1.16.5`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.71  (system system)](../hpc-docs/modules/automake-.1.16.5.md)  
+[Autoconf 2.71  (system-system)](autoconf-.2.71.md)  
   
 ## Homepage  
 The homepage for Automake 1.16.5 .  

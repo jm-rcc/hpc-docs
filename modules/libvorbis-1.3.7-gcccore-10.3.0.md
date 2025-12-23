@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load libvorbis/1.3.7-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,7 +30,7 @@ None
   
   
 ## Dependencies  
-[libogg 1.3.4  (GCCcore 10.3.0)](../hpc-docs/modules/libvorbis-1.3.7-gcccore-10.3.0.md)  
+[libogg 1.3.4  (GCCcore-10.3.0)](libogg-1.3.4-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for libvorbis 1.3.7 .  

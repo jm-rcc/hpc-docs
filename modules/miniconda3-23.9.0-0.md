@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load miniconda3/23.9.0-0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

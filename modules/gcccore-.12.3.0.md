@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gcccore/.12.3.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

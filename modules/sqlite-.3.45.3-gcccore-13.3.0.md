@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load sqlite/.3.45.3-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,8 +31,8 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[libreadline 8.2  (GCCcore 13.3.0)](../hpc-docs/modules/sqlite-.3.45.3-gcccore-13.3.0.md)  
-[Tcl 8.6.14  (GCCcore 13.3.0)](../hpc-docs/modules/sqlite-.3.45.3-gcccore-13.3.0.md)  
+[libreadline 8.2  (GCCcore-13.3.0)](libreadline-.8.2-gcccore-13.3.0.md)  
+[Tcl 8.6.14  (GCCcore-13.3.0)](tcl-.8.6.14-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for SQLite 3.45.3 .  

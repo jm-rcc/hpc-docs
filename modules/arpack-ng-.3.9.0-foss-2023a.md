@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load arpack-ng/.3.9.0-foss-2023a`**.  
   
 ### Toolchain  
-foss (2023a)  
+foss-2023a  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  

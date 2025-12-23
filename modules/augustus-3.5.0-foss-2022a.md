@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load augustus/3.5.0-foss-2022a`**.  
   
 ### Toolchain  
-foss (2022a)  
+foss-2022a  
   
 ### Toolchain Options  
 None  
@@ -31,16 +31,16 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[GSL 2.7  (GCC 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[SAMtools 1.16.1  (GCC 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[HTSlib 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[BCFtools 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[lpsolve 5.5.2.11  (GCC 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[SuiteSparse 5.13.0 -METIS-5.1.0 (foss 2022a)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[BamTools 2.5.2  (GCC 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
-[SQLite 3.38.3  (GCCcore 11.3.0)](../hpc-docs/modules/augustus-3.5.0-foss-2022a.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
+[GSL 2.7  (GCC-11.3.0)](gsl-2.7-gcc-11.3.0.md)  
+[SAMtools 1.16.1  (GCC-11.3.0)](samtools-1.16.1-gcc-11.3.0.md)  
+[HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
+[BCFtools 1.15.1  (GCC-11.3.0)](bcftools-1.15.1-gcc-11.3.0.md)  
+[lpsolve 5.5.2.11  (GCC-11.3.0)](lpsolve-5.5.2.11-gcc-11.3.0.md)  
+[SuiteSparse 5.13.0 -METIS-5.1.0 (foss-2022a)](suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
+[BamTools 2.5.2  (GCC-11.3.0)](bamtools-2.5.2-gcc-11.3.0.md)  
+[SQLite 3.38.3  (GCCcore-11.3.0)](sqlite-.3.38.3-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for AUGUSTUS 3.5.0 .  

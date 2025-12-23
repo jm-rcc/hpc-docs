@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load blis/1.1-gcc-14.2.0`**.  
   
 ### Toolchain  
-GCC (14.2.0)  
+GCC-14.2.0  
   
 ### Toolchain Options  
 None  

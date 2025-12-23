@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load nextflow/25.04.6`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Java 21  (system system)](../hpc-docs/modules/nextflow-25.04.6.md)  
+[Java 21  (system-system)](java-21.md)  
   
 ## Homepage  
 The homepage for Nextflow 25.04.6 .  

@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load lxml/4.9.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/lxml-4.9.1-gcccore-11.3.0.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/lxml-4.9.1-gcccore-11.3.0.md)  
-[libxslt 1.1.34  (GCCcore 11.3.0)](../hpc-docs/modules/lxml-4.9.1-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for lxml 4.9.1 .  

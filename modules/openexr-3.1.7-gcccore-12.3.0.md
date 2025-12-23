@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load openexr/3.1.7-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -30,8 +30,8 @@ None
   
   
 ## Dependencies  
-[Imath 3.1.7  (GCCcore 12.3.0)](../hpc-docs/modules/openexr-3.1.7-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/openexr-3.1.7-gcccore-12.3.0.md)  
+[Imath 3.1.7  (GCCcore-12.3.0)](imath-3.1.7-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for OpenEXR 3.1.7 .  

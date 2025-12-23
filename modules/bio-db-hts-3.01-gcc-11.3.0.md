@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load bio-db-hts/3.01-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/bio-db-hts-3.01-gcc-11.3.0.md)  
-[BioPerl 1.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/bio-db-hts-3.01-gcc-11.3.0.md)  
-[HTSlib 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/bio-db-hts-3.01-gcc-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[BioPerl 1.7.8  (GCCcore-11.3.0)](bioperl-1.7.8-gcccore-11.3.0.md)  
+[HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for Bio-DB-HTS 3.01 .  

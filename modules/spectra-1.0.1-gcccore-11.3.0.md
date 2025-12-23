@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load spectra/1.0.1-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[Eigen 3.4.0  (GCCcore 11.3.0)](../hpc-docs/modules/spectra-1.0.1-gcccore-11.3.0.md)  
+[Eigen 3.4.0  (GCCcore-11.3.0)](eigen-.3.4.0-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for SpectrA 1.0.1 .  

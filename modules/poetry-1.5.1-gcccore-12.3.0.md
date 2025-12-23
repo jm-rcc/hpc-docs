@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load poetry/1.5.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,10 +32,10 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
-[hatchling 1.18.0  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
-[cryptography 41.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
-[virtualenv 20.23.1  (GCCcore 12.3.0)](../hpc-docs/modules/poetry-1.5.1-gcccore-12.3.0.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[hatchling 1.18.0  (GCCcore-12.3.0)](hatchling-1.18.0-gcccore-12.3.0.md)  
+[cryptography 41.0.1  (GCCcore-12.3.0)](cryptography-41.0.1-gcccore-12.3.0.md)  
+[virtualenv 20.23.1  (GCCcore-12.3.0)](virtualenv-20.23.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for poetry 1.5.1 .  

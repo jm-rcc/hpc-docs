@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load meson/1.4.0-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Python 3.12.3  (GCCcore 13.3.0)](../hpc-docs/modules/meson-1.4.0-gcccore-13.3.0.md)  
-[Ninja 1.12.1  (GCCcore 13.3.0)](../hpc-docs/modules/meson-1.4.0-gcccore-13.3.0.md)  
+[Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
+[Ninja 1.12.1  (GCCcore-13.3.0)](ninja-1.12.1-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Meson 1.4.0 .  

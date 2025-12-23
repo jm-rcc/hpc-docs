@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load flexiblas/3.4.4-gcc-13.3.0`**.  
   
 ### Toolchain  
-GCC (13.3.0)  
+GCC-13.3.0  
   
 ### Toolchain Options  
 {'pic': True, 'extra_cflags': '-fstack-protector-strong -fstack-clash-protection', 'extra_fflags': '-fstack-protector-strong -fstack-clash-protection'}  
@@ -32,7 +32,7 @@ GCC (13.3.0)
   
   
 ## Dependencies  
-[OpenBLAS 0.3.27  (GCC 13.3.0)](../hpc-docs/modules/flexiblas-3.4.4-gcc-13.3.0.md)  
+[OpenBLAS 0.3.27  (GCC-13.3.0)](openblas-0.3.27-gcc-13.3.0.md)  
   
 ## Homepage  
 The homepage for FlexiBLAS 3.4.4 .  

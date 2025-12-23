@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load popt/1.19-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'optarch': False}  

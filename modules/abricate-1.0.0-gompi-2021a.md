@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load abricate/1.0.0-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 None  
@@ -31,10 +31,10 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
-[any2fasta 0.4.2  (GCCcore 10.3.0)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
-[BioPerl 1.7.8  (GCCcore 10.3.0)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
-[BLAST+ 2.11.0  (gompi 2021a)](../hpc-docs/modules/abricate-1.0.0-gompi-2021a.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[any2fasta 0.4.2  (GCCcore-10.3.0)](any2fasta-0.4.2-gcccore-10.3.0.md)  
+[BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for ABRicate 1.0.0 .  

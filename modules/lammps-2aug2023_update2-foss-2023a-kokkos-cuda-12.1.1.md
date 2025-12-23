@@ -19,7 +19,7 @@ To use the module on Bunya, load it with the command
   **`module load lammps/2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1`**.  
   
 ### Toolchain  
-foss (2023a)  
+foss-2023a  
   
 ### Toolchain Options  
 {'openmp': True, 'usempi': True}  
@@ -35,30 +35,30 @@ foss (2023a)
   
   
 ## Dependencies  
-[CUDA 12.1.1  (system system)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[NCCL 2.18.3 -CUDA-12.1.1 (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[libjpeg-turbo 2.1.5.1  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[netCDF 4.9.2  (gompi 2023a)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[GSL 2.7  (GCC 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[gzip 1.12  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[cURL 8.0.1  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[HDF5 1.14.0  (gompi 2023a)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[PCRE 8.45  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[libxml2 2.11.4  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[FFmpeg 6.0  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[Voro++ 0.4.6  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[kim-api 2.3.0  (GCC 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[Eigen 3.4.0  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[PLUMED 2.9.0  (foss 2023a)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[VTK 9.3.0  (foss 2023a)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[MDI 1.4.26  (gompi 2023a)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[tbb 2021.11.0  (GCCcore 12.3.0)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
-[ScaFaCoS 1.0.4  (foss 2023a)](../hpc-docs/modules/lammps-2aug2023_update2-foss-2023a-kokkos-cuda-12.1.1.md)  
+[CUDA 12.1.1  (system-system)](cuda-12.1.1.md)  
+[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
+[NCCL 2.18.3 -CUDA-12.1.1 (GCCcore-12.3.0)](nccl-2.18.3-gcccore-12.3.0-cuda-12.1.1.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[libpng 1.6.39  (GCCcore-12.3.0)](libpng-.1.6.39-gcccore-12.3.0.md)  
+[libjpeg-turbo 2.1.5.1  (GCCcore-12.3.0)](libjpeg-turbo-.2.1.5.1-gcccore-12.3.0.md)  
+[netCDF 4.9.2  (gompi-2023a)](netcdf-4.9.2-gompi-2023a.md)  
+[GSL 2.7  (GCC-12.3.0)](gsl-2.7-gcc-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[gzip 1.12  (GCCcore-12.3.0)](gzip-1.12-gcccore-12.3.0.md)  
+[cURL 8.0.1  (GCCcore-12.3.0)](curl-.8.0.1-gcccore-12.3.0.md)  
+[HDF5 1.14.0  (gompi-2023a)](hdf5-1.14.0-gompi-2023a.md)  
+[PCRE 8.45  (GCCcore-12.3.0)](pcre-.8.45-gcccore-12.3.0.md)  
+[libxml2 2.11.4  (GCCcore-12.3.0)](libxml2-.2.11.4-gcccore-12.3.0.md)  
+[FFmpeg 6.0  (GCCcore-12.3.0)](ffmpeg-6.0-gcccore-12.3.0.md)  
+[Voro++ 0.4.6  (GCCcore-12.3.0)](voro++-0.4.6-gcccore-12.3.0.md)  
+[kim-api 2.3.0  (GCC-12.3.0)](kim-api-2.3.0-gcc-12.3.0.md)  
+[Eigen 3.4.0  (GCCcore-12.3.0)](eigen-.3.4.0-gcccore-12.3.0.md)  
+[PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
+[SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
+[VTK 9.3.0  (foss-2023a)](vtk-9.3.0-foss-2023a.md)  
+[MDI 1.4.26  (gompi-2023a)](mdi-1.4.26-gompi-2023a.md)  
+[tbb 2021.11.0  (GCCcore-12.3.0)](tbb-2021.11.0-gcccore-12.3.0.md)  
+[ScaFaCoS 1.0.4  (foss-2023a)](scafacos-1.0.4-foss-2023a.md)  
   
 ## Homepage  
 The homepage for LAMMPS 2Aug2023_update2 -kokkos-CUDA-12.1.1.  

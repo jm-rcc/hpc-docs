@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load mpi4py/3.1.4-gompi-2023a`**.  
   
 ### Toolchain  
-gompi (2023a)  
+gompi-2023a  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/mpi4py-3.1.4-gompi-2023a.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for mpi4py 3.1.4 .  

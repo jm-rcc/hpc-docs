@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load bioperl/1.7.8-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/bioperl-1.7.8-gcccore-10.3.0.md)  
-[XML-LibXML 2.0207  (GCCcore 10.3.0)](../hpc-docs/modules/bioperl-1.7.8-gcccore-10.3.0.md)  
-[DB_File 1.856  (GCCcore 10.3.0)](../hpc-docs/modules/bioperl-1.7.8-gcccore-10.3.0.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[XML-LibXML 2.0207  (GCCcore-10.3.0)](xml-libxml-2.0207-gcccore-10.3.0.md)  
+[DB_File 1.856  (GCCcore-10.3.0)](db_file-1.856-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for BioPerl 1.7.8 .  

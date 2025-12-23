@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load cryptography/41.0.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,8 +31,8 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/cryptography-41.0.1-gcccore-12.3.0.md)  
-[cffi 1.15.1  (GCCcore 12.3.0)](../hpc-docs/modules/cryptography-41.0.1-gcccore-12.3.0.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[cffi 1.15.1  (GCCcore-12.3.0)](cffi-1.15.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for cryptography 41.0.1 .  

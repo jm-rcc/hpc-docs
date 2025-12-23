@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load imagemagick/7.0.11-14-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -29,16 +29,16 @@ None
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[X11 20210518  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[Ghostscript 9.54.0  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[JasPer 2.0.28  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[libjpeg-turbo 2.0.6  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[LibTIFF 4.2.0  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[LittleCMS 2.12  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[Pango 1.48.5  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[pixman 0.40.0  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
-[FriBidi 1.0.10  (GCCcore 10.3.0)](../hpc-docs/modules/imagemagick-7.0.11-14-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
+[X11 20210518  (GCCcore-10.3.0)](x11-.20210518-gcccore-10.3.0.md)  
+[Ghostscript 9.54.0  (GCCcore-10.3.0)](ghostscript-9.54.0-gcccore-10.3.0.md)  
+[JasPer 2.0.28  (GCCcore-10.3.0)](jasper-.2.0.28-gcccore-10.3.0.md)  
+[libjpeg-turbo 2.0.6  (GCCcore-10.3.0)](libjpeg-turbo-.2.0.6-gcccore-10.3.0.md)  
+[LibTIFF 4.2.0  (GCCcore-10.3.0)](libtiff-.4.2.0-gcccore-10.3.0.md)  
+[LittleCMS 2.12  (GCCcore-10.3.0)](littlecms-2.12-gcccore-10.3.0.md)  
+[Pango 1.48.5  (GCCcore-10.3.0)](pango-.1.48.5-gcccore-10.3.0.md)  
+[pixman 0.40.0  (GCCcore-10.3.0)](pixman-.0.40.0-gcccore-10.3.0.md)  
+[FriBidi 1.0.10  (GCCcore-10.3.0)](fribidi-.1.0.10-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for ImageMagick 7.0.11-14 .  

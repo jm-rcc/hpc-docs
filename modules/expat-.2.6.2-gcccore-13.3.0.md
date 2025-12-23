@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load expat/.2.6.2-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  

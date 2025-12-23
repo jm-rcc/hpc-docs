@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load makeinfo/6.7-gcccore-10.3.0-minimal`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1 -minimal (GCCcore 10.3.0)](../hpc-docs/modules/makeinfo-6.7-gcccore-10.3.0-minimal.md)  
+[Perl 5.32.1 -minimal (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0-minimal.md)  
   
 ## Homepage  
 The homepage for makeinfo 6.7 -minimal.  

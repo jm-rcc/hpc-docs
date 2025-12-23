@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load sra-toolkit/3.0.3-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 {'extra_cflags': '-DH5_USE_110_API'}  
@@ -33,14 +33,14 @@ gompi (2022a)
   
   
 ## Dependencies  
-[Java 11  (system system)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-[ncbi-vdb 3.0.2  (gompi 2022a)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-[file 5.43  (GCCcore 11.3.0)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-[HDF5 1.12.2  (gompi 2022a)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/sra-toolkit-3.0.3-gompi-2022a.md)  
+[Java 11  (system-system)](java-11.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
+[ncbi-vdb 3.0.2  (gompi-2022a)](ncbi-vdb-3.0.2-gompi-2022a.md)  
+[bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
+[file 5.43  (GCCcore-11.3.0)](file-5.43-gcccore-11.3.0.md)  
+[HDF5 1.12.2  (gompi-2022a)](hdf5-1.12.2-gompi-2022a.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for SRA-Toolkit 3.0.3 .  

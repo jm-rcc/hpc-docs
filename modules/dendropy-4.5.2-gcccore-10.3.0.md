@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load dendropy/4.5.2-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/dendropy-4.5.2-gcccore-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for DendroPy 4.5.2 .  

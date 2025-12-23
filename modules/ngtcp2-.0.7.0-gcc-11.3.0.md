@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load ngtcp2/.0.7.0-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -34,10 +34,10 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
-[GnuTLS 3.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
-[nghttp3 0.6.0  (GCCcore 11.3.0)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
-[libev 4.33  (GCC 11.3.0)](../hpc-docs/modules/ngtcp2-.0.7.0-gcc-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
+[GnuTLS 3.7.8  (GCCcore-11.3.0)](gnutls-3.7.8-gcccore-11.3.0.md)  
+[nghttp3 0.6.0  (GCCcore-11.3.0)](nghttp3-.0.6.0-gcccore-11.3.0.md)  
+[libev 4.33  (GCC-11.3.0)](libev-.4.33-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for ngtcp2 0.7.0 .  

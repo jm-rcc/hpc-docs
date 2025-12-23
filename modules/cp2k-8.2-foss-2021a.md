@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load cp2k/8.2-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 {'pic': True, 'openmp': True}  
@@ -32,11 +32,11 @@ foss (2021a)
   
   
 ## Dependencies  
-[Libint 2.6.0 -lmax-6-cp2k (GCC 10.3.0)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
-[libxc 5.1.5  (GCC 10.3.0)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
-[libxsmm 1.16.2  (GCC 10.3.0)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
-[FFTW 3.3.9  (gompi 2021a)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
-[PLUMED 2.7.2  (foss 2021a)](../hpc-docs/modules/cp2k-8.2-foss-2021a.md)  
+[Libint 2.6.0 -lmax-6-cp2k (GCC-10.3.0)](libint-2.6.0-gcc-10.3.0-lmax-6-cp2k.md)  
+[libxc 5.1.5  (GCC-10.3.0)](libxc-.5.1.5-gcc-10.3.0.md)  
+[libxsmm 1.16.2  (GCC-10.3.0)](libxsmm-1.16.2-gcc-10.3.0.md)  
+[FFTW 3.3.9  (gompi-2021a)](fftw-3.3.9-gompi-2021a.md)  
+[PLUMED 2.7.2  (foss-2021a)](plumed-2.7.2-foss-2021a.md)  
   
 ## Homepage  
 The homepage for CP2K 8.2 .  

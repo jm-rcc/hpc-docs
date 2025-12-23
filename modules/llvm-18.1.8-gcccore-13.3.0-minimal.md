@@ -16,7 +16,7 @@ To use the module on Bunya, load it with the command
   **`module load llvm/18.1.8-gcccore-13.3.0-minimal`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'cstd': 'gnu++11', 'pic': True}  
@@ -27,8 +27,8 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/llvm-18.1.8-gcccore-13.3.0-minimal.md)  
-[zlib 1.3.1  (GCCcore 13.3.0)](../hpc-docs/modules/llvm-18.1.8-gcccore-13.3.0-minimal.md)  
+[ncurses 6.5  (GCCcore-13.3.0)](ncurses-.6.5-gcccore-13.3.0.md)  
+[zlib 1.3.1  (GCCcore-13.3.0)](zlib-.1.3.1-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for LLVM 18.1.8 -minimal.  

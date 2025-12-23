@@ -16,7 +16,7 @@ To use the module on Bunya, load it with the command
   **`module load llvm/.16.0.6-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'cstd': 'gnu++11', 'pic': True}  
@@ -37,8 +37,8 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[ncurses 6.4  (GCCcore 12.3.0)](../hpc-docs/modules/llvm-.16.0.6-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/llvm-.16.0.6-gcccore-12.3.0.md)  
+[ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for LLVM 16.0.6 .  

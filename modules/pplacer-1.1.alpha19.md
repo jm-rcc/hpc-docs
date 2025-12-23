@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load pplacer/1.1.alpha19`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

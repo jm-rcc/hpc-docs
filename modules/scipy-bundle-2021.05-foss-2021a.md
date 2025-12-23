@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load scipy-bundle/2021.05-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 {'pic': True, 'lowopt': True}  
@@ -29,8 +29,8 @@ foss (2021a)
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/scipy-bundle-2021.05-foss-2021a.md)  
-[pybind11 2.6.2  (GCCcore 10.3.0)](../hpc-docs/modules/scipy-bundle-2021.05-foss-2021a.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[pybind11 2.6.2  (GCCcore-10.3.0)](pybind11-2.6.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for SciPy-bundle 2021.05 .  

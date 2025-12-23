@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load bcl2fastq2/2.20.0-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True, 'cstd': 'c++11'}  
@@ -32,9 +32,9 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/bcl2fastq2-2.20.0-gcc-11.3.0.md)  
-[libxslt 1.1.34  (GCCcore 11.3.0)](../hpc-docs/modules/bcl2fastq2-2.20.0-gcc-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/bcl2fastq2-2.20.0-gcc-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[libxslt 1.1.34  (GCCcore-11.3.0)](libxslt-1.1.34-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for bcl2fastq2 2.20.0 .  

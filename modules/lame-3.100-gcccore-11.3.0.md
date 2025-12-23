@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load lame/3.100-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,7 +31,7 @@ None
   
   
 ## Dependencies  
-[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/lame-3.100-gcccore-11.3.0.md)  
+[ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for LAME 3.100 .  

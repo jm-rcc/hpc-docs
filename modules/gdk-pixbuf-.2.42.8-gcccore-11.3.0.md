@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load gdk-pixbuf/.2.42.8-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -36,11 +36,11 @@ None
   
   
 ## Dependencies  
-[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
-[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
-[LibTIFF 4.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/gdk-pixbuf-.2.42.8-gcccore-11.3.0.md)  
+[GLib 2.72.1  (GCCcore-11.3.0)](glib-.2.72.1-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore-11.3.0)](libpng-.1.6.37-gcccore-11.3.0.md)  
+[LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-.4.3.0-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Gdk-Pixbuf 2.42.8 .  

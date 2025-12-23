@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load hypothesis/6.82.0-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/hypothesis-6.82.0-gcccore-12.3.0.md)  
-[Python-bundle-PyPI 2023.06  (GCCcore 12.3.0)](../hpc-docs/modules/hypothesis-6.82.0-gcccore-12.3.0.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[Python-bundle-PyPI 2023.06  (GCCcore-12.3.0)](python-bundle-pypi-2023.06-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for hypothesis 6.82.0 .  

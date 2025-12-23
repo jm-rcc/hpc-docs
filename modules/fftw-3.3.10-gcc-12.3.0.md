@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load fftw/3.3.10-gcc-12.3.0`**.  
   
 ### Toolchain  
-GCC (12.3.0)  
+GCC-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  

@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load pango/.1.50.7-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,11 +33,11 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
-[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
-[cairo 1.17.4  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
-[HarfBuzz 4.2.1  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
-[FriBidi 1.0.12  (GCCcore 11.3.0)](../hpc-docs/modules/pango-.1.50.7-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
+[GLib 2.72.1  (GCCcore-11.3.0)](glib-.2.72.1-gcccore-11.3.0.md)  
+[cairo 1.17.4  (GCCcore-11.3.0)](cairo-.1.17.4-gcccore-11.3.0.md)  
+[HarfBuzz 4.2.1  (GCCcore-11.3.0)](harfbuzz-.4.2.1-gcccore-11.3.0.md)  
+[FriBidi 1.0.12  (GCCcore-11.3.0)](fribidi-.1.0.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Pango 1.50.7 .  

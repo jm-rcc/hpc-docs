@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load netcdf/4.8.0-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
@@ -31,9 +31,9 @@ gompi (2021a)
   
   
 ## Dependencies  
-[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/netcdf-4.8.0-gompi-2021a.md)  
-[cURL 7.76.0  (GCCcore 10.3.0)](../hpc-docs/modules/netcdf-4.8.0-gompi-2021a.md)  
-[Szip 2.1.1  (GCCcore 10.3.0)](../hpc-docs/modules/netcdf-4.8.0-gompi-2021a.md)  
+[HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
+[cURL 7.76.0  (GCCcore-10.3.0)](curl-.7.76.0-gcccore-10.3.0.md)  
+[Szip 2.1.1  (GCCcore-10.3.0)](szip-.2.1.1-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for netCDF 4.8.0 .  

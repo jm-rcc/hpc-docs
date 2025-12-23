@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load flex/.2.6.4-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -30,7 +30,7 @@ GCCcore (14.2.0)
   
   
 ## Dependencies  
-[M4 1.4.19  (GCCcore 14.2.0)](../hpc-docs/modules/flex-.2.6.4-gcccore-14.2.0.md)  
+[M4 1.4.19  (GCCcore-14.2.0)](m4-.1.4.19-gcccore-14.2.0.md)  
   
 ## Homepage  
 The homepage for flex 2.6.4 .  

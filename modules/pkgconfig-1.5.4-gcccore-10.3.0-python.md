@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load pkgconfig/1.5.4-gcccore-10.3.0-python`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -29,8 +29,8 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/pkgconfig-1.5.4-gcccore-10.3.0-python.md)  
-[pkg-config 0.29.2  (GCCcore 10.3.0)](../hpc-docs/modules/pkgconfig-1.5.4-gcccore-10.3.0-python.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[pkg-config 0.29.2  (GCCcore-10.3.0)](pkg-config-.0.29.2-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for pkgconfig 1.5.4 -python.  

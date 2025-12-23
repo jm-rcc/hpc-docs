@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load megahit/1.2.9-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/megahit-1.2.9-gcccore-11.3.0.md)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/megahit-1.2.9-gcccore-11.3.0.md)  
-[gzip 1.12  (GCCcore 11.3.0)](../hpc-docs/modules/megahit-1.2.9-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
+[gzip 1.12  (GCCcore-11.3.0)](gzip-1.12-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for MEGAHIT 1.2.9 .  

@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load mariadb/10.9.3-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,18 +32,18 @@ None
   
   
 ## Dependencies  
-[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[LZO 2.10  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[lz4 1.9.3  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[XZ 5.2.5  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[jemalloc 5.3.0  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[snappy 1.1.9  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[Judy 1.0.5  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[PCRE2 10.40  (GCCcore 11.3.0)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/mariadb-10.9.3-gcc-11.3.0.md)  
+[ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[LZO 2.10  (GCCcore-11.3.0)](lzo-2.10-gcccore-11.3.0.md)  
+[lz4 1.9.3  (GCCcore-11.3.0)](lz4-1.9.3-gcccore-11.3.0.md)  
+[XZ 5.2.5  (GCCcore-11.3.0)](xz-.5.2.5-gcccore-11.3.0.md)  
+[jemalloc 5.3.0  (GCCcore-11.3.0)](jemalloc-.5.3.0-gcccore-11.3.0.md)  
+[snappy 1.1.9  (GCCcore-11.3.0)](snappy-1.1.9-gcccore-11.3.0.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
+[Judy 1.0.5  (GCCcore-11.3.0)](judy-1.0.5-gcccore-11.3.0.md)  
+[PCRE2 10.40  (GCCcore-11.3.0)](pcre2-10.40-gcccore-11.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for MariaDB 10.9.3 .  

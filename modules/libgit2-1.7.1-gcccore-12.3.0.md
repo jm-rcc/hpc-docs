@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load libgit2/1.7.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[PCRE 8.45  (GCCcore 12.3.0)](../hpc-docs/modules/libgit2-1.7.1-gcccore-12.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/libgit2-1.7.1-gcccore-12.3.0.md)  
+[PCRE 8.45  (GCCcore-12.3.0)](pcre-.8.45-gcccore-12.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for libgit2 1.7.1 .  

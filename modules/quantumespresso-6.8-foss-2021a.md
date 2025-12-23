@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load quantumespresso/6.8-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 {'usempi': True, 'openmp': True}  
@@ -28,9 +28,9 @@ foss (2021a)
   
   
 ## Dependencies  
-[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/quantumespresso-6.8-foss-2021a.md)  
-[ELPA 2021.05.001  (foss 2021a)](../hpc-docs/modules/quantumespresso-6.8-foss-2021a.md)  
-[libxc 5.1.5  (GCC 10.3.0)](../hpc-docs/modules/quantumespresso-6.8-foss-2021a.md)  
+[HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
+[ELPA 2021.05.001  (foss-2021a)](elpa-2021.05.001-foss-2021a.md)  
+[libxc 5.1.5  (GCC-10.3.0)](libxc-.5.1.5-gcc-10.3.0.md)  
   
 ## Homepage  
 The homepage for QuantumESPRESSO 6.8 .  

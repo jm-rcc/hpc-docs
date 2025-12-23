@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load libxc/.5.1.5-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 None  

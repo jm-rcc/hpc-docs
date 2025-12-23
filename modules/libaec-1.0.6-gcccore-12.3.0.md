@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load libaec/1.0.6-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  

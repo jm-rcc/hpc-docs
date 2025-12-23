@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load bio-searchio-hmmer/1.7.3-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/bio-searchio-hmmer-1.7.3-gcc-10.3.0.md)  
-[BioPerl 1.7.8  (GCCcore 10.3.0)](../hpc-docs/modules/bio-searchio-hmmer-1.7.3-gcc-10.3.0.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for Bio-SearchIO-hmmer 1.7.3 .  

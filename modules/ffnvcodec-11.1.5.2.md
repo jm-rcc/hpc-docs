@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load ffnvcodec/11.1.5.2`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

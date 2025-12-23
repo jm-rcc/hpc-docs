@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load db_file/1.856-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/db_file-1.856-gcccore-10.3.0.md)  
-[DB 18.1.40  (GCCcore 10.3.0)](../hpc-docs/modules/db_file-1.856-gcccore-10.3.0.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[DB 18.1.40  (GCCcore-10.3.0)](db-18.1.40-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for DB_File 1.856 .  

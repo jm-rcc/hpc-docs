@@ -19,7 +19,7 @@ To use the module on Bunya, load it with the command
   **`module load gromacs/2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0`**.  
   
 ### Toolchain  
-foss (2023a)  
+foss-2023a  
   
 ### Toolchain Options  
 {'openmp': True, 'usempi': True, 'extra_cxxflags': '-fpermissive'}  
@@ -35,13 +35,13 @@ foss (2023a)
   
   
 ## Dependencies  
-[CUDA 12.1.1  (system system)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
-[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore 12.3.0)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
-[networkx 3.1  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
-[mpi4py 3.1.4  (gompi 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
-[PLUMED 2.9.0  (foss 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a-cuda-12.1.1-plumed-2.9.0.md)  
+[CUDA 12.1.1  (system-system)](cuda-12.1.1.md)  
+[UCX-CUDA 1.14.1 -CUDA-12.1.1 (GCCcore-12.3.0)](ucx-cuda-1.14.1-gcccore-12.3.0-cuda-12.1.1.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
+[networkx 3.1  (gfbf-2023a)](networkx-.3.1-gfbf-2023a.md)  
+[mpi4py 3.1.4  (gompi-2023a)](mpi4py-3.1.4-gompi-2023a.md)  
+[PLUMED 2.9.0  (foss-2023a)](plumed-2.9.0-foss-2023a.md)  
   
 ## Homepage  
 The homepage for GROMACS 2023.3 -CUDA-12.1.1-PLUMED-2.9.0.  

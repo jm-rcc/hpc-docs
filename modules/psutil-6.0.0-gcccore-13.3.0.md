@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load psutil/6.0.0-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -22,7 +22,7 @@ None
   
   
 ## Dependencies  
-[Python 3.12.3  (GCCcore 13.3.0)](../hpc-docs/modules/psutil-6.0.0-gcccore-13.3.0.md)  
+[Python 3.12.3  (GCCcore-13.3.0)](python-3.12.3-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for psutil 6.0.0 .  

@@ -19,7 +19,7 @@ To use the module on Bunya, load it with the command
   **`module load gromacs/2023.3-foss-2023a`**.  
   
 ### Toolchain  
-foss (2023a)  
+foss-2023a  
   
 ### Toolchain Options  
 {'openmp': True, 'usempi': True}  
@@ -32,10 +32,10 @@ foss (2023a)
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
-[networkx 3.1  (gfbf 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
-[mpi4py 3.1.4  (gompi 2023a)](../hpc-docs/modules/gromacs-2023.3-foss-2023a.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
+[networkx 3.1  (gfbf-2023a)](networkx-.3.1-gfbf-2023a.md)  
+[mpi4py 3.1.4  (gompi-2023a)](mpi4py-3.1.4-gompi-2023a.md)  
   
 ## Homepage  
 The homepage for GROMACS 2023.3 .  

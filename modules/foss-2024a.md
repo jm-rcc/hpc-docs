@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load foss/2024a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,12 +32,12 @@ None
   
   
 ## Dependencies  
-[GCC 13.3.0  (system system)](../hpc-docs/modules/foss-2024a.md)  
-[OpenMPI 5.0.3  (GCC 13.3.0)](../hpc-docs/modules/foss-2024a.md)  
-[FlexiBLAS 3.4.4  (GCC 13.3.0)](../hpc-docs/modules/foss-2024a.md)  
-[FFTW 3.3.10  (GCC 13.3.0)](../hpc-docs/modules/foss-2024a.md)  
-[FFTW.MPI 3.3.10  (gompi 2024a)](../hpc-docs/modules/foss-2024a.md)  
-[ScaLAPACK 2.2.0 -fb (gompi 2024a)](../hpc-docs/modules/foss-2024a.md)  
+[GCC 13.3.0  (system-system)](gcc-13.3.0.md)  
+[OpenMPI 5.0.3  (GCC-13.3.0)](openmpi-5.0.3-gcc-13.3.0.md)  
+[FlexiBLAS 3.4.4  (GCC-13.3.0)](flexiblas-3.4.4-gcc-13.3.0.md)  
+[FFTW 3.3.10  (GCC-13.3.0)](fftw-3.3.10-gcc-13.3.0.md)  
+[FFTW.MPI 3.3.10  (gompi-2024a)](fftw.mpi-3.3.10-gompi-2024a.md)  
+[ScaLAPACK 2.2.0 -fb (gompi-2024a)](scalapack-2.2.0-gompi-2024a-fb.md)  
   
 ## Homepage  
 The homepage for foss 2024a .  

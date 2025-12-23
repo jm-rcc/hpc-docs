@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load perl/5.38.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -34,7 +34,7 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.13  (system system)](../hpc-docs/modules/perl-5.38.0.md)  
+[zlib 1.2.13  (system-system)](zlib-.1.2.13.md)  
   
 ## Homepage  
 The homepage for Perl 5.38.0 .  

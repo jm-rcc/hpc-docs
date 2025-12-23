@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load atk/.2.38.0-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -35,7 +35,7 @@ None
   
   
 ## Dependencies  
-[GLib 2.72.1  (GCCcore 11.3.0)](../hpc-docs/modules/atk-.2.38.0-gcccore-11.3.0.md)  
+[GLib 2.72.1  (GCCcore-11.3.0)](glib-.2.72.1-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for ATK 2.38.0 .  

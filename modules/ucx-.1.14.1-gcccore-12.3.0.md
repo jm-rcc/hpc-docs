@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load ucx/.1.14.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -29,8 +29,8 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/ucx-.1.14.1-gcccore-12.3.0.md)  
-[numactl 2.0.16  (GCCcore 12.3.0)](../hpc-docs/modules/ucx-.1.14.1-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[numactl 2.0.16  (GCCcore-12.3.0)](numactl-.2.0.16-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for UCX 1.14.1 .  

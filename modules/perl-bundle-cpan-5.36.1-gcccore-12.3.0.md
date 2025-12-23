@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load perl-bundle-cpan/5.36.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -31,12 +31,12 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[Perl 5.36.1  (GCCcore 12.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
-[expat 2.5.0  (GCCcore 12.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
-[ncurses 6.4  (GCCcore 12.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
-[libreadline 8.2  (GCCcore 12.3.0)](../hpc-docs/modules/perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
-[OpenSSL 1.1  (system system)](../hpc-docs/modules/perl-bundle-cpan-5.36.1-gcccore-12.3.0.md)  
+[Perl 5.36.1  (GCCcore-12.3.0)](perl-5.36.1-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[expat 2.5.0  (GCCcore-12.3.0)](expat-.2.5.0-gcccore-12.3.0.md)  
+[ncurses 6.4  (GCCcore-12.3.0)](ncurses-.6.4-gcccore-12.3.0.md)  
+[libreadline 8.2  (GCCcore-12.3.0)](libreadline-.8.2-gcccore-12.3.0.md)  
+[OpenSSL 1.1  (system-system)](openssl-1.1.md)  
   
 ## Homepage  
 The homepage for Perl-bundle-CPAN 5.36.1 .  

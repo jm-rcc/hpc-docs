@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libpciaccess/.0.18.1-gcccore-14.2.0`**.  
   
 ### Toolchain  
-GCCcore (14.2.0)  
+GCCcore-14.2.0  
   
 ### Toolchain Options  
 None  

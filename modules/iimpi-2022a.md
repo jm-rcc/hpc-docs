@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load iimpi/2022a`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[intel-compilers 2022.1.0  (system system)](../hpc-docs/modules/iimpi-2022a.md)  
-[impi 2021.6.0  (intel-compilers 2022.1.0)](../hpc-docs/modules/iimpi-2022a.md)  
+[intel-compilers 2022.1.0  (system-system)](intel-compilers-2022.1.0.md)  
+[impi 2021.6.0  (intel-compilers-2022.1.0)](impi-2021.6.0-intel-compilers-2022.1.0.md)  
   
 ## Homepage  
 The homepage for iimpi 2022a .  

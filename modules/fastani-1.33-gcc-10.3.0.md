@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load fastani/1.33-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,8 +33,8 @@ None
   
   
 ## Dependencies  
-[GSL 2.7  (GCC 10.3.0)](../hpc-docs/modules/fastani-1.33-gcc-10.3.0.md)  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/fastani-1.33-gcc-10.3.0.md)  
+[GSL 2.7  (GCC-10.3.0)](gsl-2.7-gcc-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for FastANI 1.33 .  

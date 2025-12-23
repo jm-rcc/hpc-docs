@@ -20,7 +20,7 @@ To use the module on Bunya, load it with the command
   **`module load pmix/.4.2.4-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -41,9 +41,9 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[libevent 2.1.12  (GCCcore 12.3.0)](../hpc-docs/modules/pmix-.4.2.4-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/pmix-.4.2.4-gcccore-12.3.0.md)  
-[hwloc 2.9.1  (GCCcore 12.3.0)](../hpc-docs/modules/pmix-.4.2.4-gcccore-12.3.0.md)  
+[libevent 2.1.12  (GCCcore-12.3.0)](libevent-.2.1.12-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[hwloc 2.9.1  (GCCcore-12.3.0)](hwloc-.2.9.1-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for PMIx 4.2.4 .  

@@ -17,7 +17,7 @@ To use the module on Bunya, load it with the command
   **`module load libreadline/.8.2-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -38,7 +38,7 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[ncurses 6.5  (GCCcore 13.3.0)](../hpc-docs/modules/libreadline-.8.2-gcccore-13.3.0.md)  
+[ncurses 6.5  (GCCcore-13.3.0)](ncurses-.6.5-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libreadline 8.2 .  

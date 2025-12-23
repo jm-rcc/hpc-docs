@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load ncbi-vdb/3.0.2-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 None  
@@ -32,9 +32,9 @@ None
   
   
 ## Dependencies  
-[HDF5 1.12.2  (gompi 2022a)](../hpc-docs/modules/ncbi-vdb-3.0.2-gompi-2022a.md)  
-[libxml2 2.9.13  (GCCcore 11.3.0)](../hpc-docs/modules/ncbi-vdb-3.0.2-gompi-2022a.md)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/ncbi-vdb-3.0.2-gompi-2022a.md)  
+[HDF5 1.12.2  (gompi-2022a)](hdf5-1.12.2-gompi-2022a.md)  
+[libxml2 2.9.13  (GCCcore-11.3.0)](libxml2-.2.9.13-gcccore-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for ncbi-vdb 3.0.2 .  

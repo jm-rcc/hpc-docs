@@ -16,7 +16,7 @@ To use the module on Bunya, load it with the command
   **`module load freetype/.2.13.0-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -37,10 +37,10 @@ GCCcore (12.3.0)
   
   
 ## Dependencies  
-[bzip2 1.0.8  (GCCcore 12.3.0)](../hpc-docs/modules/freetype-.2.13.0-gcccore-12.3.0.md)  
-[libpng 1.6.39  (GCCcore 12.3.0)](../hpc-docs/modules/freetype-.2.13.0-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/freetype-.2.13.0-gcccore-12.3.0.md)  
-[Brotli 1.0.9  (GCCcore 12.3.0)](../hpc-docs/modules/freetype-.2.13.0-gcccore-12.3.0.md)  
+[bzip2 1.0.8  (GCCcore-12.3.0)](bzip2-.1.0.8-gcccore-12.3.0.md)  
+[libpng 1.6.39  (GCCcore-12.3.0)](libpng-.1.6.39-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[Brotli 1.0.9  (GCCcore-12.3.0)](brotli-1.0.9-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for freetype 2.13.0 .  

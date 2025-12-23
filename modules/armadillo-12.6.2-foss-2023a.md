@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load armadillo/12.6.2-foss-2023a`**.  
   
 ### Toolchain  
-foss (2023a)  
+foss-2023a  
   
 ### Toolchain Options  
 None  
@@ -31,9 +31,9 @@ None
   
   
 ## Dependencies  
-[Boost 1.82.0  (GCC 12.3.0)](../hpc-docs/modules/armadillo-12.6.2-foss-2023a.md)  
-[HDF5 1.14.0  (gompi 2023a)](../hpc-docs/modules/armadillo-12.6.2-foss-2023a.md)  
-[arpack-ng 3.9.0  (foss 2023a)](../hpc-docs/modules/armadillo-12.6.2-foss-2023a.md)  
+[Boost 1.82.0  (GCC-12.3.0)](boost-1.82.0-gcc-12.3.0.md)  
+[HDF5 1.14.0  (gompi-2023a)](hdf5-1.14.0-gompi-2023a.md)  
+[arpack-ng 3.9.0  (foss-2023a)](arpack-ng-.3.9.0-foss-2023a.md)  
   
 ## Homepage  
 The homepage for Armadillo 12.6.2 .  

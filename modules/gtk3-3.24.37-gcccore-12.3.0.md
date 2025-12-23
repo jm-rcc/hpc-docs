@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load gtk3/3.24.37-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -36,16 +36,16 @@ None
   
   
 ## Dependencies  
-[ATK 2.38.0  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[at-spi2-atk 2.38.0  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[cairo 1.17.8  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[Gdk-Pixbuf 2.42.10  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[Pango 1.50.14  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[libepoxy 1.5.10  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[FriBidi 1.0.12  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
-[Wayland 1.22.0  (GCCcore 12.3.0)](../hpc-docs/modules/gtk3-3.24.37-gcccore-12.3.0.md)  
+[ATK 2.38.0  (GCCcore-12.3.0)](atk-.2.38.0-gcccore-12.3.0.md)  
+[at-spi2-atk 2.38.0  (GCCcore-12.3.0)](at-spi2-atk-.2.38.0-gcccore-12.3.0.md)  
+[cairo 1.17.8  (GCCcore-12.3.0)](cairo-.1.17.8-gcccore-12.3.0.md)  
+[Gdk-Pixbuf 2.42.10  (GCCcore-12.3.0)](gdk-pixbuf-.2.42.10-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore-12.3.0)](glib-.2.77.1-gcccore-12.3.0.md)  
+[Pango 1.50.14  (GCCcore-12.3.0)](pango-.1.50.14-gcccore-12.3.0.md)  
+[libepoxy 1.5.10  (GCCcore-12.3.0)](libepoxy-.1.5.10-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
+[FriBidi 1.0.12  (GCCcore-12.3.0)](fribidi-.1.0.12-gcccore-12.3.0.md)  
+[Wayland 1.22.0  (GCCcore-12.3.0)](wayland-1.22.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for GTK3 3.24.37 .  

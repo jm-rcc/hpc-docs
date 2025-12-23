@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load binutils/.2.38`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

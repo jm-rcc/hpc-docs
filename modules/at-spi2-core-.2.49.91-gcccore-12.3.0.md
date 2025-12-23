@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load at-spi2-core/.2.49.91-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,9 +33,9 @@ None
   
   
 ## Dependencies  
-[GLib 2.77.1  (GCCcore 12.3.0)](../hpc-docs/modules/at-spi2-core-.2.49.91-gcccore-12.3.0.md)  
-[DBus 1.15.4  (GCCcore 12.3.0)](../hpc-docs/modules/at-spi2-core-.2.49.91-gcccore-12.3.0.md)  
-[X11 20230603  (GCCcore 12.3.0)](../hpc-docs/modules/at-spi2-core-.2.49.91-gcccore-12.3.0.md)  
+[GLib 2.77.1  (GCCcore-12.3.0)](glib-.2.77.1-gcccore-12.3.0.md)  
+[DBus 1.15.4  (GCCcore-12.3.0)](dbus-.1.15.4-gcccore-12.3.0.md)  
+[X11 20230603  (GCCcore-12.3.0)](x11-.20230603-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for at-spi2-core 2.49.91 .  

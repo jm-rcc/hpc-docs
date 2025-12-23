@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load prokka/1.14.5-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 None  
@@ -31,12 +31,12 @@ None
   
   
 ## Dependencies  
-[BioPerl 1.7.8  (GCCcore 10.3.0)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
-[BLAST+ 2.11.0  (gompi 2021a)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
-[Java 11  (system system)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
-[Bio-SearchIO-hmmer 1.7.3  (GCC 10.3.0)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
-[parallel 20210622  (GCCcore 10.3.0)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
-[tbl2asn 20230119 -linux64 (system system)](../hpc-docs/modules/prokka-1.14.5-gompi-2021a.md)  
+[BioPerl 1.7.8  (GCCcore-10.3.0)](bioperl-1.7.8-gcccore-10.3.0.md)  
+[BLAST+ 2.11.0  (gompi-2021a)](blast+-2.11.0-gompi-2021a.md)  
+[Java 11  (system-system)](java-11.md)  
+[Bio-SearchIO-hmmer 1.7.3  (GCC-10.3.0)](bio-searchio-hmmer-1.7.3-gcc-10.3.0.md)  
+[parallel 20210622  (GCCcore-10.3.0)](parallel-20210622-gcccore-10.3.0.md)  
+[tbl2asn 20230119 -linux64 (system-system)](tbl2asn-20230119-linux64.md)  
   
 ## Homepage  
 The homepage for prokka 1.14.5 .  

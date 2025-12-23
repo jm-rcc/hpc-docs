@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load lua/5.4.4-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -36,8 +36,8 @@ GCCcore (11.3.0)
   
   
 ## Dependencies  
-[ncurses 6.3  (GCCcore 11.3.0)](../hpc-docs/modules/lua-5.4.4-gcccore-11.3.0.md)  
-[libreadline 8.1.2  (GCCcore 11.3.0)](../hpc-docs/modules/lua-5.4.4-gcccore-11.3.0.md)  
+[ncurses 6.3  (GCCcore-11.3.0)](ncurses-.6.3-gcccore-11.3.0.md)  
+[libreadline 8.1.2  (GCCcore-11.3.0)](libreadline-.8.1.2-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Lua 5.4.4 .  

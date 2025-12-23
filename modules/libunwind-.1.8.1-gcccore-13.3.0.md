@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load libunwind/.1.8.1-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -32,7 +32,7 @@ None
   
   
 ## Dependencies  
-[XZ 5.4.5  (GCCcore 13.3.0)](../hpc-docs/modules/libunwind-.1.8.1-gcccore-13.3.0.md)  
+[XZ 5.4.5  (GCCcore-13.3.0)](xz-.5.4.5-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libunwind 1.8.1 .  

@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load vep/107-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -35,12 +35,12 @@ None
   
   
 ## Dependencies  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
-[Archive-Zip 1.68  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
-[DBD-mysql 4.050  (GCC 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
-[BioPerl 1.7.8  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
-[Bio-DB-HTS 3.01  (GCC 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
-[Compress-Raw-Zlib 2.202  (GCCcore 11.3.0)](../hpc-docs/modules/vep-107-gcc-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[Archive-Zip 1.68  (GCCcore-11.3.0)](archive-zip-1.68-gcccore-11.3.0.md)  
+[DBD-mysql 4.050  (GCC-11.3.0)](dbd-mysql-4.050-gcc-11.3.0.md)  
+[BioPerl 1.7.8  (GCCcore-11.3.0)](bioperl-1.7.8-gcccore-11.3.0.md)  
+[Bio-DB-HTS 3.01  (GCC-11.3.0)](bio-db-hts-3.01-gcc-11.3.0.md)  
+[Compress-Raw-Zlib 2.202  (GCCcore-11.3.0)](compress-raw-zlib-2.202-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for VEP 107 .  

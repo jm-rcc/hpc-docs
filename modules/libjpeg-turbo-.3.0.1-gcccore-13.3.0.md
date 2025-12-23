@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load libjpeg-turbo/.3.0.1-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -32,7 +32,7 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[NASM 2.16.03  (GCCcore 13.3.0)](../hpc-docs/modules/libjpeg-turbo-.3.0.1-gcccore-13.3.0.md)  
+[NASM 2.16.03  (GCCcore-13.3.0)](nasm-.2.16.03-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libjpeg-turbo 3.0.1 .  

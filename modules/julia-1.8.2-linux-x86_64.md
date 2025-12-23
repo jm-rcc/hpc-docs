@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load julia/1.8.2-linux-x86_64`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

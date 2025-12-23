@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load networkx/.3.1-gfbf-2023a`**.  
   
 ### Toolchain  
-gfbf (2023a)  
+gfbf-2023a  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Python 3.11.3  (GCCcore 12.3.0)](../hpc-docs/modules/networkx-.3.1-gfbf-2023a.md)  
-[SciPy-bundle 2023.07  (gfbf 2023a)](../hpc-docs/modules/networkx-.3.1-gfbf-2023a.md)  
+[Python 3.11.3  (GCCcore-12.3.0)](python-3.11.3-gcccore-12.3.0.md)  
+[SciPy-bundle 2023.07  (gfbf-2023a)](scipy-bundle-2023.07-gfbf-2023a.md)  
   
 ## Homepage  
 The homepage for networkx 3.1 .  

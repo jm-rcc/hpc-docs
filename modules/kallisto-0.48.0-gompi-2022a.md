@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load kallisto/0.48.0-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
@@ -32,8 +32,8 @@ gompi (2022a)
   
   
 ## Dependencies  
-[HDF5 1.12.2  (gompi 2022a)](../hpc-docs/modules/kallisto-0.48.0-gompi-2022a.md)  
-[HTSlib 1.15.1  (GCC 11.3.0)](../hpc-docs/modules/kallisto-0.48.0-gompi-2022a.md)  
+[HDF5 1.12.2  (gompi-2022a)](hdf5-1.12.2-gompi-2022a.md)  
+[HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
   
 ## Homepage  
 The homepage for kallisto 0.48.0 .  

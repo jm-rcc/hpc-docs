@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load rjags/4-10-foss-2021a-r-4.1.0`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  
@@ -29,8 +29,8 @@ None
   
   
 ## Dependencies  
-[R 4.1.0  (foss 2021a)](../hpc-docs/modules/rjags-4-10-foss-2021a-r-4.1.0.md)  
-[JAGS 4.3.0  (foss 2021a)](../hpc-docs/modules/rjags-4-10-foss-2021a-r-4.1.0.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[JAGS 4.3.0  (foss-2021a)](jags-4.3.0-foss-2021a.md)  
   
 ## Homepage  
 The homepage for rjags 4-10 -R-4.1.0.  

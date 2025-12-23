@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load libffi/.3.4.5-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  

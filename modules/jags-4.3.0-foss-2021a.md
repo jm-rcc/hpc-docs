@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load jags/4.3.0-foss-2021a`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  

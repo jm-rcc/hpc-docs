@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load kallisto/0.48.0-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 {'pic': True, 'usempi': True}  
@@ -32,7 +32,7 @@ gompi (2021a)
   
   
 ## Dependencies  
-[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/kallisto-0.48.0-gompi-2021a.md)  
+[HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for kallisto 0.48.0 .  

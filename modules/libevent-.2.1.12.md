@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load libevent/.2.1.12`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

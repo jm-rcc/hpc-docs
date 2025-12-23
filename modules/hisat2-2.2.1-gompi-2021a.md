@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load hisat2/2.2.1-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[NGS 2.10.9  (GCCcore 10.3.0)](../hpc-docs/modules/hisat2-2.2.1-gompi-2021a.md)  
-[ncbi-vdb 2.10.9  (gompi 2021a)](../hpc-docs/modules/hisat2-2.2.1-gompi-2021a.md)  
+[NGS 2.10.9  (GCCcore-10.3.0)](ngs-2.10.9-gcccore-10.3.0.md)  
+[ncbi-vdb 2.10.9  (gompi-2021a)](ncbi-vdb-2.10.9-gompi-2021a.md)  
   
 ## Homepage  
 The homepage for HISAT2 2.2.1 .  

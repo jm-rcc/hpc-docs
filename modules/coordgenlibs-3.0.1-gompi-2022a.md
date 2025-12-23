@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load coordgenlibs/3.0.1-gompi-2022a`**.  
   
 ### Toolchain  
-gompi (2022a)  
+gompi-2022a  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[Boost 1.79.0  (GCC 11.3.0)](../hpc-docs/modules/coordgenlibs-3.0.1-gompi-2022a.md)  
-[maeparser 1.3.0  (gompi 2022a)](../hpc-docs/modules/coordgenlibs-3.0.1-gompi-2022a.md)  
+[Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
+[maeparser 1.3.0  (gompi-2022a)](maeparser-1.3.0-gompi-2022a.md)  
   
 ## Homepage  
 The homepage for CoordgenLibs 3.0.1 .  

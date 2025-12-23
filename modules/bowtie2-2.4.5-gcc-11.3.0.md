@@ -14,7 +14,7 @@ To use the module on Bunya, load it with the command
   **`module load bowtie2/2.4.5-gcc-11.3.0`**.  
   
 ### Toolchain  
-GCC (11.3.0)  
+GCC-11.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -35,9 +35,9 @@ GCC (11.3.0)
   
   
 ## Dependencies  
-[zlib 1.2.12  (GCCcore 11.3.0)](../hpc-docs/modules/bowtie2-2.4.5-gcc-11.3.0.md)  
-[Perl 5.34.1  (GCCcore 11.3.0)](../hpc-docs/modules/bowtie2-2.4.5-gcc-11.3.0.md)  
-[Python 3.10.4  (GCCcore 11.3.0)](../hpc-docs/modules/bowtie2-2.4.5-gcc-11.3.0.md)  
+[zlib 1.2.12  (GCCcore-11.3.0)](zlib-.1.2.12-gcccore-11.3.0.md)  
+[Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
+[Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for Bowtie2 2.4.5 .  

@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load ipython/.7.25.0-gcccore-10.3.0`**.  
   
 ### Toolchain  
-GCCcore (10.3.0)  
+GCCcore-10.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,8 +34,8 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/ipython-.7.25.0-gcccore-10.3.0.md)  
-[ZeroMQ 4.3.4  (GCCcore 10.3.0)](../hpc-docs/modules/ipython-.7.25.0-gcccore-10.3.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[ZeroMQ 4.3.4  (GCCcore-10.3.0)](zeromq-.4.3.4-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for IPython 7.25.0 .  

@@ -15,7 +15,7 @@ To use the module on Bunya, load it with the command
   **`module load cellranger-arc/2.0.2`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  

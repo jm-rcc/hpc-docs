@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load nss/.3.89.1-gcccore-12.3.0`**.  
   
 ### Toolchain  
-GCCcore (12.3.0)  
+GCCcore-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,8 +31,8 @@ None
   
   
 ## Dependencies  
-[NSPR 4.35  (GCCcore 12.3.0)](../hpc-docs/modules/nss-.3.89.1-gcccore-12.3.0.md)  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/nss-.3.89.1-gcccore-12.3.0.md)  
+[NSPR 4.35  (GCCcore-12.3.0)](nspr-.4.35-gcccore-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for NSS 3.89.1 .  

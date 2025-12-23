@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load openmpi/4.1.5-gcc-12.3.0`**.  
   
 ### Toolchain  
-GCC (12.3.0)  
+GCC-12.3.0  
   
 ### Toolchain Options  
 None  
@@ -31,13 +31,13 @@ None
   
   
 ## Dependencies  
-[zlib 1.2.13  (GCCcore 12.3.0)](../hpc-docs/modules/openmpi-4.1.5-gcc-12.3.0.md)  
-[hwloc 2.9.1  (GCCcore 12.3.0)](../hpc-docs/modules/openmpi-4.1.5-gcc-12.3.0.md)  
-[libevent 2.1.12  (GCCcore 12.3.0)](../hpc-docs/modules/openmpi-4.1.5-gcc-12.3.0.md)  
-[UCX 1.16.0  (GCCcore 12.3.0)](../hpc-docs/modules/openmpi-4.1.5-gcc-12.3.0.md)  
-[libfabric 1.18.0  (GCCcore 12.3.0)](../hpc-docs/modules/openmpi-4.1.5-gcc-12.3.0.md)  
-[PMIx 4.2.4  (GCCcore 12.3.0)](../hpc-docs/modules/openmpi-4.1.5-gcc-12.3.0.md)  
-[UCC 1.3.0  (GCCcore 12.3.0)](../hpc-docs/modules/openmpi-4.1.5-gcc-12.3.0.md)  
+[zlib 1.2.13  (GCCcore-12.3.0)](zlib-.1.2.13-gcccore-12.3.0.md)  
+[hwloc 2.9.1  (GCCcore-12.3.0)](hwloc-.2.9.1-gcccore-12.3.0.md)  
+[libevent 2.1.12  (GCCcore-12.3.0)](libevent-.2.1.12-gcccore-12.3.0.md)  
+[UCX 1.16.0  (GCCcore-12.3.0)](ucx-.1.16.0-gcccore-12.3.0.md)  
+[libfabric 1.18.0  (GCCcore-12.3.0)](libfabric-.1.18.0-gcccore-12.3.0.md)  
+[PMIx 4.2.4  (GCCcore-12.3.0)](pmix-.4.2.4-gcccore-12.3.0.md)  
+[UCC 1.3.0  (GCCcore-12.3.0)](ucc-1.3.0-gcccore-12.3.0.md)  
   
 ## Homepage  
 The homepage for OpenMPI 4.1.5 .  

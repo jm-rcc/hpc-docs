@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gffcompare/0.12.2-gcc-10.3.0`**.  
   
 ### Toolchain  
-GCC (10.3.0)  
+GCC-10.3.0  
   
 ### Toolchain Options  
 {'pic': True}  

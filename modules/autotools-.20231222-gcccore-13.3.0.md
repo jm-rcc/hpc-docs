@@ -13,7 +13,7 @@ To use the module on Bunya, load it with the command
   **`module load autotools/.20231222-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 None  
@@ -34,9 +34,9 @@ None
   
   
 ## Dependencies  
-[Autoconf 2.72  (GCCcore 13.3.0)](../hpc-docs/modules/autotools-.20231222-gcccore-13.3.0.md)  
-[Automake 1.16.5  (GCCcore 13.3.0)](../hpc-docs/modules/autotools-.20231222-gcccore-13.3.0.md)  
-[libtool 2.4.7  (GCCcore 13.3.0)](../hpc-docs/modules/autotools-.20231222-gcccore-13.3.0.md)  
+[Autoconf 2.72  (GCCcore-13.3.0)](autoconf-.2.72-gcccore-13.3.0.md)  
+[Automake 1.16.5  (GCCcore-13.3.0)](automake-.1.16.5-gcccore-13.3.0.md)  
+[libtool 2.4.7  (GCCcore-13.3.0)](libtool-.2.4.7-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for Autotools 20231222 .  

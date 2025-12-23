@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load gcc/13.3.0`**.  
   
 ### Toolchain  
-system (system)  
+system-system  
   
 ### Toolchain Options  
 None  
@@ -32,8 +32,8 @@ None
   
   
 ## Dependencies  
-[GCCcore 13.3.0  (system system)](../hpc-docs/modules/gcc-13.3.0.md)  
-[binutils 2.42  (GCCcore 13.3.0)](../hpc-docs/modules/gcc-13.3.0.md)  
+[GCCcore 13.3.0  (system-system)](gcccore-.13.3.0.md)  
+[binutils 2.42  (GCCcore-13.3.0)](binutils-.2.42-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for GCC 13.3.0 .  

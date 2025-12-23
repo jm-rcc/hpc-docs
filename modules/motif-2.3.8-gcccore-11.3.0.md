@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load motif/2.3.8-gcccore-11.3.0`**.  
   
 ### Toolchain  
-GCCcore (11.3.0)  
+GCCcore-11.3.0  
   
 ### Toolchain Options  
 None  
@@ -33,11 +33,11 @@ None
   
   
 ## Dependencies  
-[X11 20220504  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
-[libpng 1.6.37  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
-[freetype 2.12.1  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
-[libjpeg-turbo 2.1.3  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
-[bzip2 1.0.8  (GCCcore 11.3.0)](../hpc-docs/modules/motif-2.3.8-gcccore-11.3.0.md)  
+[X11 20220504  (GCCcore-11.3.0)](x11-.20220504-gcccore-11.3.0.md)  
+[libpng 1.6.37  (GCCcore-11.3.0)](libpng-.1.6.37-gcccore-11.3.0.md)  
+[freetype 2.12.1  (GCCcore-11.3.0)](freetype-.2.12.1-gcccore-11.3.0.md)  
+[libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-.2.1.3-gcccore-11.3.0.md)  
+[bzip2 1.0.8  (GCCcore-11.3.0)](bzip2-.1.0.8-gcccore-11.3.0.md)  
   
 ## Homepage  
 The homepage for motif 2.3.8 .  

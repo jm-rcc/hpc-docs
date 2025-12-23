@@ -11,7 +11,7 @@ To use the module on Bunya, load it with the command
   **`module load ncbi-vdb/2.10.9-gompi-2021a`**.  
   
 ### Toolchain  
-gompi (2021a)  
+gompi-2021a  
   
 ### Toolchain Options  
 None  
@@ -32,11 +32,11 @@ None
   
   
 ## Dependencies  
-[NGS 2.10.9  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
-[file 5.40  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
-[HDF5 1.10.7  (gompi 2021a)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
-[libxml2 2.9.10  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/ncbi-vdb-2.10.9-gompi-2021a.md)  
+[NGS 2.10.9  (GCCcore-10.3.0)](ngs-2.10.9-gcccore-10.3.0.md)  
+[file 5.40  (GCCcore-10.3.0)](file-5.40-gcccore-10.3.0.md)  
+[HDF5 1.10.7  (gompi-2021a)](hdf5-1.10.7-gompi-2021a.md)  
+[libxml2 2.9.10  (GCCcore-10.3.0)](libxml2-.2.9.10-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for ncbi-vdb 2.10.9 .  

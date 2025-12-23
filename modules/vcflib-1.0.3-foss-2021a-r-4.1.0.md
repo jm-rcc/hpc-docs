@@ -12,7 +12,7 @@ To use the module on Bunya, load it with the command
   **`module load vcflib/1.0.3-foss-2021a-r-4.1.0`**.  
   
 ### Toolchain  
-foss (2021a)  
+foss-2021a  
   
 ### Toolchain Options  
 None  
@@ -31,20 +31,20 @@ None
   
   
 ## Dependencies  
-[Python 3.9.5  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[Perl 5.32.1  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[R 4.1.0  (foss 2021a)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[XZ 5.2.5  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[zlib 1.2.11  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[bzip2 1.0.8  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[HTSlib 1.12  (GCC 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[tabixpp 1.1.0  (GCC 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[intervaltree 0.1  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[fastahack 1.0.0  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[filevercmp 20191210  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[fsom 20141119  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[multichoose 1.0.3  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
-[smithwaterman 20160702  (GCCcore 10.3.0)](../hpc-docs/modules/vcflib-1.0.3-foss-2021a-r-4.1.0.md)  
+[Python 3.9.5  (GCCcore-10.3.0)](python-3.9.5-gcccore-10.3.0.md)  
+[Perl 5.32.1  (GCCcore-10.3.0)](perl-5.32.1-gcccore-10.3.0.md)  
+[R 4.1.0  (foss-2021a)](r-4.1.0-foss-2021a.md)  
+[XZ 5.2.5  (GCCcore-10.3.0)](xz-.5.2.5-gcccore-10.3.0.md)  
+[zlib 1.2.11  (GCCcore-10.3.0)](zlib-.1.2.11-gcccore-10.3.0.md)  
+[bzip2 1.0.8  (GCCcore-10.3.0)](bzip2-.1.0.8-gcccore-10.3.0.md)  
+[HTSlib 1.12  (GCC-10.3.0)](htslib-1.12-gcc-10.3.0.md)  
+[tabixpp 1.1.0  (GCC-10.3.0)](tabixpp-1.1.0-gcc-10.3.0.md)  
+[intervaltree 0.1  (GCCcore-10.3.0)](intervaltree-0.1-gcccore-10.3.0.md)  
+[fastahack 1.0.0  (GCCcore-10.3.0)](fastahack-1.0.0-gcccore-10.3.0.md)  
+[filevercmp 20191210  (GCCcore-10.3.0)](filevercmp-20191210-gcccore-10.3.0.md)  
+[fsom 20141119  (GCCcore-10.3.0)](fsom-20141119-gcccore-10.3.0.md)  
+[multichoose 1.0.3  (GCCcore-10.3.0)](multichoose-1.0.3-gcccore-10.3.0.md)  
+[smithwaterman 20160702  (GCCcore-10.3.0)](smithwaterman-20160702-gcccore-10.3.0.md)  
   
 ## Homepage  
 The homepage for vcflib 1.0.3 -R-4.1.0.  

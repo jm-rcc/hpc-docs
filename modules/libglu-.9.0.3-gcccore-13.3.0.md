@@ -10,7 +10,7 @@ To use the module on Bunya, load it with the command
   **`module load libglu/.9.0.3-gcccore-13.3.0`**.  
   
 ### Toolchain  
-GCCcore (13.3.0)  
+GCCcore-13.3.0  
   
 ### Toolchain Options  
 {'pic': True}  
@@ -28,7 +28,7 @@ GCCcore (13.3.0)
   
   
 ## Dependencies  
-[Mesa 24.1.3  (GCCcore 13.3.0)](../hpc-docs/modules/libglu-.9.0.3-gcccore-13.3.0.md)  
+[Mesa 24.1.3  (GCCcore-13.3.0)](mesa-.24.1.3-gcccore-13.3.0.md)  
   
 ## Homepage  
 The homepage for libGLU 9.0.3 .  
