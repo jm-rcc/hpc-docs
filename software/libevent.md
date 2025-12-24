@@ -2,8 +2,8 @@
 # libevent  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
 ## Homepage  
-[https://libevent.org](https://libevent.org)  
 [https://libevent.org/](https://libevent.org/)  
+[https://libevent.org](https://libevent.org)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 
