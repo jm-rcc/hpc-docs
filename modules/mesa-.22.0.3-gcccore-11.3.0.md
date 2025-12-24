@@ -48,6 +48,8 @@ Mesa depends on the following modules, and they will be loaded automatically wit
 The following modules will load Mesa as dependency.  
   
 [Ansys-dependencies 2023  (GCC-11.3.0)](ansys-dependencies-2023-gcc-11.3.0.md)  
+[CGAL 4.14.3  (gompi-2022a)](cgal-4.14.3-gompi-2022a.md)  
+[ParaView 5.10.1 -mpi (foss-2022a)](paraview-5.10.1-foss-2022a-mpi.md)  
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
 [VirtualGL 3.1  (GCC-11.3.0)](virtualgl-3.1-gcc-11.3.0.md)  
 [Xvfb 21.1.3  (GCCcore-11.3.0)](xvfb-21.1.3-gcccore-11.3.0.md)  

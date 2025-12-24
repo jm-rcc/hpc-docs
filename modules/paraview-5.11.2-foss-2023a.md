@@ -42,3 +42,7 @@ ParaView depends on the following modules, and they will be loaded automatically
 [Szip 2.1.1  (GCCcore-12.3.0)](szip-.2.1.1-gcccore-12.3.0.md)  
   
   
+## Other available modules  
+These other versions of ParaView are available on Bunya.  
+paraview/5.11.2-foss-2023a  
+[paraview/5.10.1-foss-2022a-mpi](../modules/paraview-5.10.1-foss-2022a-mpi.md)  

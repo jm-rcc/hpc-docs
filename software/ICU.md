@@ -2,8 +2,8 @@
 # ICU  
 ![Static Badge](https://img.shields.io/badge/class-lib-D7D1CC)  
 ## Homepage  
-[https://icu.unicode.org](https://icu.unicode.org)  
 [https://icu-project.org/](https://icu-project.org/)  
+[https://icu.unicode.org](https://icu.unicode.org)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

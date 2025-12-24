@@ -38,6 +38,7 @@ GCCcore-11.3.0
 ## Loaded by  
 The following modules will load NASM as dependency.  
   
+[FFmpeg 4.4.2  (GCCcore-11.3.0)](ffmpeg-4.4.2-gcccore-11.3.0.md)  
 [ISA-L 2.30.0  (GCCcore-11.3.0)](isa-l-2.30.0-gcccore-11.3.0.md)  
 [libjpeg-turbo 2.1.3  (GCCcore-11.3.0)](libjpeg-turbo-2.1.3-gcccore-11.3.0.md)  
   

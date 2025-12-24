@@ -44,6 +44,7 @@ pic: True
 ## Loaded by  
 The following modules will load METIS as dependency.  
   
+[OpenFOAM 11  (foss-2022a)](openfoam-11-foss-2022a.md)  
 [SuiteSparse 5.13.0 -METIS-5.1.0 (foss-2022a)](suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
   
 ## Other available modules  

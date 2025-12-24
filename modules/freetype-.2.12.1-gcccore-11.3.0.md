@@ -50,6 +50,7 @@ freetype depends on the following modules, and they will be loaded automatically
 The following modules will load freetype as dependency.  
   
 [BLAT 3.7  (GCC-11.3.0)](blat-3.7-gcc-11.3.0.md)  
+[FFmpeg 4.4.2  (GCCcore-11.3.0)](ffmpeg-4.4.2-gcccore-11.3.0.md)  
 [Ghostscript 9.56.1  (GCCcore-11.3.0)](ghostscript-9.56.1-gcccore-11.3.0.md)  
 [HarfBuzz 4.2.1  (GCCcore-11.3.0)](harfbuzz-4.2.1-gcccore-11.3.0.md)  
 [Pillow 9.1.1  (GCCcore-11.3.0)](pillow-9.1.1-gcccore-11.3.0.md)  

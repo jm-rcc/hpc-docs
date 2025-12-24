@@ -43,6 +43,7 @@ pic: True
 The following modules will load GMP as dependency.  
   
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
+[CGAL 4.14.3  (gompi-2022a)](cgal-4.14.3-gompi-2022a.md)  
 [Clang 13.0.1  (GCCcore-11.3.0)](clang-13.0.1-gcccore-11.3.0.md)  
 [Clang 15.0.5  (GCCcore-11.3.0)](clang-15.0.5-gcccore-11.3.0.md)  
 [GLPK 5.0  (GCCcore-11.3.0)](glpk-5.0-gcccore-11.3.0.md)  

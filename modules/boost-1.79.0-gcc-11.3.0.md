@@ -47,6 +47,7 @@ The following modules will load Boost as dependency.
 [AUGUSTUS 3.5.0  (foss-2022a)](augustus-3.5.0-foss-2022a.md)  
 [BLAST+ 2.13.0  (gompi-2022a)](blast+-2.13.0-gompi-2022a.md)  
 [Boost.Python 1.79.0  (GCC-11.3.0)](boost.python-1.79.0-gcc-11.3.0.md)  
+[CGAL 4.14.3  (gompi-2022a)](cgal-4.14.3-gompi-2022a.md)  
 [CoordgenLibs 3.0.1  (gompi-2022a)](coordgenlibs-3.0.1-gompi-2022a.md)  
 [GCTA 1.94.0beta  (gfbf-2022a)](gcta-1.94.0beta-gfbf-2022a.md)  
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  

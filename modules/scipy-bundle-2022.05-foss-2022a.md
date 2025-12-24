@@ -48,6 +48,7 @@ The following modules will load SciPy-bundle as dependency.
 [GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
 [HTSeq 2.0.2  (foss-2022a)](htseq-2.0.2-foss-2022a.md)  
 [PLUMED 2.8.1  (foss-2022a)](plumed-2.8.1-foss-2022a.md)  
+[ParaView 5.10.1 -mpi (foss-2022a)](paraview-5.10.1-foss-2022a-mpi.md)  
 [deepTools 3.5.2  (foss-2022a)](deeptools-3.5.2-foss-2022a.md)  
 [humann 3.6  (foss-2022a)](humann-3.6-foss-2022a.md)  
 [matplotlib 3.5.2  (foss-2022a)](matplotlib-3.5.2-foss-2022a.md)  

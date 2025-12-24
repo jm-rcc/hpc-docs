@@ -40,6 +40,7 @@ LAME depends on the following modules, and they will be loaded automatically wit
 ## Loaded by  
 The following modules will load LAME as dependency.  
   
+[FFmpeg 4.4.2  (GCCcore-11.3.0)](ffmpeg-4.4.2-gcccore-11.3.0.md)  
 [libsndfile 1.1.0  (GCCcore-11.3.0)](libsndfile-1.1.0-gcccore-11.3.0.md)  
   
 ## Other available modules  

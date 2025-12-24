@@ -31,6 +31,7 @@ system-system
 - epyc4  
 - xeonsp4 h100  
 - xeonsp4  
+- noarch  
   
   
 ## Dependencies  

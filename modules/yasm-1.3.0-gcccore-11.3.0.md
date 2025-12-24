@@ -20,6 +20,7 @@ GCCcore-11.3.0
 (none)  
 ## Available on architecture types  
 - epyc3 h100  
+- noarch  
   
   
 ## Dependencies  

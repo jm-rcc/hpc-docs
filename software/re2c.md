@@ -2,8 +2,8 @@
 # re2c  
 ![Static Badge](https://img.shields.io/badge/class-tools-D7D1CC)  
 ## Homepage  
-[https://re2c.org/](https://re2c.org/)  
 [https://re2c.org](https://re2c.org)  
+[https://re2c.org/](https://re2c.org/)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 

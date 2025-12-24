@@ -45,6 +45,7 @@ The following modules will load XZ as dependency.
 [LibTIFF 4.3.0  (GCCcore-11.3.0)](libtiff-4.3.0-gcccore-11.3.0.md)  
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
 [PROJ 9.0.0  (GCCcore-11.3.0)](proj-9.0.0-gcccore-11.3.0.md)  
+[ParaView 5.10.1 -mpi (foss-2022a)](paraview-5.10.1-foss-2022a-mpi.md)  
 [Pysam 0.19.1  (GCC-11.3.0)](pysam-0.19.1-gcc-11.3.0.md)  
 [Python 3.10.4  (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0.md)  
 [Python 3.10.4 -bare (GCCcore-11.3.0)](python-3.10.4-gcccore-11.3.0-bare.md)  

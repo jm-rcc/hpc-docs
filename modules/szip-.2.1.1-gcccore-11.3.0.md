@@ -42,6 +42,7 @@ The following modules will load Szip as dependency.
   
 [HDF 4.2.15  (GCCcore-11.3.0)](hdf-4.2.15-gcccore-11.3.0.md)  
 [HDF5 1.12.2  (gompi-2022a)](hdf5-1.12.2-gompi-2022a.md)  
+[ParaView 5.10.1 -mpi (foss-2022a)](paraview-5.10.1-foss-2022a-mpi.md)  
 [netCDF 4.9.0  (gompi-2022a)](netcdf-4.9.0-gompi-2022a.md)  
   
 ## Other available modules  

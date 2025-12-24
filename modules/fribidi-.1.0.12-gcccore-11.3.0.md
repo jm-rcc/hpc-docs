@@ -40,6 +40,7 @@ GCCcore-11.3.0
 ## Loaded by  
 The following modules will load FriBidi as dependency.  
   
+[FFmpeg 4.4.2  (GCCcore-11.3.0)](ffmpeg-4.4.2-gcccore-11.3.0.md)  
 [GTK3 3.24.33  (GCCcore-11.3.0)](gtk3-3.24.33-gcccore-11.3.0.md)  
 [ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  
 [Pango 1.50.7  (GCCcore-11.3.0)](pango-1.50.7-gcccore-11.3.0.md)  

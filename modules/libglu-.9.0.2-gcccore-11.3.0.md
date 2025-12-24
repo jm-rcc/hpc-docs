@@ -40,6 +40,8 @@ libGLU depends on the following modules, and they will be loaded automatically w
 ## Loaded by  
 The following modules will load libGLU as dependency.  
   
+[CGAL 4.14.3  (gompi-2022a)](cgal-4.14.3-gompi-2022a.md)  
+[ParaView 5.10.1 -mpi (foss-2022a)](paraview-5.10.1-foss-2022a-mpi.md)  
 [Qt5 5.15.5  (GCCcore-11.3.0)](qt5-5.15.5-gcccore-11.3.0.md)  
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
 [VirtualGL 3.1  (GCC-11.3.0)](virtualgl-3.1-gcc-11.3.0.md)  

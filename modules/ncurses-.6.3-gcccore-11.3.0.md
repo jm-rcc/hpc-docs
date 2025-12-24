@@ -51,6 +51,7 @@ The following modules will load ncurses as dependency.
 [LLVM 14.0.3  (GCCcore-11.3.0)](llvm-14.0.3-gcccore-11.3.0.md)  
 [Lua 5.4.4  (GCCcore-11.3.0)](lua-5.4.4-gcccore-11.3.0.md)  
 [MariaDB 10.9.3  (GCC-11.3.0)](mariadb-10.9.3-gcc-11.3.0.md)  
+[OpenFOAM 11  (foss-2022a)](openfoam-11-foss-2022a.md)  
 [Perl 5.34.1  (GCCcore-11.3.0)](perl-5.34.1-gcccore-11.3.0.md)  
 [Pysam 0.19.1  (GCC-11.3.0)](pysam-0.19.1-gcc-11.3.0.md)  
 [Python 2.7.18 -bare (GCCcore-11.3.0)](python-2.7.18-gcccore-11.3.0-bare.md)  

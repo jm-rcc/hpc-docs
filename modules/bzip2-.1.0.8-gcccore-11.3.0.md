@@ -49,6 +49,7 @@ The following modules will load bzip2 as dependency.
 [Boost 1.79.0  (GCC-11.3.0)](boost-1.79.0-gcc-11.3.0.md)  
 [CMake 3.23.1  (GCCcore-11.3.0)](cmake-3.23.1-gcccore-11.3.0.md)  
 [CMake 3.24.3  (GCCcore-11.3.0)](cmake-3.24.3-gcccore-11.3.0.md)  
+[FFmpeg 4.4.2  (GCCcore-11.3.0)](ffmpeg-4.4.2-gcccore-11.3.0.md)  
 [GMAP-GSNAP 2023-02-17  (GCC-11.3.0)](gmap-gsnap-2023-02-17-gcc-11.3.0.md)  
 [HTSlib 1.15.1  (GCC-11.3.0)](htslib-1.15.1-gcc-11.3.0.md)  
 [ImageMagick 7.1.0-37  (GCCcore-11.3.0)](imagemagick-7.1.0-37-gcccore-11.3.0.md)  

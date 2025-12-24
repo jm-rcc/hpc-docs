@@ -50,6 +50,7 @@ gnuplot depends on the following modules, and they will be loaded automatically 
 The following modules will load gnuplot as dependency.  
   
 [MUMmer 4.0.0rc1  (GCCcore-11.3.0)](mummer-4.0.0rc1-gcccore-11.3.0.md)  
+[OpenFOAM 11  (foss-2022a)](openfoam-11-foss-2022a.md)  
 [canu 2.2  (GCCcore-11.3.0)](canu-2.2-gcccore-11.3.0.md)  
   
 ## Other available modules  

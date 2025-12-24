@@ -49,6 +49,7 @@ netCDF depends on the following modules, and they will be loaded automatically w
 The following modules will load netCDF as dependency.  
   
 [GDAL 3.5.0  (foss-2022a)](gdal-3.5.0-foss-2022a.md)  
+[ParaView 5.10.1 -mpi (foss-2022a)](paraview-5.10.1-foss-2022a-mpi.md)  
   
 ## Other available modules  
 These other versions of netCDF are available on Bunya.  

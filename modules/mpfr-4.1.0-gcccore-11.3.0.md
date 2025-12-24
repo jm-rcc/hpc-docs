@@ -43,6 +43,7 @@ MPFR depends on the following modules, and they will be loaded automatically wit
 ## Loaded by  
 The following modules will load MPFR as dependency.  
   
+[CGAL 4.14.3  (gompi-2022a)](cgal-4.14.3-gompi-2022a.md)  
 [R 4.2.1  (foss-2022a)](r-4.2.1-foss-2022a.md)  
 [SuiteSparse 5.13.0 -METIS-5.1.0 (foss-2022a)](suitesparse-5.13.0-foss-2022a-metis-5.1.0.md)  
   
