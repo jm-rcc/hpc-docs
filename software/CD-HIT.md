@@ -2,8 +2,8 @@
 # CD-HIT  
 ![Static Badge](https://img.shields.io/badge/class-bio-D7D1CC)  
 ## Homepage  
-[https://github.com/weizhongli/cdhit/wiki](https://github.com/weizhongli/cdhit/wiki)  
 [http://weizhongli-lab.org/cd-hit/](http://weizhongli-lab.org/cd-hit/)  
+[https://github.com/weizhongli/cdhit/wiki](https://github.com/weizhongli/cdhit/wiki)  
 ## Installed versions  
   
 | Version | Toolchain | Module | Architecture 
